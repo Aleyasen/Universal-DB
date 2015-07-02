@@ -1,0 +1,79 @@
+body {
+    padding-top: 60px;
+    background-color: #fcfcff;
+}
+
+.container-fluid {
+    margin-right: 60px;
+}
+
+.highlight {
+    padding: 1px 1px;
+    margin-bottom: 5px;
+    background-color: #f7f7f9;
+    border: 1px solid #e1e1e8;
+    border-radius: 4px;
+}
+
+
+
+.highlight-white {
+    margin: 7px;
+    padding: 9px 14px;
+    margin-bottom: 14px;
+    background-color: white;
+    border: 1px solid #e1e1e8;
+    border-radius: 4px;
+}
+
+
+.node {
+    stroke: #fff;
+    stroke-width: 1.5px;
+}
+
+.link {
+    stroke: #999;
+    stroke-opacity: .6;
+}
+
+
+.node.fixed {
+    fill: #f00;
+}
+
+.node text {
+    pointer-events: none;
+    font: 10px sans-serif;
+    color: black;
+}
+
+
+.inner-container {
+    margin-right: 7px;
+}
+
+.btn-file {
+    position: relative;
+    overflow: hidden;
+}
+.btn-file input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 100px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    outline: none;
+    background: white;
+    cursor: inherit;
+    display: block;
+}
+
+.vertical-text {
+    transform: rotate(90deg);
+    transform-origin: left top 0;
+}

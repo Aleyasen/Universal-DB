@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "Courses",
+        "path": "data/uw-courses/data.json"
+    },
+    {
+        "id": 2,
+        "name": "Sample Graph",
+        "path": "data/samplegraph/data.json"
+    }
+
+
+]
