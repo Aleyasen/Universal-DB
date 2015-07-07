@@ -19,12 +19,16 @@
         <!--<script src="js/js.cookie.js"></script>-->
         <!--<script src="//cdnjs.cloudflare.com/ajax/libs/jquery.isotope/2.2.0/isotope.pkgd.min.js"></script>-->
 
+        <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+        <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 
         <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
 
         <script src="graph.js" type="text/javascript"></script>
         <script src="trans_graph.js" type="text/javascript"></script>
-
+        <script src="ranking.js" type="text/javascript"></script>
+        <script src="search.js" type="text/javascript"></script>
+        
     </head>
 
     <body>

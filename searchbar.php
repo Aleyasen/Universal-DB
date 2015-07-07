@@ -1,10 +1,10 @@
 <nav class="navbar">
     <div>
         <center>
-            <form class="navbar-form">
-                <input type="text" size="100" class="form-control" placeholder="Search...">
-                   <button id="search-button" class="btn btn-info">Search</button>
-            </form>
+            <div class="navbar-form">
+                <input type="text" id="search-box" size="100" class="form-control" placeholder="Search...">
+                <button id="search-button" class="btn btn-info">Search</button>
+            </div>
         </center>
         <hr>
     </div>
