@@ -40,6 +40,15 @@ $(document).ready(function() {
     });
 
     $('#search-button').click(function() {
+        doIt();
+    });
+
+    $(document).on('change', '#topk input:radio', function(event) {
+//        alert($(this).val());
+//        doIt($(this).val());
+    });
+
+    function doIt() {
         var q = $('#search-box').val();
 //        alert(q);
         var q_index = 0;
@@ -49,8 +58,8 @@ $(document).ready(function() {
                 break;
             }
         }
-        generateAllLists(i);
-
-    });
-
+        var tk = $('#topk label.active input').val();
+//        alert(tk);
+        generateAllLists(q_index, tk);
+    }
 });

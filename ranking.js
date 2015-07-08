@@ -5,13 +5,18 @@ var rect_width = 120;
 var rect_height = 30;
 var truncate_limit = 20;
 
-function generateAllLists(query) {
+function generateAllLists(query, tk) {
+    top_k = tk;
 //        var query = "5";
     var root_dir = "data\\ranking\\top2000_q100_movie_imdb_to_freebase_results";
+//    var root_dir = "data\\ranking\\dblp_c50_top2000";
+
     var src_file1 = root_dir + "\\source\\rwr\\answer.query" + query + ".txt";
     var target_file1 = root_dir + "\\target\\rwr\\answer.query" + query + ".txt";
     var src_file2 = root_dir + "\\source\\simrank\\answer.query" + query + ".txt";
     var target_file2 = root_dir + "\\target\\simrank\\answer.query" + query + ".txt";
+    var src_file3 = root_dir + "\\source\\pathsim\\answer.query" + query + ".txt";
+    var target_file3 = root_dir + "\\target\\pathsim\\answer.query" + query + ".txt";
 
     generateList("#ranking1", src_file1, target_file1);
     generateList("#ranking2", src_file2, target_file2);
@@ -23,7 +28,7 @@ function generateList(selector, src_query_file, target_query_file) {
     d3.select(selector).selectAll("*").remove();
     var svgContainer = d3.select(selector).append("svg")
             .attr("width", 300)
-            .attr("height", 350);
+            .attr("height", top_k * 35);
 
     readFile(src_query_file, function(src_list) {
         readFile(target_query_file, function(target_list) {
