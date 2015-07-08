@@ -1,63 +1,61 @@
+
+
 <?php
 
+/**
+ * @author Amirhossein Aleyasen <aleyase2@illinois.edu>
+ */
 $dir = 'data/uw-courses_small';
-//$files = scandir($dir);
-
-//Course
-//main_courses_uw_target_new_schema_rwr.m
-$files = array("course.txt", "inst.txt", "offer.txt", "subject.txt",
-    "course_offer.txt", "course_subject.txt", "offer_inst.txt");
-
-//main_courses_uw_src_new_schema_rwr.m
-//$files = array("course.txt", "inst.txt", "offer.txt", "subject.txt",
-//    "course_offer.txt", "offer_subject.txt", "offer_inst.txt");
+$node_files = array("course.txt", "inst.txt", "offer.txt", "subject.txt");
+$edge_files = array("course_offer.txt", "course_subject.txt", "offer_inst.txt");
 
 
-// Moive
-//new_main_q100_movie_imdb_to_niagra_2_source_wo_dirby_sr.m
-//$files = array("movie.txt", "actor.txt", "character.txt", "director.txt",
-//    "actor_character.txt", "movie_character.txt", "movie_actor.txt", "movie_director.txt");
+generateGraph($dir, $node_files, $edge_files);
 
-//new_main_q100_movie_imdb_to_niagra_2_target_wo_dirby_sr.m
-//$files = array("movie.txt", "actor.txt", "character.txt", "director.txt", "cast.txt",
-//    "actor_cast.txt", "movie_cast.txt", "actor_character.txt", "character_cast.txt", "movie_director");
-
-
-
-$json = generateJSONfromGraph($dir, $files);
-echo "<PRE>";
-echo $json;
-echo "</PRE>";
-saveJsonToFile($json, $dir . "/target.json");
-
-//print_r($files);
+function generateGraph($dir, $node_files, $edge_files) {
+    $json = generateJSONfromGraph($dir, $node_files, $edge_files);
+    //echo "<PRE>";
+    //echo $json;
+    //echo "</PRE>";
+    $output_file = $dir . "/target3.json";
+    saveJsonToFile($json, $output_file);
+    echo "Done! Save json data on " . $output_file . "</br>";
+}
 
 function saveJsonToFile($json, $file) {
     file_put_contents($file, $json);
 }
 
-function generateJSONfromGraph($dir, $files) {
+function generateJSONfromGraph($dir, $node_files, $edge_files) {
     $nodesArr = array();
     $edgesArr = array();
     $group = 1;
 
-    for ($i = 0; $i < count($files); $i++) {
-        if ($files[$i] == "." || $files[$i] == "..") {
+    for ($i = 0; $i < count($node_files); $i++) {
+        if ($node_files[$i] == "." || $node_files[$i] == "..") {
             continue;
         }
-        $dotIndex = strpos($files[$i], ".");
-        if (strpos($files[$i], '_') !== false) {
-            $underlineIndex = strpos($files[$i], "_");
-            $type1 = substr($files[$i], 0, $underlineIndex);
-            $type2 = substr($files[$i], $underlineIndex + 1, $dotIndex - $underlineIndex - 1);
-            echo "Type1 = " . $type1 . "<br>";
-            echo"Type2 = " . $type2 . "<br>";
-            parse_edge_file($edgesArr, $dir . '/' . $files[$i], $type1, $type2);
+        $dotIndex = strpos($node_files[$i], ".");
+        $type = substr($node_files[$i], 0, $dotIndex);
+        echo "Import node file " . $node_files[$i] . " , type = " . $type . "</br>";
+        parse_node_file($nodesArr, $dir . '/' . $node_files[$i], $type, $group);
+        $group++;
+    }
+
+
+    for ($i = 0; $i < count($edge_files); $i++) {
+        if ($edge_files[$i] == "." || $edge_files[$i] == "..") {
+            continue;
+        }
+        $dotIndex = strpos($edge_files[$i], ".");
+        if (strpos($edge_files[$i], '_') !== false) {
+            $underlineIndex = strpos($edge_files[$i], "_");
+            $type1 = substr($edge_files[$i], 0, $underlineIndex);
+            $type2 = substr($edge_files[$i], $underlineIndex + 1, $dotIndex - $underlineIndex - 1);
+            echo "Import edge file " . $node_files[$i] . " , type1 = " . $type1 . " , type2 = " . $type2 . "</br>";
+            parse_edge_file($edgesArr, $dir . '/' . $edge_files[$i], $type1, $type2);
         } else {
-            $type = substr($files[$i], 0, $dotIndex);
-            echo "Node Type = " . $type . "<br>";
-            parse_node_file($nodesArr, $dir . '/' . $files[$i], $type, $group);
-            $group++;
+            echo "file format is not correct. filename = " . $edge_files[$i] . "</br>";
         }
     }
     $result = array();
@@ -89,7 +87,7 @@ function getGlobalId($type, $id) {
     if (isset($ids[$uniqueStr])) {
         return $ids[$uniqueStr];
     } else {
-        echo "error. No global Id for " . $type . " and " . $id . "<br>";
+        echo "error. No global Id for ( type = " . $type . " , id = " . $id . " ) <br>";
         return -1;
     }
 }
@@ -150,5 +148,4 @@ function parse_node_file(&$nodeArr, $file, $type, $group) {
 function getGroup($type, $others) {
     
 }
-
 ?>
