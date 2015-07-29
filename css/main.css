@@ -4,9 +4,13 @@ body {
 }
 
 .container-fluid {
-    margin-right: 60px;
+    /*margin-right: 60px;*/
+    /*padding: 0px;*/
 }
 
+.u-navbar {
+    margin-bottom: -10px;
+}
 .highlight {
     padding: 1px 1px;
     margin-bottom: 5px;
@@ -76,4 +80,18 @@ body {
 .vertical-text {
     transform: rotate(90deg);
     transform-origin: left top 0;
+}
+
+.panel-heading {
+    height: 130px;
+    /*position: absolute;*/
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+}
+
+.active-menu {
+    background-color: #e1e1e8;
 }

@@ -1,3 +1,19 @@
+$(function() {
+    var dialog;
+
+    dialog = $("#dialog").dialog({
+        autoOpen: false,
+        height: 450,
+        width: 1200,
+        modal: true
+    });
+
+    $("#hi").on("click", function() {
+        console.log("open it!");
+        dialog.dialog("open");
+    });
+
+});
 
 //$(document).ready(function() {
 var top_k = 10;
@@ -82,6 +98,7 @@ function createList(svg, x_init, y_init, count, labels) {
                 .attr("fill", "white")
                 .attr("stroke", "black")
                 .attr("stroke-width", 1);
+
         rects[i] = rectangle;
 //            console.log(labels[i]);
         var lb = labels[i];
@@ -95,6 +112,25 @@ function createList(svg, x_init, y_init, count, labels) {
                 .attr("font-family", "sans-serif")
                 .attr("font-size", "11px")
                 .attr("fill", "black");
+        text.on("click", function() {
+            console.log("open it!!!");
+//                console.log($(this).attr("x"));
+            $("#dialog").dialog("open");
+            d3.event.stopPropagation();
+        });
+        rectangle.on("mouseover", function() {
+//            console.log("over");
+//            console.log($(this).attr("x"));
+            $(this).attr("fill", "#ADD8E6");
+//            d3.event.stopPropagation();
+        });
+
+        rectangle.on("mouseout", function() {
+//            console.log("over");
+//            console.log($(this).attr("x"));
+            $(this).attr("fill", "white");
+//            d3.event.stopPropagation();
+        });
     }
     return rects;
 }
@@ -134,6 +170,8 @@ function createLineTargetToEnd(svg, src, lastsrc) {
 //        console.log(line);
 }
 //});
+
+
 
 
 function readFile(file, callback) {

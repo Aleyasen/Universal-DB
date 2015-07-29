@@ -1,33 +1,34 @@
 
 $(document).ready(function() {
 
-    var availableTags = [
-        "ActionScript",
-        "AppleScript",
-        "Asp",
-        "BASIC",
-        "C",
-        "C++",
-        "Clojure",
-        "COBOL",
-        "ColdFusion",
-        "Erlang",
-        "Fortran",
-        "Groovy",
-        "Haskell",
-        "Java",
-        "JavaScript",
-        "Lisp",
-        "Perl",
-        "PHP",
-        "Python",
-        "Ruby",
-        "Scala",
-        "Scheme"
-    ];
+//    var availableTags = [
+//        "ActionScript",
+//        "AppleScript",
+//        "Asp",
+//        "BASIC",
+//        "C",
+//        "C++",
+//        "Clojure",
+//        "COBOL",
+//        "ColdFusion",
+//        "Erlang",
+//        "Fortran",
+//        "Groovy",
+//        "Haskell",
+//        "Java",
+//        "JavaScript",
+//        "Lisp",
+//        "Perl",
+//        "PHP",
+//        "Python",
+//        "Ruby",
+//        "Scala",
+//        "Scheme"
+//    ];
 
     var query_file = "data\\ranking\\top2000_q100_movie_imdb_to_freebase_results\\query.txt";
     var query_list;
+
     readFile(query_file, function(queries) {
         var words = [];
         query_list = queries;
@@ -37,18 +38,21 @@ $(document).ready(function() {
         $("#search-box").autocomplete({
             source: words
         });
+        $("#search-box").val("the replacements (2000)");
+        doIt();
     });
+
 
     $('#search-button').click(function() {
         doIt();
     });
 
     $(document).on('change', '#topk input:radio', function(event) {
-//        alert($(this).val());
-//        doIt($(this).val());
+        var k = ($(this).val());
+        doIt(k);
     });
 
-    function doIt() {
+    function doIt(k) {
         var q = $('#search-box').val();
 //        alert(q);
         var q_index = 0;
@@ -58,7 +62,12 @@ $(document).ready(function() {
                 break;
             }
         }
-        var tk = $('#topk label.active input').val();
+        var tk;
+        if (k === undefined) {
+            tk = $('#topk label.active input').val();
+        } else {
+            tk = k;
+        }
 //        alert(tk);
         generateAllLists(q_index, tk);
     }

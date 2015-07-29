@@ -1,19 +1,4 @@
 <div class="row">
-    <?php include 'searchbar.php'; ?>
-</div>
-<div class="row">
-    <!--    <div class="col-md-1">
-            <div class="row">
-                <div class="col-md-12 vertical-text highlight text-center">
-                    Source
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-12 vertical-text highlight text-center">
-                    Target
-                </div>
-            </div>
-        </div>-->
     <div class="col-md-3">
         <div class="row">
             <div class="inner-container">
@@ -21,12 +6,12 @@
                     RWR
                 </div>
                 <div class="col-md-12 highlight">
-                    <div id="rwr-src"></div>
+                    <div id="rwr-src-m"></div>
                 </div>
 
 
                 <div class="col-md-12 highlight">
-                    <div id="rwr-target"></div>
+                    <div id="rwr-target-m"></div>
                 </div>
             </div>
         </div>
@@ -40,12 +25,12 @@
                     SimRank
                 </div>
                 <div class="col-md-12 highlight">
-                    <div id="simrank-src"></div>
+                    <div id="simrank-src-m"></div>
                 </div>
 
 
                 <div class="col-md-12 highlight">
-                    <div id="simrank-target"></div>
+                    <div id="simrank-target-m"></div>
                 </div>
             </div>
         </div>
@@ -60,12 +45,12 @@
                     PathSim
                 </div>
                 <div class="col-md-12 highlight">
-                    <div id="rpathsim-src"></div>
+                    <div id="rpathsim-src-m"></div>
                 </div>
 
 
                 <div class="col-md-12 highlight">
-                    <div id="rpathsim-target"></div>
+                    <div id="rpathsim-target-m"></div>
                 </div>
             </div>
         </div>
@@ -81,16 +66,15 @@
                     Universal-DB
                 </div>
                 <div class="col-md-12 highlight">
-                    <div id="rpathsim2-src"></div>
+                    <div id="rpathsim2-src-m"></div>
                 </div>
 
 
                 <div class="col-md-12 highlight">
-                    <div id="rpathsim2-target"></div>
+                    <div id="rpathsim2-target-m"></div>
                 </div>
             </div>
         </div>
     </div>
-
 
 </div>

@@ -1,24 +1,60 @@
 
 $(document).ready(function() {
 
+    $(".datasetpicker").on('change', function() {
+//        var dt = $(this).val();
+        var selectedVal = $(this).select().val();
+        console.log(selectedVal);
+        inititialize(selectedVal);
+//        alert("change dataset to " + dt);
+    });
 
+    $("#compare-algs").mouseup(function() {
+        console.log("click btn1");
+        setTimeout(
+                function()
+                {
+                    generageAllGraphs();
+                }, 100);
+    });
+    function inititialize(dt) {
+//        console.log(dt);
+        $.getJSON("config/" + dt + ".json", function(data) {
+            var items = [];
+            console.log(data);
+            $("#source-label").text(data.source.name);
+            $("#target-label").text(data.target.name);
+            generageAllGraphs();
+//            $.each(data, function(key, val) {
+//                items.push("<li id='" + key + "'>" + val + "</li>");
+//            });
+        });
+    }
+
+    function generageAllGraphs() {
 //    var datafile = "data.json";
-    var datafile = "data/uw-courses/data.json";
+//    var datafile = "data/uw-courses/data.json";
+
+        var datafile = "data/uw-courses_small/source.json";
 //    var datafile =  "data/samplegraph/data.json";
 
-    generateGraph("#rwr-src", datafile);
-    generateGraph("#rwr-target", datafile);
+        generateGraph("#rwr-src", datafile);
+        generateGraph("#rwr-target", datafile);
 
-    generateGraph("#simrank-src", datafile);
-    generateGraph("#simrank-target", datafile);
+        generateGraph("#simrank-src", datafile);
+        generateGraph("#simrank-target", datafile);
 
-    generateGraph("#rpathsim-src", datafile);
-    generateGraph("#rpathsim-target", datafile);
-    
-    
-    generateGraph("#rpathsim2-src", datafile);
-    generateGraph("#rpathsim2-target", datafile);
+        generateGraph("#rpathsim-src", datafile);
+        generateGraph("#rpathsim-target", datafile);
+
+
+        generateGraph("#rpathsim2-src", datafile);
+        generateGraph("#rpathsim2-target", datafile);
+    }
+
     function generateGraph(container, inputdata) {
+        console.log("generate graph for " + container);
+        d3.select(container).html("");
         var width = $(container).width();
 //            height = $("#rwr-src").width();
         var height = 162;
@@ -80,5 +116,6 @@ $(document).ready(function() {
                         });
             });
         });
+        console.log("generation done for " + container);
     }
 });

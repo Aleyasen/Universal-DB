@@ -1,16 +1,12 @@
-<?php
-
-if (!isset($_GET["c"])) {
-    include 'network.php';
-} else if (($_GET["c"]) == 1) {
-    include 'import.php';
-} else if (($_GET["c"]) == 2) {
-    include 'transformation.php';
-} else if (($_GET["c"]) == 3) {
-    include 'network.php';
-} else if (($_GET["c"]) == 4) {
-    include 'ranking.php';
-} else if (($_GET["c"]) == 5) {
-    include 'setting.php';
-}
-?>
+<!-- Tab panes -->
+<div class="tab-content">
+    <div role="tabpanel" class="tab-pane active" id="network">
+        <?php include 'transformation.php'; ?>
+    </div>
+    <div role="tabpanel" class="tab-pane" id="ranking">
+        <?php include 'ranking.php'; ?>
+    </div>
+    <div role="tabpanel" class="tab-pane" id="algorithm">
+        <?php include 'network.php'; ?>
+    </div>
+</div>

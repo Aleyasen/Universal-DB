@@ -1,15 +1,14 @@
 <?php include 'header.php'; ?>
-<?php include 'searchbar.php'; ?>
-
-<div class="container-fluid">
+<div>
     <div class="row">
-        <div class="col-md-2 sidebar">
+        <div class="col-md-2">
 
             <?php
             include 'menu.php';
             ?>
+
         </div>
-        <div class="col-md-10 main">
+        <div class="col-md-10">
             <?php
             include 'content.php';
             ?>

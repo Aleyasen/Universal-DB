@@ -1,4 +1,7 @@
 <div class="row">
+    <?php include 'searchbar.php'; ?>
+</div>
+<div class="row">
     <div class="col-md-4">
         <div class="inner-container">
             <div class="col-md-12 highlight text-center">
@@ -30,4 +33,8 @@
         </div>
     </div>
 
+    <div id="dialog" title="Algorithms Comparison">
+        <!--<div>Query: XYZ</div>-->
+        <?php include 'network_modal.php'; ?>
+    </div>
 </div>

@@ -11,6 +11,8 @@
         <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"/>
         <link rel="stylesheet" type="text/css" href="css/bootstrap-select.min.css"/>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+
         <link rel="stylesheet" type="text/css" href="css/main.css"/>
 
 
@@ -28,7 +30,7 @@
         <script src="trans_graph.js" type="text/javascript"></script>
         <script src="ranking.js" type="text/javascript"></script>
         <script src="search.js" type="text/javascript"></script>
-        
+
     </head>
 
     <body>
