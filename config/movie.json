@@ -2,7 +2,7 @@
     "name": "Filmography Dataset",
     "path": "/data/movie",
     "source": {
-        "name": "DBLP",
+        "name": "IMDb",
         "path": "/data/ranking/top2000_q100_movie_imdb_to_freebase_results/source"
     },
     "target": {

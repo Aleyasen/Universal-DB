@@ -2,6 +2,16 @@
     <?php include 'searchbar.php'; ?>
 </div>
 <div class="row">
+    <div class="col-md-offset-0 col-md-3 input-group" style="padding-bottom: 10px;">
+        <span class = "input-group-addon" style = "background-color: white;">Meta-walk</span>
+        <select  class="selectpicker metawalkpicker">
+            <option value="movie" selected="selected">conf-paper-conf</option>
+            <option value="biblo" >conf-paper-domain-keyword-domain-paper-conf</option>
+            <option value="course" >All the meta-walks</option>
+        </select>
+    </div>
+</div>
+<div class="row">
     <!--    <div class="col-md-1">
             <div class="row">
                 <div class="col-md-12 vertical-text highlight text-center">

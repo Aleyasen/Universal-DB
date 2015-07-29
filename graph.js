@@ -1,11 +1,30 @@
 
 $(document).ready(function() {
 
+
+//    $(".datasetpicker").val("hello").change();
+//    $(".datasetpicker").selectpicker('refresh');
+    inititialize("movie");
+
+    $(".metawalkpicker").on('change', function() {
+//        var dt = $(this).val();
+        generageAllGraphs();
+        
+//        alert("change dataset to " + dt);
+    });
+
+
+    $('.search-button').click(function() {
+        doIt();
+        generageAllGraphs();
+    });
+
     $(".datasetpicker").on('change', function() {
 //        var dt = $(this).val();
         var selectedVal = $(this).select().val();
         console.log(selectedVal);
         inititialize(selectedVal);
+        generateNetworks();
 //        alert("change dataset to " + dt);
     });
 
