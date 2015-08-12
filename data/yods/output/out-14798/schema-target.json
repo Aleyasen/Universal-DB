@@ -1,0 +1,97 @@
+{
+    "nodes": [
+        {
+            "index": 0,
+            "dataId": "a-2",
+            "name": "a2",
+            "type": "a",
+            "group": 1
+        },
+        {
+            "index": 1,
+            "dataId": "b-5",
+            "name": "b5",
+            "type": "b",
+            "group": 2
+        },
+        {
+            "index": 2,
+            "dataId": "b-3",
+            "name": "b3",
+            "type": "b",
+            "group": 2
+        },
+        {
+            "index": 3,
+            "dataId": "b-2",
+            "name": "b2",
+            "type": "b",
+            "group": 2
+        },
+        {
+            "index": 4,
+            "dataId": "b-1",
+            "name": "b1",
+            "type": "b",
+            "group": 2
+        },
+        {
+            "index": 5,
+            "dataId": "x-3",
+            "name": "x3",
+            "type": "x",
+            "group": 3
+        },
+        {
+            "index": 6,
+            "dataId": "x-5",
+            "name": "x5",
+            "type": "x",
+            "group": 3
+        },
+        {
+            "index": 7,
+            "dataId": "x-4",
+            "name": "x4",
+            "type": "x",
+            "group": 3
+        },
+        {
+            "index": 8,
+            "dataId": "y-1",
+            "name": "y1",
+            "type": "y",
+            "group": 4
+        }
+    ],
+    "links": [
+        {
+            "source": 5,
+            "target": 0
+        },
+        {
+            "source": 6,
+            "target": 0
+        },
+        {
+            "source": 7,
+            "target": 0
+        },
+        {
+            "source": 5,
+            "target": 1
+        },
+        {
+            "source": 6,
+            "target": 3
+        },
+        {
+            "source": 7,
+            "target": 4
+        },
+        {
+            "source": 8,
+            "target": 0
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "nodes": [
+        {
+            "index": 0,
+            "dataId": "a-5",
+            "name": "a5",
+            "type": "a",
+            "group": 1
+        },
+        {
+            "index": 1,
+            "dataId": "a-2",
+            "name": "a2",
+            "type": "a",
+            "group": 1
+        },
+        {
+            "index": 2,
+            "dataId": "a-1",
+            "name": "a1",
+            "type": "a",
+            "group": 1
+        },
+        {
+            "index": 3,
+            "dataId": "a-4",
+            "name": "a4",
+            "type": "a",
+            "group": 1
+        },
+        {
+            "index": 4,
+            "dataId": "a-3",
+            "name": "a3",
+            "type": "a",
+            "group": 1
+        },
+        {
+            "index": 5,
+            "dataId": "b-2",
+            "name": "b2",
+            "type": "b",
+            "group": 2
+        },
+        {
+            "index": 6,
+            "dataId": "b-4",
+            "name": "b4",
+            "type": "b",
+            "group": 2
+        },
+        {
+            "index": 7,
+            "dataId": "x-6",
+            "name": "x6",
+            "type": "x",
+            "group": 3
+        },
+        {
+            "index": 8,
+            "dataId": "x-7",
+            "name": "x7",
+            "type": "x",
+            "group": 3
+        },
+        {
+            "index": 9,
+            "dataId": "x-5",
+            "name": "x5",
+            "type": "x",
+            "group": 3
+        },
+        {
+            "index": 10,
+            "dataId": "x-1",
+            "name": "x1",
+            "type": "x",
+            "group": 3
+        },
+        {
+            "index": 11,
+            "dataId": "y-1",
+            "name": "y1",
+            "type": "y",
+            "group": 4
+        }
+    ],
+    "links": [
+        {
+            "source": 7,
+            "target": 0
+        },
+        {
+            "source": 8,
+            "target": 4
+        },
+        {
+            "source": 9,
+            "target": 1
+        },
+        {
+            "source": 10,
+            "target": 0
+        },
+        {
+            "source": 7,
+            "target": 5
+        },
+        {
+            "source": 8,
+            "target": 5
+        },
+        {
+            "source": 9,
+            "target": 5
+        },
+        {
+            "source": 10,
+            "target": 6
+        },
+        {
+            "source": 11,
+            "target": 0
+        },
+        {
+            "source": 11,
+            "target": 2
+        },
+        {
+            "source": 11,
+            "target": 1
+        }
+    ]
+}

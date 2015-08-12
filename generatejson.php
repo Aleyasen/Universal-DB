@@ -1,25 +1,34 @@
-
-
 <?php
 
 /**
  * @author Amirhossein Aleyasen <aleyase2@illinois.edu>
  */
-$dir = 'data/uw-courses_small';
-$node_files = array("course.txt", "inst.txt", "offer.txt", "subject.txt");
-$edge_files = array("course_offer.txt", "course_subject.txt", "offer_inst.txt");
+//$dir = 'data/uw-courses_small';
+//$node_files = array("course.txt", "inst.txt", "offer.txt", "subject.txt");
+//$edge_files = array("course_offer.txt", "course_subject.txt", "offer_inst.txt");
+
+$dir = 'data/yods';
+$node_files1 = array("a", "b", "c");
+$edge_files1 = array("a_b", "a_c");
+$outdir = $dir;
+
+$node_files2 = array("a", "b", "c", "x", "y");
+$edge_files2 = array("x_a", "x_b", "y_a", "y_c");
 
 
-generateGraph($dir, $node_files, $edge_files);
+generateGraph($dir, $node_files1, $edge_files1, $outdir, "schema-src.json");
 
-function generateGraph($dir, $node_files, $edge_files) {
+function generateGraph($dir, $node_files, $edge_files, $outdir, $out_file) {
+    global $ids, $max_id;
+    $ids = array();
+    $max_id = 0;
     $json = generateJSONfromGraph($dir, $node_files, $edge_files);
     //echo "<PRE>";
     //echo $json;
     //echo "</PRE>";
-    $output_file = $dir . "/target3.json";
+    $output_file = $outdir . "/" . $out_file;
     saveJsonToFile($json, $output_file);
-    echo "Done! Save json data on " . $output_file . "</br>";
+//    echo "Done! Save json data on " . $output_file . "</br>";
 }
 
 function saveJsonToFile($json, $file) {
@@ -35,27 +44,28 @@ function generateJSONfromGraph($dir, $node_files, $edge_files) {
         if ($node_files[$i] == "." || $node_files[$i] == "..") {
             continue;
         }
-        $dotIndex = strpos($node_files[$i], ".");
-        $type = substr($node_files[$i], 0, $dotIndex);
-        echo "Import node file " . $node_files[$i] . " , type = " . $type . "</br>";
-        parse_node_file($nodesArr, $dir . '/' . $node_files[$i], $type, $group);
-        $group++;
+//        $dotIndex = strpos($node_files[$i], ".");
+        //        $type = substr($node_files[$i], 0, $dotIndex);
+        $type = $node_files[$i];
+//        echo "Import node file " . $node_files [$i] . ".txt , type = " . $type . "</br>";
+        parse_node_file($nodesArr, $dir . '/' . $node_files[$i] . ".txt", $type, $group);
+        $group ++;
     }
 
 
-    for ($i = 0; $i < count($edge_files); $i++) {
-        if ($edge_files[$i] == "." || $edge_files[$i] == "..") {
+    for ($i = 0; $i < count($edge_files); $i ++) {
+        if ($edge_files [$i] == "." || $edge_files[$i] == "..") {
             continue;
         }
-        $dotIndex = strpos($edge_files[$i], ".");
+//        $dotIndex = strpos($edge_files[$i], ".");
         if (strpos($edge_files[$i], '_') !== false) {
             $underlineIndex = strpos($edge_files[$i], "_");
             $type1 = substr($edge_files[$i], 0, $underlineIndex);
-            $type2 = substr($edge_files[$i], $underlineIndex + 1, $dotIndex - $underlineIndex - 1);
-            echo "Import edge file " . $node_files[$i] . " , type1 = " . $type1 . " , type2 = " . $type2 . "</br>";
-            parse_edge_file($edgesArr, $dir . '/' . $edge_files[$i], $type1, $type2);
+            $type2 = substr($edge_files [$i], $underlineIndex + 1);
+//            echo "Import edge file " . $node_files [$i] . " , type1 = " . $type1 . " , type2 = " . $type2 . "</br>";
+            parse_edge_file($edgesArr, $dir . '/' . $edge_files[$i] . ".txt", $type1, $type2);
         } else {
-            echo "file format is not correct. filename = " . $edge_files[$i] . "</br>";
+            echo "file format is not correct. filename = " . $edge_files[$i] . ".txt</br>";
         }
     }
     $result = array();
@@ -71,12 +81,11 @@ function generateUniqueString($type, $id) {
 $ids = array();
 
 function addToGlobalIdArray($type, $id) {
-    global $ids;
-    static $maxId = 0;
+    global $ids, $max_id;
     $uniqueStr = generateUniqueString($type, $id);
     if (!isset($ids[$uniqueStr])) {
-        $ids[$uniqueStr] = $maxId;
-        $maxId = $maxId + 1;
+        $ids[$uniqueStr] = $max_id;
+        $max_id = $max_id + 1;
     }
     return $ids[$uniqueStr];
 }
@@ -84,25 +93,33 @@ function addToGlobalIdArray($type, $id) {
 function getGlobalId($type, $id) {
     global $ids;
     $uniqueStr = generateUniqueString($type, $id);
+//    echo $type . " <> " . $id . " <> " . $uniqueStr . " <> " . $ids[$uniqueStr] . " <> " . isset($ids[$uniqueStr]) . "<br>";
     if (isset($ids[$uniqueStr])) {
         return $ids[$uniqueStr];
     } else {
-        echo "error. No global Id for ( type = " . $type . " , id = " . $id . " ) <br>";
+//        echo "error. No global Id for ( type = " . $type . " , id = " . $id .
+//        " ) <br>";
         return -1;
     }
 }
 
 function parse_edge_file(&$edgesArr, $file, $type1, $type2) {
+    global $ids;
     $content = file_get_contents($file);
     $lines = explode("\n", $content);
+
+//    echo "IDS::";
+//    print_r($ids);
+//    echo "END";
+
     for ($i = 1; $i < count($lines); $i++) { // skip first line (header)
-//        echo $lines[$i] . "<br>";
-        $splits = explode("\t", $lines[$i]);
+//        echo "edge: " . $lines[$i] . "<br>";
+        $splits = explode("\t", $lines [$i]);
         if (sizeof($splits) != 2) {
             continue;
         }
-        $edge1 = $splits[0];
-        $edge2 = $splits[1];
+        $edge1 = trim($splits[0]);
+        $edge2 = trim($splits[1]);
         $sourceId = getGlobalId($type1, $edge1);
         $targetId = getGlobalId($type2, $edge2);
         if ($sourceId == -1 || $targetId == -1) {
@@ -119,14 +136,15 @@ function parse_edge_file(&$edgesArr, $file, $type1, $type2) {
 function parse_node_file(&$nodeArr, $file, $type, $group) {
     $content = file_get_contents($file);
     $lines = explode("\n", $content);
+
     for ($i = 0; $i < count($lines); $i++) {
-        $splits = explode("\t", $lines[$i]);
+        $splits = explode("\t", $lines [$i]);
         if (sizeof($splits) != 2) {
             continue;
         }
-//        echo $lines[$i]. "<br>";
-        $id = $splits[0];
-        $name = $splits[1];
+//        echo $lines[$i]. " line line<br>";
+        $id = trim($splits[0]);
+        $name = trim($splits[1]);
         $gnId = addToGlobalIdArray($type, $id);
 //        echo "ID: " . $gnId . "<br>";
 //        $nodeArr[$gnId] = array();
@@ -141,6 +159,7 @@ function parse_node_file(&$nodeArr, $file, $type, $group) {
         $n["group"] = $group;
         $nodeArr[] = $n;
     }
+
 //    var_dump($nodeArr);
 //    return $nodeArr;
 }
@@ -148,4 +167,5 @@ function parse_node_file(&$nodeArr, $file, $type, $group) {
 function getGroup($type, $others) {
     
 }
+
 ?>

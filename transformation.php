@@ -28,6 +28,9 @@
                     Source
                 </div>
                 <div class="col-md-12 highlight">
+                    <div class="refresh-graph" style="position: relative; padding:5px; float: right; ; visibility: hidden;">
+                        <a><span class="glyphicon glyphicon-refresh" aria-hidden="true"></span></a>
+                    </div>
                     <div id="trans-src" class="trans-graph"></div>
                 </div>
             </div>
@@ -43,6 +46,9 @@
                     Target
                 </div>
                 <div class="col-md-12 highlight">
+                    <div class="refresh-graph" style="position: relative; padding:5px; float: right; visibility: hidden;">
+                        <a><span class="glyphicon glyphicon-refresh" aria-hidden="true"></span></a>
+                    </div>
                     <div id="trans-target" class="trans-graph"></div>
                 </div>
             </div>

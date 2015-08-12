@@ -1,0 +1,211 @@
+{
+    "nodes": [
+        {
+            "index": 0,
+            "dataId": "a-1",
+            "name": "a1",
+            "type": "a",
+            "group": 1
+        },
+        {
+            "index": 1,
+            "dataId": "a-2",
+            "name": "a2",
+            "type": "a",
+            "group": 1
+        },
+        {
+            "index": 2,
+            "dataId": "a-3",
+            "name": "a3",
+            "type": "a",
+            "group": 1
+        },
+        {
+            "index": 3,
+            "dataId": "a-4",
+            "name": "a4",
+            "type": "a",
+            "group": 1
+        },
+        {
+            "index": 4,
+            "dataId": "a-5",
+            "name": "a5",
+            "type": "a",
+            "group": 1
+        },
+        {
+            "index": 5,
+            "dataId": "b-1",
+            "name": "b1",
+            "type": "b",
+            "group": 2
+        },
+        {
+            "index": 6,
+            "dataId": "b-2",
+            "name": "b2",
+            "type": "b",
+            "group": 2
+        },
+        {
+            "index": 7,
+            "dataId": "b-3",
+            "name": "b3",
+            "type": "b",
+            "group": 2
+        },
+        {
+            "index": 8,
+            "dataId": "b-4",
+            "name": "b4",
+            "type": "b",
+            "group": 2
+        },
+        {
+            "index": 9,
+            "dataId": "b-5",
+            "name": "b5",
+            "type": "b",
+            "group": 2
+        },
+        {
+            "index": 10,
+            "dataId": "x-1",
+            "name": "x1",
+            "type": "x",
+            "group": 3
+        },
+        {
+            "index": 11,
+            "dataId": "x-2",
+            "name": "x2",
+            "type": "x",
+            "group": 3
+        },
+        {
+            "index": 12,
+            "dataId": "x-3",
+            "name": "x3",
+            "type": "x",
+            "group": 3
+        },
+        {
+            "index": 13,
+            "dataId": "x-4",
+            "name": "x4",
+            "type": "x",
+            "group": 3
+        },
+        {
+            "index": 14,
+            "dataId": "x-5",
+            "name": "x5",
+            "type": "x",
+            "group": 3
+        },
+        {
+            "index": 15,
+            "dataId": "x-6",
+            "name": "x6",
+            "type": "x",
+            "group": 3
+        },
+        {
+            "index": 16,
+            "dataId": "x-7",
+            "name": "x7",
+            "type": "x",
+            "group": 3
+        },
+        {
+            "index": 17,
+            "dataId": "y-1",
+            "name": "y1",
+            "type": "y",
+            "group": 4
+        },
+        {
+            "index": 18,
+            "dataId": "y-2",
+            "name": "y2",
+            "type": "y",
+            "group": 4
+        }
+    ],
+    "links": [
+        {
+            "source": 10,
+            "target": 4
+        },
+        {
+            "source": 11,
+            "target": 0
+        },
+        {
+            "source": 12,
+            "target": 1
+        },
+        {
+            "source": 13,
+            "target": 1
+        },
+        {
+            "source": 14,
+            "target": 1
+        },
+        {
+            "source": 15,
+            "target": 4
+        },
+        {
+            "source": 16,
+            "target": 2
+        },
+        {
+            "source": 10,
+            "target": 8
+        },
+        {
+            "source": 11,
+            "target": 5
+        },
+        {
+            "source": 12,
+            "target": 9
+        },
+        {
+            "source": 13,
+            "target": 5
+        },
+        {
+            "source": 14,
+            "target": 6
+        },
+        {
+            "source": 15,
+            "target": 6
+        },
+        {
+            "source": 16,
+            "target": 6
+        },
+        {
+            "source": 17,
+            "target": 4
+        },
+        {
+            "source": 17,
+            "target": 0
+        },
+        {
+            "source": 17,
+            "target": 1
+        },
+        {
+            "source": 18,
+            "target": 2
+        }
+    ]
+}

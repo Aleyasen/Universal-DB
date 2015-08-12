@@ -1,0 +1,90 @@
+{
+    "nodes": [
+        {
+            "index": 0,
+            "dataId": "a-5",
+            "name": "a5",
+            "type": "a",
+            "group": 1
+        },
+        {
+            "index": 1,
+            "dataId": "a-2",
+            "name": "a2",
+            "type": "a",
+            "group": 1
+        },
+        {
+            "index": 2,
+            "dataId": "a-1",
+            "name": "a1",
+            "type": "a",
+            "group": 1
+        },
+        {
+            "index": 3,
+            "dataId": "a-4",
+            "name": "a4",
+            "type": "a",
+            "group": 1
+        },
+        {
+            "index": 4,
+            "dataId": "a-3",
+            "name": "a3",
+            "type": "a",
+            "group": 1
+        },
+        {
+            "index": 5,
+            "dataId": "b-2",
+            "name": "b2",
+            "type": "b",
+            "group": 2
+        },
+        {
+            "index": 6,
+            "dataId": "b-4",
+            "name": "b4",
+            "type": "b",
+            "group": 2
+        },
+        {
+            "index": 7,
+            "dataId": "c-1",
+            "name": "c1",
+            "type": "c",
+            "group": 3
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 6
+        },
+        {
+            "source": 1,
+            "target": 5
+        },
+        {
+            "source": 3,
+            "target": 5
+        },
+        {
+            "source": 4,
+            "target": 5
+        },
+        {
+            "source": 0,
+            "target": 7
+        },
+        {
+            "source": 1,
+            "target": 7
+        },
+        {
+            "source": 2,
+            "target": 7
+        }
+    ]
+}

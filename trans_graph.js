@@ -3,15 +3,44 @@ $(document).ready(function() {
 
     generateNetworks();
 
+    $('.refresh-graph').click(function() {
+        generateNetworks();
+    });
 
 });
 
-function generateNetworks() {
+function filterGraph(seed, radius, max_nodes) {
+    var generic_url = "./filtergraph.php?";
+    generic_url += "seed=" + seed + "&";
+    generic_url += "radius=" + radius + "&";
+    generic_url += "max_nodes=" + max_nodes;
+    var src_url = generic_url + "&schema=src";
+    var target_url = generic_url + "&schema=target";
+    console.log("src_url " + src_url);
+    console.log("target_url " + target_url);
+    $.get(src_url, function(file_loc) {
+        console.log("get " + file_loc);
+//        alert(file_loc);
+        generateGraph("#trans-src", file_loc);
+    });
+    $.get(target_url, function(file_loc) {
+        console.log("get " + file_loc);
+//        alert(file_loc);
+        generateGraph("#trans-target", file_loc);
+    });
+    $(".refresh-graph").css('visibility', 'visible');
+}
 
+function generateNetworks() {
+    $(".refresh-graph").css('visibility', 'hidden');
 //    var datafile = "data.json";
-    var src_datafile = "data/uw-courses_small/source.json";
-    var target_datafile = "data/uw-courses_small/target.json";
+//    var src_datafile = "data/uw-courses_small/source.json";
+//    var target_datafile = "data/uw-courses_small/target.json";
 //    var datafile =  "data/samplegraph/data.json";
+    var src_datafile = "data/yods/schema-src.json";
+//    var src_datafile = "data/yods/output/out-31137/schema-src.json";
+    var target_datafile = "data/yods/schema-target.json";
+
 
     generateGraph("#trans-src", src_datafile);
     generateGraph("#trans-target", target_datafile);
@@ -48,12 +77,12 @@ function generateGraph(container, inputdata) {
         if (error)
             throw error;
         var n = graph.nodes.length;
-        graph.nodes.forEach(function(d, i) {
-            d.x = d.px = (width) * Math.sin(i * 2 * Math.PI / n);
-            d.y = d.py = (height) * (-Math.cos(i * 2 * Math.PI / n));
+//        graph.nodes.forEach(function(d, i) {
+//            d.x = d.px = (width) * Math.sin(i * 2 * Math.PI / n);
+//            d.y = d.py = (height) * (-Math.cos(i * 2 * Math.PI / n));
 //                d.px = d.py = width * i / n;
 
-        });
+//        });
         force
                 .nodes(graph.nodes)
                 .links(graph.links);
@@ -155,6 +184,8 @@ function generateGraph(container, inputdata) {
 //            d3.select(this).classed("fixed", d.fixed = false).style("fill", function(d) {
 //                return color(d.group);
 //            });
+//        alert("dbclick");
+        filterGraph(d.name, 1, 20);
         var selector = ".node[data-id=\"" + d.dataId + "\"]";
         console.log("selector = " + selector);
         d3.selectAll(".trans-graph > svg").selectAll(selector)
@@ -165,6 +196,7 @@ function generateGraph(container, inputdata) {
 //                    .attr("cy", d.y)
                 .classed("fixed", d.fixed = false);
 //                    .style("fill", "#f00");
+
     }
 
     function dragstart(d) {
