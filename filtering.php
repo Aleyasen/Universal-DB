@@ -1,6 +1,7 @@
 <?php
 
 require 'generatejson.php';
+require_once 'utils.php';
 
 // ------------------------------------------------------------------------------------
 
@@ -16,14 +17,14 @@ function graphReaders($loc, $v_files, $e_files) {
     $t_id = 0;
     $vg_id = 0;
     foreach ($v_files as $x => $x_val) {
-//        echo "key=" . $x . ", val=" . $loc . $x_val . "<br>";
+        c_log("key=" . $x . ", val=" . $loc . $x_val . "\n");
         $t_id = $t_id + 1;
         $file_arr = explode('.', $x_val);
         $h_L[$file_arr[0]] = $t_id;
         $h_L[$t_id] = $file_arr[0];
         $file = fopen($loc . $x_val, "r") or die("unable to open " . $loc . $x_val . " !");
         while (($line = fgets($file)) !== false) {
-            //echo $line."<br>";
+//            echo $line."\n";
             $line_arr = preg_split("/\s+/", $line);
             if (count($line_arr) < 2)
                 continue;
@@ -40,14 +41,14 @@ function graphReaders($loc, $v_files, $e_files) {
 
     // read edge files
     foreach ($e_files as $x => $x_val) {
-//        echo "key=" . $x . ", val=" . $loc . $x_val . "<br>";
+        c_log("key=" . $x . ", val=" . $loc . $x_val . "\n");
         $file_arr = preg_split("/[._]/", $x_val);
         $t1 = $h_L[$file_arr[0]];
         $t2 = $h_L[$file_arr[1]];
         $file = fopen($loc . $x_val, "r") or die("unable to open " . $loc . $x_val . " !");
         $line = fgets($file); // read headline
         while (($line = fgets($file)) !== false) {
-//            echo $line . "<br>";
+//            echo $line . "\n";
             $line_arr = preg_split("/\s+/", $line);
             $v1 = $line_arr[0];
             $v2 = $line_arr[1];
@@ -55,7 +56,7 @@ function graphReaders($loc, $v_files, $e_files) {
             $n2_id = $v2 * 100 + $t2;
             $vg1 = $h_VVG[$n1_id];
             $vg2 = $h_VVG[$n2_id];
-            //echo $vg1.":".$n1_id."\t".$vg2.":".$n2_id."<br>";
+            //echo $vg1.":".$n1_id."\t".$vg2.":".$n2_id."\n";
             if (array_key_exists($vg1, $h_EG))
                 $eg1 = $h_EG[$vg1];
             else
@@ -75,12 +76,12 @@ function graphReaders($loc, $v_files, $e_files) {
     }
 
     // test print
-//    var_dump($h_VA);
-//    var_dump($h_L);
-//    var_dump($h_AV);
-//    var_dump($h_VVG);
-//    var_dump($h_VGV);
-//    var_dump($h_EG);
+//    c_log(print_r($h_VA, true));
+//    c_log(print_r($h_L, true));
+//    c_log(print_r($h_AV, true));
+//    c_log(print_r($h_VVG, true));
+//    c_log(print_r($h_VGV, true));
+//    c_log(print_r($h_EG, true));
 
     // check comment for each var
     return array($h_L, $h_VA, $h_AV, $h_VVG, $h_VGV, $h_EG);
@@ -117,12 +118,16 @@ function bfsTraversal($vg, $h_EG, $RAD, $MAX_NODES) {
     }
 
     // test print
-//    var_dump($vs);
+//    c_log(print_r($vs, true));
 
     return $vs;
 }
 
 function printToFile($loc, $v_out, $e_out, $vs, $h_VGV, $h_VVG, $h_VA, $h_L, $h_EG) {
+//    print_r("v<br>");
+//    print_r($v_out);
+//    print_r("e<br>");
+//    print_r($e_out);
     $r_number = rand(10000, 99999);
     $loc = $loc . "out-" . $r_number . "/";
     mkdir($loc, 0775);
@@ -135,6 +140,8 @@ function printToFile($loc, $v_out, $e_out, $vs, $h_VGV, $h_VVG, $h_VA, $h_L, $h_
     $e_l = array();
     foreach ($e_out as $e) {
         $e_arr = preg_split("/[_]/", $e);
+//        echo "edges<br>";
+//        print_r($e_arr);
         $l1 = $e_arr[0];
         $l2 = $e_arr[1];
         $l = array($l1, $l2);
@@ -147,7 +154,7 @@ function printToFile($loc, $v_out, $e_out, $vs, $h_VGV, $h_VVG, $h_VA, $h_L, $h_
             $v_id = $h_VGV[$vg];
             $l_id = $v_id % 100;
             if ($l_id == $l) {
-                //echo $l." ".$v_id."<br>";
+                c_log($l . " " . $v_id . "\n");
                 $txt = intval($v_id / 100) . "\t" . $h_VA[$v_id] . "\n";
                 fwrite($file, $txt);
             }
@@ -160,7 +167,7 @@ function printToFile($loc, $v_out, $e_out, $vs, $h_VGV, $h_VVG, $h_VA, $h_L, $h_
         $l2 = $h_L[$l[1]];
         $file = fopen($loc . $h_L[$l1] . "_" . $h_L[$l2] . ".txt", "w") or die("unable to create " . $loc . $h_L[$l1] . "_" . $h_L[$l2] . ".txt" . " !");
         fwrite($file, $h_L[$l1] . "\t" . $h_L[$l2] . "\n");
-//        echo $h_L[$l1] . " " . $h_L[$l2] . "<br>";
+        c_log($h_L[$l1] . " " . $h_L[$l2] . "\n");
         foreach ($vs as $vg) {
             $eg = $h_EG[$vg];
             $v_id = $h_VGV[$vg];
@@ -188,45 +195,45 @@ function printInfo() {
 
 // ------------------------------------------------------------------------------------
 // make sure "/" is put in the end. i do not check for this char in this code
-$loc = "data/yods/";
-$loc_out1 = "data/yods/output/";
-$loc_out2 = "data/yods/output/";
-if (!file_exists($loc_out1))
-    mkdir($loc_out1);
-if (!file_exists($loc_out2))
-    mkdir($loc_out2);
+//$loc = "data/yods/";
+//$loc_out1 = "data/yods/output/";
+//$loc_out2 = "data/yods/output/";
+//if (!file_exists($loc_out1))
+//    mkdir($loc_out1);
+//if (!file_exists($loc_out2))
+//    mkdir($loc_out2);
 
 // provide every information: all nodes, all edges here regardless of representation
-$v_files = array("a.txt", "b.txt", "x.txt", "y.txt", "c.txt");
-$e_files = array("a_b.txt", "a_c.txt", "x_a.txt", "x_b.txt", "y_a.txt", "y_c.txt");
-
-// output: schema 1
-$v_output1 = array("a", "b", "c");
-$e_output1 = array("a_b", "a_c");
-
-// output: schema 2
-$v_output2 = array("a", "b", "x", "y");
-$e_output2 = array("x_a", "x_b", "y_a", "y_c");
-
-// other parameters
-$seed_node = "a1";
-$RADIUS = 3;
-$MAX_NODES = 100;
-
-// read graph data
-$graphData = graphReaders($loc, $v_files, $e_files);
-
-// locate query node from node type+value
-$v = idInFullGraph($seed_node, $graphData[2], $graphData[3]);
-
-// bfs search
-$vs = bfsTraversal($v, $graphData[5], $RADIUS, $MAX_NODES);
-
-// schema 1 filter
-$out_dir1 = printToFile($loc_out1, $v_output1, $e_output1, $vs, $graphData[4], $graphData[3], $graphData[1], $graphData[0], $graphData[5]);
-generateGraph($loc, $v_output1, $e_output1, $out_dir1, "schema-src.json");
-
-// schema 2 filter
-$out_dir2 = printToFile($loc_out2, $v_output2, $e_output2, $vs, $graphData[4], $graphData[3], $graphData[1], $graphData[0], $graphData[5]);
-generateGraph($loc, $v_output2, $e_output2, $out_dir2, "schema-target.json");
+//$v_files = array("a.txt", "b.txt", "x.txt", "y.txt", "c.txt");
+//$e_files = array("a_b.txt", "a_c.txt", "x_a.txt", "x_b.txt", "y_a.txt", "y_c.txt");
+//
+//// output: schema 1
+//$v_output1 = array("a", "b", "c");
+//$e_output1 = array("a_b", "a_c");
+//
+//// output: schema 2
+//$v_output2 = array("a", "b", "x", "y");
+//$e_output2 = array("x_a", "x_b", "y_a", "y_c");
+//
+//// other parameters
+//$seed_node = "a1";
+//$RADIUS = 3;
+//$MAX_NODES = 100;
+//
+//// read graph data
+//$graphData = graphReaders($loc, $v_files, $e_files);
+//
+//// locate query node from node type+value
+//$v = idInFullGraph($seed_node, $graphData[2], $graphData[3]);
+//
+//// bfs search
+//$vs = bfsTraversal($v, $graphData[5], $RADIUS, $MAX_NODES);
+//
+//// schema 1 filter
+//$out_dir1 = printToFile($loc_out1, $v_output1, $e_output1, $vs, $graphData[4], $graphData[3], $graphData[1], $graphData[0], $graphData[5]);
+//generateGraph($loc, $v_output1, $e_output1, $out_dir1, "schema-src.json");
+//
+//// schema 2 filter
+//$out_dir2 = printToFile($loc_out2, $v_output2, $e_output2, $vs, $graphData[4], $graphData[3], $graphData[1], $graphData[0], $graphData[5]);
+//generateGraph($loc, $v_output2, $e_output2, $out_dir2, "schema-target.json");
 ?>

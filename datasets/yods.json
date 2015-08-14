@@ -1,12 +1,55 @@
 {
-    "name": "Bibliographic Dataset",
-    "path": "/data/movie",
-    "source": {
-        "name": "DBLP",
-        "path": "/data/ranking/top2000_q100_movie_imdb_to_freebase_results/source"
-    },
-    "target": {
-        "name": "SNAP",
-        "target": "/data/ranking/top2000_q100_movie_imdb_to_freebase_results/target"
+    "id": "yods",
+    "name": "Yods Dataset",
+    "path": "/data/yods",
+    "v_files": [
+        "a.txt",
+        "b.txt",
+        "x.txt",
+        "y.txt",
+        "c.txt"
+    ],
+    "e_files": [
+        "a_b.txt",
+        "a_c.txt",
+        "x_a.txt",
+        "x_b.txt",
+        "y_a.txt",
+        "y_c.txt"
+    ],
+    "schema": {
+        "source": {
+            "name": "DBY1",
+            "v_files": [
+                "a",
+                "b",
+                "c"
+            ],
+            "e_files": [
+                "a_b",
+                "a_c"
+            ],
+            "result": {
+                "path": "/data/ranking/top2000_q100_movie_imdb_to_freebase_results/source"
+            }
+        },
+        "target": {
+            "name": "DBY2",
+            "v_files": [
+                "a",
+                "b",
+                "x",
+                "y"
+            ],
+            "e_files": [
+                "x_a",
+                "x_b",
+                "y_a",
+                "y_c"
+            ],
+            "result": {
+                "path": "/data/ranking/top2000_q100_movie_imdb_to_freebase_results/target"
+            }
+        }
     }
 }

@@ -4,7 +4,7 @@ $(document).ready(function() {
 
 //    $(".datasetpicker").val("hello").change();
 //    $(".datasetpicker").selectpicker('refresh');
-    inititialize("movie");
+    inititialize("yods");
 
     $(".metawalkpicker").on('change', function() {
 //        var dt = $(this).val();
@@ -38,11 +38,11 @@ $(document).ready(function() {
     });
     function inititialize(dt) {
 //        console.log(dt);
-        $.getJSON("config/" + dt + ".json", function(data) {
+        $.getJSON("datasets/" + dt + ".json", function(data) {
             var items = [];
             console.log(data);
-            $("#source-label").text(data.source.name);
-            $("#target-label").text(data.target.name);
+            $("#source-label").text(data.schema.source.name);
+            $("#target-label").text(data.schema.target.name);
             generageAllGraphs();
 //            $.each(data, function(key, val) {
 //                items.push("<li id='" + key + "'>" + val + "</li>");

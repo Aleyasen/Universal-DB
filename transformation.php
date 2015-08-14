@@ -2,9 +2,17 @@
     <div class="col-md-offset-0 col-md-3 input-group" style="padding-bottom: 10px;">
         <span class = "input-group-addon" style = "background-color: white;">Dataset</span>
         <select  class="selectpicker datasetpicker">
-            <option value="movie" selected="selected">Filmography Dataset</option>
-            <option value="biblo" >Bibliography Dataset</option>
-            <option value="course" >Course Dataset</option>
+            <?php
+            require_once 'utils.php';
+//            readDatasetFiles();
+//            c_log(print_r($dbs, true));
+
+            foreach ($dbs as $elem) {
+                ?>
+                <option value="<?php echo $elem["id"]; ?>" selected="selected"><?php echo $elem["name"]; ?></option>
+                <?php
+            }
+            ?>
         </select>
     </div>
 </div>

@@ -13,7 +13,10 @@ function filterGraph(seed, radius, max_nodes) {
     var generic_url = "./filtergraph.php?";
     generic_url += "seed=" + seed + "&";
     generic_url += "radius=" + radius + "&";
-    generic_url += "max_nodes=" + max_nodes;
+    generic_url += "max_nodes=" + max_nodes + "&";
+    var selectedDataset = $(".datasetpicker").select().val();
+//    alert(selectedDataset);
+    generic_url += "dataset=" + selectedDataset;
     var src_url = generic_url + "&schema=src";
     var target_url = generic_url + "&schema=target";
     console.log("src_url " + src_url);
@@ -37,13 +40,33 @@ function generateNetworks() {
 //    var src_datafile = "data/uw-courses_small/source.json";
 //    var target_datafile = "data/uw-courses_small/target.json";
 //    var datafile =  "data/samplegraph/data.json";
-    var src_datafile = "data/yods/schema-src.json";
+//    var src_datafile = "data/yods/schema-src.json";
 //    var src_datafile = "data/yods/output/out-31137/schema-src.json";
-    var target_datafile = "data/yods/schema-target.json";
+//    var target_datafile = "data/yods/schema-target.json";
 
 
-    generateGraph("#trans-src", src_datafile);
-    generateGraph("#trans-target", target_datafile);
+//    generateGraph("#trans-src", src_datafile);
+//    generateGraph("#trans-target", target_datafile);
+
+    var generic_url = "./filtergraph.php?";
+    generic_url += "nofilter=1&";
+    var selectedDataset = $(".datasetpicker").select().val();
+    generic_url += "dataset=" + selectedDataset;
+    var src_url = generic_url + "&schema=src";
+    var target_url = generic_url + "&schema=target";
+    console.log("src_url " + src_url);
+    console.log("target_url " + target_url);
+    $.get(src_url, function(file_loc) {
+        console.log("get " + file_loc);
+//        alert(file_loc);
+        generateGraph("#trans-src", file_loc);
+    });
+    $.get(target_url, function(file_loc) {
+        console.log("get " + file_loc);
+//        alert(file_loc);
+        generateGraph("#trans-target", file_loc);
+    });
+    $(".refresh-graph").css('visibility', 'visible');
 }
 
 function generateGraph(container, inputdata) {
@@ -74,9 +97,10 @@ function generateGraph(container, inputdata) {
 
 
     d3.json(inputdata, function(error, graph) {
-        if (error)
+        if (error) {
             throw error;
-        var n = graph.nodes.length;
+        }
+//        var n = graph.nodes.length;
 //        graph.nodes.forEach(function(d, i) {
 //            d.x = d.px = (width) * Math.sin(i * 2 * Math.PI / n);
 //            d.y = d.py = (height) * (-Math.cos(i * 2 * Math.PI / n));

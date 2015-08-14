@@ -1,12 +1,53 @@
 {
+    "id": "course",
     "name": "Course Dataset",
-    "path": "/data/movie",
-    "source": {
-        "name": "WSU",
-        "path": "/data/ranking/top2000_q100_movie_imdb_to_freebase_results/source"
-    },
-    "target": {
-        "name": "Alchemy UW-CSE",
-        "target": "/data/ranking/top2000_q100_movie_imdb_to_freebase_results/target"
+    "path": "/data/uw-courses",
+    "v_files": [
+        "course.txt",
+        "inst.txt",
+        "offer.txt",
+        "subject.txt"
+    ],
+    "e_files": [
+        "course_offer.txt",
+        "course_subject.txt",
+        "offer_inst.txt",
+        "offer_subject.txt"
+    ],
+    "schema": {
+        "source": {
+            "name": "WSU",
+            "v_files": [
+                "course",
+                "inst",
+                "offer",
+                "subject"
+            ],
+            "e_files": [
+                "course_offer",
+                "offer_inst",
+                "offer_subject"
+            ],
+            "result": {
+                "path": "/data/ranking/top2000_q100_movie_imdb_to_freebase_results/source"
+            }
+        },
+        "target": {
+            "name": "Alchemy UW-CSE",
+            "v_files": [
+                "course",
+                "inst",
+                "offer",
+                "subject"
+            ],
+            "e_files": [
+                "course_offer",
+                "course_subject",
+                "offer_inst"
+            ],
+            "result": {
+                "path": "/data/ranking/top2000_q100_movie_imdb_to_freebase_results/target"
+            }
+        }
     }
 }
