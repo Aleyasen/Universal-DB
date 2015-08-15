@@ -1,0 +1,623 @@
+11	Anthony Hopkins
+57	David Sterne
+75	Emil Hostina
+147	David Orpheus
+171	Max von Sydow
+182	Jessica Alba
+191	Ned Beatty
+194	Elias Koteas
+222	Brent Briscoe
+271	Jeffrey Feingold
+297	Richard Jenkins
+300	Channing Tatum
+303	Amanda Seyfried
+337	George Lopez
+343	Jackie Chan
+361	Lucas Till
+376	Mia Stallard
+385	Arron Shiver
+409	Troy Brenna
+412	Jeff Chase
+415	Mark Kubr
+449	Michael Neal Powell
+460	Julie Andrews
+463	Dwayne Johnson
+469	Brandon T. Jackson
+511	Ric Govea
+574	Matt Ward
+610	Dee Jay Jackson
+636	Danny Huston
+662	Frank Grillo
+676	Adam Scott
+679	Amy Adams
+804	Denzel Washington
+807	Gary Oldman
+810	Mila Kunis
+813	Ray Stevenson
+816	Michael Gambon
+822	Frances de la Tour
+831	Joe Pingue
+837	Chris Browning
+840	Richard Cetrone
+843	Lateef Crowder
+974	David T. Quan
+1006	Harrison Ford
+1038	Melissa Leo
+1041	Kristen Stewart
+1044	Lance E. Nichols
+1047	David Jensen
+1059	Joe Chrest
+1110	Cynthia LeBlanc
+1113	Elton LeBlanc
+1116	Jay Oliver
+1119	Logan Douglas Smith
+1122	Terry Lee Smith
+1125	Michael Wozniak
+1132	Dakota Fanning
+1141	Michael Shannon
+1147	Brett Cullen
+1167	Chris Cooper
+1170	Tommy Lee Jones
+1188	Rosemarie DeWitt
+1191	Maria Bello
+1212	Gary Galone
+1227	Tom Kemp
+1340	Keith Fluker
+1343	Shawn Fogarty
+1346	John Franchi
+1367	Jeffery Kincannon
+1370	Ren Knopf
+1375	Rich Manley
+1378	Dan Marshall
+1386	Jim Patton
+1389	Americo Presciutti
+1395	Donna Glee Reim
+1398	Billy Silvia
+1424	Adrien Brody
+1433	Curtis Armstrong
+1451	Andrew Wilson
+1463	Mary Birdsong
+1475	Rhys Coiro
+1502	Wallace Bridges
+1514	Linda Boston
+1595	Dave Kilgore
+1625	Morris Lee Sullivan
+1648	Mark Ruffalo
+1651	Leonardo DiCaprio
+1659	Jackie Earle Haley
+1782	Jeffrey Corazzini
+1788	Mackenzie Hawe
+1806	Daniel Lowney
+1844	Ashton Kutcher
+1849	Bradley Cooper
+1852	Topher Grace
+1855	Anne Hathaway
+1864	Taylor Lautner
+1876	Jamie Foxx
+1893	Jessica Biel
+1896	Kristen Schaal
+1899	Brooklynn Proulx
+1920	Christine Lakin
+2091	Bonnie Aarons
+2109	Rance Howard
+2127	Jerald Garner
+2137	Pierce Brosnan
+2169	Steve Coogan
+2172	Rosario Dawson
+2175	Kevin McKidd
+2178	Joe Pantoliano
+2312	Keith Dallas
+2430	Bruce Willis
+2439	Tracy Morgan
+2448	Kevin Pollak
+2454	Jason Lee
+2460	Adrian Martinez
+2472	Rashida Jones
+2550	Sarah Burns
+2553	Kevin Cannon
+2571	Eddie J. Fernandez
+2580	Gina Hernandez
+2639	Matt Lucas
+2644	Helena Bonham Carter
+2647	Johnny Depp
+2653	Michael Sheen
+2656	Alan Rickman
+2659	Timothy Spall
+2665	Christopher Lee
+2683	Geraldine James
+2691	Marton Csokas
+2876	Gary Sievers
+2895	Brendan Gleeson
+2898	Matt Damon
+2901	Greg Kinnear
+2904	Jason Isaacs
+3162	James Currie
+3168	Robert Harrison O'Neil
+3185	Timothy Olyphant
+3212	Glenn Morshower
+3311	Jeremy Ambler
+3347	Cody Rowlett
+3363	Jonathan Rhys Meyers
+3460	Liam Neeson
+3462	Ralph Fiennes
+3464	Jason Flemyng
+3476	Gemma Arterton
+3479	Pete Postlethwaite
+3485	Luke Evans
+3542	John Cusack
+3562	Sebastian Stan
+3695	Jacob Blair
+3737	Jay Baruchel
+3752	T. J. Miller
+3764	Andy Daly
+3770	Lindsay Sloane
+3782	Jessica St. Clair
+3815	Jason McCune
+3872	William Kania
+3899	Jim Fitzgerald
+3919	Tiffany Sander McKenzie
+3972	Robert Pattinson
+3986	Peyton List
+4098	Keith Allen Hayes
+4127	Mark Ezra Stokes
+4155	Jennifer Aniston
+4164	Jason Sudeikis
+4185	Gio Perez
+4203	Jessica Czop
+4206	Gilbert Soto
+4214	Robert Capron
+4220	Chloë Grace Moretz
+4231	Cainan Wiebe
+4264	Mark Strong
+4267	Nicolas Cage
+4275	Christopher Mintz-Plasse
+4286	Omari Hardwick
+4431	Emma Thompson
+4437	Rhys Ifans
+4505	Edrick Browne
+4530	Jonah Hill
+4548	Kristen Wiig
+4551	Robin Atkin Downes
+4657	John W. Iwanonkiw
+4706	Alice Braga
+4712	RZA
+4732	John Leguizamo
+4938	Melissa McCarthy
+4953	Anthony Anderson
+4988	Jeffrey Dean Morgan
+4991	Idris Elba
+4997	Chris Evans
+5000	Zoe Saldana
+5098	Rob Riggle
+5121	Ken Jeong
+5130	Toby Huss
+5147	James Marsden
+5165	Danny Glover
+5177	Loretta Devine
+5193	Steve Carell
+5196	James Franco
+5199	Mark Wahlberg
+5207	Leighton Meester
+5210	Gal Gadot
+5224	Jimmi Simpson
+5235	Ray Liotta
+5244	Nick Kroll
+5262	Ari Graynor
+5317	Rich Campbell
+5367	John J. Schneider
+5389	Clancy Brown
+5392	Rooney Mara
+5407	Kellan Lutz
+5528	Kate Mara
+5537	Clark Gregg
+5549	Paul Bettany
+5552	Jon Favreau
+5599	Keith Middlebrook
+5702	Christopher Maleki
+5711	Erin Pickett
+5753	Mark Casimir Dyniewicz
+5771	Cameron Lee
+5919	Haji Abdullah
+5950	Alphonse A. Lambert Jr.
+5962	Lynn McArthur
+5965	Deidre D. Mosely
+5971	Donald Norris Jr.
+5988	Jawad Talpur
+6048	Cameron Diaz
+6051	Antonio Banderas
+6062	Chris Miller
+6065	Walt Dohrn
+6084	Jane Lynch
+6087	Jon Hamm
+6101	Lake Bell
+6121	Mike Mitchell
+6140	Nina Zoe Bakshi
+6153	Brian Hopkins
+6187	Frank Welker
+6194	Russell Crowe
+6197	Cate Blanchett
+6218	Oscar Isaac
+6227	Kevin Durand
+6345	Ralph Ineson
+6463	Teresa Mahoney
+6477	Sarah Jane O'Neill
+6493	Carey Mulligan
+6499	Frank Langella
+6502	Josh Brolin
+6533	Alfred Molina
+6536	Jake Gyllenhaal
+6541	Toby Kebbell
+6680	Will Forte
+6698	Maya Rudolph
+6739	Derek Mears
+6829	Tina Borek
+6846	Larry Goldstein
+6924	Samuel L. Jackson
+6927	Stephen Root
+7031	Naomi Watts
+7054	David Warshofsky
+7087	Jessica Hecht
+7111	Sam Shepard
+7133	Freida Pinto
+7136	Lucy Punch
+7171	Anupam Kher
+7180	Pearce Quigley
+7226	Jemaine Clement
+7235	Sam Rockwell
+7258	Judy Greer
+7264	Owen Wilson
+7271	Lee Pace
+7317	Maggie Grace
+7323	Tom Cruise
+7334	Jordi Mollà
+7352	Patrick Wilson
+7399	Katherine Heigl
+7419	Larry Joe Campbell
+7434	Alex Borstein
+7652	Rose Byrne
+7655	Russell Brand
+7666	Elisabeth Moss
+7681	Kristen Bell
+7720	Jake M. Johnson
+7946	John Malkovich
+7954	Michael Fassbender
+7968	Wes Bentley
+7971	Julia Jones
+7988	John McConnell
+8006	J.D. Evermore
+8071	Aidan Quinn
+8112	Edward R. Cox
+8143	Shadoe Knight
+8176	John Santiago
+8204	Jackson Rathbone
+8246	Erica LaRose
+8315	Dee Bradley Baker
+8343	Tom Delconte
+8373	Michael J. Kraycik
+8388	Brian M. Martin
+8408	Mihir Pathak
+8468	Kevin James
+8473	Adam Sandler
+8482	Jamie Chung
+8497	Blake Clark
+8500	Dan Patrick
+8532	Sadie Madison Sandler
+8538	Jonathan Loughran
+8547	Jackie Sandler
+8550	Sunny Madeline Sandler
+8571	J.D. Donaruma
+8574	Billy Concha
+8602	Charlie Alejandro
+8623	Katelyn Cahill
+8692	Kahdiak
+8712	Jeff Martineau
+8721	Chris Palermo
+8739	Ashley Greene
+8742	Nikki Reed
+8747	Billy Burke
+8758	Jodelle Ferland
+8767	Bryce Dallas Howard
+8770	Charlie Bewley
+8773	Sarah Clarke
+8779	Justin Chon
+8788	Michael Welch
+8794	Alex Meraz
+8797	Christian Serratos
+8800	Daniel Cudmore
+8803	Anna Kendrick
+8809	Gil Birmingham
+8812	Elizabeth Reaser
+8815	Peter Facinelli
+8825	Monique Ganderton
+8865	Joan Cusack
+8970	Rinko Kikuchi
+9011	Danny McBride
+9027	Jack McBrayer
+9030	Pierre Coffin
+9044	Rob Huebel
+9057	Zac Efron
+9091	Dave Franco
+9156	Nick Nolte
+9166	Christina Applegate
+9179	J.K. Simmons
+9186	E.G. Daily
+9193	Phil LaMarr
+9215	Grey DeLisle
+9228	Chris Parson
+9233	Bumper Robinson
+9303	Walton Goggins
+9315	Danny Trejo
+9321	Brian Steele
+9345	Joey King
+9348	Josh Duhamel
+9389	Teresa Palmer
+9485	John Farrer
+9516	Cillian Murphy
+9522	Marion Cotillard
+9525	Michael Caine
+9536	Joseph Gordon-Levitt
+9539	Lukas Haas
+9714	Christa Campbell
+9734	James Remar
+9810	Mary Elizabeth Winstead
+9862	Erik Knudsen
+9968	Angelina Jolie
+9974	Zoe Lister-Jones
+10027	Tika Sumpter
+10045	Vladimir Tevlovski
+10143	Elizabeth Kaledin
+10164	Robert Bizik
+10197	Nick Diamantis
+10212	Natalie Gal
+10236	Matthew James Gulbranson
+10241	Moe Hindi
+10257	Zach Galifianakis
+10263	Paul Rudd
+10273	Ron Livingston
+10296	Chris O'Dowd
+10308	Patrick Fischler
+10344	Hunter James Mckeever
+10371	Giovanni Ribisi
+10406	Robert Harvey
+10454	Jason Bateman
+10457	Juliette Lewis
+10465	Caroline Dhavernas
+10573	Glynn Turman
+10576	Nicholas Turturro
+10815	Ryan O'Nan
+10967	Jason Statham
+10979	Mickey Rourke
+10982	Terry Crews
+11191	Justin Long
+11311	Victoria Gates
+11320	Rosemary Howard
+11346	Danielle McKee
+11397	Callan McAuliffe
+11531	Mike Epps
+11686	Gilbert Galon
+11689	Curtis Gammage
+11697	TJ Hassan
+11700	Barry Hopkins
+11710	Gregory Marshall Smith
+11766	Eli Roth
+12228	Andy Buckley
+12491	Victor Garber
+12505	Sigourney Weaver
+12606	Nicole Abramson
+12639	Michelle Rodriguez
+12642	Robert De Niro
+12667	Daryl Sabara
+12854	Stephen Bishop
+12940	George J. Vezina
+12973	Blake Lively
+12976	Jeremy Renner
+12981	Geoffrey Rush
+12999	Miriam Margolyes
+13007	Helen Mirren
+13013	Abbie Cornish
+13025	Joel Edgerton
+13054	Jesse Eisenberg
+13071	Max Minghella
+13109	Josh Pence
+13505	Peter Carey
+13585	Sean Talo
+13751	Rebekah Wiggins
+13798	Juliet Lopez
+13810	Morgan Freeman
+13813	Karl Urban
+13823	Brian Cox
+13839	Jaqueline Fleming
+13856	Hayden Panettiere
+13906	Fred Tatasciore
+13909	Mindy Sterling
+14069	Ron Causey
+14089	Natalie Portman
+14092	Winona Ryder
+14174	Nicholas Yu
+14180	Arnold Agee
+14203	Will Clarke
+14214	P.J. Edwards
+14314	Ron Perlman
+14323	Woody Harrelson
+14356	Fernando Chien
+14362	Kofi Yiadom
+14365	Aaron Toney
+14542	Cabran E. Chamberlain
+14581	Fileena Bahris
+14700	George Clooney
+14775	David Strathairn
+14781	Alan Cumming
+14805	Robin Wright
+14808	Tom Wilkinson
+14811	Kevin Kline
+14837	Shea Whigham
+14865	Domhnall Gleeson
+15011	Graham McTavish
+15014	Scott Glenn
+15068	Sienna Guillory
+15109	Bill Blair
+15144	Clémence Poésy
+15278	Michelle Monaghan
+15346	Keegan-Michael Key
+15368	Frances Cobb
+15427	Lew Temple
+15444	Andy Umberger
+15472	Scott A. Martin
+15554	Joshua Elijah Reese
+15617	Stephen Taylor
+15660	Dermot Mulroney
+15675	Walter Perez
+15921	Robert Clotworthy
+15966	Josh Lucas
+15976	Reggie Lee
+15988	Faizon Love
+16061	Patricia French
+16081	Tim Blanchard
+16306	Brad Pitt
+16315	David Cross
+16318	Ben Stiller
+16488	Robert Clohessy
+16555	Olivia Wilde
+16558	Elizabeth Banks
+16824	Stanley Tucci
+16838	Cam Gigandet
+16855	Julianne Hough
+16875	Tyne Stecklein
+17165	Hank Azaria
+17171	Oliver Platt
+17218	Adewale Akinnuoye-Agbaje
+17256	Matt Gerald
+17274	Aedin Mincks
+17408	Tony Sagastizado I
+17447	Robert Maillet
+17606	Jeffrey Tambor
+17629	John DiMaggio
+17654	Toby Jones
+17657	Tom Felton
+17681	Robbie Coltrane
+17719	John Hurt
+17724	Jamie Campbell Bower
+17744	Rade Šerbedžija
+17747	Julie Walters
+17759	Warwick Davis
+17888	David O'Hara
+17928	Gwyneth Paltrow
+17931	Garrett Hedlund
+18168	Rodney Burlin
+18175	Harry P. Castros
+18314	Jeff Bridges
+18438	Jack McGee
+18463	Patrick Sabongui
+18641	William Palmer Jr.
+18808	Cindy Engle
+18913	Will Souders
+18971	Simon Pegg
+19086	Billy Connolly
+19099	Jack Black
+19223	Anna Faris
+19457	Eric Weinstein
+19493	Roy Jones Jr.
+19617	Jack Axelrod
+19779	Niko El Santo Zavero
+19796	Don Kress
+19799	Michael Kuster
+19851	Dakin Matthews
+20310	Daniel Boughton
+20353	Nathan Geist
+20410	Jim Nieciecki
+20593	Christopher Evan Welch
+20596	Julie White
+20610	Terrence Howard
+20790	Seth Rogen
+20969	Monika Spruch
+20984	Donald Sutherland
+20997	Katarzyna Wolejnio
+21004	Beau Brasso
+21009	Grant Case
+21100	Gustavo I. Ortiz
+21103	James Rawlings
+21127	Anton Yelchin
+21193	Olivia Thirlby
+21330	Ciarán Hinds
+21591	Tomas Arana
+21693	Nicole Kidman
+21718	Nick Swardson
+21734	Allen Covert
+21741	Dana Min Goodman
+21744	Julia Lea Wolov
+21755	Peter Dante
+21952	Anthony Mackie
+22064	Isla Fisher
+22075	Alanna Ubach
+22093	James Ward Byrkit
+22152	Joe Nunez
+22173	Gore Verbinski
+22531	Tony Curran
+22594	Jesse Plemons
+22618	Mike Miller
+22784	Tucker Albrizzi
+22819	Jackson Nunn
+22839	Vanessa Hudgens
+22895	Brad Kelly
+22917	Christine Willes
+23041	Bryan Cranston
+23057	Michael Peña
+23293	Paul Giamatti
+23429	Rodrigo Santoro
+23840	Erica Lynne Marszalek
+23927	Geoff Pierson
+24213	Charlotte Biggs
+24216	Ava Bogle
+24236	Emily D. Haley
+24275	Josh Hutcherson
+24305	Jessica Lee
+24455	Arthur Darbinyan
+24595	Jennifer Lawrence
+24639	Chris Pratt
+24717	Chris Hemsworth
+24720	Stellan Skarsgård
+24748	Tadanobu Asano
+24761	Maximiliano Hernández
+24897	Stan Lee
+24944	Alan Dale
+25076	David Cohen
+25319	Ralph H. Meyer
+25522	Danny Pudi
+25533	Mike Disa
+25562	Rob Paulsen
+25817	Deobia Oparei
+25969	Edi Gathegi
+26389	Hugh Jackman
+26608	Jeff Wolfe
+27308	Jake McLaughlin
+27332	Ryan Reynolds
+27385	Ritchie Montgomery
+27402	Dane Rhodes
+27453	Edward J. Clare
+27516	Tom Kenny
+27531	Alan Tudyk
+27765	Daniel Craig
+28736	Andy Serkis
+28760	David Oyelowo
+28990	Jeremy Piven
+29004	Joel McHale
+29430	Ben Mendelsohn
+30203	Eric Tuchelske
+30234	Mike Ancrile
+30339	Stephen Dorff
+30456	Chris Titone
+31136	Tim Blake Nelson
+32073	Joel Kinnaman
+32885	Austin Naulty
+33008	Taylor Kitsch
+33157	Steven Cree
+34390	Russell M. Haeuser
+34398	Ken Massey
+34413	Aspen Steib
+35496	John L. Armijo
+36149	Gonzalo Menendez
+36310	Mía Maestro
+37398	Jacqueline Forton
+37798	Will Yun Lee
+37926	Steven Hauptman
+38099	Demetrice Nguyen

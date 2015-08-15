@@ -2,6 +2,7 @@
     "datasets": [
         "biblo",
         "course",
+        "movie2",
         "movie",
         "yods"
     ]

@@ -1,0 +1,46 @@
+{
+    "id": "movie2",
+    "name": "Filmography Dataset (New)",
+    "path": "/data/movie2",
+    "v_files": [
+        "actor.txt",
+        "film.txt",
+        "starring.txt"
+    ],
+    "e_files": [
+        "actor_film.txt",
+        "actor_starring.txt",
+        "film_starring.txt"
+    ],
+    "schema": {
+        "source": {
+            "name": "IMDb",
+            "v_files": [
+                "actor",
+                "film"
+            ],
+            "e_files": [
+                "actor_film"
+            ],
+            "result": {
+                "path": "/data/ranking/top2000_q100_movie_imdb_to_freebase_results/source"
+            }
+        },
+        "target": {
+            "name": "Freebase",
+            "v_files": [
+                "actor",
+                "film",
+                "starring"
+            ],
+            "e_files": [
+                "actor_starring",
+                "film_starring"
+            ],
+            "result": {
+                "path": "/data/ranking/top2000_q100_movie_imdb_to_freebase_results/target"
+            }
+        }
+    }
+}
+

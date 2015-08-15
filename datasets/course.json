@@ -29,7 +29,7 @@
                 "offer_subject"
             ],
             "result": {
-                "path": "/data/ranking/top2000_q100_movie_imdb_to_freebase_results/source"
+                "path": ""
             }
         },
         "target": {
@@ -46,7 +46,7 @@
                 "offer_inst"
             ],
             "result": {
-                "path": "/data/ranking/top2000_q100_movie_imdb_to_freebase_results/target"
+                "path": ""
             }
         }
     }
