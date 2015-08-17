@@ -15545,3 +15545,1149 @@ Done! Save json data on ./data/uw-courses/sample/temp/out-71298//schema-src.json
 Import edge file inst , type1 = course , type2 = subject
 Import edge file offer , type1 = offer , type2 = inst
 Done! Save json data on ./data/uw-courses/sample/temp/out-43175//schema-target.json
+error. unavailable dataset bibloerror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset yodskey=0, val=data/uw-courses/sample/course.txt
+key=0, val=data/uw-courses/sample/course.txt
+key=1, val=data/uw-courses/sample/inst.txt
+key=1, val=data/uw-courses/sample/inst.txt
+key=2, val=data/uw-courses/sample/offer.txt
+key=2, val=data/uw-courses/sample/offer.txt
+key=3, val=data/uw-courses/sample/subject.txt
+key=3, val=data/uw-courses/sample/subject.txt
+key=0, val=data/uw-courses/sample/course_offer.txt
+key=0, val=data/uw-courses/sample/course_offer.txt
+key=1, val=data/uw-courses/sample/course_subject.txt
+key=1, val=data/uw-courses/sample/course_subject.txt
+key=2, val=data/uw-courses/sample/offer_inst.txt
+key=2, val=data/uw-courses/sample/offer_inst.txt
+key=3, val=data/uw-courses/sample/offer_subject.txt
+key=3, val=data/uw-courses/sample/offer_subject.txt
+1 801
+1 122001
+1 115401
+1 121601
+1 124701
+1 125701
+1 125201
+1 124001
+1 1201
+1 801
+1 1501
+1 122001
+1 123401
+1 115401
+1 109801
+1 121601
+1 94301
+1 124701
+1 125701
+1 125201
+2 76602
+1 124001
+2 1002
+1 1201
+2 1702
+1 1501
+2 91302
+1 123401
+2 124902
+1 109801
+2 110002
+1 94301
+2 122602
+2 125402
+2 1402
+2 123602
+2 94502
+2 76602
+2 1002
+3 89803
+2 1702
+3 903
+2 91302
+3 81403
+2 124902
+3 85203
+2 110002
+3 122103
+2 122602
+3 88503
+2 125402
+3 87403
+2 1402
+3 82903
+2 123602
+3 120503
+2 94502
+3 121803
+3 95903
+3 125003
+3 89803
+3 126003
+3 903
+3 122503
+3 81403
+3 122203
+3 85203
+3 121703
+3 122103
+3 125603
+3 88503
+3 125103
+3 87403
+3 108103
+3 82903
+3 124103
+3 120503
+3 115503
+3 121803
+3 78403
+3 95903
+3 125903
+3 125003
+3 1303
+3 126003
+3 125303
+3 122503
+3 123303
+3 122203
+3 98403
+3 121703
+3 1603
+3 125603
+3 124203
+3 125103
+3 123503
+3 108103
+3 125503
+3 124103
+3 100603
+3 115503
+3 104503
+3 78403
+3 122303
+3 125903
+3 93303
+3 1303
+3 121903
+3 125303
+3 123103
+3 123303
+3 123203
+3 98403
+3 111803
+3 118203
+3 1603
+3 76503
+3 124203
+3 123903
+3 123503
+3 102803
+3 125503
+3 124803
+3 100603
+3 122703
+3 104503
+3 124303
+3 122303
+3 91203
+3 93303
+3 123803
+3 121903
+3 113303
+3 123103
+3 125803
+3 123203
+3 123703
+3 111803
+3 79903
+3 118203
+3 124603
+3 76503
+3 122803
+3 123903
+3 106203
+3 102803
+3 109903
+3 124803
+3 122703
+3 124303
+4 1104
+3 91203
+3 123803
+3 113303
+3 125803
+3 123703
+3 79903
+3 124603
+3 122803
+course offer
+3 106203
+3 109903
+4 1104
+offer inst
+offer subject
+course offer
+Import node file course.txt , type = course
+Import node file inst.txt , type = inst
+course subject
+Import node file offer.txt , type = offer
+offer inst
+Import node file subject.txt , type = subject
+Import edge file course , type1 = course , type2 = offer
+Import node file course.txt , type = course
+Import edge file inst , type1 = offer , type2 = inst
+Import node file inst.txt , type = inst
+Import edge file offer , type1 = offer , type2 = subject
+Import node file offer.txt , type = offer
+Import node file subject.txt , type = subject
+Done! Save json data on ./data/uw-courses/sample/temp/out-27742//schema-src.json
+Import edge file course , type1 = course , type2 = offer
+Import edge file inst , type1 = course , type2 = subject
+Import edge file offer , type1 = offer , type2 = inst
+Done! Save json data on ./data/uw-courses/sample/temp/out-68224//schema-target.json
+error. unavailable dataset bibloerror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset movieerror. unavailable dataset yodskey=0, val=data/uw-courses/sample/course.txt
+error. unavailable dataset yodskey=0, val=data/uw-courses/sample/course.txt
+key=1, val=data/uw-courses/sample/inst.txt
+key=1, val=data/uw-courses/sample/inst.txt
+key=2, val=data/uw-courses/sample/offer.txt
+key=2, val=data/uw-courses/sample/offer.txt
+key=3, val=data/uw-courses/sample/subject.txt
+key=3, val=data/uw-courses/sample/subject.txt
+key=0, val=data/uw-courses/sample/course_offer.txt
+key=1, val=data/uw-courses/sample/course_subject.txt
+key=1, val=data/uw-courses/sample/course_subject.txt
+key=2, val=data/uw-courses/sample/offer_inst.txt
+key=2, val=data/uw-courses/sample/offer_inst.txt
+key=3, val=data/uw-courses/sample/offer_subject.txt
+key=3, val=data/uw-courses/sample/offer_subject.txt
+1 801
+1 122001
+1 115401
+1 121601
+1 124701
+1 125701
+1 125201
+1 124001
+1 1201
+1 1501
+1 123401
+1 109801
+1 94301
+2 76602
+2 1002
+2 1702
+2 91302
+2 124902
+2 110002
+2 122602
+2 125402
+2 1402
+2 123602
+2 94502
+3 89803
+3 903
+3 81403
+3 85203
+3 122103
+3 88503
+3 87403
+3 82903
+3 120503
+3 121803
+3 95903
+3 125003
+3 126003
+3 122503
+3 122203
+3 121703
+3 125603
+3 125103
+3 108103
+3 124103
+3 115503
+3 78403
+1 801
+3 125903
+1 122001
+3 1303
+1 115401
+3 125303
+1 121601
+3 123303
+1 125701
+3 1603
+1
+3 124203
+3 123503
+3 125503
+3 100603
+1 124001
+3 104503
+1 1201
+3 122303
+1 1501
+3 93303
+1 123401
+3 121903
+1 109801
+3 123103
+1 94301
+3 123203
+3 111803
+3 118203
+3 76503
+2 76602
+3 123903
+2 1002
+3 102803
+2 1702
+3
+2 91302
+3 122703
+2 124902
+3 124303
+2 110002
+3 91203
+2 122602
+3 123803
+2 125402
+3 113303
+2 1402
+3 125803
+2 123602
+3 123703
+2 94502
+3 79903
+3 124603
+3 122803
+3 106203
+3 89803
+3 109903
+3 903
+3 81403
+3 85203
+3 122103
+4 1104
+3 88503
+3 87403
+3 82903
+3 120503
+3 121803
+3 95903
+3 125003
+course offer
+3 126003
+3 122503
+3 122203
+3 121703
+3 125603
+3 125103
+3 108103
+3 124103
+offer inst
+3 115503
+3 78403
+3 125903
+3 1303
+3 125303
+3 123303
+3 98403
+3 1603
+3 124203
+3 123503
+offer subject
+3 100603
+3 104503
+3 122303
+3 93303
+3 121903
+3 123103
+3 123203
+3 111803
+3 118203
+Import node file course.txt , type = course
+3 76503
+3 123903
+3 102803
+3 124803
+Import node file inst.txt , type = inst
+3 122703
+3 124303
+3 91203
+3 123803
+3 113303
+de file offer.txt , type = offer
+3 125803
+3 123703
+3 79903
+3 124603
+3 122803
+3 106203
+3 109903
+Import node file subject.txt , type = subject
+4 1104
+Import edge file course , type1 = course , type2 = offer
+course offer
+Import edge file inst , type1 = offer , type2 = inst
+course subject
+Import edge file offer , type1 = offer , type2 = subject
+offer inst
+Import node file course.txt , type = course
+Import node file inst.txt , type = inst
+Import node file offer.txt , type = offer
+Done! Save json data on ./data/uw-courses/sample/temp/out-13065//schema-src.json
+Import node file subject.txt , type = subject
+Import edge file course , type1 = course , type2 = offer
+Import edge file inst , type1 = course , type2 = subject
+Import edge file offer , type1 = offer , type2 = inst
+Done! Save json data on ./data/uw-courses/sample/temp/out-48509//schema-target.json
+error. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset yodskey=0, val=data/uw-courses/sample/course.txt
+error. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset yodskey=1, val=data/uw-courses/sample/inst.txt
+key=0, val=data/uw-courses/sample/course.txt
+key=2, val=data/uw-courses/sample/offer.txt
+key=1, val=data/uw-courses/sample/inst.txt
+key=2, val=data/uw-courses/sample/offer.txt
+key=3, val=data/uw-courses/sample/subject.txt
+key=0, val=data/uw-courses/sample/course_offer.txt
+key=3, val=data/uw-courses/sample/subject.txt
+key=1, val=data/uw-courses/sample/course_subject.txt
+key=0, val=data/uw-courses/sample/course_offer.txt
+key=1, val=data/uw-courses/sample/course_subject.txt
+key=2, val=data/uw-courses/sample/offer_inst.txt
+key=2, val=data/uw-courses/sample/offer_inst.txt
+key=3, val=data/uw-courses/sample/offer_subject.txt
+key=3, val=data/uw-courses/sample/offer_subject.txt
+1 801
+1 122001
+1 115401
+1 121601
+1 124701
+1 125701
+1 125201
+1 124001
+1 1201
+1 801
+1 1501
+1 122001
+1 123401
+1 115401
+1 109801
+1 121601
+1 94301
+1 124701
+1 125701
+1 125201
+2 76602
+1 124001
+2 1002
+1 1201
+2 1702
+1 1501
+2 91302
+1 123401
+2 124902
+1 109801
+2 110002
+1 94301
+2 122602
+2 125402
+2 1402
+2 123602
+2 76602
+2 1002
+2 94502
+2 1702
+2 91302
+2 124902
+3 89803
+2 110002
+3 903
+2 122602
+3 81403
+2 125402
+3 85203
+2 1402
+3 122103
+2 123602
+3 88503
+2 94502
+3 87403
+3 82903
+3 120503
+3 89803
+3 121803
+3 903
+3 95903
+3 81403
+3 125003
+3 85203
+3 126003
+3 122103
+3 122503
+3 88503
+3 122203
+3 87403
+3 121703
+3 82903
+3 125603
+3 120503
+3 125103
+3 121803
+3 108103
+3 95903
+3 124103
+3 125003
+3 115503
+3 126003
+3 78403
+3 122503
+3 125903
+3 122203
+3 1303
+3 121703
+3 125303
+3 125603
+3 123303
+3 125103
+3 98403
+3 108103
+3 1603
+3 124103
+3 124203
+3 115503
+3 123503
+3 78403
+3 125503
+3 125903
+3 100603
+3 1303
+3 104503
+3 125303
+3 122303
+3 123303
+3 93303
+3 98403
+3 121903
+3 1603
+3 123103
+3 124203
+3 123203
+3 123503
+3 111803
+3 125503
+3 118203
+3 100603
+3 76503
+3 104503
+3 123903
+3 122303
+3 102803
+3 93303
+3 124803
+3 121903
+3 122703
+3 123103
+3 124303
+3 123203
+3 91203
+3 111803
+3 123803
+3 118203
+3 113303
+3 76503
+3 125803
+3 123903
+3 102803
+3 123703
+3 124803
+3 79903
+3 122703
+3 124603
+3 124303
+3 122803
+3 91203
+3 106203
+3 123803
+3 109903
+3 113303
+3 125803
+3 123703
+3 79903
+4 1104
+3 124603
+3 122803
+3 106203
+3 109903
+4 1104
+course offer
+course offer
+offer inst
+course subject
+offer inst
+offer subject
+Import node file course.txt , type = course
+Import node file inst.txt , type = inst
+Import node file offer.txt , type = offer
+Import node file course.txt , type = course
+Import node file subject.txt , type = subject
+Import node file inst.txt , type = inst
+Import edge file course , type1 = course , type2 = offer
+Import node file offer.txt , type = offer
+Import edge file inst , type1 = course , type2 = subject
+Import edge file offer , type1 = offer , type2 = inst
+Import node file subject.txt , type = subject
+Import edge file course , type1 = course , type2 = offer
+Import edge file inst , type1 = offer , type2 = inst
+Done! Save json data on ./data/uw-courses/sample/temp/out-23636//schema-target.json
+Import edge file offer , type1 = offer , type2 = subject
+Done! Save json data on ./data/uw-courses/sample/temp/out-15696//schema-src.json
+error. unavailable dataset bibloerror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset yodskey=0, val=data/uw-courses/sample/course.txt
+key=0, val=data/uw-courses/sample/course.txt
+key=1, val=data/uw-courses/sample/inst.txt
+key=2, val=data/uw-courses/sample/offer.txt
+key=2, val=data/uw-courses/sample/offer.txt
+key=3, val=data/uw-courses/sample/subject.txt
+key=0, val=data/uw-courses/sample/course_offer.txt
+key=0, val=data/uw-courses/sample/course_offer.txt
+key=1, val=data/uw-courses/sample/course_subject.txt
+key=1, val=data/uw-courses/sample/course_subject.txt
+key=2, val=data/uw-courses/sample/offer_inst.txt
+key=2, val=data/uw-courses/sample/offer_inst.txt
+key=3, val=data/uw-courses/sample/offer_subject.txt
+key=3, val=data/uw-courses/sample/offer_subject.txt
+1 124701
+1 1201
+1 124701
+1 1501
+1 1201
+1 125201
+1 1501
+1 801
+1 125201
+1 121601
+1 801
+1 94301
+1 121601
+1 115401
+1 94301
+1 123401
+1 115401
+1 109801
+1 123401
+1 125701
+1 109801
+1 124001
+1 125701
+1 122001
+1 124001
+1 122001
+3 89803
+3 903
+3 89803
+3 81403
+3 85203
+3 903
+3 122103
+3 81403
+3 88503
+3 85203
+3 87403
+3 122103
+3 82903
+3 88503
+3 120503
+3 87403
+3 121803
+3 82903
+3 95903
+3 120503
+3 125003
+3 121803
+3 126003
+3 122503
+3 122203
+3 121703
+3 95903
+3 125603
+3 125003
+3 125103
+3 126003
+3 108103
+3 122503
+3 124103
+3 122203
+3 115503
+3 121703
+3 78403
+3 125603
+3 125903
+3 125103
+3 1303
+3 108103
+3 125303
+3 124103
+3 123303
+3 115503
+3 98403
+3 78403
+3 1603
+3 125903
+3 124203
+3 1303
+3 123503
+3 125303
+3 125503
+3 123303
+3 100603
+3 98403
+3 104503
+3 1603
+3 122303
+3 124203
+3 93303
+3 123503
+3 121903
+3 125503
+3 123103
+3 100603
+3 123203
+3 104503
+3 111803
+3 122303
+3 118203
+3 93303
+3 76503
+3 121903
+3 123903
+3 123103
+3 102803
+3 123203
+3 124803
+3 111803
+3 122703
+3 118203
+3 124303
+3 76503
+3 91203
+3 123903
+3 123803
+3 102803
+3 113303
+3 124803
+3 125803
+3 122703
+3 123703
+3 124303
+3 79903
+3 91203
+3 124603
+3 123803
+3 122803
+3 113303
+3 106203
+3 125803
+3 109903
+3 123703
+3 79903
+3 124603
+4 1104
+3 122803
+3 106203
+3 109903
+4 1104
+course offer
+offer inst
+offer subject
+course offer
+Import node file course.txt , type = course
+Import node file inst.txt , type = inst
+Import node file offer.txt , type = offer
+course subject
+Import node file subject.txt , type = subject
+Import edge file course , type1 = course , type2 = offer
+offer inst
+Import node file course.txt , type = course
+Import edge file inst , type1 = offer , type2 = inst
+Import edge file offer , type1 = offer , type2 = subject
+Import node file inst.txt , type = inst
+Import node file offer.txt , type = offer
+Import node file subject.txt , type = subject
+Done! Save json data on ./data/uw-courses/sample/temp/out-20752//schema-src.json
+Import edge file course , type1 = course , type2 = offer
+Import edge file inst , type1 = course , type2 = subject
+Import edge file offer , type1 = offer , type2 = inst
+Done! Save json data on ./data/uw-courses/sample/temp/out-49534//schema-target.json
+error. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset biblokey=0, val=data/uw-courses/sample/course.txt
+error. unavailable dataset movieerror. unavailable dataset yodskey=0, val=data/uw-courses/sample/course.txt
+key=1, val=data/uw-courses/sample/inst.txt
+key=1, val=data/uw-courses/sample/inst.txt
+key=2, val=data/uw-courses/sample/offer.txt
+key=2, val=data/uw-courses/sample/offer.txt
+key=3, val=data/uw-courses/sample/subject.txt
+key=0, val=data/uw-courses/sample/course_offer.txt
+key=0, val=data/uw-courses/sample/course_offer.txt
+key=1, val=data/uw-courses/sample/course_subject.txt
+key=1, val=data/uw-courses/sample/course_subject.txt
+key=2, val=data/uw-courses/sample/offer_inst.txt
+key=2, val=data/uw-courses/sample/offer_inst.txt
+key=3, val=data/uw-courses/sample/offer_subject.txt
+key=3, val=data/uw-courses/sample/offer_subject.txt
+1 801
+1 122001
+1 115401
+1 121601
+1 124701
+1 125701
+1 125201
+1 124001
+1 1201
+1 1501
+1 123401
+1 109801
+1 94301
+2 76602
+2 1002
+2 1702
+2 91302
+2 124902
+2 110002
+2 122602
+2 125402
+2 1402
+2 123602
+2 94502
+3 89803
+3 903
+3 81403
+3 85203
+3 122103
+3 88503
+3 87403
+3 82903
+3 120503
+3 121803
+3 95903
+3 125003
+1 801
+3 126003
+1 122001
+3 122503
+3 122203
+3 121703
+3 125603
+3 125103
+3 108103
+3 124103
+3 115503
+3 78403
+3 125903
+1 115401
+3 1303
+1 121601
+3 125303
+3 123303
+3 98403
+3 1603
+3 124203
+3 123503
+3 125503
+1 125701
+3 100603
+3 104503
+1 125201
+3 122303
+1 124001
+3 93303
+1 1201
+3 121903
+1 1501
+3 123103
+1 123401
+3 123203
+1 109801
+3 111803
+1 94301
+3 118203
+3 76503
+3 123903
+3 102803
+2 76602
+3 124803
+2 1002
+3 122703
+2 1702
+3 124303
+2 91302
+3 91203
+2 124902
+3 123803
+2 110002
+3 113303
+2 122602
+3 125803
+2 125402
+3 123703
+2 1402
+3 79903
+2 123602
+3 124603
+2 94502
+3 122803
+3 106203
+3 109903
+3 89803
+3 903
+3 81403
+4 1104
+3 85203
+3 122103
+3 88503
+3 87403
+3 82903
+3 120503
+3 121803
+3 95903
+3 125003
+3 126003
+3 122503
+3 122203
+3 121703
+course offer
+3 125603
+3 125103
+3 108103
+3 124103
+3 115503
+3 78403
+3 125903
+offer inst
+3 1303
+3 125303
+3 123303
+3 98403
+3 1603
+3 124203
+3 123503
+3 125503
+3 100603
+offer subject
+3 104503
+3 122303
+3 93303
+3 121903
+3 123103
+3 123203
+3 111803
+3 118203
+3 76503
+3 123903
+Import node file course.txt , type = course
+3 124803
+3 122703
+3 124303
+Import node file inst.txt , type = inst
+3 91203
+3 123803
+3 113303
+Import node file offer.txt , type = offer
+3 125803
+3 123703
+3 79903
+3 124603
+3 122803
+3 106203
+Import node file subject.txt , type = subject
+3 109903
+Import edge file course , type1 = course , type2 = offer
+4 1104
+Import edge file inst , type1 = offer , type2 = inst
+Import edge file offer , type1 = offer , type2 = subject
+course offer
+Done! Save json data on ./data/uw-courses/sample/temp/out-64082//schema-src.json
+course subject
+offer inst
+Import node file course.txt , type = course
+Import node file inst.txt , type = inst
+Import node file offer.txt , type = offer
+Import node file subject.txt , type = subject
+Import edge file course , type1 = course , type2 = offer
+Import edge file inst , type1 = course , type2 = subject
+Import edge file offer , type1 = offer , type2 = inst
+Done! Save json data on ./data/uw-courses/sample/temp/out-19250//schema-target.json
+error. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset yodskey=0, val=data/uw-courses/sample/course.txt
+error. unavailable dataset bibloerror. unavailable dataset moviekey=1, val=data/uw-courses/sample/inst.txt
+error. unavailable dataset yodskey=0, val=data/uw-courses/sample/course.txt
+key=2, val=data/uw-courses/sample/offer.txt
+key=1, val=data/uw-courses/sample/inst.txt
+key=2, val=data/uw-courses/sample/offer.txt
+key=3, val=data/uw-courses/sample/subject.txt
+key=0, val=data/uw-courses/sample/course_offer.txt
+key=3, val=data/uw-courses/sample/subject.txt
+key=0, val=data/uw-courses/sample/course_offer.txt
+key=1, val=data/uw-courses/sample/course_subject.txt
+key=1, val=data/uw-courses/sample/course_subject.txt
+key=2, val=data/uw-courses/sample/offer_inst.txt
+key=2, val=data/uw-courses/sample/offer_inst.txt
+key=3, val=data/uw-courses/sample/offer_subject.txt
+key=3, val=data/uw-courses/sample/offer_subject.txt
+1 1201
+1 1501
+1 125201
+1 801
+1 121601
+1 94301
+1 115401
+1 123401
+1 109801
+1 125701
+1 124701
+1 1201
+1 124001
+1 122001
+1 1501
+1 125201
+1 801
+2 124902
+1 121601
+1 94301
+1 115401
+3 124803
+1 123401
+3 89803
+1 109801
+1 125701
+1 124701
+1 124001
+1 122001
+2 124902
+3 81403
+3 85203
+3 122103
+3 88503
+3 87403
+3 124803
+3 82903
+3 89803
+3 903
+3 81403
+3 85203
+3 122103
+3 88503
+3 120503
+3 87403
+
+3 95903
+3 82903
+3 125003
+3 120503
+3 126003
+3 121803
+3 122503
+3 95903
+3 122203
+3 125003
+3 121703
+3 126003
+3 125603
+3 122503
+3 125103
+3 122203
+3 108103
+3 121703
+3 124103
+3 125603
+3 115503
+3 125103
+3 78403
+3 108103
+3 125903
+3 124103
+3 1303
+3 115503
+3 125303
+3 78403
+3 123303
+3 98403
+3 1603
+3 1303
+3 124203
+3 125303
+3 123503
+3 123303
+3 125503
+3 98403
+3 100603
+3 1603
+3 104503
+3 124203
+3 122303
+3 123503
+3 93303
+3 125503
+3 121903
+3 100603
+3 123103
+3 104503
+3 123203
+3 122303
+3 111803
+3 93303
+
+3 76503
+3 121903
+3 123903
+3 123103
+3 102803
+3 123203
+3 122703
+3 111803
+3 124303
+3 91203
+3 118203
+3 123803
+3 76503
+3 113303
+3 123903
+3 125803
+3 102803
+3 123703
+3 122703
+3 79903
+3 124603
+3 124303
+3 122803
+3 91203
+3 106203
+3 113303
+3 109903
+3 125803
+3 123703
+3 79903
+3 124603
+3 122803
+3 106203
+3 109903
+4 1104
+course offer
+course offer
+offer inst
+course subject
+offer subject
+offer inst
+Import node file course.txt , type = course
+Import node file course.txt , type = course
+Import node file inst.txt , type = inst
+Import node file offer.txt , type = offer
+Import node file inst.txt , type = inst
+Import node file offer.txt , type = offer
+Import node file subject.txt , type = subject
+Import node file subject.txt , type = subject
+Import edge file course , type1 = course , type2 = offer
+Import edge file course , type1 = course , type2 = offer
+Import edge file inst , type1 = offer , type2 = inst
+Import edge file inst , type1 = course , type2 = subject
+Import edge file offer , type1 = offer , type2 = subject
+Import edge file offer , type1 = offer , type2 = inst
+Done! Save json data on ./data/uw-courses/sample/temp/out-95959//schema-src.json
+Done! Save json data on ./data/uw-courses/sample/temp/out-17229//schema-target.json
+error. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset movieerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset yodserror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset bibloerror. unavailable dataset yodserror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset yodserror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset yodserror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset yods

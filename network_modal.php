@@ -6,7 +6,10 @@
                     Source
                 </div>
                 <div class="col-md-12 highlight">
-                    <div id="modal-content-src"></div>
+                    <div class="refresh-graph-comp" style="position: relative; padding:5px; float: right; ;">
+                        <a><span class="glyphicon glyphicon-refresh" aria-hidden="true"></span></a>
+                    </div>
+                    <div id="modal-content-src" class="compare-graph"></div>
                 </div>
             </div>
         </div>
@@ -18,7 +21,10 @@
                     Target
                 </div>
                 <div class="col-md-12 highlight">
-                    <div id="modal-content-target"></div>
+                    <div class="refresh-graph-comp" style="position: relative; padding:5px; float: right; ;">
+                        <a><span class="glyphicon glyphicon-refresh" aria-hidden="true"></span></a>
+                    </div>
+                    <div id="modal-content-target" class="compare-graph"></div>
                 </div>
             </div>
         </div>
