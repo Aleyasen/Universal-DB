@@ -7,8 +7,11 @@ $schema = $_GET["schema"];
 $dataset = $_GET["dataset"];
 
 // make sure "/" is put in the end. i do not check for this char in this code
-
-$loc = $dbs[$dataset]["sample_path"] . "/";
+if (isset($_GET["compare"])) {
+    $loc = $dbs[$dataset]["path"] . "/";
+} else {
+    $loc = $dbs[$dataset]["sample_path"] . "/";
+}
 $loc = substr($loc, 1);
 
 // provide every information: all nodes, all edges here regardless of representation
@@ -52,9 +55,15 @@ if (isset($_GET["nofilter"])) {
 } else {
 
 // other parameters
-    $seed_node = $_GET["seed"];
+    if (isset($_GET["seed"])) {
+        $seed_node = $_GET["seed"];
+    } else {
+        $result_node = $_GET["result_node"];
+        $seed_node = $_GET["query_node"];
+    }
     $RADIUS = $_GET["radius"];
     $MAX_NODES = $_GET["max_nodes"];
+
 
 // ------------------------------------------------------------------------------------
 

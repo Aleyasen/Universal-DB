@@ -44,6 +44,8 @@ function graphReaders($loc, $v_files, $e_files) {
     foreach ($e_files as $x => $x_val) {
         $x_val = $x_val . ".txt";
         c_log("key=" . $x . ", val=" . $loc . $x_val . "\n");
+//        echo "key=" . $x . ", val=" . $loc . $x_val . "<br>";
+
         $file_arr = preg_split("/[._]/", $x_val);
         $t1 = $h_L[$file_arr[0]];
         $t2 = $h_L[$file_arr[1]];
@@ -56,8 +58,14 @@ function graphReaders($loc, $v_files, $e_files) {
             $v2 = rtrim($line_arr[1]);
             $n1_id = $v1 * 100 + $t1;
             $n2_id = $v2 * 100 + $t2;
-            $vg1 = $h_VVG[$n1_id];
-            $vg2 = $h_VVG[$n2_id];
+            $vg1 = -1;
+            if (isset($h_VVG[$n1_id])) {
+                $vg1 = $h_VVG[$n1_id];
+            }
+            $vg2 = -1;
+            if (isset($h_VVG[$n2_id])) {
+                $vg2 = $h_VVG[$n2_id];
+            }
             //echo $vg1.":".$n1_id."\t".$vg2.":".$n2_id."\n";
             if (array_key_exists($vg1, $h_EG))
                 $eg1 = $h_EG[$vg1];
@@ -152,6 +160,9 @@ function printToFile($loc, $v_out, $e_out, $vs, $h_VGV, $h_VVG, $h_VA, $h_L, $h_
     foreach ($v_l as $l) {
         $file = fopen($loc . $h_L[$l] . ".txt", "w") or die("unable to create " . $loc . $h_L[$l] . ".txt" . " !");
         foreach ($vs as $vg) {
+            if (!isset($h_VGV[$vg])) {
+                continue;
+            }
             $v_id = $h_VGV[$vg];
             $l_id = $v_id % 100;
             if ($l_id == $l) {
@@ -171,11 +182,17 @@ function printToFile($loc, $v_out, $e_out, $vs, $h_VGV, $h_VVG, $h_VA, $h_L, $h_
         c_log($h_L[$l1] . " " . $h_L[$l2] . "\n");
         foreach ($vs as $vg) {
             $eg = $h_EG[$vg];
+            if (!isset($h_VGV[$vg])) {
+                continue;
+            }
             $v_id = $h_VGV[$vg];
             $l_id = $v_id % 100;
             if ($l_id == $l1) {
                 $v1 = intval($v_id) / 100;
                 foreach ($eg as $vg2) {
+                    if (!isset($h_VGV[$vg2])){
+                        continue;
+                    }
                     $v2_id = $h_VGV[$vg2];
                     $l2_id = $v2_id % 100;
                     if ($l2_id == $l2 && in_array($h_VVG[$v2_id], $vs)) {

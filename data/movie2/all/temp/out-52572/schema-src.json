@@ -1,0 +1,258 @@
+{
+    "nodes": [
+        {
+            "index": 0,
+            "dataId": "actor-1122",
+            "name": "Terry Lee Smith",
+            "type": "actor",
+            "group": 1
+        },
+        {
+            "index": 1,
+            "dataId": "actor-24236",
+            "name": "Emily D. Haley",
+            "type": "actor",
+            "group": 1
+        },
+        {
+            "index": 2,
+            "dataId": "actor-1059",
+            "name": "Joe Chrest",
+            "type": "actor",
+            "group": 1
+        },
+        {
+            "index": 3,
+            "dataId": "actor-7666",
+            "name": "Elisabeth Moss",
+            "type": "actor",
+            "group": 1
+        },
+        {
+            "index": 4,
+            "dataId": "actor-4706",
+            "name": "Alice Braga",
+            "type": "actor",
+            "group": 1
+        },
+        {
+            "index": 5,
+            "dataId": "actor-20610",
+            "name": "Terrence Howard",
+            "type": "actor",
+            "group": 1
+        },
+        {
+            "index": 6,
+            "dataId": "actor-17931",
+            "name": "Garrett Hedlund",
+            "type": "actor",
+            "group": 1
+        },
+        {
+            "index": 7,
+            "dataId": "actor-679",
+            "name": "Amy Adams",
+            "type": "actor",
+            "group": 1
+        },
+        {
+            "index": 8,
+            "dataId": "actor-1041",
+            "name": "Kristen Stewart",
+            "type": "actor",
+            "group": 1
+        },
+        {
+            "index": 9,
+            "dataId": "character-34698",
+            "name": "Pedestrian",
+            "type": "character",
+            "group": 2
+        },
+        {
+            "index": 10,
+            "dataId": "character-34485",
+            "name": "People on the Street",
+            "type": "character",
+            "group": 2
+        },
+        {
+            "index": 11,
+            "dataId": "character-34465",
+            "name": "Virginia Cop",
+            "type": "character",
+            "group": 2
+        },
+        {
+            "index": 12,
+            "dataId": "character-34463",
+            "name": "Galatea Dunkel",
+            "type": "character",
+            "group": 2
+        },
+        {
+            "index": 13,
+            "dataId": "character-34458",
+            "name": "Terry",
+            "type": "character",
+            "group": 2
+        },
+        {
+            "index": 14,
+            "dataId": "character-34451",
+            "name": "Walter",
+            "type": "character",
+            "group": 2
+        },
+        {
+            "index": 15,
+            "dataId": "character-34433",
+            "name": "Dean Moriarty",
+            "type": "character",
+            "group": 2
+        },
+        {
+            "index": 16,
+            "dataId": "character-34429",
+            "name": "Jane",
+            "type": "character",
+            "group": 2
+        },
+        {
+            "index": 17,
+            "dataId": "character-34424",
+            "name": "Marylou",
+            "type": "character",
+            "group": 2
+        },
+        {
+            "index": 18,
+            "dataId": "film-34421",
+            "name": "On the Road",
+            "type": "film",
+            "group": 3
+        },
+        {
+            "index": 19,
+            "dataId": "director-34422",
+            "name": "Walter Salles",
+            "type": "director",
+            "group": 4
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 9
+        },
+        {
+            "source": 1,
+            "target": 10
+        },
+        {
+            "source": 2,
+            "target": 11
+        },
+        {
+            "source": 3,
+            "target": 12
+        },
+        {
+            "source": 4,
+            "target": 13
+        },
+        {
+            "source": 5,
+            "target": 14
+        },
+        {
+            "source": 6,
+            "target": 15
+        },
+        {
+            "source": 7,
+            "target": 16
+        },
+        {
+            "source": 8,
+            "target": 17
+        },
+        {
+            "source": 0,
+            "target": 18
+        },
+        {
+            "source": 1,
+            "target": 18
+        },
+        {
+            "source": 2,
+            "target": 18
+        },
+        {
+            "source": 3,
+            "target": 18
+        },
+        {
+            "source": 4,
+            "target": 18
+        },
+        {
+            "source": 5,
+            "target": 18
+        },
+        {
+            "source": 6,
+            "target": 18
+        },
+        {
+            "source": 7,
+            "target": 18
+        },
+        {
+            "source": 8,
+            "target": 18
+        },
+        {
+            "source": 9,
+            "target": 18
+        },
+        {
+            "source": 10,
+            "target": 18
+        },
+        {
+            "source": 11,
+            "target": 18
+        },
+        {
+            "source": 12,
+            "target": 18
+        },
+        {
+            "source": 13,
+            "target": 18
+        },
+        {
+            "source": 14,
+            "target": 18
+        },
+        {
+            "source": 15,
+            "target": 18
+        },
+        {
+            "source": 16,
+            "target": 18
+        },
+        {
+            "source": 17,
+            "target": 18
+        },
+        {
+            "source": 18,
+            "target": 19
+        }
+    ]
+}

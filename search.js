@@ -58,5 +58,5 @@ function doIt(query_list, result_dir, k) {
         tk = k;
     }
 //        alert(tk);
-    generateAllLists(result_dir, q_index, tk);
+    generateAllLists(result_dir, q_index, tk, q);
 }

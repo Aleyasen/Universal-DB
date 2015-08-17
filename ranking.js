@@ -21,18 +21,18 @@ var rect_width = 120;
 var rect_height = 30;
 var truncate_limit = 20;
 
-function generateAllLists(result_dir, query, tk) {
+function generateAllLists(result_dir, query_index, tk, query_text) {
     top_k = tk;
 //        var query = "5";
     var root_dir = result_dir;
 //    var root_dir = "data\\ranking\\dblp_c50_top2000";
 
-    var src_file1 = root_dir + "\\source\\rwr\\answer.query" + query + ".txt";
-    var target_file1 = root_dir + "\\target\\rwr\\answer.query" + query + ".txt";
-    var src_file2 = root_dir + "\\source\\simrank\\answer.query" + query + ".txt";
-    var target_file2 = root_dir + "\\target\\simrank\\answer.query" + query + ".txt";
-    var src_file3 = root_dir + "\\source\\pathsim\\answer.query" + query + ".txt";
-    var target_file3 = root_dir + "\\target\\pathsim\\answer.query" + query + ".txt";
+    var src_file1 = root_dir + "\\source\\rwr\\answer.query" + query_index + ".txt";
+    var target_file1 = root_dir + "\\target\\rwr\\answer.query" + query_index + ".txt";
+    var src_file2 = root_dir + "\\source\\simrank\\answer.query" + query_index + ".txt";
+    var target_file2 = root_dir + "\\target\\simrank\\answer.query" + query_index + ".txt";
+    var src_file3 = root_dir + "\\source\\pathsim\\answer.query" + query_index + ".txt";
+    var target_file3 = root_dir + "\\target\\pathsim\\answer.query" + query_index + ".txt";
 
     generateList("#ranking1", src_file1, target_file1);
     generateList("#ranking2", src_file2, target_file2);
@@ -112,14 +112,17 @@ function createList(svg, x_init, y_init, count, labels) {
                 .attr("font-family", "sans-serif")
                 .attr("font-size", "11px")
                 .attr("fill", "black");
-        text.on("click", function() {
+        text.on("click", function(d) {
+
             console.log("open it!!!");
-//                console.log($(this).attr("x"));
+            var lb_text = $(this).text();
+//            console.log(lb_text);
             $("#dialog").dialog("open");
             setTimeout(
                     function()
                     {
-                        generateModalContent();
+                        var q_text = $('.search-box').val();
+                        generateModalContent(lb_text, q_text, labels);
                     }, 100);
             d3.event.stopPropagation();
         });

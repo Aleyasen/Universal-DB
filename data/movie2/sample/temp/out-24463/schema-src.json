@@ -1,0 +1,39 @@
+{
+    "nodes": [
+        {
+            "index": 0,
+            "dataId": "actor-38099",
+            "name": "Demetrice Nguyen",
+            "type": "actor",
+            "group": 1
+        },
+        {
+            "index": 1,
+            "dataId": "character-40801",
+            "name": "Marty",
+            "type": "character",
+            "group": 2
+        },
+        {
+            "index": 2,
+            "dataId": "film-40786",
+            "name": "Captain America: The Winter Soldier",
+            "type": "film",
+            "group": 3
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 1
+        },
+        {
+            "source": 0,
+            "target": 2
+        },
+        {
+            "source": 1,
+            "target": 2
+        }
+    ]
+}

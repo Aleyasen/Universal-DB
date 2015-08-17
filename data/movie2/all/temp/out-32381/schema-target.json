@@ -1,0 +1,358 @@
+{
+    "nodes": [
+        {
+            "index": 0,
+            "dataId": "actor-8623",
+            "name": "Katelyn Cahill",
+            "type": "actor",
+            "group": 1
+        },
+        {
+            "index": 1,
+            "dataId": "actor-8602",
+            "name": "Charlie Alejandro",
+            "type": "actor",
+            "group": 1
+        },
+        {
+            "index": 2,
+            "dataId": "actor-19493",
+            "name": "Roy Jones Jr.",
+            "type": "actor",
+            "group": 1
+        },
+        {
+            "index": 3,
+            "dataId": "actor-19457",
+            "name": "Eric Weinstein",
+            "type": "actor",
+            "group": 1
+        },
+        {
+            "index": 4,
+            "dataId": "actor-2091",
+            "name": "Bonnie Aarons",
+            "type": "actor",
+            "group": 1
+        },
+        {
+            "index": 5,
+            "dataId": "actor-18438",
+            "name": "Jack McGee",
+            "type": "actor",
+            "group": 1
+        },
+        {
+            "index": 6,
+            "dataId": "actor-679",
+            "name": "Amy Adams",
+            "type": "actor",
+            "group": 1
+        },
+        {
+            "index": 7,
+            "dataId": "actor-1038",
+            "name": "Melissa Leo",
+            "type": "actor",
+            "group": 1
+        },
+        {
+            "index": 8,
+            "dataId": "actor-5199",
+            "name": "Mark Wahlberg",
+            "type": "actor",
+            "group": 1
+        },
+        {
+            "index": 9,
+            "dataId": "character-19542",
+            "name": "Reporter at Press Conference",
+            "type": "character",
+            "group": 2
+        },
+        {
+            "index": 10,
+            "dataId": "character-19540",
+            "name": "Shamrock Girl",
+            "type": "character",
+            "group": 2
+        },
+        {
+            "index": 11,
+            "dataId": "character-19511",
+            "name": "Movie Patron #2",
+            "type": "character",
+            "group": 2
+        },
+        {
+            "index": 12,
+            "dataId": "character-19494",
+            "name": "Fight Announcer #5",
+            "type": "character",
+            "group": 2
+        },
+        {
+            "index": 13,
+            "dataId": "character-19458",
+            "name": "Micky's Friend",
+            "type": "character",
+            "group": 2
+        },
+        {
+            "index": 14,
+            "dataId": "character-19387",
+            "name": "Crackhead Bonnie",
+            "type": "character",
+            "group": 2
+        },
+        {
+            "index": 15,
+            "dataId": "character-19275",
+            "name": "George Ward",
+            "type": "character",
+            "group": 2
+        },
+        {
+            "index": 16,
+            "dataId": "character-19270",
+            "name": "Charlene",
+            "type": "character",
+            "group": 2
+        },
+        {
+            "index": 17,
+            "dataId": "character-19268",
+            "name": "Alice Ward",
+            "type": "character",
+            "group": 2
+        },
+        {
+            "index": 18,
+            "dataId": "character-19263",
+            "name": "Micky Ward",
+            "type": "character",
+            "group": 2
+        },
+        {
+            "index": 19,
+            "dataId": "film-19260",
+            "name": "The Fighter",
+            "type": "film",
+            "group": 3
+        },
+        {
+            "index": 20,
+            "dataId": "starring-19541",
+            "name": "19541",
+            "type": "starring",
+            "group": 4
+        },
+        {
+            "index": 21,
+            "dataId": "starring-19539",
+            "name": "19539",
+            "type": "starring",
+            "group": 4
+        },
+        {
+            "index": 22,
+            "dataId": "starring-19510",
+            "name": "19510",
+            "type": "starring",
+            "group": 4
+        },
+        {
+            "index": 23,
+            "dataId": "starring-19492",
+            "name": "19492",
+            "type": "starring",
+            "group": 4
+        },
+        {
+            "index": 24,
+            "dataId": "starring-19456",
+            "name": "19456",
+            "type": "starring",
+            "group": 4
+        },
+        {
+            "index": 25,
+            "dataId": "starring-19386",
+            "name": "19386",
+            "type": "starring",
+            "group": 4
+        },
+        {
+            "index": 26,
+            "dataId": "starring-19274",
+            "name": "19274",
+            "type": "starring",
+            "group": 4
+        },
+        {
+            "index": 27,
+            "dataId": "starring-19269",
+            "name": "19269",
+            "type": "starring",
+            "group": 4
+        },
+        {
+            "index": 28,
+            "dataId": "starring-19267",
+            "name": "19267",
+            "type": "starring",
+            "group": 4
+        },
+        {
+            "index": 29,
+            "dataId": "starring-19262",
+            "name": "19262",
+            "type": "starring",
+            "group": 4
+        },
+        {
+            "index": 30,
+            "dataId": "directedby-145",
+            "name": "145",
+            "type": "directedby",
+            "group": 5
+        },
+        {
+            "index": 31,
+            "dataId": "director-19261",
+            "name": "David O. Russell",
+            "type": "director",
+            "group": 6
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 21
+        },
+        {
+            "source": 0,
+            "target": 20
+        },
+        {
+            "source": 1,
+            "target": 22
+        },
+        {
+            "source": 2,
+            "target": 23
+        },
+        {
+            "source": 3,
+            "target": 24
+        },
+        {
+            "source": 4,
+            "target": 25
+        },
+        {
+            "source": 5,
+            "target": 26
+        },
+        {
+            "source": 6,
+            "target": 27
+        },
+        {
+            "source": 7,
+            "target": 28
+        },
+        {
+            "source": 8,
+            "target": 29
+        },
+        {
+            "source": 9,
+            "target": 20
+        },
+        {
+            "source": 10,
+            "target": 21
+        },
+        {
+            "source": 11,
+            "target": 22
+        },
+        {
+            "source": 12,
+            "target": 23
+        },
+        {
+            "source": 13,
+            "target": 24
+        },
+        {
+            "source": 14,
+            "target": 25
+        },
+        {
+            "source": 15,
+            "target": 26
+        },
+        {
+            "source": 16,
+            "target": 27
+        },
+        {
+            "source": 17,
+            "target": 28
+        },
+        {
+            "source": 18,
+            "target": 29
+        },
+        {
+            "source": 19,
+            "target": 29
+        },
+        {
+            "source": 19,
+            "target": 28
+        },
+        {
+            "source": 19,
+            "target": 27
+        },
+        {
+            "source": 19,
+            "target": 26
+        },
+        {
+            "source": 19,
+            "target": 25
+        },
+        {
+            "source": 19,
+            "target": 24
+        },
+        {
+            "source": 19,
+            "target": 23
+        },
+        {
+            "source": 19,
+            "target": 22
+        },
+        {
+            "source": 19,
+            "target": 21
+        },
+        {
+            "source": 19,
+            "target": 20
+        },
+        {
+            "source": 19,
+            "target": 30
+        },
+        {
+            "source": 31,
+            "target": 30
+        }
+    ]
+}

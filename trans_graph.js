@@ -20,7 +20,7 @@ $(document).ready(function() {
 
 function filterGraph(seed, radius, max_nodes) {
     var generic_url = "./filtergraph.php?";
-    generic_url += "seed=" + seed + "&";
+    generic_url += "seed=" + escape(seed) + "&";
     generic_url += "radius=" + radius + "&";
     generic_url += "max_nodes=" + max_nodes + "&";
     var selectedDataset = $(".datasetpicker").select().val();
@@ -44,31 +44,34 @@ function filterGraph(seed, radius, max_nodes) {
 }
 
 
-function generateModalContent() {
-//    var datafile = "data.json";
-//    var datafile = "data/uw-courses/data.json";
+function generateModalContent(result_node, query_node, ranking_list) {
     console.log("generateModalContent started.");
-    var datafile = "data/uw-courses_small/source.json";
-//    var datafile =  "data/samplegraph/data.json";
-
-
+    var radius = 1;
+    var max_nodes = 100;
     var generic_url = "./filtergraph.php?";
-    generic_url += "nofilter=1&";
+    generic_url += "compare=1&";
+    generic_url += "result_node=" + escape(result_node) + "&";
+    generic_url += "query_node=" + escape(query_node) + "&";
+    generic_url += "radius=" + radius + "&";
+    generic_url += "max_nodes=" + max_nodes + "&";
     var selectedDataset = $(".datasetpicker").select().val();
+//    alert(selectedDataset);
     generic_url += "dataset=" + selectedDataset;
     var src_url = generic_url + "&schema=src";
     var target_url = generic_url + "&schema=target";
+
+
     console.log("src_url " + src_url);
     console.log("target_url " + target_url);
     $.get(src_url, function(file_loc) {
         console.log("get " + file_loc);
 //        alert(file_loc);
-        generateGraphForRanking("#modal-content-src", file_loc);
+        generateGraphForRanking("#modal-content-src", file_loc, result_node, query_node, ranking_list);
     });
     $.get(target_url, function(file_loc) {
         console.log("get " + file_loc);
 //        alert(file_loc);
-        generateGraphForRanking("#modal-content-target", file_loc);
+        generateGraphForRanking("#modal-content-target", file_loc, result_node, query_node, ranking_list);
 
     });
 
@@ -335,7 +338,7 @@ function generateGraph(container, inputdata) {
 var default_radius_fr = 2;
 var default_max_nodes_fr = 100;
 
-function generateGraphForRanking(container, inputdata) {
+function generateGraphForRanking(container, inputdata, result_node, query_node, ranking_list) {
     d3.select(container).html("");
     var width = $(container).width();
     var height = 400;
@@ -344,7 +347,7 @@ function generateGraphForRanking(container, inputdata) {
     var color = d3.scale.category10();
     var force = d3.layout.force()
 //            .gravity(.5)
-            .distance(120)
+            .distance(90)
             .charge(-200)
 //            .friction(.8)
             .size([width, height]);
@@ -389,8 +392,20 @@ function generateGraphForRanking(container, inputdata) {
                 })
                 .attr("x", -default_icon_size / 2)
                 .attr("y", -default_icon_size / 2)
-                .attr("width", default_icon_size)
-                .attr("height", default_icon_size);
+                .attr("width", function(d) {
+                    if (d.name == result_node || d.name == query_node) {
+                        return 40;
+                    } else {
+                        return default_icon_size;
+                    }
+                })
+                .attr("height", function(d) {
+                    if (d.name == result_node || d.name == query_node) {
+                        return 40;
+                    } else {
+                        return default_icon_size;
+                    }
+                });
 
         node.append("text")
                 .attr("dx", 15)

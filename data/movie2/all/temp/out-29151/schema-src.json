@@ -1,0 +1,273 @@
+{
+    "nodes": [
+        {
+            "index": 0,
+            "dataId": "actor-8623",
+            "name": "Katelyn Cahill",
+            "type": "actor",
+            "group": 1
+        },
+        {
+            "index": 1,
+            "dataId": "actor-8602",
+            "name": "Charlie Alejandro",
+            "type": "actor",
+            "group": 1
+        },
+        {
+            "index": 2,
+            "dataId": "actor-19493",
+            "name": "Roy Jones Jr.",
+            "type": "actor",
+            "group": 1
+        },
+        {
+            "index": 3,
+            "dataId": "actor-19457",
+            "name": "Eric Weinstein",
+            "type": "actor",
+            "group": 1
+        },
+        {
+            "index": 4,
+            "dataId": "actor-2091",
+            "name": "Bonnie Aarons",
+            "type": "actor",
+            "group": 1
+        },
+        {
+            "index": 5,
+            "dataId": "actor-18438",
+            "name": "Jack McGee",
+            "type": "actor",
+            "group": 1
+        },
+        {
+            "index": 6,
+            "dataId": "actor-679",
+            "name": "Amy Adams",
+            "type": "actor",
+            "group": 1
+        },
+        {
+            "index": 7,
+            "dataId": "actor-1038",
+            "name": "Melissa Leo",
+            "type": "actor",
+            "group": 1
+        },
+        {
+            "index": 8,
+            "dataId": "actor-5199",
+            "name": "Mark Wahlberg",
+            "type": "actor",
+            "group": 1
+        },
+        {
+            "index": 9,
+            "dataId": "character-19542",
+            "name": "Reporter at Press Conference",
+            "type": "character",
+            "group": 2
+        },
+        {
+            "index": 10,
+            "dataId": "character-19540",
+            "name": "Shamrock Girl",
+            "type": "character",
+            "group": 2
+        },
+        {
+            "index": 11,
+            "dataId": "character-19511",
+            "name": "Movie Patron #2",
+            "type": "character",
+            "group": 2
+        },
+        {
+            "index": 12,
+            "dataId": "character-19494",
+            "name": "Fight Announcer #5",
+            "type": "character",
+            "group": 2
+        },
+        {
+            "index": 13,
+            "dataId": "character-19458",
+            "name": "Micky's Friend",
+            "type": "character",
+            "group": 2
+        },
+        {
+            "index": 14,
+            "dataId": "character-19387",
+            "name": "Crackhead Bonnie",
+            "type": "character",
+            "group": 2
+        },
+        {
+            "index": 15,
+            "dataId": "character-19275",
+            "name": "George Ward",
+            "type": "character",
+            "group": 2
+        },
+        {
+            "index": 16,
+            "dataId": "character-19270",
+            "name": "Charlene",
+            "type": "character",
+            "group": 2
+        },
+        {
+            "index": 17,
+            "dataId": "character-19268",
+            "name": "Alice Ward",
+            "type": "character",
+            "group": 2
+        },
+        {
+            "index": 18,
+            "dataId": "character-19263",
+            "name": "Micky Ward",
+            "type": "character",
+            "group": 2
+        },
+        {
+            "index": 19,
+            "dataId": "film-19260",
+            "name": "The Fighter",
+            "type": "film",
+            "group": 3
+        },
+        {
+            "index": 20,
+            "dataId": "director-19261",
+            "name": "David O. Russell",
+            "type": "director",
+            "group": 4
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 10
+        },
+        {
+            "source": 0,
+            "target": 9
+        },
+        {
+            "source": 1,
+            "target": 11
+        },
+        {
+            "source": 2,
+            "target": 12
+        },
+        {
+            "source": 3,
+            "target": 13
+        },
+        {
+            "source": 4,
+            "target": 14
+        },
+        {
+            "source": 5,
+            "target": 15
+        },
+        {
+            "source": 6,
+            "target": 16
+        },
+        {
+            "source": 7,
+            "target": 17
+        },
+        {
+            "source": 8,
+            "target": 18
+        },
+        {
+            "source": 0,
+            "target": 19
+        },
+        {
+            "source": 1,
+            "target": 19
+        },
+        {
+            "source": 2,
+            "target": 19
+        },
+        {
+            "source": 3,
+            "target": 19
+        },
+        {
+            "source": 4,
+            "target": 19
+        },
+        {
+            "source": 5,
+            "target": 19
+        },
+        {
+            "source": 6,
+            "target": 19
+        },
+        {
+            "source": 7,
+            "target": 19
+        },
+        {
+            "source": 8,
+            "target": 19
+        },
+        {
+            "source": 9,
+            "target": 19
+        },
+        {
+            "source": 10,
+            "target": 19
+        },
+        {
+            "source": 11,
+            "target": 19
+        },
+        {
+            "source": 12,
+            "target": 19
+        },
+        {
+            "source": 13,
+            "target": 19
+        },
+        {
+            "source": 14,
+            "target": 19
+        },
+        {
+            "source": 15,
+            "target": 19
+        },
+        {
+            "source": 16,
+            "target": 19
+        },
+        {
+            "source": 17,
+            "target": 19
+        },
+        {
+            "source": 18,
+            "target": 19
+        },
+        {
+            "source": 19,
+            "target": 20
+        }
+    ]
+}
