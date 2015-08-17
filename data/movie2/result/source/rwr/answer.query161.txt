@@ -1,0 +1,300 @@
+Jack Reacher	|	0.01897565
+Rango	|	0.00950096
+Flipped	|	0.00838710
+Hop	|	0.00798562
+The Sorcerer's Apprentice	|	0.00726844
+The Great Gatsby	|	0.00726263
+The Crazies	|	0.00714505
+Take Me Home Tonight	|	0.00713409
+Robin Hood	|	0.00707346
+Alvin and the Chipmunks: Chipwrecked	|	0.00706442
+Real Steel	|	0.00686527
+Shelter	|	0.00589943
+She's Out of My League	|	0.00588541
+Unstoppable	|	0.00580002
+Red Dawn	|	0.00096278
+Super 8	|	0.00074878
+Cats &amp; Dogs: The Revenge of Kitty Galore	|	0.00071931
+Transformers: Dark of the Moon	|	0.00059678
+Shutter Island	|	0.00058739
+10 Years	|	0.00054959
+Inception	|	0.00053782
+Yogi Bear	|	0.00052574
+Killers	|	0.00050911
+Moneyball	|	0.00049563
+Rock of Ages	|	0.00048342
+The Dark Knight Rises	|	0.00047208
+Due Date	|	0.00046768
+X-Men: First Class	|	0.00046750
+Diary of a Wimpy Kid: Rodrick Rules	|	0.00043534
+Jonah Hex	|	0.00043032
+Conviction	|	0.00042709
+Valentine's Day	|	0.00042287
+The Other Guys	|	0.00040178
+Unknown	|	0.00038433
+The Conspirator	|	0.00038425
+Love &amp; Other Drugs	|	0.00038149
+Vanishing on 7th Street	|	0.00038085
+Going the Distance	|	0.00037927
+Life as We Know It	|	0.00037279
+Stone	|	0.00036208
+The Rum Diary	|	0.00035592
+High School	|	0.00033912
+Something Borrowed	|	0.00033367
+How to Train Your Dragon	|	0.00033306
+Shrek Forever After	|	0.00032794
+From Paris with Love	|	0.00032325
+Legend of the Guardians: The Owls of Ga'Hoole	|	0.00031235
+The Tempest	|	0.00030770
+Bridesmaids	|	0.00030741
+Lincoln	|	0.00030611
+Now You See Me	|	0.00030352
+Remember Me	|	0.00030095
+Dinner for Schmucks	|	0.00030093
+Get Him to the Greek	|	0.00029883
+Hall Pass	|	0.00029555
+Abraham Lincoln: Vampire Hunter	|	0.00029531
+Prince of Persia: The Sands of Time	|	0.00028648
+You Will Meet a Tall Dark Stranger	|	0.00028378
+Date Night	|	0.00028314
+Sparkle	|	0.00027275
+The Last Song	|	0.00026839
+Drive	|	0.00026766
+Predators	|	0.00026587
+The Thing	|	0.00025654
+Darling Companion	|	0.00025380
+Despicable Me	|	0.00024847
+Mission: Impossible – Ghost Protocol	|	0.00023871
+Eat Pray Love	|	0.00023769
+Scream 4	|	0.00023585
+Never Let Me Go	|	0.00022650
+Knight and Day	|	0.00022343
+The Paperboy	|	0.00021282
+Wall Street: Money Never Sleeps	|	0.00020919
+MegaMind	|	0.00020299
+Gulliver's Travels	|	0.00020207
+Cop Out	|	0.00020064
+Green Zone	|	0.00019817
+Clash of the Titans	|	0.00019329
+Kick-Ass	|	0.00019224
+Rise of the Planet of the Apes	|	0.00018995
+Arthur	|	0.00018878
+Hereafter	|	0.00018872
+Stolen	|	0.00018861
+Kung Fu Panda 2	|	0.00018784
+Big Miracle	|	0.00018401
+Red Tails	|	0.00018073
+Diary of a Wimpy Kid	|	0.00017897
+Hoodwinked Too! Hood vs. Evil	|	0.00017635
+Let Me In	|	0.00016938
+Columbus Circle	|	0.00016829
+Harry Potter and the Deathly Hallows – Part 2	|	0.00016091
+Harry Potter and the Deathly Hallows - Part I	|	0.00015987
+Tower Heist	|	0.00015650
+Zookeeper	|	0.00015554
+Pirates of the Caribbean: On Stranger Tides	|	0.00015463
+Piranha 3D	|	0.00014822
+Dear John	|	0.00014535
+Straw Dogs	|	0.00014503
+Accidental Love	|	0.00014109
+Death at a Funeral	|	0.00014002
+Our Idiot Brother	|	0.00013941
+Sucker Punch	|	0.00013633
+Alpha and Omega	|	0.00013527
+Abduction	|	0.00013310
+Percy Jackson &amp; the Olympians: The Lightning Thief	|	0.00013062
+Safe House	|	0.00012981
+The Wolverine	|	0.00012766
+The Twilight Saga: Breaking Dawn - Part 2	|	0.00012751
+The Book of Eli	|	0.00012545
+The King's Speech	|	0.00012091
+The Town	|	0.00011803
+The Hobbit: An Unexpected Journey	|	0.00011756
+Toy Story 3	|	0.00011288
+Prometheus	|	0.00011287
+Immortals	|	0.00011117
+Water for Elephants	|	0.00011012
+Alice in Wonderland	|	0.00010842
+Green Lantern	|	0.00010665
+Little Fockers	|	0.00010325
+The Man with the Iron Fists	|	0.00010227
+Grown Ups	|	0.00010130
+Eclipse	|	0.00010047
+The Next Three Days	|	0.00010014
+The Company Men	|	0.00009998
+Hanna	|	0.00009886
+Captain America: The Winter Soldier	|	0.00009143
+The Twilight Saga: Breaking Dawn - Part 1	|	0.00009071
+Ted	|	0.00008997
+The Master	|	0.00008876
+Savages	|	0.00008861
+The Watch	|	0.00008771
+Fair Game	|	0.00008467
+Jack and Jill	|	0.00008429
+Prisoners of the Sun	|	0.00008277
+That's My Boy	|	0.00008011
+Unthinkable	|	0.00007918
+The Avengers	|	0.00007331
+John Carter	|	0.00006989
+Ghost Rider: Spirit of Vengeance	|	0.00006825
+The Adjustment Bureau	|	0.00006798
+Thor	|	0.00006695
+All Good Things	|	0.00006631
+Burlesque	|	0.00006485
+The Eagle	|	0.00006475
+Trespass	|	0.00006351
+Season of the Witch	|	0.00006314
+Drive Angry	|	0.00006287
+No Strings Attached	|	0.00006124
+RED	|	0.00005952
+The Guilt Trip	|	0.00005939
+The Way Back	|	0.00005936
+Salt	|	0.00005838
+Edge of Darkness	|	0.00005793
+Contraband	|	0.00005657
+The Tourist	|	0.00005471
+Why Did I Get Married Too?	|	0.00005455
+For Colored Girls	|	0.00005450
+Lottery Ticket	|	0.00005438
+Rio	|	0.00005431
+Fright Night	|	0.00005430
+MacGruber	|	0.00005410
+Battle: Los Angeles	|	0.00005352
+The Big Year	|	0.00005326
+Tron: Legacy	|	0.00005239
+Silver Linings Playbook	|	0.00005091
+The Lincoln Lawyer	|	0.00005082
+Neighbors	|	0.00005006
+Takers	|	0.00005003
+Battleship	|	0.00004861
+The Green Hornet	|	0.00004842
+Paul	|	0.00004810
+The Mechanic	|	0.00004798
+Fast Five	|	0.00004727
+The Hangover Part II	|	0.00004694
+True Grit	|	0.00004635
+Cowboys &amp; Aliens	|	0.00004477
+Welcome to the Rileys	|	0.00004406
+Freelancers	|	0.00004382
+Faster	|	0.00004296
+The Fighter	|	0.00004257
+Limitless	|	0.00004215
+Marmaduke	|	0.00004177
+The Social Network	|	0.00004039
+On the Road	|	0.00004032
+Red Riding Hood	|	0.00003997
+Spy Kids: All the Time in the World	|	0.00003979
+Repo Men	|	0.00003967
+Bucky Larson: Born to Be a Star	|	0.00003965
+The Girl with the Dragon Tattoo	|	0.00003964
+Contagion	|	0.00003901
+Just Go With It	|	0.00003855
+You Again	|	0.00003773
+Iron Man 2	|	0.00003718
+The A-Team	|	0.00003660
+The Hunger Games	|	0.00003638
+The Dilemma	|	0.00003575
+The Switch	|	0.00003548
+Bunraku	|	0.00003523
+Hansel &amp; Gretel: Witch Hunters	|	0.00003523
+Your Highness	|	0.00003475
+Journey 2: The Mysterious Island	|	0.00003450
+The Descendants	|	0.00003449
+Morning Glory	|	0.00003345
+Pacific Rim	|	0.00003338
+The Iceman	|	0.00003269
+Ironclad	|	0.00003204
+One for the Money	|	0.00003201
+End of Watch	|	0.00003135
+Killer Elite	|	0.00003017
+Dream House	|	0.00002988
+Source Code	|	0.00002979
+The Adventures of Tintin: The Secret of the Unicorn	|	0.00002972
+The Spy Next Door	|	0.00002923
+Hemingway &amp; Gellhorn	|	0.00002867
+Haywire	|	0.00002836
+Legends of Oz: Dorothy's Return	|	0.00002757
+How Do You Know	|	0.00002736
+The Darkest Hour	|	0.00002658
+Inhale	|	0.00002594
+Atlas Shrugged: Part I	|	0.00002584
+Scott Pilgrim vs. the World	|	0.00002520
+The Son of No One	|	0.00002466
+Tooth Fairy	|	0.00002453
+Taken 2	|	0.00002348
+Margaret	|	0.00002317
+Brave	|	0.00002312
+Colombiana	|	0.00002229
+Machete	|	0.00002212
+Furry Vengeance	|	0.00002165
+Captain America: The First Avenger	|	0.00002144
+Waco	|	0.00002124
+300: Rise of an Empire	|	0.00002073
+The Losers	|	0.00002056
+127 Hours	|	0.00002038
+Big Mommas: Like Father, Like Son	|	0.00001964
+The Rite	|	0.00001941
+Arena	|	0.00001939
+The Chronicles of Narnia: The Voyage of the Dawn Treader	|	0.00001907
+The Expendables	|	0.00001869
+The Ledge	|	0.00001846
+Mars Needs Moms	|	0.00001827
+Ramona and Beezus	|	0.00001790
+A Nightmare on Elm Street	|	0.00001779
+Dredd	|	0.00001759
+The Runaways	|	0.00001733
+Detention	|	0.00001692
+Secretariat	|	0.00001688
+Tangled	|	0.00001653
+My Soul to Take	|	0.00001649
+The Roommate	|	0.00001635
+The Big Bang	|	0.00001599
+Gentlemen Broncos	|	0.00001598
+The Last Airbender	|	0.00001542
+The Back-up Plan	|	0.00001536
+Charlie St. Cloud	|	0.00001523
+The Tree of Life	|	0.00001490
+The Bounty Hunter	|	0.00001369
+Wrecked	|	0.00001290
+Shanghai	|	0.00001268
+Safe	|	0.00001248
+Black Swan	|	0.00001208
+The Beaver	|	0.00001207
+Country Strong	|	0.00001190
+Gun	|	0.00001187
+Passion Play	|	0.00001175
+There Be Dragons	|	0.00001174
+Leap Year	|	0.00001165
+Beastly	|	0.00001135
+Crazy Eyes	|	0.00001115
+The Change-Up	|	0.00001070
+The Tall Man	|	0.00001035
+Footloose	|	0.00001035
+American Sniper	|	0.00000979
+Spring Break '83	|	0.00000954
+Conan the Barbarian	|	0.00000953
+Priest	|	0.00000945
+Five Minarets in New York	|	0.00000907
+The Apparition	|	0.00000891
+Letters to Juliet	|	0.00000866
+Nanny McPhee and the Big Bang	|	0.00000863
+Ride Along	|	0.00000692
+The Lion of Judah	|	0.00000687
+Hot Tub Time Machine	|	0.00000669
+Vampires Suck	|	0.00000636
+Madea's Big Happy Family	|	0.00000571
+Divergent	|	0.00000559
+The Sitter	|	0.00000538
+Step Up 3D	|	0.00000529
+Resident Evil: Afterlife	|	0.00000519
+Nine Dead	|	0.00000466
+Mother's Day	|	0.00000466
+The Karate Kid	|	0.00000437
+Snitch	|	0.00000407
+47 Ronin	|	0.00000324
+The American	|	0.00000272
+You and I	|	0.00000229
+Extraordinary Measures	|	0.00000188
+Devil	|	0.00000175
+Soul Surfer	|	0.00000166
+Gravity	|	0.00000149

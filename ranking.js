@@ -21,10 +21,10 @@ var rect_width = 120;
 var rect_height = 30;
 var truncate_limit = 20;
 
-function generateAllLists(query, tk) {
+function generateAllLists(result_dir, query, tk) {
     top_k = tk;
 //        var query = "5";
-    var root_dir = "data\\ranking\\top2000_q100_movie_imdb_to_freebase_results";
+    var root_dir = result_dir;
 //    var root_dir = "data\\ranking\\dblp_c50_top2000";
 
     var src_file1 = root_dir + "\\source\\rwr\\answer.query" + query + ".txt";
@@ -36,7 +36,7 @@ function generateAllLists(query, tk) {
 
     generateList("#ranking1", src_file1, target_file1);
     generateList("#ranking2", src_file2, target_file2);
-    generateList("#ranking3", src_file2, target_file2);
+    generateList("#ranking3", src_file3, target_file3);
 }
 
 function generateList(selector, src_query_file, target_query_file) {
@@ -175,6 +175,12 @@ function createLineTargetToEnd(svg, src, lastsrc) {
 
 
 function readFile(file, callback) {
+    if (file.charAt(0) == "/") {
+        file = file.substring(1, file.length);
+        console.log("readFile, file name changed: " + file);
+    } else {
+        console.log("readFile, name is fine: " + file);
+    }
     $.get(file, function(data) {
         var list = parseFile(data);
 //            console.log(list);

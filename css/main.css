@@ -89,6 +89,12 @@ body {
     font: 12px sans-serif;
 }
 
+
 .node.fixed {
-    fill: #f00;
+    fill: #4F68B7;
+}
+
+.node.fixed > text {
+    font: 13px sans-serif;
+    font-weight: bold;
 }

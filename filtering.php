@@ -26,12 +26,12 @@ function graphReaders($loc, $v_files, $e_files) {
         $file = fopen($loc . $x_val, "r") or die("unable to open " . $loc . $x_val . " !");
         while (($line = fgets($file)) !== false) {
 //            echo $line."\n";
-            $line_arr = preg_split("/\t+/", $line);
+            $line_arr = preg_split("/\t/", $line);
             if (count($line_arr) < 2)
                 continue;
             $vg_id = $vg_id + 1;
-            $n_id = intval($line_arr[0]) * 100 + $t_id;
-            $n_val = $line_arr[1];
+            $n_id = intval(rtrim($line_arr[0])) * 100 + $t_id;
+            $n_val = rtrim($line_arr[1]);
             $h_VA[$n_id] = $n_val;
             $h_AV[$n_val] = $n_id;
             $h_VVG[$n_id] = $vg_id;
@@ -51,9 +51,9 @@ function graphReaders($loc, $v_files, $e_files) {
         $line = fgets($file); // read headline
         while (($line = fgets($file)) !== false) {
 //            echo $line . "\n";
-            $line_arr = preg_split("/\t+/", $line);
-            $v1 = $line_arr[0];
-            $v2 = $line_arr[1];
+            $line_arr = preg_split("/\t/", $line);
+            $v1 = rtrim($line_arr[0]);
+            $v2 = rtrim($line_arr[1]);
             $n1_id = $v1 * 100 + $t1;
             $n2_id = $v2 * 100 + $t2;
             $vg1 = $h_VVG[$n1_id];

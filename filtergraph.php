@@ -8,7 +8,7 @@ $dataset = $_GET["dataset"];
 
 // make sure "/" is put in the end. i do not check for this char in this code
 
-$loc = $dbs[$dataset]["path"] . "/";
+$loc = $dbs[$dataset]["sample_path"] . "/";
 $loc = substr($loc, 1);
 
 // provide every information: all nodes, all edges here regardless of representation
@@ -40,13 +40,13 @@ if (isset($_GET["nofilter"])) {
 
         $outfile_name1 = "schema-src.json";
 //        $outfile_name1 = "schema-src.sample.json";
-        generateGraph($loc, $v_output1, $e_output1, $loc, $outfile_name1);
+//        generateGraph($loc, $v_output1, $e_output1, $loc, $outfile_name1);
         echo $loc . $outfile_name1;
     } else if ($schema == "target") {
 
         $outfile_name2 = "schema-target.json";
 //        $outfile_name2 = "schema-target.sample.json";
-        generateGraph($loc, $v_output2, $e_output2, $loc, $outfile_name2);
+//        generateGraph($loc, $v_output2, $e_output2, $loc, $outfile_name2);
         echo $loc . $outfile_name2;
     }
 } else {
@@ -58,8 +58,8 @@ if (isset($_GET["nofilter"])) {
 
 // ------------------------------------------------------------------------------------
 
-    $loc_out1 = $loc . "output/";
-    $loc_out2 = $loc . "output/";
+    $loc_out1 = $loc . "temp/";
+    $loc_out2 = $loc . "temp/";
 //    echo $loc_out1;
     if (!file_exists($loc_out1)) {
         mkdir($loc_out1);

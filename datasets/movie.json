@@ -1,7 +1,8 @@
 {
     "id": "movie",
     "name": "Filmography Dataset",
-    "path": "/data/movie",
+    "path": "/data/movie/all",
+    "sample_path": "/data/movie/sample",
     "v_files": [
         "actor.txt",
         "character.txt",

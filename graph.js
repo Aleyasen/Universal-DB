@@ -4,29 +4,33 @@ $(document).ready(function() {
 
 //    $(".datasetpicker").val("hello").change();
 //    $(".datasetpicker").selectpicker('refresh');
-    inititialize("yods");
+//    inititialize("yods");
 
     $(".metawalkpicker").on('change', function() {
 //        var dt = $(this).val();
         generageAllGraphs();
-        
+
 //        alert("change dataset to " + dt);
     });
 
-
-    $('.search-button').click(function() {
-        doIt();
-        generageAllGraphs();
-    });
-
     $(".datasetpicker").on('change', function() {
+        console.log("datasetpicker changed.")
 //        var dt = $(this).val();
         var selectedVal = $(this).select().val();
         console.log(selectedVal);
         inititialize(selectedVal);
         generateNetworks();
+        var url = "./getattr.php?attr=query_file&dataset=" + selectedVal;
+        $.get(url, function(result_dir) {
+            console.log("getttttttttttttttttttttttt " + result_dir);
+            initRankingView(result_dir);
+        });
+
 //        alert("change dataset to " + dt);
     });
+
+    $(".datasetpicker").val("movie2").change();
+    $(".datasetpicker").selectpicker('refresh');
 
     $("#compare-algs").mouseup(function() {
         console.log("click btn1");

@@ -1,4 +1,8 @@
 
+var default_radius = 2;
+var default_max_nodes = 100;
+var default_icon_size = 20;
+var focus_icon_size = 25;
 $(document).ready(function() {
 
     generateNetworks();
@@ -81,9 +85,10 @@ function generateGraph(container, inputdata) {
 //    alert(height);
     var color = d3.scale.category10();
     var force = d3.layout.force()
-            .gravity(.3)
-            .distance(50)
-            .charge(-100)
+//            .gravity(.5)
+            .distance(120)
+            .charge(-200)
+//            .friction(.8)
             .size([width, height]);
     safety = 0;
     var svg = d3.select(container).append("svg")
@@ -203,10 +208,10 @@ function generateGraph(container, inputdata) {
                 .attr("xlink:href", function(d) {
                     return "img/icons/" + d.type + ".png";
                 })
-                .attr("x", -8)
-                .attr("y", -8)
-                .attr("width", 16)
-                .attr("height", 16);
+                .attr("x", -default_icon_size / 2)
+                .attr("y", -default_icon_size / 2)
+                .attr("width", default_icon_size)
+                .attr("height", default_icon_size);
 
         node.append("text")
                 .attr("dx", 15)
@@ -258,7 +263,7 @@ function generateGraph(container, inputdata) {
 //                return color(d.group);
 //            });
 //        alert("dbclick");
-        filterGraph(d.name, 3, 200);
+        filterGraph(d.name, default_radius, default_max_nodes);
         var selector = ".node[data-id=\"" + d.dataId + "\"] image";
         console.log("selector = " + selector);
         d3.selectAll(".trans-graph > svg").selectAll(selector)
@@ -273,18 +278,6 @@ function generateGraph(container, inputdata) {
     }
 
     function dragstart(d) {
-//            d3.select(this).select("text").transition()
-//                    .duration(750)
-//                    .attr("x", 22)
-//                    .style("fill", "steelblue")
-//                    .style("stroke", "lightsteelblue")
-//                    .style("stroke-width", ".5px")
-//                    .style("font", "20px sans-serif");
-//            d3.select(this).select("circle").transition()
-//                    .duration(750)
-//                    .attr("r", 16)
-//                    .style("fill", "lightsteelblue");
-
         console.log(d.x);
 //            d3.select(this).classed("fixed", d.fixed = true).style("fill", "#f00");
         var selector = ".node[data-id=\"" + d.dataId + "\"]";
@@ -293,20 +286,9 @@ function generateGraph(container, inputdata) {
                 .classed("fixed", d.fixed = true);
 
         d3.selectAll(".trans-graph > svg").selectAll(selector + " image")
-                .attr("width", 20)
-                .attr("height", 20)
-//                .attr("r", 10)
-//                .attr("x", d.x)
-//                .attr("y", d.y)
-//                .attr("px", d.x)
-//                .attr("py", d.y)
-//                .attr("cx", function(d) {
-//                    return d.x;
-//                })
-//                .attr("cy", function(d) {
-//                    return d.y;
-//                })
-                .classed("fixed", d.fixed = true);
-//                    .style("fill", "#f00");
+                .attr("width", focus_icon_size)
+                .attr("height", focus_icon_size);
     }
+
+
 }

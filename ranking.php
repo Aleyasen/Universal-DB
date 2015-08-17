@@ -25,7 +25,7 @@
     <div class="col-md-4">
         <div class="inner-container">
             <div class="col-md-12 highlight text-center">
-                SimRank
+                PathSim
             </div>
             <div class="col-md-12 highlight text-center">
                 <div id="ranking3"></div>

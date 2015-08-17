@@ -1,59 +1,47 @@
-
+var loc_result_dir;
+var loc_queries;
 $(document).ready(function() {
-
-//    var availableTags = [
-//        "ActionScript",
-//        "AppleScript",
-//        "Asp",
-//        "BASIC",
-//        "C",
-//        "C++",
-//        "Clojure",
-//        "COBOL",
-//        "ColdFusion",
-//        "Erlang",
-//        "Fortran",
-//        "Groovy",
-//        "Haskell",
-//        "Java",
-//        "JavaScript",
-//        "Lisp",
-//        "Perl",
-//        "PHP",
-//        "Python",
-//        "Ruby",
-//        "Scala",
-//        "Scheme"
-//    ];
-
-
-    readFile(query_file, function(queries) {
-        var words = [];
-        query_list = queries;
-        for (var i = 1; i < queries.length; i++) {
-            words.push(queries[i]);
-        }
-        $(".search-box").autocomplete({
-            source: words
-        });
-        $(".search-box").val("the replacements (2000)");
-        doIt();
-    });
 
     $(document).on('change', '#topk input:radio', function(event) {
         var k = ($(this).val());
-        doIt(k);
+        doIt(loc_queries, loc_result_dir, k);
+    });
+
+    $('.search-button').click(function() {
+        doIt(loc_queries, loc_result_dir);
+        generageAllGraphs();
     });
 
 
 });
 
 
-var query_file = "data\\ranking\\top2000_q100_movie_imdb_to_freebase_results\\query.txt";
-var query_list;
 
+function initRankingView(query_file) {
+    console.log("init Ranking View >>>>>>>> " + query_file);
+    readFile(query_file, function(queries) {
+        var words = [];
+        for (var i = 1; i < queries.length; i++) {
+            words.push(queries[i]);
+        }
+        $(".search-box").autocomplete({
+            source: words
+        });
 
-function doIt(k) {
+        $(".search-box").val(words[0]);
+
+        var selectedVal = $(".datasetpicker").select().val();
+        var url = "./getattr.php?attr=result_dir&dataset=" + selectedVal;
+        $.get(url, function(result_dir) {
+//        console.log("get " + file_loc);
+            loc_result_dir = result_dir;
+            loc_queries = queries;
+            doIt(queries, result_dir);
+        });
+    });
+}
+
+function doIt(query_list, result_dir, k) {
     var q = $('.search-box').val();
 //        alert(q);
     var q_index = 0;
@@ -70,5 +58,5 @@ function doIt(k) {
         tk = k;
     }
 //        alert(tk);
-    generateAllLists(q_index, tk);
+    generateAllLists(result_dir, q_index, tk);
 }
