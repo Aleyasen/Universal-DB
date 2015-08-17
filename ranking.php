@@ -2,8 +2,8 @@
     <?php include 'searchbar.php'; ?>
 </div>
 <div class="row">
-    <div class="col-md-4">
-        <div class="inner-container">
+    <div class="col-md-3 ranking-col">
+        <div>
             <div class="col-md-12 highlight text-center">
                 RWR
             </div>
@@ -12,8 +12,8 @@
             </div>
         </div>
     </div>
-    <div class="col-md-4">
-        <div class="inner-container">
+    <div class="col-md-3 ranking-col">
+        <div>
             <div class="col-md-12 highlight text-center">
                 SimRank
             </div>
@@ -22,13 +22,23 @@
             </div>
         </div>
     </div>
-    <div class="col-md-4">
-        <div class="inner-container">
+    <div class="col-md-3 ranking-col">
+        <div>
             <div class="col-md-12 highlight text-center">
                 PathSim
             </div>
             <div class="col-md-12 highlight text-center">
                 <div id="ranking3"></div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3 ranking-col">
+        <div>
+            <div class="col-md-12 highlight text-center">
+                Universal-DB
+            </div>
+            <div class="col-md-12 highlight text-center">
+                <div id="ranking4"></div>
             </div>
         </div>
     </div>

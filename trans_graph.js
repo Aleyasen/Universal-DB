@@ -5,6 +5,12 @@ var default_icon_size = 20;
 var focus_icon_size = 25;
 $(document).ready(function() {
 
+    $("#choose-dataset").css("background-color", "#E0E0E0");
+    
+    $(".menu-header").click(function() {
+        $(".menu-header").css("background-color", "#f5f5f5");
+        $(this).css("background-color", "#E0E0E0");
+    });
     generateNetworks();
 
     $('.refresh-graph').click(function() {

@@ -1,6 +1,6 @@
 {
     "id": "movie2",
-    "name": "Filmography Dataset (New)",
+    "name": "Filmography (New)",
     "path": "/data/movie2/all",
     "sample_path": "/data/movie2/sample",
     "result": "/data/movie2/result",

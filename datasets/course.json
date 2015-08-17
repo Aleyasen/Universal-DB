@@ -1,6 +1,6 @@
 {
     "id": "course",
-    "name": "Course Dataset",
+    "name": "Course",
     "path": "/data/uw-courses/all",
     "sample_path": "/data/uw-courses/sample",
     "result": "/data/uw-courses/result",

@@ -33,17 +33,20 @@ function generateAllLists(result_dir, query_index, tk, query_text) {
     var target_file2 = root_dir + "\\target\\simrank\\answer.query" + query_index + ".txt";
     var src_file3 = root_dir + "\\source\\pathsim\\answer.query" + query_index + ".txt";
     var target_file3 = root_dir + "\\target\\pathsim\\answer.query" + query_index + ".txt";
+    var src_file4 = root_dir + "\\source\\pathsim\\answer.query" + query_index + ".txt";
+    var target_file4 = root_dir + "\\target\\pathsim\\answer.query" + query_index + ".txt";
 
     generateList("#ranking1", src_file1, target_file1);
     generateList("#ranking2", src_file2, target_file2);
     generateList("#ranking3", src_file3, target_file3);
+    generateList("#ranking4", src_file4, target_file4);
 }
 
 function generateList(selector, src_query_file, target_query_file) {
     //    d3.select(selector).remove();
     d3.select(selector).selectAll("*").remove();
     var svgContainer = d3.select(selector).append("svg")
-            .attr("width", 300)
+            .attr("width", 280)
             .attr("height", top_k * 35);
 
     readFile(src_query_file, function(src_list) {
@@ -62,7 +65,7 @@ function generateList(selector, src_query_file, target_query_file) {
 
 function createAll(svg, top_k, src_list, target_list) {
     var srcRects = createList(svg, 5, 10, top_k, src_list);
-    var destRects = createList(svg, 170, 10, top_k, target_list);
+    var destRects = createList(svg, 155, 10, top_k, target_list);
     var connect_src = [];
     var connect_target = [];
     for (var i = 1; i <= top_k; i++) {
