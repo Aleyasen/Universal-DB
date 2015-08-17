@@ -17,6 +17,7 @@ function graphReaders($loc, $v_files, $e_files) {
     $t_id = 0;
     $vg_id = 0;
     foreach ($v_files as $x => $x_val) {
+        $x_val = $x_val . ".txt";
         c_log("key=" . $x . ", val=" . $loc . $x_val . "\n");
         $t_id = $t_id + 1;
         $file_arr = explode('.', $x_val);
@@ -25,7 +26,7 @@ function graphReaders($loc, $v_files, $e_files) {
         $file = fopen($loc . $x_val, "r") or die("unable to open " . $loc . $x_val . " !");
         while (($line = fgets($file)) !== false) {
 //            echo $line."\n";
-            $line_arr = preg_split("/\s+/", $line);
+            $line_arr = preg_split("/\t+/", $line);
             if (count($line_arr) < 2)
                 continue;
             $vg_id = $vg_id + 1;
@@ -41,6 +42,7 @@ function graphReaders($loc, $v_files, $e_files) {
 
     // read edge files
     foreach ($e_files as $x => $x_val) {
+        $x_val = $x_val . ".txt";
         c_log("key=" . $x . ", val=" . $loc . $x_val . "\n");
         $file_arr = preg_split("/[._]/", $x_val);
         $t1 = $h_L[$file_arr[0]];
@@ -49,7 +51,7 @@ function graphReaders($loc, $v_files, $e_files) {
         $line = fgets($file); // read headline
         while (($line = fgets($file)) !== false) {
 //            echo $line . "\n";
-            $line_arr = preg_split("/\s+/", $line);
+            $line_arr = preg_split("/\t+/", $line);
             $v1 = $line_arr[0];
             $v2 = $line_arr[1];
             $n1_id = $v1 * 100 + $t1;
@@ -82,7 +84,6 @@ function graphReaders($loc, $v_files, $e_files) {
 //    c_log(print_r($h_VVG, true));
 //    c_log(print_r($h_VGV, true));
 //    c_log(print_r($h_EG, true));
-
     // check comment for each var
     return array($h_L, $h_VA, $h_AV, $h_VVG, $h_VGV, $h_EG);
 }
@@ -202,7 +203,6 @@ function printInfo() {
 //    mkdir($loc_out1);
 //if (!file_exists($loc_out2))
 //    mkdir($loc_out2);
-
 // provide every information: all nodes, all edges here regardless of representation
 //$v_files = array("a.txt", "b.txt", "x.txt", "y.txt", "c.txt");
 //$e_files = array("a_b.txt", "a_c.txt", "x_a.txt", "x_b.txt", "y_a.txt", "y_c.txt");

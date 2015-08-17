@@ -31,26 +31,7 @@ body {
 }
 
 
-.node {
-    stroke: #fff;
-    stroke-width: 1.5px;
-}
 
-.link {
-    stroke: #999;
-    stroke-opacity: .6;
-}
-
-
-.node.fixed {
-    fill: #f00;
-}
-
-.node text {
-    pointer-events: none;
-    font: 10px sans-serif;
-    color: black;
-}
 
 
 .inner-container {
@@ -94,4 +75,20 @@ body {
 
 .active-menu {
     background-color: #e1e1e8;
+}
+
+/* nodes and links */
+.link {
+    stroke: #ccc;
+    /*stroke-opacity: .6;*/
+
+}
+
+.node text {
+    pointer-events: none;
+    font: 12px sans-serif;
+}
+
+.node.fixed {
+    fill: #f00;
 }

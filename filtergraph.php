@@ -37,11 +37,15 @@ $e_output2 = $dbs[$dataset]["schema"]["target"]["e_files"];
 
 if (isset($_GET["nofilter"])) {
     if ($schema == "src") {
+
         $outfile_name1 = "schema-src.json";
+//        $outfile_name1 = "schema-src.sample.json";
         generateGraph($loc, $v_output1, $e_output1, $loc, $outfile_name1);
         echo $loc . $outfile_name1;
     } else if ($schema == "target") {
+
         $outfile_name2 = "schema-target.json";
+//        $outfile_name2 = "schema-target.sample.json";
         generateGraph($loc, $v_output2, $e_output2, $loc, $outfile_name2);
         echo $loc . $outfile_name2;
     }
@@ -53,17 +57,17 @@ if (isset($_GET["nofilter"])) {
     $MAX_NODES = $_GET["max_nodes"];
 
 // ------------------------------------------------------------------------------------
-   
+
     $loc_out1 = $loc . "output/";
     $loc_out2 = $loc . "output/";
 //    echo $loc_out1;
     if (!file_exists($loc_out1)) {
         mkdir($loc_out1);
+//        deleteFilesInDir($loc_out1);
     }
-    if (!file_exists($loc_out2)) {
-        mkdir($loc_out2);
-    }
-
+//    if (!file_exists($loc_out2)) {
+//        mkdir($loc_out2);
+//    }
 // read graph data
     $graphData = graphReaders($loc, $v_files, $e_files);
 

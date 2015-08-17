@@ -3,19 +3,19 @@
     "name": "Yods Dataset",
     "path": "/data/yods",
     "v_files": [
-        "a.txt",
-        "b.txt",
-        "x.txt",
-        "y.txt",
-        "c.txt"
+        "a",
+        "b",
+        "x",
+        "y",
+        "c"
     ],
     "e_files": [
-        "a_b.txt",
-        "a_c.txt",
-        "x_a.txt",
-        "x_b.txt",
-        "y_a.txt",
-        "y_c.txt"
+        "a_b",
+        "a_c",
+        "x_a",
+        "x_b",
+        "y_a",
+        "y_c"
     ],
     "schema": {
         "source": {

@@ -3,24 +3,38 @@
     "name": "Filmography Dataset (New)",
     "path": "/data/movie2",
     "v_files": [
-        "actor.txt",
-        "film.txt",
-        "starring.txt"
+        "actor",
+        "film",
+        "character",
+        "starring",
+        "director",
+        "directedby"
     ],
     "e_files": [
-        "actor_film.txt",
-        "actor_starring.txt",
-        "film_starring.txt"
+        "actor_character",
+        "actor_film",
+        "character_film",
+        "actor_starring",
+        "character_starring",
+        "film_starring",
+        "director_directedby",
+        "film_directedby",
+        "film_director"
     ],
     "schema": {
         "source": {
             "name": "IMDb",
             "v_files": [
                 "actor",
-                "film"
+                "character",
+                "film",
+                "director"
             ],
             "e_files": [
-                "actor_film"
+                "actor_character",
+                "actor_film",
+                "character_film",
+                "film_director"
             ],
             "result": {
                 "path": "/data/ranking/top2000_q100_movie_imdb_to_freebase_results/source"
@@ -30,12 +44,18 @@
             "name": "Freebase",
             "v_files": [
                 "actor",
+                "character",
                 "film",
-                "starring"
+                "starring",
+                "directedby",
+                "director"
             ],
             "e_files": [
                 "actor_starring",
-                "film_starring"
+                "character_starring",
+                "film_starring",
+                "film_directedby",
+                "director_directedby"
             ],
             "result": {
                 "path": "/data/ranking/top2000_q100_movie_imdb_to_freebase_results/target"

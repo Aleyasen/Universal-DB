@@ -75,27 +75,22 @@ function generateGraph(container, inputdata) {
 //        alert(width);
 //            height = $("#rwr-src").width();
     var height = 400;
+    console.log("width = " + width);
+    console.log("height = " + height);
 //    alert(width);
 //    alert(height);
     var color = d3.scale.category10();
     var force = d3.layout.force()
-//                .charge(-40)
-//                .linkDistance(10)
-//                .friction(0.9)
-//                .alpha(.1)
+            .gravity(.3)
+            .distance(50)
+            .charge(-100)
             .size([width, height]);
-
     safety = 0;
-
     var svg = d3.select(container).append("svg")
             .attr("width", width)
             .attr("height", height);
-
-
     var drag = force.drag()
             .on("dragstart", dragstart);
-
-
     d3.json(inputdata, function(error, graph) {
         if (error) {
             throw error;
@@ -107,12 +102,21 @@ function generateGraph(container, inputdata) {
 //                d.px = d.py = width * i / n;
 
 //        });
+
+///////////////////////////
         force
                 .nodes(graph.nodes)
                 .links(graph.links);
 
 
         force.start();
+
+        var n = 10;
+//        force.start();
+//        for (var i = n * n; i > 0; --i)
+//            force.tick();
+//        force.stop();
+///////////////////////////
 //            while (force.alpha() > 0.001) { // You'll want to try out different, "small" values for this
 //                console.log(safety + " " + force.alpha());
 //                force.tick();
@@ -130,43 +134,86 @@ function generateGraph(container, inputdata) {
 //            for (var i = 0; i < 20; ++i)
 //                force.tick();
 //            force.stop();
+
         var link = svg.selectAll(".link")
                 .data(graph.links)
                 .enter().append("line")
-                .attr("class", "link")
-                .style("stroke-width", function(d) {
-                    return Math.sqrt(d.value);
-                });
+                .attr("class", "link");
 
         var node = svg.selectAll(".node")
                 .data(graph.nodes)
-                .enter().append("circle")
+                .enter().append("g")
                 .attr("class", "node")
                 .attr("data-id", function(d) {
                     return d.dataId;
                 })
-                .attr("r", 5)
+                .on("dblclick", dblclick)
+                .call(force.drag);
+
+//
+//        var link = svg.selectAll(".link")
+//                .data(graph.links)
+//                .enter().append("line")
+//                .attr("class", "link")
+//                .style("stroke-width", function(d) {
+//                    return Math.sqrt(d.value);
+//                });
+//        var nodes = d3.range(n).map(function() {
+//            return {};
+//        });
+//        var links = d3.range(n).map(function(d) {
+//            return {
+//                source: d,
+//                target: (d + 3) % n
+//            };
+//        });
+
+//        console.log("links");
+//        console.log(links);
+//        var node = svg.selectAll(".node")
+//                .data(graph.nodes)
+//                .enter().append("g") // was circle
+//                .attr("class", "node")
+//                .attr("cx", "100")
+//                .attr("cy", "100")
+//                .attr("data-id", function(d) {
+//                    return d.dataId;
+//                })
+//                .attr("r", 5)
 //                    .classed("fixed", true )
-                //                    
+        //                    
 //                    .attr("fixed", "true")
 //                    .attr("x", width / 2)
 //                    .attr("y", height / 2)
-                .style("fill", function(d) {
-                    return color(d.group);
-                })
-                .on("dblclick", dblclick)
+//                .style("fill", function(d) {
+//                    return color(d.group);
+//                })
+//                .on("dblclick", dblclick)
 //                    .on("mouseup", function(d){
 //                        dragstart(d);
 //                        force.tick();
 //                    })
-                .call(drag);
+//                .call(drag);
+//        node.append("title")
+//                .text(function(d) {
+//                    return d.name + " (" + d.type + ")";
+//                });
 
-        node.append("title")
+        node.append("image")
+                .attr("xlink:href", function(d) {
+                    return "img/icons/" + d.type + ".png";
+                })
+                .attr("x", -8)
+                .attr("y", -8)
+                .attr("width", 16)
+                .attr("height", 16);
+
+        node.append("text")
+                .attr("dx", 15)
+                .attr("dy", ".35em")
                 .text(function(d) {
-                    return d.name + " (" + d.type + ")";
+                    return d.name;
                 });
-
-
 //            force.stop();
 
 //            node.append("text")
@@ -190,31 +237,33 @@ function generateGraph(container, inputdata) {
                     .attr("y2", function(d) {
                         return d.target.y;
                     });
-            node.attr("cx", function(d) {
-                return d.x;
-            })
-                    .attr("cy", function(d) {
-                        return d.y;
-                    })
+//            node.attr("cx", function(d) {
+//                return d.x;
+//            })
+//                    .attr("cy", function(d) {
+//                        return d.y;
+//                    })
 //                node.attr("transform", function(d) {
 //                    return "translate(" + d.x + "," + d.y + ")";
 //                });
+            node.attr("transform", function(d) {
+                return "translate(" + d.x + "," + d.y + ")";
+            });
 
         });
+
     });
-
-
     function dblclick(d) {
 //            d3.select(this).classed("fixed", d.fixed = false).style("fill", function(d) {
 //                return color(d.group);
 //            });
 //        alert("dbclick");
-        filterGraph(d.name, 1, 20);
-        var selector = ".node[data-id=\"" + d.dataId + "\"]";
+        filterGraph(d.name, 3, 200);
+        var selector = ".node[data-id=\"" + d.dataId + "\"] image";
         console.log("selector = " + selector);
         d3.selectAll(".trans-graph > svg").selectAll(selector)
-                .attr("r", 5)
-//                    .attr("x", d.x)
+                .attr("width", 25)
+                .attr("height", 25)
 //                    .attr("y", d.y)
 //                    .attr("cx", d.x)
 //                    .attr("cy", d.y)
@@ -241,17 +290,22 @@ function generateGraph(container, inputdata) {
         var selector = ".node[data-id=\"" + d.dataId + "\"]";
         console.log("selector = " + selector);
         d3.selectAll(".trans-graph > svg").selectAll(selector)
-                .attr("r", 10)
-                .attr("x", d.x)
-                .attr("y", d.y)
-                .attr("px", d.x)
-                .attr("py", d.y)
-                .attr("cx", function(d) {
-                    return d.x;
-                })
-                .attr("cy", function(d) {
-                    return d.y;
-                })
+                .classed("fixed", d.fixed = true);
+
+        d3.selectAll(".trans-graph > svg").selectAll(selector + " image")
+                .attr("width", 20)
+                .attr("height", 20)
+//                .attr("r", 10)
+//                .attr("x", d.x)
+//                .attr("y", d.y)
+//                .attr("px", d.x)
+//                .attr("py", d.y)
+//                .attr("cx", function(d) {
+//                    return d.x;
+//                })
+//                .attr("cy", function(d) {
+//                    return d.y;
+//                })
                 .classed("fixed", d.fixed = true);
 //                    .style("fill", "#f00");
     }
