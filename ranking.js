@@ -8,10 +8,10 @@ $(function() {
         modal: true
     });
 
-    $("#hi").on("click", function() {
-        console.log("open it!");
-        dialog.dialog("open");
-    });
+//    $("#hi").on("click", function() {
+//        console.log("open it!");
+//        dialog.dialog("open");
+//    });
 
 });
 
@@ -116,6 +116,11 @@ function createList(svg, x_init, y_init, count, labels) {
             console.log("open it!!!");
 //                console.log($(this).attr("x"));
             $("#dialog").dialog("open");
+            setTimeout(
+                    function()
+                    {
+                        generageModalContent();
+                    }, 100);
             d3.event.stopPropagation();
         });
         rectangle.on("mouseover", function() {
@@ -171,6 +176,17 @@ function createLineTargetToEnd(svg, src, lastsrc) {
 }
 //});
 
+function generageModalContent() {
+//    var datafile = "data.json";
+//    var datafile = "data/uw-courses/data.json";
+    console.log("generateModalContent started.");
+    var datafile = "data/uw-courses_small/source.json";
+//    var datafile =  "data/samplegraph/data.json";
+
+    generateGraph("#modal-content-src", datafile);
+    generateGraph("#modal-content-target", datafile);
+
+}
 
 
 

@@ -11,8 +11,8 @@
         <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"/>
         <link rel="stylesheet" type="text/css" href="css/bootstrap-select.min.css"/>
         <script src="js/jquery.min.js"></script>
-        <link rel="stylesheet" href="css/jquery-ui.css">
 
+        <link href="js/jquery-ui/jquery-ui.min.css" rel="stylesheet" type="text/css"/>
         <link rel="stylesheet" type="text/css" href="css/main.css"/>
 
 
@@ -21,8 +21,7 @@
         <!--<script src="js/js.cookie.js"></script>-->
         <!--<script src="//cdnjs.cloudflare.com/ajax/libs/jquery.isotope/2.2.0/isotope.pkgd.min.js"></script>-->
 
-        <script src="js/jquery-ui.js"></script>
-
+        <script src="js/jquery-ui/jquery-ui.min.js" type="text/javascript"></script>
         <script src="js/d3.min.js"></script>
 
         <script src="graph.js" type="text/javascript"></script>

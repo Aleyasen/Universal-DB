@@ -1,18 +1,20 @@
 {
     "id": "course",
     "name": "Course Dataset",
-    "path": "/data/uw-courses",
+    "path": "/data/uw-courses/all",
+    "sample_path": "/data/uw-courses/sample",
+    "result": "/data/uw-courses/result",
     "v_files": [
-        "course.txt",
-        "inst.txt",
-        "offer.txt",
-        "subject.txt"
+        "course",
+        "inst",
+        "offer",
+        "subject"
     ],
     "e_files": [
-        "course_offer.txt",
-        "course_subject.txt",
-        "offer_inst.txt",
-        "offer_subject.txt"
+        "course_offer",
+        "course_subject",
+        "offer_inst",
+        "offer_subject"
     ],
     "schema": {
         "source": {
@@ -27,10 +29,7 @@
                 "course_offer",
                 "offer_inst",
                 "offer_subject"
-            ],
-            "result": {
-                "path": ""
-            }
+            ]
         },
         "target": {
             "name": "Alchemy UW-CSE",
@@ -44,10 +43,7 @@
                 "course_offer",
                 "course_subject",
                 "offer_inst"
-            ],
-            "result": {
-                "path": ""
-            }
+            ]
         }
     }
 }
