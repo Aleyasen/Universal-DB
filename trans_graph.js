@@ -52,8 +52,8 @@ function filterGraph(seed, radius, max_nodes) {
 
 function generateModalContent(result_node, query_node, ranking_list) {
     console.log("generateModalContent started.");
-    var radius = 1;
-    var max_nodes = 100;
+    var radius = 7;
+    var max_nodes = 2000;
     var generic_url = "./filtergraph.php?";
     generic_url += "compare=1&";
     generic_url += "result_node=" + escape(result_node) + "&";
@@ -352,10 +352,10 @@ function generateGraphForRanking(container, inputdata, result_node, query_node, 
     console.log("height = " + height);
     var color = d3.scale.category10();
     var force = d3.layout.force()
-//            .gravity(.5)
-            .distance(90)
+            .gravity(.5)
+            .distance(50)
             .charge(-200)
-//            .friction(.8)
+            .friction(.8)
             .size([width, height]);
     safety = 0;
     var svg = d3.select(container).append("svg")
