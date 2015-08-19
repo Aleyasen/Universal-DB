@@ -52,6 +52,7 @@ function generateList(selector, src_query_file, target_query_file) {
 
     readFileWithoutHeader(src_query_file, function(src_list) {
         readFileWithoutHeader(target_query_file, function(target_list) {
+//            console.log("src_list");
 //            console.log(src_list);
 //                console.log(target_list[1]);
 //                console.log(src_list[5]);
@@ -69,8 +70,8 @@ function createAll(svg, top_k, src_list, target_list) {
     var destRects = createList(svg, 155, 10, top_k, target_list);
     var connect_src = [];
     var connect_target = [];
-    for (var i = 1; i <= top_k; i++) {
-        for (var j = 1; j <= top_k; j++) {
+    for (var i = 0; i < top_k; i++) {
+        for (var j = 0; j < top_k; j++) {
             if (src_list[i] == target_list[j]) {
                 createLine(svg, srcRects[i], destRects[j]);
                 connect_src[i] = true;
@@ -79,24 +80,24 @@ function createAll(svg, top_k, src_list, target_list) {
         }
     }
 
-    for (var i = 1; i <= top_k; i++) {
+    for (var i = 0; i < top_k; i++) {
         if (!connect_src[i]) {
-            createLineSrcToEnd(svg, srcRects[i], srcRects[top_k]);
+            createLineSrcToEnd(svg, srcRects[i], srcRects[top_k - 1]);
         }
     }
 
-    for (var i = 1; i <= top_k; i++) {
+    for (var i = 0; i < top_k; i++) {
         if (!connect_target[i]) {
-            createLineTargetToEnd(svg, destRects[i], srcRects[top_k]);
+            createLineTargetToEnd(svg, destRects[i], srcRects[top_k - 1]);
         }
     }
 }
 function createList(svg, x_init, y_init, count, labels) {
     var rects = [];
-    for (var i = 1; i <= count; i++) {
+    for (var i = 0; i < count; i++) {
         var rectangle = svg.append("rect")
                 .attr("x", x_init)
-                .attr("y", y_init + (rect_height * (i - 1)))
+                .attr("y", y_init + (rect_height * (i)))
                 .attr("width", rect_width)
                 .attr("height", rect_height)
                 .attr("fill", "white")
@@ -111,7 +112,7 @@ function createList(svg, x_init, y_init, count, labels) {
         }
         var text = svg.append("text")
                 .attr("x", x_init + 5)
-                .attr("y", y_init + (rect_height * (i - 1)) + 20)
+                .attr("y", y_init + (rect_height * (i)) + 20)
                 .text(lb)
                 .attr("font-family", "sans-serif")
                 .attr("font-size", "11px")
@@ -218,6 +219,8 @@ function readFile(file, callback) {
 function parseFileWithoutHeader(allText) {
     var allTextLines = allText.split(/\r\n|\n/);
     var result = [];
+//    console.log("lines");
+//    console.log(allTextLines);
     for (var i = 0; i < allTextLines.length; i++) {
         var split = allTextLines[i].split('\t');
         result[i] = split[0];

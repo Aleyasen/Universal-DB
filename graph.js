@@ -8,7 +8,7 @@ $(document).ready(function() {
 
     $(".metawalkpicker").on('change', function() {
 //        var dt = $(this).val();
-        generageAllGraphs();
+        generateAllGraphs();
 
 //        alert("change dataset to " + dt);
     });
