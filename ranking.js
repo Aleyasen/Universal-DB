@@ -50,8 +50,8 @@ function generateList(selector, src_query_file, target_query_file) {
             .attr("width", 280)
             .attr("height", top_k * 35);
 
-    readFile(src_query_file, function(src_list) {
-        readFile(target_query_file, function(target_list) {
+    readFileWithoutHeader(src_query_file, function(src_list) {
+        readFileWithoutHeader(target_query_file, function(target_list) {
 //            console.log(src_list);
 //                console.log(target_list[1]);
 //                console.log(src_list[5]);
@@ -185,6 +185,19 @@ function createLineTargetToEnd(svg, src, lastsrc) {
 
 
 
+function readFileWithoutHeader(file, callback) {
+    if (file.charAt(0) == "/") {
+        file = file.substring(1, file.length);
+        console.log("readFile, file name changed: " + file);
+    } else {
+        console.log("readFile, name is fine: " + file);
+    }
+    $.get(file, function(data) {
+        var list = parseFileWithoutHeader(data);
+//            console.log(list);
+        callback(list);
+    });
+}
 
 
 function readFile(file, callback) {
@@ -200,6 +213,19 @@ function readFile(file, callback) {
         callback(list);
     });
 }
+
+
+function parseFileWithoutHeader(allText) {
+    var allTextLines = allText.split(/\r\n|\n/);
+    var result = [];
+    for (var i = 0; i < allTextLines.length; i++) {
+        var split = allTextLines[i].split('\t');
+        result[i] = split[0];
+    }
+    //alert(lines.length);
+    return result;
+}
+
 
 function parseFile(allText) {
     var allTextLines = allText.split(/\r\n|\n/);
