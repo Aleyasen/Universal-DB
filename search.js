@@ -44,8 +44,8 @@ function initRankingView(query_file) {
 function doIt(query_list, result_dir, k) {
     var q = $('.search-box').val();
 //        alert(q);
-    var q_index = 0;
-    for (var i = 1; i < query_list.length; i++) {
+    var q_index = -1;
+    for (var i = 0; i <= query_list.length; i++) {
         if (query_list[i] == q) {
             q_index = i;
             break;

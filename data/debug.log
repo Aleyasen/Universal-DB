@@ -108278,3 +108278,875 @@ Import edge file character , type1 = actor , type2 = film
 Import edge file film , type1 = character , type2 = film
 Import edge file director , type1 = film , type2 = director
 Done! Save json data on ./data/movie2/all/temp/out-99939//schema-src.json
+error. unavailable dataset bibloerror. unavailable dataset courseerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset courseerror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset courseerror. unavailable dataset yodserror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset courseerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset courseerror. unavailable dataset courseerror. unavailable dataset movieerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset courseerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset bibloerror. unavailable dataset courseerror. unavailable dataset courseerror. unavailable dataset movieerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset yodskey=0, val=data/movie2/all/actor.txt
+key=1, val=data/movie2/all/film.txt
+key=2, val=data/movie2/all/character.txt
+key=3, val=data/movie2/all/starring.txt
+key=4, val=data/movie2/all/director.txt
+key=5, val=data/movie2/all/directedby.txt
+key=0, val=data/movie2/all/actor_character.txt
+key=1, val=data/movie2/all/actor_film.txt
+key=2, val=data/movie2/all/character_film.txt
+key=0, val=data/movie2/all/actor.txt
+key=1, val=data/movie2/all/film.txt
+key=2, val=data/movie2/all/character.txt
+key=3, val=data/movie2/all/actor_starring.txt
+key=3, val=data/movie2/all/starring.txt
+key=4, val=data/movie2/all/director.txt
+key=5, val=data/movie2/all/directedby.txt
+key=0, val=data/movie2/all/actor_character.txt
+key=4, val=data/movie2/all/character_starring.txt
+key=1, val=data/movie2/all/actor_film.txt
+key=5, val=data/movie2/all/film_starring.txt
+key=2, val=data/movie2/all/character_film.txt
+key=3, val=data/movie2/all/actor_starring.txt
+key=4, val=data/movie2/all/character_starring.txt
+key=6, val=data/movie2/all/director_directedby.txt
+key=7, val=data/movie2/all/film_directedby.txt
+key=8, val=data/movie2/all/film_director.txt
+key=5, val=data/movie2/all/film_starring.txt
+key=6, val=data/movie2/all/director_directedby.txt
+key=7, val=data/movie2/all/film_directedby.txt
+key=8, val=data/movie2/all/film_director.txt
+1 80701
+1 2096901
+1 38501
+1 34301
+3 2402403
+3 2402603
+3 80803
+3 2712003
+3 2941603
+3 89503
+3 2711803
+3 2931703
+3 38603
+3 34403
+2 2398302
+2 80102
+2 2709902
+2 2926102
+2 33402
+4 2402304
+4 2402504
+4 80604
+4 2711904
+4 2941504
+4 89404
+4 2711704
+4 2931604
+4 38404
+4 34204
+actor starring
+character starring
+film starring
+film directedby
+director directedby
+Import node file actor.txt , type = actor
+Import node file character.txt , type = character
+Import node file film.txt , type = film
+Import node file starring.txt , type = starring
+Import node file directedby.txt , type = directedby
+Import node file director.txt , type = director
+Import edge file actor , type1 = actor , type2 = starring
+Import edge file character , type1 = character , type2 = starring
+Import edge file film , type1 = film , type2 = starring
+Import edge file starring , type1 = film , type2 = directedby
+Import edge file directedby , type1 = director , type2 = directedby
+Done! Save json data on ./data/movie2/all/temp/out-90757//schema-target.json
+1 80701
+1 2096901
+1 38501
+1 34301
+3 2402403
+3 2402603
+3 80803
+3 2712003
+3 2941603
+3 89503
+3 2711803
+3 2931703
+3 38603
+3 34403
+2 2398302
+2 80102
+2 2709902
+2 2926102
+2 33402
+actor character
+actor film
+character film
+film director
+Import node file actor.txt , type = actor
+Import node file character.txt , type = character
+Import node file film.txt , type = film
+Import node file director.txt , type = director
+Import edge file actor , type1 = actor , type2 = character
+Import edge file character , type1 = actor , type2 = film
+Import edge file film , type1 = character , type2 = film
+Import edge file director , type1 = film , type2 = director
+Done! Save json data on ./data/movie2/all/temp/out-40047//schema-src.json
+error. unavailable dataset bibloerror. unavailable dataset courseerror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset courseerror. unavailable dataset movieerror. unavailable dataset yodskey=0, val=data/movie2/all/actor.txt
+error. unavailable dataset yodskey=0, val=data/movie2/all/actor.txt
+key=1, val=data/movie2/all/film.txt
+key=1, val=data/movie2/all/film.txt
+key=2, val=data/movie2/all/character.txt
+key=2, val=data/movie2/all/character.txt
+key=3, val=data/movie2/all/starring.txt
+key=3, val=data/movie2/all/starring.txt
+key=4, val=data/movie2/all/director.txt
+key=4, val=data/movie2/all/director.txt
+key=5, val=data/movie2/all/directedby.txt
+key=5, val=data/movie2/all/directedby.txt
+key=0, val=data/movie2/all/actor_character.txt
+key=0, val=data/movie2/all/actor_character.txt
+key=1, val=data/movie2/all/actor_film.txt
+key=1, val=data/movie2/all/actor_film.txt
+key=2, val=data/movie2/all/character_film.txt
+key=2, val=data/movie2/all/character_film.txt
+key=3, val=data/movie2/all/actor_starring.txt
+key=3, val=data/movie2/all/actor_starring.txt
+key=4, val=data/movie2/all/character_starring.txt
+key=4, val=data/movie2/all/character_starring.txt
+key=5, val=data/movie2/all/film_starring.txt
+key=5, val=data/movie2/all/film_starring.txt
+key=6, val=data/movie2/all/director_directedby.txt
+key=7, val=data/movie2/all/film_directedby.txt
+key=8, val=data/movie2/all/film_director.txt
+key=6, val=data/movie2/all/director_directedby.txt
+key=7, val=data/movie2/all/film_directedby.txt
+key=8, val=data/movie2/all/film_director.txt
+1 2098401
+1 41201
+3 2200303
+3 2098503
+3 2100003
+3 41303
+2 2200002
+2 2097602
+2 33402
+4 2200204
+4 2098304
+4 2099904
+4 41104
+actor starring
+character starring
+film starring
+film directedby
+director directedby
+Import node file actor.txt , type = actor
+Import node file character.txt , type = character
+Import node file film.txt , type = film
+Import node file starring.txt , type = starring
+Import node file directedby.txt , type = directedby
+Import node file director.txt , type = director
+Import edge file actor , type1 = actor , type2 = starring
+Import edge file character , type1 = character , type2 = starring
+Import edge file film , type1 = film , type2 = starring
+Import edge file starring , type1 = film , type2 = directedby
+Import edge file directedby , type1 = director , type2 = directedby
+Done! Save json data on ./data/movie2/all/temp/out-67282//schema-target.json
+1 2098401
+1 41201
+3 2200303
+3 2098503
+3 2100003
+3 41303
+2 2200002
+2 2097602
+2 33402
+actor character
+actor film
+character film
+film director
+Import node file actor.txt , type = actor
+Import node file character.txt , type = character
+Import node file film.txt , type = film
+Import node file director.txt , type = director
+Import edge file actor , type1 = actor , type2 = character
+Import edge file character , type1 = actor , type2 = film
+Import edge file film , type1 = character , type2 = film
+Import edge file director , type1 = film , type2 = director
+Done! Save json data on ./data/movie2/all/temp/out-39720//schema-src.json
+error. unavailable dataset bibloerror. unavailable dataset courseerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset courseerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset bibloerror. unavailable dataset courseerror. unavailable dataset courseerror. unavailable dataset movieerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset bibloerror. unavailable dataset courseerror. unavailable dataset movieerror. unavailable dataset courseerror. unavailable dataset yodserror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset courseerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset courseerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset biblokey=0, val=data/movie2/all/actor.txt
+error. unavailable dataset courseerror. unavailable dataset movieerror. unavailable dataset yodskey=0, val=data/movie2/all/actor.txt
+key=1, val=data/movie2/all/film.txt
+key=1, val=data/movie2/all/film.txt
+key=2, val=data/movie2/all/character.txt
+key=2, val=data/movie2/all/character.txt
+key=3, val=data/movie2/all/starring.txt
+key=3, val=data/movie2/all/starring.txt
+key=4, val=data/movie2/all/director.txt
+key=5, val=data/movie2/all/directedby.txt
+key=4, val=data/movie2/all/director.txt
+key=0, val=data/movie2/all/actor_character.txt
+key=5, val=data/movie2/all/directedby.txt
+key=0, val=data/movie2/all/actor_character.txt
+key=1, val=data/movie2/all/actor_film.txt
+key=1, val=data/movie2/all/actor_film.txt
+key=2, val=data/movie2/all/character_film.txt
+key=2, val=data/movie2/all/character_film.txt
+key=3, val=data/movie2/all/actor_starring.txt
+key=3, val=data/movie2/all/actor_starring.txt
+key=4, val=data/movie2/all/character_starring.txt
+key=4, val=data/movie2/all/character_starring.txt
+key=5, val=data/movie2/all/film_starring.txt
+key=5, val=data/movie2/all/film_starring.txt
+key=6, val=data/movie2/all/director_directedby.txt
+key=7, val=data/movie2/all/film_directedby.txt
+key=6, val=data/movie2/all/director_directedby.txt
+key=7, val=data/movie2/all/film_directedby.txt
+key=8, val=data/movie2/all/film_director.txt
+key=8, val=data/movie2/all/film_director.txt
+1 210901
+1 33701
+3 2017503
+3 211003
+3 188803
+3 33803
+2 2013502
+2 183202
+2 33402
+4 2017404
+4 210804
+4 188704
+4 33604
+actor starring
+character starring
+film starring
+film directedby
+director directedby
+Import node file actor.txt , type = actor
+Import node file character.txt , type = character
+Import node file film.txt , type = film
+Import node file starring.txt , type = starring
+Import node file directedby.txt , type = directedby
+Import node file director.txt , type = director
+Import edge file actor , type1 = actor , type2 = starring
+Import edge file character , type1 = character , type2 = starring
+Import edge file film , type1 = film , type2 = starring
+Import edge file starring , type1 = film , type2 = directedby
+Import edge file directedby , type1 = director , type2 = directedby
+Done! Save json data on ./data/movie2/all/temp/out-11639//schema-target.json
+1 210901
+1 33701
+3 2017503
+3 211003
+3 188803
+3 33803
+2 2013502
+2 183202
+2 33402
+actor character
+actor film
+character film
+film director
+Import node file actor.txt , type = actor
+Import node file character.txt , type = character
+Import node file film.txt , type = film
+Import node file director.txt , type = director
+Import edge file actor , type1 = actor , type2 = character
+Import edge file character , type1 = actor , type2 = film
+Import edge file film , type1 = character , type2 = film
+Import edge file director , type1 = film , type2 = director
+Done! Save json data on ./data/movie2/all/temp/out-47688//schema-src.json
+error. unavailable dataset bibloerror. unavailable dataset courseerror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset courseerror. unavailable dataset yodserror. unavailable dataset moviekey=0, val=data/movie2/all/actor.txt
+error. unavailable dataset yodskey=0, val=data/movie2/all/actor.txt
+key=1, val=data/movie2/all/film.txt
+key=1, val=data/movie2/all/film.txt
+key=2, val=data/movie2/all/character.txt
+key=2, val=data/movie2/all/character.txt
+key=3, val=data/movie2/all/starring.txt
+key=4, val=data/movie2/all/director.txt
+key=4, val=data/movie2/all/director.txt
+key=5, val=data/movie2/all/directedby.txt
+key=5, val=data/movie2/all/directedby.txt
+key=0, val=data/movie2/all/actor_character.txt
+key=0, val=data/movie2/all/actor_character.txt
+key=1, val=data/movie2/all/actor_film.txt
+key=1, val=data/movie2/all/actor_film.txt
+key=2, val=data/movie2/all/character_film.txt
+key=2, val=data/movie2/all/character_film.txt
+key=3, val=data/movie2/all/actor_starring.txt
+key=3, val=data/movie2/all/actor_starring.txt
+key=4, val=data/movie2/all/character_starring.txt
+key=4, val=data/movie2/all/character_starring.txt
+key=5, val=data/movie2/all/film_starring.txt
+key=5, val=data/movie2/all/film_starring.txt
+key=6, val=data/movie2/all/director_directedby.txt
+key=6, val=data/movie2/all/director_directedby.txt
+key=7, val=data/movie2/all/film_directedby.txt
+key=7, val=data/movie2/all/film_directedby.txt
+key=8, val=data/movie2/all/film_director.txt
+key=8, val=data/movie2/all/film_director.txt
+1 2098401
+1 41201
+3 2200303
+3 2098503
+3 2100003
+3 41303
+1 2098401
+1 41201
+2 2200002
+3 2200303
+3 2098503
+2 2097602
+3 2100003
+2 33402
+4 2200204
+3 41303
+4 2098304
+4 2099904
+2 2200002
+2 2097602
+4 41104
+2 33402
+actor character
+actor film
+actor starring
+character film
+character starring
+film director
+Import node file actor.txt , type = actor
+film starring
+Import node file character.txt , type = character
+Import node file film.txt , type = film
+film directedby
+Import node file director.txt , type = director
+director directedby
+Import edge file actor , type1 = actor , type2 = character
+Import node file actor.txt , type = actor
+Import edge file character , type1 = actor , type2 = film
+Import node file character.txt , type = character
+Import edge file film , type1 = character , type2 = film
+Import node file film.txt , type = film
+Import edge file director , type1 = film , type2 = director
+Import node file starring.txt , type = starring
+Import node file directedby.txt , type = directedby
+Import node file director.txt , type = director
+Done! Save json data on ./data/movie2/all/temp/out-87901//schema-src.json
+Import edge file actor , type1 = actor , type2 = starring
+Import edge file character , type1 = character , type2 = starring
+Import edge file film , type1 = film , type2 = starring
+Import edge file starring , type1 = film , type2 = directedby
+Import edge file directedby , type1 = director , type2 = directedby
+Done! Save json data on ./data/movie2/all/temp/out-24353//schema-target.json
+error. unavailable dataset bibloerror. unavailable dataset courseerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset courseerror. unavailable dataset bibloerror. unavailable dataset courseerror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset courseerror. unavailable dataset movieerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset bibloerror. unavailable dataset courseerror. unavailable dataset courseerror. unavailable dataset movieerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset courseerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset bibloerror. unavailable dataset courseerror. unavailable dataset courseerror. unavailable dataset movieerror. unavailable dataset movieerror. unavailable dataset yodskey=0, val=data/movie2/all/actor.txt
+key=0, val=data/movie2/all/actor.txt
+key=1, val=data/movie2/all/film.txt
+key=1, val=data/movie2/all/film.txt
+key=2, val=data/movie2/all/character.txt
+key=2, val=data/movie2/all/character.txt
+key=3, val=data/movie2/all/starring.txt
+key=3, val=data/movie2/all/starring.txt
+key=4, val=data/movie2/all/director.txt
+key=4, val=data/movie2/all/director.txt
+key=5, val=data/movie2/all/directedby.txt
+key=5, val=data/movie2/all/directedby.txt
+key=0, val=data/movie2/all/actor_character.txt
+key=0, val=data/movie2/all/actor_character.txt
+key=1, val=data/movie2/all/actor_film.txt
+key=1, val=data/movie2/all/actor_film.txt
+key=2, val=data/movie2/all/character_film.txt
+key=2, val=data/movie2/all/character_film.txt
+key=3, val=data/movie2/all/actor_starring.txt
+key=3, val=data/movie2/all/actor_starring.txt
+key=4, val=data/movie2/all/character_starring.txt
+key=4, val=data/movie2/all/character_starring.txt
+key=5, val=data/movie2/all/film_starring.txt
+key=5, val=data/movie2/all/film_starring.txt
+key=6, val=data/movie2/all/director_directedby.txt
+key=6, val=data/movie2/all/director_directedby.txt
+key=7, val=data/movie2/all/film_directedby.txt
+key=7, val=data/movie2/all/film_directedby.txt
+key=8, val=data/movie2/all/film_director.txt
+key=8, val=data/movie2/all/film_director.txt
+1 210901
+1 33701
+3 2017503
+3 211003
+3 188803
+3 33803
+2 2013502
+2 183202
+2 33402
+1 210901
+1 33701
+actor character
+3 2017503
+3 211003
+actor film
+3 188803
+3 33803
+2 2013502
+2 183202
+character film
+2 33402
+4 2017404
+4 210804
+film director
+4 188704
+4 33604
+Import node file actor.txt , type = actor
+Import node file character.txt , type = character
+Import node file film.txt , type = film
+Import node file director.txt , type = director
+Import edge file actor , type1 = actor , type2 = character
+actor starring
+Import edge file character , type1 = actor , type2 = film
+Import edge file film , type1 = character , type2 = film
+Import edge file director , type1 = film , type2 = director
+character starring
+Done! Save json data on ./data/movie2/all/temp/out-41890//schema-src.json
+film starring
+film directedby
+director directedby
+Import node file actor.txt , type = actor
+Import node file character.txt , type = character
+Import node file film.txt , type = film
+Import node file starring.txt , type = starring
+Import node file directedby.txt , type = directedby
+Import node file director.txt , type = director
+Import edge file actor , type1 = actor , type2 = starring
+Import edge file character , type1 = character , type2 = starring
+Import edge file film , type1 = film , type2 = starring
+Import edge file starring , type1 = film , type2 = directedby
+Import edge file directedby , type1 = director , type2 = directedby
+Done! Save json data on ./data/movie2/all/temp/out-48430//schema-target.json
+error. unavailable dataset bibloerror. unavailable dataset courseerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset courseerror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset courseerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset yodserror. unavailable dataset courseerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset bibloerror. unavailable dataset courseerror. unavailable dataset courseerror. unavailable dataset movieerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset courseerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset bibloerror. unavailable dataset courseerror. unavailable dataset courseerror. unavailable dataset movieerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset yodskey=0, val=data/movie2/all/actor.txt
+key=0, val=data/movie2/all/actor.txt
+key=1, val=data/movie2/all/film.txt
+key=1, val=data/movie2/all/film.txt
+key=2, val=data/movie2/all/character.txt
+key=2, val=data/movie2/all/character.txt
+key=3, val=data/movie2/all/starring.txt
+key=3, val=data/movie2/all/starring.txt
+key=4, val=data/movie2/all/director.txt
+key=5, val=data/movie2/all/directedby.txt
+key=0, val=data/movie2/all/actor_character.txt
+key=4, val=data/movie2/all/director.txt
+key=5, val=data/movie2/all/directedby.txt
+key=0, val=data/movie2/all/actor_character.txt
+key=1, val=data/movie2/all/actor_film.txt
+key=1, val=data/movie2/all/actor_film.txt
+key=2, val=data/movie2/all/character_film.txt
+key=2, val=data/movie2/all/character_film.txt
+key=3, val=data/movie2/all/actor_starring.txt
+key=3, val=data/movie2/all/actor_starring.txt
+key=4, val=data/movie2/all/character_starring.txt
+key=4, val=data/movie2/all/character_starring.txt
+key=5, val=data/movie2/all/film_starring.txt
+key=5, val=data/movie2/all/film_starring.txt
+key=6, val=data/movie2/all/director_directedby.txt
+key=6, val=data/movie2/all/director_directedby.txt
+key=7, val=data/movie2/all/film_directedby.txt
+key=7, val=data/movie2/all/film_directedby.txt
+key=8, val=data/movie2/all/film_director.txt
+key=8, val=data/movie2/all/film_director.txt
+1 210901
+1 33701
+3 2017503
+3 211003
+3 188803
+3 33803
+2 2013502
+2 183202
+2 33402
+1 210901
+1 33701
+actor character
+3 2017503
+actor film
+3 211003
+character film
+3 188803
+3 33803
+film director
+Import node file actor.txt , type = actor
+2 2013502
+2 183202
+2 33402
+Import node file character.txt , type = character
+4 2017404
+4 210804
+Import node file film.txt , type = film
+4 188704
+4 33604
+Import node file director.txt , type = director
+Import edge file actor , type1 = actor , type2 = character
+Import edge file character , type1 = actor , type2 = film
+Import edge file film , type1 = character , type2 = film
+Import edge file director , type1 = film , type2 = director
+actor starring
+Done! Save json data on ./data/movie2/all/temp/out-97143//schema-src.json
+character starring
+film starring
+film directedby
+director directedby
+Import node file actor.txt , type = actor
+Import node file character.txt , type = character
+Import node file film.txt , type = film
+Import node file starring.txt , type = starring
+Import node file directedby.txt , type = directedby
+Import node file director.txt , type = director
+Import edge file actor , type1 = actor , type2 = starring
+Import edge file character , type1 = character , type2 = starring
+Import edge file film , type1 = film , type2 = starring
+Import edge file starring , type1 = film , type2 = directedby
+Import edge file directedby , type1 = director , type2 = directedby
+Done! Save json data on ./data/movie2/all/temp/out-88972//schema-target.json
+error. unavailable dataset bibloerror. unavailable dataset courseerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset courseerror. unavailable dataset movieerror. unavailable dataset courseerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset courseerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset bibloerror. unavailable dataset courseerror. unavailable dataset movieerror. unavailable dataset courseerror. unavailable dataset yodserror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset courseerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset bibloerror. unavailable dataset courseerror. unavailable dataset courseerror. unavailable dataset movieerror. unavailable dataset movieerror. unavailable dataset yodskey=0, val=data/movie2/all/actor.txt
+error. unavailable dataset yodskey=0, val=data/movie2/all/actor.txt
+key=1, val=data/movie2/all/film.txt
+key=1, val=data/movie2/all/film.txt
+key=2, val=data/movie2/all/character.txt
+key=2, val=data/movie2/all/character.txt
+key=3, val=data/movie2/all/starring.txt
+key=3, val=data/movie2/all/starring.txt
+key=4, val=data/movie2/all/director.txt
+key=4, val=data/movie2/all/director.txt
+key=5, val=data/movie2/all/directedby.txt
+key=5, val=data/movie2/all/directedby.txt
+key=0, val=data/movie2/all/actor_character.txt
+key=0, val=data/movie2/all/actor_character.txt
+key=1, val=data/movie2/all/actor_film.txt
+key=1, val=data/movie2/all/actor_film.txt
+key=2, val=data/movie2/all/character_film.txt
+key=2, val=data/movie2/all/character_film.txt
+key=3, val=data/movie2/all/actor_starring.txt
+key=3, val=data/movie2/all/actor_starring.txt
+key=4, val=data/movie2/all/character_starring.txt
+key=4, val=data/movie2/all/character_starring.txt
+key=5, val=data/movie2/all/film_starring.txt
+key=5, val=data/movie2/all/film_starring.txt
+key=6, val=data/movie2/all/director_directedby.txt
+key=7, val=data/movie2/all/film_directedby.txt
+key=8, val=data/movie2/all/film_director.txt
+key=6, val=data/movie2/all/director_directedby.txt
+key=7, val=data/movie2/all/film_directedby.txt
+key=8, val=data/movie2/all/film_director.txt
+1 210901
+1 33701
+3 2017503
+3 211003
+3 188803
+3 33803
+2 2013502
+2 183202
+2 33402
+actor character
+actor film
+character film
+film director
+Import node file actor.txt , type = actor
+Import node file character.txt , type = character
+Import node file film.txt , type = film
+Import node file director.txt , type = director
+Import edge file actor , type1 = actor , type2 = character
+Import edge file character , type1 = actor , type2 = film
+Import edge file film , type1 = character , type2 = film
+Import edge file director , type1 = film , type2 = director
+Done! Save json data on ./data/movie2/all/temp/out-36545//schema-src.json
+1 210901
+1 33701
+3 2017503
+3 211003
+3 188803
+3 33803
+2 2013502
+2 183202
+2 33402
+4 2017404
+4 210804
+4 188704
+4 33604
+actor starring
+character starring
+film starring
+film directedby
+director directedby
+Import node file actor.txt , type = actor
+Import node file character.txt , type = character
+Import node file film.txt , type = film
+Import node file starring.txt , type = starring
+Import node file directedby.txt , type = directedby
+Import node file director.txt , type = director
+Import edge file actor , type1 = actor , type2 = starring
+Import edge file character , type1 = character , type2 = starring
+Import edge file film , type1 = film , type2 = starring
+Import edge file starring , type1 = film , type2 = directedby
+Import edge file directedby , type1 = director , type2 = directedby
+Done! Save json data on ./data/movie2/all/temp/out-72094//schema-target.json
+error. unavailable dataset bibloerror. unavailable dataset bibloeerror. unavailable dataset movieerror. unavailable dataset courseerror. unavailable dataset yodserror. unavailable dataset moviekey=0, val=data/movie2/all/actor.txt
+error. unavailable dataset yodskey=0, val=data/movie2/all/actor.txt
+key=1, val=data/movie2/all/film.txt
+key=1, val=data/movie2/all/film.txt
+key=2, val=data/movie2/all/character.txt
+key=2, val=data/movie2/all/character.txt
+key=3, val=data/movie2/all/starring.txt
+key=3, val=data/movie2/all/starring.txt
+key=4, val=data/movie2/all/director.txt
+key=4, val=data/movie2/all/director.txt
+key=5, val=data/movie2/all/directedby.txt
+key=5, val=data/movie2/all/directedby.txt
+key=0, val=data/movie2/all/actor_character.txt
+key=0, val=data/movie2/all/actor_character.txt
+key=1, val=data/movie2/all/actor_film.txt
+key=1, val=data/movie2/all/actor_film.txt
+key=2, val=data/movie2/all/character_film.txt
+key=2, val=data/movie2/all/character_film.txt
+key=3, val=data/movie2/all/actor_starring.txt
+key=3, val=data/movie2/all/actor_starring.txt
+key=4, val=data/movie2/all/character_starring.txt
+key=4, val=data/movie2/all/character_starring.txt
+key=5, val=data/movie2/all/film_starring.txt
+key=5, val=data/movie2/all/film_starring.txt
+key=6, val=data/movie2/all/director_directedby.txt
+key=7, val=data/movie2/all/film_directedby.txt
+key=6, val=data/movie2/all/director_directedby.txt
+key=8, val=data/movie2/all/film_director.txt
+key=7, val=data/movie2/all/film_directedby.txt
+key=8, val=data/movie2/all/film_director.txt
+1 80701
+1 2096901
+1 38501
+1 34301
+3 2402403
+3 2402603
+3 80803
+3 2712003
+3 2941603
+3 89503
+3 2711803
+3 2931703
+3 38603
+3 34403
+2 2398302
+2 80102
+2 2709902
+2 2926102
+2 33402
+actor character
+actor film
+character film
+film director
+Import node file actor.txt , type = actor
+Import node file character.txt , type = character
+Import node file film.txt , type = film
+Import node file director.txt , type = director
+Import edge file actor , type1 = actor , type2 = character
+Import edge file character , type1 = actor , type2 = film
+Import edge file film , type1 = character , type2 = film
+Import edge file director , type1 = film , type2 = director
+Done! Save json data on ./data/movie2/all/temp/out-39731//schema-src.json
+1 80701
+1 2096901
+1 38501
+1 34301
+3 2402403
+3 2402603
+3 80803
+3 2712003
+3 2941603
+3 89503
+3 2711803
+3 2931703
+3 38603
+3 34403
+2 2398302
+2 80102
+2 2709902
+2 2926102
+2 33402
+4 2402304
+4 2402504
+4 80604
+4 2711904
+4 2941504
+4 89404
+4 2711704
+4 2931604
+4 38404
+4 34204
+actor starring
+character starring
+film starring
+film directedby
+director directedby
+Import node file actor.txt , type = actor
+Import node file character.txt , type = character
+Import node file film.txt , type = film
+Import node file starring.txt , type = starring
+Import node file directedby.txt , type = directedby
+Import node file director.txt , type = director
+Import edge file actor , type1 = actor , type2 = starring
+Import edge file character , type1 = character , type2 = starring
+Import edge file film , type1 = film , type2 = starring
+Import edge file starring , type1 = film , type2 = directedby
+Import edge file directedby , type1 = director , type2 = directedby
+Done! Save json data on ./data/movie2/all/temp/out-22233//schema-target.json
+error. unavailable dataset bibloerror. unavailable dataset bibloerror. unavailable dataset courseerror. unavailable dataset courseerror. unavailable dataset movieerror. unavailable dataset movieerror. unavailable dataset yodskey=0, val=data/movie2/all/actor.txt
+error. unavailable dataset yodskey=0, val=data/movie2/all/actor.txt
+key=1, val=data/movie2/all/film.txt
+key=1, val=data/movie2/all/film.txt
+key=2, val=data/movie2/all/character.txt
+key=2, val=data/movie2/all/character.txt
+key=3, val=data/movie2/all/starring.txt
+key=3, val=data/movie2/all/starring.txt
+key=4, val=data/movie2/all/director.txt
+key=4, val=data/movie2/all/director.txt
+key=5, val=data/movie2/all/directedby.txt
+key=5, val=data/movie2/all/directedby.txt
+key=0, val=data/movie2/all/actor_character.txt
+key=0, val=data/movie2/all/actor_character.txt
+key=1, val=data/movie2/all/actor_film.txt
+key=1, val=data/movie2/all/actor_film.txt
+key=2, val=data/movie2/all/character_film.txt
+key=2, val=data/movie2/all/character_film.txt
+key=3, val=data/movie2/all/actor_starring.txt
+key=3, val=data/movie2/all/actor_starring.txt
+key=4, val=data/movie2/all/character_starring.txt
+key=4, val=data/movie2/all/character_starring.txt
+key=5, val=data/movie2/all/film_starring.txt
+key=5, val=data/movie2/all/film_starring.txt
+key=6, val=data/movie2/all/director_directedby.txt
+key=7, val=data/movie2/all/film_directedby.txt
+key=8, val=data/movie2/all/film_director.txt
+key=6, val=data/movie2/all/director_directedby.txt
+key=7, val=data/movie2/all/film_directedby.txt
+key=8, val=data/movie2/all/film_director.txt
+1 210901
+1 33701
+3 2017503
+3 211003
+3 188803
+3 33803
+2 2013502
+2 183202
+2 33402
+4 2017404
+4 210804
+4 188704
+4 33604
+1 210901
+1 33701
+3 2017503
+3 211003
+3 188803
+3 33803
+2 2013502
+2 183202
+2 33402
+actor starring
+character starring
+film starring
+actor character
+film directedby
+actor film
+director directedby
+Import node file actor.txt , type = actor
+character film
+Import node file character.txt , type = character
+Import node file film.txt , type = film
+film director
+Import node file starring.txt , type = starring
+Import node file actor.txt , type = actor
+Import node file directedby.txt , type = directedby
+Import node file character.txt , type = character
+Import node file director.txt , type = director
+Import edge file actor , type1 = actor , type2 = starring
+Import node file film.txt , type = film
+Import edge file character , type1 = character , type2 = starring
+Import node file director.txt , type = director
+Import edge file film , type1 = film , type2 = starring
+Import edge file actor , type1 = actor , type2 = character
+Import edge file starring , type1 = film , type2 = directedby
+Import edge file character , type1 = actor , type2 = film
+Import edge file directedby , type1 = director , type2 = directedby
+Import edge file film , type1 = character , type2 = film
+Import edge file director , type1 = film , type2 = director
+Done! Save json data on ./data/movie2/all/temp/out-88261//schema-target.json
+Done! Save json data on ./data/movie2/all/temp/out-41396//schema-src.json
+error. unavailable dataset bibloerror. unavailable dataset bibloerror. unavailable dataset courseerror. unavailable dataset courseerror. unavailable dataset movieerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset yodskey=0, val=data/movie2/all/actor.txt
+key=0, val=data/movie2/all/actor.txt
+key=1, val=data/movie2/all/film.txt
+key=1, val=data/movie2/all/film.txt
+key=2, val=data/movie2/all/character.txt
+key=2, val=data/movie2/all/character.txt
+key=3, val=data/movie2/all/starring.txt
+key=3, val=data/movie2/all/starring.txt
+key=4, val=data/movie2/all/director.txt
+key=4, val=data/movie2/all/director.txt
+key=5, val=data/movie2/all/directedby.txt
+key=5, val=data/movie2/all/directedby.txt
+key=0, val=data/movie2/all/actor_character.txt
+key=0, val=data/movie2/all/actor_character.txt
+key=1, val=data/movie2/all/actor_film.txt
+key=1, val=data/movie2/all/actor_film.txt
+key=2, val=data/movie2/all/character_film.txt
+key=2, val=data/movie2/all/character_film.txt
+key=3, val=data/movie2/all/actor_starring.txt
+key=3, val=data/movie2/all/actor_starring.txt
+key=4, val=data/movie2/all/character_starring.txt
+key=4, val=data/movie2/all/character_starring.txt
+key=5, val=data/movie2/all/film_starring.txt
+key=5, val=data/movie2/all/film_starring.txt
+key=6, val=data/movie2/all/director_directedby.txt
+key=7, val=data/movie2/all/film_directedby.txt
+key=6, val=data/movie2/all/director_directedby.txt
+key=7, val=data/movie2/all/film_directedby.txt
+key=8, val=data/movie2/all/film_director.txt
+key=8, val=data/movie2/all/film_director.txt
+1 210901
+1 33701
+3 2017503
+3 211003
+1 210901
+3 188803
+1 33701
+3 33803
+3 2017503
+3 211003
+2 2013502
+3 188803
+3 33803
+2 183202
+2 33402
+2 2013502
+2 183202
+2 33402
+actor character
+4 2017404
+4 210804
+actor film
+4 188704
+4 33604
+character film
+film director
+Import node file actor.txt , type = actor
+Import node file character.txt , type = character
+actor starring
+Import node file film.txt , type = film
+Import node file director.txt , type = director
+character starring
+Import edge file actor , type1 = actor , type2 = character
+Import edge file character , type1 = actor , type2 = film
+film starring
+Import edge file film , type1 = character , type2 = film
+Import edge file director , type1 = film , type2 = director
+film directedby
+Done! Save json data on ./data/movie2/all/temp/out-24996//schema-src.json
+director directedby
+Import node file actor.txt , type = actor
+Import node file character.txt , type = character
+Import node file film.txt , type = film
+Import node file starring.txt , type = starring
+Import node file directedby.txt , type = directedby
+Import node file director.txt , type = director
+Import edge file actor , type1 = actor , type2 = starring
+Import edge file character , type1 = character , type2 = starring
+Import edge file film , type1 = film , type2 = starring
+Import edge file starring , type1 = film , type2 = directedby
+Import edge file directedby , type1 = director , type2 = directedby
+Done! Save json data on ./data/movie2/all/temp/out-72179//schema-target.json
+error. unavailable dataset bibloerror. unavailable dataset courseerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset bibloerror. unavailable dataset courseerror. unavailable dataset courseerror. unavailable dataset movieerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset courseerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset bibloerror. unavailable dataset courseerror. unavailable dataset courseerror. unavailable dataset movieerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset courseerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset courseerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset courseerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset courseerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset courseerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset bibloerror. unavailable dataset courseerror. unavailable dataset courseerror. unavailable dataset movieerror. unavailable dataset movieerror. unavailable dataset yodserror. unavailable dataset yodserror. unavailable dataset bibloerror. unavailable dataset courseerror. unavailable dataset movieerror. unavailable dataset yods

@@ -358,7 +358,7 @@ function generateGraphForRanking(container, inputdata, result_node, query_node, 
     console.log("height = " + height);
     var color = d3.scale.category10();
     var force = d3.layout.force()
-            .gravity(.1)
+            .gravity(.04)
             .distance(90)
             .charge(-200)
             .friction(.8)

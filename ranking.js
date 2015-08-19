@@ -3,7 +3,7 @@ $(function() {
 
     dialog = $("#dialog").dialog({
         autoOpen: false,
-        height: 450,
+        height: 540,
         width: 1200,
         modal: true
     });
@@ -22,11 +22,12 @@ var rect_height = 30;
 var truncate_limit = 20;
 
 function generateAllLists(result_dir, query_index, tk, query_text) {
+//    alert(query_index);
     top_k = tk;
 //        var query = "5";
     var root_dir = result_dir;
 //    var root_dir = "data\\ranking\\dblp_c50_top2000";
-
+    query_index++;
     var src_file1 = root_dir + "\\source\\rwr\\answer.query" + query_index + ".txt";
     var target_file1 = root_dir + "\\target\\rwr\\answer.query" + query_index + ".txt";
     var src_file2 = root_dir + "\\source\\simrank\\answer.query" + query_index + ".txt";
