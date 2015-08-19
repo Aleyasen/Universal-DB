@@ -1,4 +1,4 @@
-
+var default_dataset = "movie2";
 $(document).ready(function() {
 
 
@@ -29,7 +29,7 @@ $(document).ready(function() {
 //        alert("change dataset to " + dt);
     });
 
-    $(".datasetpicker").val("movie2").change();
+    $(".datasetpicker").val(default_dataset).change();
     $(".datasetpicker").selectpicker('refresh');
 
     $("#compare-algs").mouseup(function() {

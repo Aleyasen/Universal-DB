@@ -1,0 +1,35 @@
+{
+    "id": "citation",
+    "name": "Citation",
+    "path": "/data/citation/all",
+    "sample_path": "/data/citation/sample",
+    "result": "/data/citation/result",
+    "query": "paper",
+    "v_files": [
+        "paper"
+    ],
+    "e_files": [
+        "paper_paper"
+    ],
+    "schema": {
+        "source": {
+            "name": "DBLP",
+            "v_files": [
+                "paper"
+            ],
+            "e_files": [
+                "paper_paper"
+            ]
+        },
+        "target": {
+            "name": "SNAP",
+            "v_files": [
+                "paper"
+            ],
+            "e_files": [
+                "paper_paper"
+            ]
+        }
+    }
+}
+

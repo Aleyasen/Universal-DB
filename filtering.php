@@ -27,8 +27,9 @@ function graphReaders($loc, $v_files, $e_files) {
         while (($line = fgets($file)) !== false) {
 //            echo $line."\n";
             $line_arr = preg_split("/\t/", $line);
-            if (count($line_arr) < 2)
+            if (count($line_arr) < 2) {
                 continue;
+            }
             $vg_id = $vg_id + 1;
             $n_id = intval(rtrim($line_arr[0])) * 100 + $t_id;
             $n_val = rtrim($line_arr[1]);
@@ -37,6 +38,7 @@ function graphReaders($loc, $v_files, $e_files) {
             $h_VVG[$n_id] = $vg_id;
             $h_VGV[$vg_id] = $n_id;
         }
+
         fclose($file);
     }
 
@@ -58,14 +60,20 @@ function graphReaders($loc, $v_files, $e_files) {
             $v2 = rtrim($line_arr[1]);
             $n1_id = $v1 * 100 + $t1;
             $n2_id = $v2 * 100 + $t2;
-            $vg1 = -1;
-            if (isset($h_VVG[$n1_id])) {
-                $vg1 = $h_VVG[$n1_id];
+//            $vg1 = -1;
+//            if (!isset($h_VVG[$n1_id])) {
+//                echo "file: ". $loc . $x_val . "<br>";
+//                echo $line. "<br>";
+//                echo "v1: ". $v1 . " v2: ". $v2. "<br>";
+//                echo "n1_id: ". $n1_id . "<br>";
+//            }
+            // added by amir
+            if ((!isset($h_VVG[$n1_id])) || (!isset($h_VVG[$n2_id]))) {
+                continue;
             }
-            $vg2 = -1;
-            if (isset($h_VVG[$n2_id])) {
-                $vg2 = $h_VVG[$n2_id];
-            }
+            $vg1 = $h_VVG[$n1_id];
+            $vg2 = $h_VVG[$n2_id];
+
             //echo $vg1.":".$n1_id."\t".$vg2.":".$n2_id."\n";
             if (array_key_exists($vg1, $h_EG))
                 $eg1 = $h_EG[$vg1];
@@ -103,25 +111,108 @@ function idInFullGraph($n_val, $h_AV, $h_VVG) {
     return $vg;
 }
 
-function bfsTraversal($vg, $h_EG, $RAD, $MAX_NODES) {
-    $vs = array();
+function findShortestPath($vfrom, $vto, $h_EG) {
+//    print_r($h_EG);
 
+    $mark = array();
     $queue = new SplQueue();
     $queue_rad = new SplQueue();
-    $queue->push($vg);
-    $queue_rad->push(0);
+    $parent = array();
+    $queue->enqueue($vfrom);
+    $queue_rad->enqueue(0);
+    $parent[$vfrom] = -1;
+    $mark[$vfrom] = 1;
+
+    while (!$queue->isEmpty()) {
+        $v = $queue->dequeue();
+        $n = $queue_rad->dequeue();
+//        echo "dequeue: " . $v . " d: " . $n . "<br>";
+        if ($v == $vto) {
+//            $it = $v;
+//            echo "<br>";
+//            while (true) {
+//                echo $it . " -> ";
+//                $it = $parent[$it];
+//                if ($it == -1) {
+//                    break;
+//                }
+//            }
+//            echo "<br>";
+            return $n ;
+        }
+        $eg = $h_EG[$v];
+        foreach ($eg as $v2) {
+            if (!isset($mark[$v2])) {
+                $mark[$v2] = 1;
+                $queue->enqueue($v2);
+                $queue_rad->enqueue($n + 1);
+                $parent[$v2] = $v;
+//                echo "enqueue: " . $v2 . " d: " . $n . "parent: " . $v . "<br>";
+            }
+        }
+    }
+
+    // unreachable node
+    return -1;
+}
+
+function bfsTraversalWithDistance($vg, $h_EG, $RAD, $MAX_NODES) {
+    $vs = array();
+    $mark = array();
+    $queue = new SplQueue();
+    $queue_rad = new SplQueue();
+    $queue->enqueue($vg);
+    $queue_rad->enqueue(0);
+    $mark[$vg] = 1;
+
 
     while (!$queue->isEmpty() && count($vs) < $MAX_NODES) {
-        $v = $queue->pop();
-        $n = $queue_rad->pop();
-        if ($n > $RAD)
-            continue;
-        if (!in_array($v, $vs)) {
-            array_push($vs, $v);
-            $eg = $h_EG[$v];
-            foreach ($eg as $v2) {
-                $queue->push($v2);
-                $queue_rad->push($n + 1);
+        $v = $queue->dequeue();
+        $n = $queue_rad->dequeue();
+        array_push($vs, array($v, $n));
+        if ($n > $RAD) {
+            break;
+        }
+        $eg = $h_EG[$v];
+        foreach ($eg as $v2) {
+            if (!isset($mark[$v2])) {
+                $mark[$v2] = 1;
+                $queue->enqueue($v2);
+                $queue_rad->enqueue($n + 1);
+//                echo "enqueue: " . $v . " d: " . $n . "<br>";
+            }
+        }
+    }
+
+    // test print
+//    c_log(print_r($vs, true));
+
+    return $vs;
+}
+
+function bfsTraversal($vg, $h_EG, $RAD, $MAX_NODES) {
+    $vs = array();
+    $mark = array();
+    $queue = new SplQueue();
+    $queue_rad = new SplQueue();
+    $queue->enqueue($vg);
+    $queue_rad->enqueue(0);
+    $mark[$vg] = 1;
+
+    while (!$queue->isEmpty() && count($vs) < $MAX_NODES) {
+        $v = $queue->dequeue();
+        $n = $queue_rad->dequeue();
+        array_push($vs, $v);
+        if ($n > $RAD) {
+            break;
+        }
+        $eg = $h_EG[$v];
+        foreach ($eg as $v2) {
+            if (!isset($mark[$v2])) {
+                $mark[$v2] = 1;
+                $queue->enqueue($v2);
+                $queue_rad->enqueue($n + 1);
+//                echo "enqueue: " . $v . " d: " . $n . "<br>";
             }
         }
     }
@@ -190,7 +281,7 @@ function printToFile($loc, $v_out, $e_out, $vs, $h_VGV, $h_VVG, $h_VA, $h_L, $h_
             if ($l_id == $l1) {
                 $v1 = intval($v_id) / 100;
                 foreach ($eg as $vg2) {
-                    if (!isset($h_VGV[$vg2])){
+                    if (!isset($h_VGV[$vg2])) {
                         continue;
                     }
                     $v2_id = $h_VGV[$vg2];

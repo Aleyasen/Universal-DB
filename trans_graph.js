@@ -1,12 +1,20 @@
 
-var default_radius = 2;
+var default_radius = 1;
 var default_max_nodes = 100;
+
+var radius_fr_filter = 3;
+var max_nodes_fr_filter = 200;
+
+var default_radius_fr = 4;
+var default_max_nodes_fr = 1000;
+
 var default_icon_size = 20;
 var focus_icon_size = 25;
+
 $(document).ready(function() {
 
     $("#choose-dataset").css("background-color", "#E0E0E0");
-    
+
     $(".menu-header").click(function() {
         $(".menu-header").css("background-color", "#f5f5f5");
         $(this).css("background-color", "#E0E0E0");
@@ -52,14 +60,12 @@ function filterGraph(seed, radius, max_nodes) {
 
 function generateModalContent(result_node, query_node, ranking_list) {
     console.log("generateModalContent started.");
-    var radius = 7;
-    var max_nodes = 2000;
     var generic_url = "./filtergraph.php?";
     generic_url += "compare=1&";
     generic_url += "result_node=" + escape(result_node) + "&";
     generic_url += "query_node=" + escape(query_node) + "&";
-    generic_url += "radius=" + radius + "&";
-    generic_url += "max_nodes=" + max_nodes + "&";
+    generic_url += "radius=" + default_radius_fr + "&";
+    generic_url += "max_nodes=" + default_max_nodes_fr + "&";
     var selectedDataset = $(".datasetpicker").select().val();
 //    alert(selectedDataset);
     generic_url += "dataset=" + selectedDataset;
@@ -341,10 +347,10 @@ function generateGraph(container, inputdata) {
 
 
 
-var default_radius_fr = 2;
-var default_max_nodes_fr = 100;
 
 function generateGraphForRanking(container, inputdata, result_node, query_node, ranking_list) {
+//    console.log("ranking list:");
+//    console.log(ranking_list);
     d3.select(container).html("");
     var width = $(container).width();
     var height = 400;
@@ -352,8 +358,8 @@ function generateGraphForRanking(container, inputdata, result_node, query_node, 
     console.log("height = " + height);
     var color = d3.scale.category10();
     var force = d3.layout.force()
-            .gravity(.5)
-            .distance(50)
+            .gravity(.1)
+            .distance(90)
             .charge(-200)
             .friction(.8)
             .size([width, height]);
@@ -399,8 +405,10 @@ function generateGraphForRanking(container, inputdata, result_node, query_node, 
                 .attr("x", -default_icon_size / 2)
                 .attr("y", -default_icon_size / 2)
                 .attr("width", function(d) {
-                    if (d.name == result_node || d.name == query_node) {
-                        return 40;
+                    if (d.name == result_node) {
+                        return 35;
+                    } else if (d.name == query_node) {
+                        return 45;
                     } else {
                         return default_icon_size;
                     }
@@ -417,7 +425,19 @@ function generateGraphForRanking(container, inputdata, result_node, query_node, 
                 .attr("dx", 15)
                 .attr("dy", ".35em")
                 .text(function(d) {
+                    var rank = jQuery.inArray(d.name, ranking_list);
+                    if (d.name == result_node) {
+                        return d.name + "* (" + rank + ")";
+                    }
+                    if (d.name == query_node) {
+                        return d.name + " (q)";
+                    }
+
+                    if (rank != -1) {
+                        return d.name + " (" + rank + ")";
+                    }
                     return d.name;
+
                 });
 
         force.on("tick", function() {
@@ -442,7 +462,7 @@ function generateGraphForRanking(container, inputdata, result_node, query_node, 
 
     });
     function dblclick(d) {
-        filterGraph(d.name, default_radius_fr, default_max_nodes_fr);
+        filterGraph(d.name, radius_fr_filter, max_nodes_fr_filter);
         var selector = ".node[data-id=\"" + d.dataId + "\"] image";
         console.log("selector = " + selector);
         d3.selectAll(".compare-graph > svg").selectAll(selector)
@@ -460,8 +480,8 @@ function generateGraphForRanking(container, inputdata, result_node, query_node, 
                 .classed("fixed", d.fixed = true);
 
         d3.selectAll(".compare-graph > svg").selectAll(selector + " image")
-                .attr("width", focus_icon_size)
-                .attr("height", focus_icon_size);
+                .attr("width", 45)
+                .attr("height", 45);
     }
 
 

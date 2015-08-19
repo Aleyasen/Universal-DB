@@ -1,0 +1,1100 @@
+The Semantic Web (2001)	5283
+Mining association rules between sets of items in large databases (1993)	4908
+Fast Algorithms for Mining Association Rules (1994)	4575
+The Unified Modeling Language User Guide (1999)	3813
+Energy-Efficient Communication Protocol for Wireless Microsensor Networks (2000)	3159
+R-trees: a dynamic index structure for spatial searching (1984)	3114
+The entity-relationship model---toward a unified view of data (1976)	2944
+The constitution of society (1984)	2943
+A Relational Model for Large Shared Data Banks (1970)	2910
+Concurrency Control and Recovery in Database Systems (1987)	2844
+User Acceptance of Computer Technology: A Comparison of Two Theoretical Models (1989)	2784
+Model checking (1996)	2538
+The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail (1997)	2287
+The R*-tree: an efficient and robust access method for points and rectangles (1990)	2137
+Semantic Web (2008)	2116
+Mining Sequential Patterns (1995)	2019
+Impossibility of Distributed Consensus with One Faulty Process (1983)	2015
+Toward principles for the design of ontologies used for knowledge sharing? (1995)	1999
+Fundamentals of Database Systems (1989)	1971
+Mining frequent patterns without candidate generation (2000)	1939
+Foundations of Databases (1995)	1772
+Data Mining: Practical Machine Learning Tools and Techniques with Java Implementations (1999)	1742
+Binary Codes Capable of Correcting Deletions, Insertions and Reversals (1966)	1733
+Information Systems Success: The Quest for the Dependent Variable (1992)	1644
+A Theoretical Extension of the Technology Acceptance Model: Four Longitudinal Field Studies (2000)	1632
+Multidimensional binary search trees used for associative searching (1975)	1617
+A survey of approaches to automatic schema matching (2001)	1591
+An Introduction to Database Systems (1975)	1554
+Mediators in the Architecture of Future Information Systems (1992)	1535
+A Translation Approach to Portable Ontology Specifications (1994)	1524
+WordNet: a lexical database for English (1995)	1449
+Federated database systems for managing distributed, heterogeneous, and autonomous databases (1990)	1440
+Process Innovation: Reengineering Work Through Information Technology (1993)	1420
+Principles of database and knowledge-base systems (1988)	1409
+The Design and Analysis of Spatial Data Structures (1990)	1404
+Fast Algorithms for Mining Association Rules in Large Databases (1994)	1387
+Formal Ontology and Information Systems (1998)	1342
+BIRCH: an efficient data clustering method for very large databases (1996)	1331
+Principles of Database and Knowledge-Base Systems, Volume I (1988)	1289
+Development of an Instrument to Measure the Perceptions of Adopting an Information Technology Innovation (1991)	1279
+The Interdisciplinary Study of Coordination (1994)	1241
+Understanding Information Technology Usage: A Test of Competing Models (1995)	1237
+A case for redundant arrays of inexpensive disks (RAID) (1988)	1235
+How Information Gives You Competitive Advantage (1985)	1235
+Semantic Matching of Web Services Capabilities (2002)	1213
+Electronic markets and electronic hierarchies (1987)	1192
+The notions of consistency and predicate locks in a database system (1976)	1190
+Access path selection in a relational database management system (1979)	1177
+Ontologies: principles, methods and applications (1996)	1171
+Human behavior and the pmnc~ple of least effort	1153
+Models and issues in data stream systems (2002)	1125
+Human behavior and the principle of least effort	1122
+Human behavior and the principle of least effort (1965)	1116
+A comparative analysis of methodologies for database schema integration (1986)	1055
+Sorting Networks and Their Applications (1968)	1043
+Introduction to lattices and order (2002)	1037
+Groups: interaction and performance (1984)	1034
+Privacy-Preserving Data Mining (2000)	1030
+Toward the Next Generation of Recommender Systems: A Survey of the State-of-the-Art and Possible Extensions (2005)	1024
+Speaker Verification Using Adapted Gaussian Mixture Models (2000)	1018
+Negation as Failure (1977)	1017
+An overview of data warehousing and OLAP technology (1997)	1010
+The design & analysis of spatial data structures (1989)	998
+An Information-Theoretic Definition of Similarity (1998)	990
+The entity-relationship model: toward a unified view of data (1975)	985
+Workflow Patterns (2003)	984
+Multidimensional access methods (1998)	964
+Querying Heterogeneous Information Sources Using Source Descriptions (1996)	961
+Automatic subspace clustering of high dimensional data for data mining applications (1998)	957
+Logical foundations of object-oriented and frame-based languages (1995)	939
+Principles of Distributed Database Systems (1991)	937
+Communication and Trust in Global Virtual Teams (1998)	934
+Mining Generalized Association Rules (1995)	931
+Data integration: a theoretical perspective (2002)	931
+The new industrial engineering: information technology and business process redesign (1990)	926
+The Theory of Relational Databases (1983)	925
+Putting the enterprise into the enterprise system (1998)	907
+Notes on Data Base Operating Systems (1978)	896
+Extending the database relational model to capture more meaning (1979)	886
+Data Mining: An Overview from a Database Perspective (1996)	879
+Efficient and Effective Querying by Image Content (1994)	878
+The Ubiquitous B-Tree (1979)	872
+CURE: An Efficient Clustering Algorithm for Large Databases (1998)	865
+A Logic-Based Calculus of Events (1985)	858
+The Lorel Query Language for Semistructured Data (1997)	857
+Implementing data cubes efficiently (1996)	853
+The R+Tree: A Dynamic Index for MultiDimensional Objects (1987)	849
+Dynamic itemset counting and implication rules for market basket data (1997)	847
+The Quadtree and Related Hierarchical Data Structures (1984)	844
+An Overview of Workflow Management: From Process Modeling to Workflow Automation Infrastructure (1995)	836
+Efficient and Effective Clustering Methods for Spatial Data Mining (1994)	834
+Mining quantitative association rules in large relational tables (1996)	830
+Fast Subsequence Matching in Time-Series Databases (1994)	826
+Efficient Similarity Search In Sequence Databases (1993)	824
+Using Information Content to Evaluate Semantic Similarity in a Taxonomy (1995)	820
+An Efficient Algorithm for Mining Association Rules in Large Databases (1995)	816
+Query evaluation techniques for large databases (1993)	814
+Building the Data Warehouse (1992)	809
+The X-tree : An Index Structure for High-Dimensional Data (1996)	806
+Ontology development 101: A guide to creating your first ontology (2001)	801
+Reengineering work: Don't automate, Obliterate (1990)	799
+Generic Schema Matching with Cupid (2001)	798
+Database abstractions: aggregation and generalization (1977)	796
+Transaction Processing: Concepts and Techniques (1993)	794
+KQML as an agent communication language (1994)	788
+The Entity-Relationship Model: Towards a unified view of Data (1976)	788
+The DeLone and McLean Model of Information Systems Success: A Ten-Year Update (2003)	783
+Predicting User Intentions: Comparing the Technology Acceptance Model with the Theory of Planned Behavior (1991)	776
+Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals (1997)	773
+An Effective Hash Based Algorithm for Mining Association Rules (1995)	772
+Owl web ontology language overview (2004)	770
+A Quantitative Analysis and Performance Study for Similarity-Search Methods in High-Dimensional Spaces (1998)	770
+Business process execution language for web services (2003)	760
+Studying Information Technology in Organizations: Research Approaches and Assumptions (1991)	750
+extensible markup language (xml) 1 (2000)	746
+Towards a Theory of Declarative Knowledge (1988)	746
+M-tree: An Efficient Access Method for Similarity Search in Metric Spaces (1997)	746
+Electronic Meeting Systems To Support Group Work (1991)	742
+Nearest neighbor queries (1995)	740
+Data Preparation for Mining World Wide Web Browsing Patterns (1999)	739
+On Optimistic Methods for Concurrency Control (1979)	738
+Focused Crawling: A New Approach to Topic-Specific Web Resource Discovery (1999)	736
+TinyDB: an acquisitional query processing system for sensor networks (2005)	734
+The Application of Petri Nets to Workflow Management (1998)	728
+Inductive learning algorithms and representations for text categorization (1998)	727
+Point-set topological spatial relations (1991)	726
+Strategic Alignment: Leveraging Information Technology for Transforming Organizations (1993)	718
+The new science of management decisions (1960)	717
+Relational Databases for Querying XML Documents: Limitations and Opportunities (1999)	716
+Interpreting information systems in organizations (1993)	712
+DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases (1997)	706
+Successful Knowledge Management Projects (1998)	706
+A Framework for Information Systems Architecture (1987)	703
+Initial trust formation in new organizational relationships (1998)	700
+Wrapper Induction for Information Extraction (1997)	698
+Semantic Database Modeling: Survey, Applications, and Research Issues (1987)	698
+Extensible Markup Language (2009)	697
+Determinants of Perceived Ease of Use: Integrating Control, Intrinsic Motivation, and Emotion into the Technology Acceptance Model (2000)	688
+The Grid File: An Adaptable, Symmetric Multikey File Structure (1984)	682
+Resource description framework (rdf) model and syntax specification (1999)	678
+Efficiently Mining Long Patterns from Databases (1998)	673
+The Dangers of Replication and a Solution (1996)	673
+Answering queries using views: A survey (2001)	671
+The design of an acquisitional query processor for sensor networks (2003)	665
+The TSIMMIS Project: Integration of Heterogeneous Information Sources (1994)	664
+Foundations of Logic Programming, 2nd Edition (1987)	663
+Pmnczples of database and knowledge- base systems (1989)	662
+Data on the Web: From Relations to Semistructured Data and XML (1999)	662
+Knowledge Engineering: Principles and Methods (1998)	657
+Beyond Market Baskets: Generalizing Association Rules to Correlations (1997)	654
+A Framework for Information Systems Architecture (1999)	653
+Interpretive case studies in IS research: nature and method (1995)	653
+Validity of the Single Processor Approach to Achieving Large Scale Computing Capabilities (1967)	652
+Optimal aggregation algorithms for middleware (2001)	642
+Power, politics, and MIS implementation (1983)	639
+Notes on database operating systems (1991)	636
+Speaker Verification Using Adapted Gaussian Mixture Models 1	635
+Web Services Concepts, Architectures and Applications (2004)	635
+Net gain: expanding markets through virtual communities (1997)	635
+NiagaraCQ: A Scalable Continuous Query System for Internet Databases (2000)	633
+The new science of management decision (1977)	632
+Object Exchange Across Heterogeneous Information Sources (1995)	628
+The cougar approach to in-network query processing in sensor networks (2002)	626
+Supporting Trust in Virtual Communities (2000)	623
+Querying Semi-Structured Data (1997)	617
+The Entity-Relationship Model-Towards a Uni ed View of Data (1988)	616
+Information Technology and Organizational Change: Causal Structure in Theory and Research (1988)	613
+Discovery of Multiple-Level Association Rules from Large Databases (1995)	612
+DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases (1977)	610
+TelegraphCQ: Continuous Dataflow Processing for an Uncertain World (2003)	610
+The Object-Oriented Database System Manifesto (1989)	609
+A Majority consensus approach to concurrency control for multiple copy databases (1979)	605
+Database Mining: A Performance Perspective (1993)	603
+Web Services. Concepts, Architectures and Applications (2003)	602
+Ontology Learning for the Semantic Web (2001)	599
+Database Management Systems (1998)	599
+Sampling Large Databases for Association Rules (1996)	590
+Discovering Frequent Closed Itemsets for Association Rules (1999)	590
+The World-Wide Web (1994)	588
+PROMPT: Algorithm and Tool for Automated Ontology Merging and Alignment (2000)	586
+The productivity paradox of information technology (1993)	586
+Building consumer trust online (1999)	585
+A Relational Model for Large Shared Data Banks (1970)	584
+A FOUNDATION FOR THE STUDY OF GROUP DECISION SUPPORT SYSTEMS	583
+Concurrency Control in Distributed Database Systems (1981)	577
+Electronic Commerce: A managerial perspective (2000)	577
+Organization and Maintenance of Large Ordered Indices (1972)	575
+ROCK: A Robust Clustering Algorithm for Categorical Attributes (2000)	575
+Information Integration Using Logical Views (1997)	574
+Ontology Matching (2007)	572
+LOF: Identifying Density-Based Local Outliers (2000)	569
+Storing and Querying XML Data using an RDBMS (1999)	567
+Structural Equation Modeling And Regression: Guidelines For Research Practice (2000)	567
+Development and application of a metric on semantic nets (1989)	564
+The data warehousing toolkit (1996)	564
+The K-D-B-tree: a search structure for large multidimensional dynamic indexes (1981)	563
+Developing and Validating Trust Measures for e-Commerce: An Integrative Typology (2002)	563
+Broadcast Disks: Data Management for Asymmetric Communications Environments (1995)	558
+GPS-Free Positioning in Mobile ad-hoc Networks (2001)	557
+Managing trust in a peer-2-peer information system (2001)	557
+Similarity Flooding: A Versatile Graph Matching Algorithm and Its Application to Schema Matching (2002)	557
+The SR-tree: An Index Structure for High-Dimensional Nearest Neighbor Queries (1997)	547
+The measurement of user information satisfaction (1983)	547
+Routing Indices For Peer-to-Peer Systems (2002)	545
+Designing a Super-Peer Network (2003)	545
+Optimal implementation of conjunctive queries in relational data bases (1977)	544
+User Acceptance of Information Technology: System Characteristics, User Perceptions and Behavioral Impacts (1993)	544
+Social Network Sites: Definition History and Scholarship (2007)	543
+The data webhouse toolkit (2000)	542
+Similarity Search in High Dimensions via Hashing (1999)	542
+OWL Web Ontology Language Reference (2004)	538
+Creating Semantic Web Contents with Protege2000 (2001)	537
+Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Total (1996)	536
+Semantics and Implementation of Schema Evolution in Object-Oriented Databases (1987)	536
+SGML handbook (1990)	535
+Indexing the Positions of Continuously Moving Objects (2000)	534
+OPTICS: Ordering Points To Identify the Clustering Structure (1999)	534
+Parallel database systems: the future of high performance database systems (1992)	531
+Holistic twig joins: optimal XML pattern matching (2002)	531
+Principles of distributed database systems (1999)	531
+The design and implementation of INGRES (1976)	530
+Learning to map between ontologies on the semantic web (2002)	527
+Resource description framework (rdf) (2001)	524
+Beyond Accuracy: What Data Quality Means to Data Consumers (1996)	523
+Business Models for Electronic Markets (1998)	523
+Answering Queries Using Views (1995)	520
+Telos: representing knowledge about information systems (1990)	520
+The Skyline Operator (2001)	520
+Human Behaviour and Principle of Least Effort	519
+Model-Driven Data Acquisition in Sensor Networks (2004)	519
+Consumer trust in an Internet store (2000)	519
+Logical Foundations of Object-Oriented and Frame-Based Languages (1990)	518
+Approximate Frequency Counts over Data Streams (2002)	517
+A Partial Least Squares Latent Variable Modeling Approach for Measuring Interaction Effects: Results from a Monte Carlo Simulation Study and an Electronic - Mail Emotion/Adoption Study (2003)	517
+The Object Database Standard: ODMG-93 (1993)	516
+Ontologies - a silver bullet for knowledge management and electronic commerce (2001)	515
+The TSIMMIS Approach to Mediation: Data Models and Languages (1997)	515
+Ontology mapping: the state of the art (2003)	512
+System R: relational approach to database management (1976)	510
+PrefixSpan,: mining sequential patterns efficiently by prefix-projected pattern growth (2001)	510
+Ontology-Based Integration of Information — A Survey of Existing Approaches (2001)	506
+Monitoring Streams - A New Class of Data Management Applications (2002)	505
+Building effective decision support systems (1982)	504
+Towards Sensor Database Systems (2001)	501
+Indexing and Querying XML Data for Regular Path Expressions (2001)	501
+The Ontolingua Server: a tool for collaborative ontology construction (1997)	500
+Protecting Respondents' Identities in Microdata Release (2001)	499
+Decision support systems: an organizational perspective (1978)	499
+Sagas (1987)	497
+A Query Language and Optimization Techniques for Unstructured Data (1996)	496
+FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets (1995)	494
+Relational Completeness of Data Base Sublanguages (1972)	493
+Quad Trees: A Data Structure for Retrieval on Composite Keys (1974)	493
+PeerTrust: Supporting Reputation-Based Trust for Peer-to-Peer Electronic Communities (2004)	492
+Simple Fast Algorithms for the Editing Distance Between Trees and Related Problems (1989)	491
+Sesame: A Generic Architecture for Storing and Querying RDF and RDF Schema (2002)	491
+The functional data model and the data language DAPLEX (1979)	487
+Query Processing in Sensor Networks (2003)	486
+Conceptual Database Design: An Entity-Relationship Approach (1992)	485
+The functional data model and the data languages DAPLEX (1981)	484
+Survey and critique of techniques for extracting rules from trained artificial neural networks (1995)	484
+Structural Joins: A Primitive for Efficient XML Query Pattern Matching (2002)	483
+The emerging role of electronic marketplaces on the Internet (1998)	483
+The Design of Postgres (1986)	481
+Distributed Databases: Principles and Systems (1984)	481
+Algorithms for Mining Distance-Based Outliers in Large Datasets (1998)	480
+Improvising Organizational Transformation Over Time: A Situated Change Perspective (1996)	479
+The temporal query language TQuel (1984)	478
+Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach (2001)	477
+Aurora: a new model and architecture for data stream management (2003)	477
+A Comprehensive Survey of Evolutionary-Based Multiobjective Optimization Techniques (1999)	475
+Principles of transaction-oriented database recovery (1983)	472
+Principles of database systems (1978)	470
+Eddies: Continuously Adaptive Query Processing (2000)	469
+Lecture Notes in Computer Science	468
+Technological frames: making sense of information technology in organizations (1994)	466
+Design and natural science research on information technology (1995)	464
+Principles of Database and Knowledge-Base Systems, Volume II (1989)	462
+COMA - A System for Flexible Combination of Schema Matching Approaches (2002)	462
+Automatic Video Indexing and Full-Video Search for Object Appearances (1991)	461
+Consumer Acceptance of Electronic Commerce: Integrating Trust and Risk with the Technology Acceptance Model (2002)	460
+On Supporting Containment Queries in Relational Database Management Systems (2001)	458
+EDUTELLA: a P2P networking infrastructure based on RDF (2002)	458
+Enhanced hypertext categorization using hyperlinks (1998)	458
+The ObjectStore database system (1991)	458
+Towards automatic data extraction from large web sites (2001)	457
+Genres of organizational communication: a structurational approach to studying communication and media (1992)	457
+Online Aggregation (1997)	456
+Constraint Query Languages (1990)	456
+Extensible Markup Language (XML) (1997)	455
+Development of a Tool for Measuring and Analyzing Computer User Satisfaction (1983)	452
+Applying the Technology Acceptance Model and Flow Theory to Online Consumer Behavior (2002)	452
+Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases (1991)	451
+Srikant: "fast algorithms for mining association rules (1994)	450
+An amateur's introduction to recursive query processing strategies (1986)	450
+Implementation techniques for main memory database systems (1984)	447
+Ontology Mapping: The State of the Art (2005)	446
+A Comparison of String Distance Metrics for Name-Matching Tasks (2003)	445
+Parallel Mining of Association Rules (1996)	444
+Database description with SDM: a semantic database model (1981)	444
+Parallel Database Systems: The Future of High Performance Database Processing1 (1992)	444
+Database techniques for the World-Wide Web: a survey (1998)	444
+A Survey of Schema-Based Matching Approaches (2005)	444
+ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging (1992)	442
+Extensible Markup Language (XML) 1.0 (1998)	440
+Magic Sets and Other Strange Ways to Implement Logic Programs (1986)	440
+The GARP modelling system: problems and solutions to automated spatial prediction (1999)	437
+The action workflow approach to workflow management technology (1992)	435
+CLASSIC: A Structural Data Model for Objects (1989)	434
+On closed world databases (1978)	434
+Workflow Management: Modeling Concepts, Architecture, and Implementation (1996)	434
+Universality of data retrieval languages (1979)	433
+Concurrency control in groupware systems (1989)	433
+Efficient Filtering of XML Documents for Selective Dissemination of Information (2000)	433
+Incomplete Information in Relational Databases (1984)	432
+Further Normalization of the Data Base Relational Model (1971)	431
+Probabilistic Counting Algorithms for Data Base Applications (1985)	431
+Verb Semantics and Lexical Selection (1994)	431
+The Grid File: An Adaptable, Symmetric Multi-Key File Structure (1981)	430
+Logic Programming and Databases (1990)	430
+Optimal Aggregation Algorithms for Middleware (2002)	429
+Intelligent information-sharing systems (1987)	428
+A logical design methodology for relational databases using the extended entity-relationship model (1986)	428
+Finding interesting rules from large sets of discovered association rules (1994)	426
+The Essential Distributed Objects Survival Guide (1996)	426
+Combining Fuzzy Information from Multiple Systems (1996)	423
+Research problems in data warehousing (1995)	423
+On Closed World Data Bases (1977)	421
+Searching in high-dimensional spaces: Index structures for improving the performance of multimedia databases (2001)	421
+Similarity Indexing with the SS-tree (1996)	420
+The serializability of concurrent database updates (1979)	419
+ADEPT_flex -- Supporting Dynamic Changes of Workflows Without Lossing Control (1998)	419
+W3c resource description framework (rdf) model and syntax specification (2002)	418
+Maintenance of Materialized Views: Problems, Techniques, and Applications (1995)	418
+World-Wide Web: The Information Universe (1992)	417
+The INQUERY Retrieval System (1992)	417
+Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases (1995)	417
+Security-Control Methods for Statistical Databases: A Comparative Study (1989)	416
+Data on the web: from relations to semistructured data and xml (2000)	416
+Is Anybody Out There? Antecedents of Trust in Global Virtual Teams (1998)	416
+Principles of Database Systems, 2nd Edition (1982)	413
+Pnnc:ples of database systems (1982)	413
+SPRINT: A Scalable Parallel Classifier for Data Mining (1996)	412
+The Semantic Web: A new form of Web content that is meaningful to computers will unleash a revolution of new possibilities (2001)	412
+Object identity as a query language primitive (1989)	411
+Data model issues for object-oriented applications (1987)	409
+Efficiently updating materialized views (1986)	409
+Lore: a database management system for semistructured data (1997)	409
+Information Technology and the Structuring of Organizations (1991)	409
+Efficient Processing of Spatial Joins Using R-Trees (1993)	408
+Ontologies Are Us: A Unified Model of Social Networks and Semantics (2005)	408
+Empirical Evaluation of the Revised Technology Acceptance Model (1996)	408
+Organization and Maintenance of Large Ordered Indexes (1970)	406
+Object identity (1986)	406
+The Gamma Database Machine Project (1990)	405
+Consumer Trust in an Internet Store: A Cross-Cultural Validation (1999)	405
+Internet encyclopaedias go head to head (2005)	404
+Querying the Internet with PIER (2003)	404
+Concurrency control in groupware systems (1989)	403
+Storing and querying ordered XML using a relational database system (2002)	403
+The Design of the Borealis Stream Processing Engine (2005)	403
+Efficient Algorithms for Mining Outliers from Large Data Sets (2000)	401
+On the design and quantification of privacy preserving data mining algorithms (2001)	400
+Data on Air: Organization and Access (1997)	400
+The Distributed Constraint Satisfaction Problem: Formalization and Algorithms (1998)	400
+Active Database Systems: Triggers and Rules For Advanced Database Processing (1996)	399
+User Involvement and MIS Success: A Review of Research (1984)	399
+Fundamentals of spatial information systems (1992)	398
+STING: A Statistical Information Grid Approach to Spatial Data Mining (1997)	398
+Frontiers of Electronic Commerce (1996)	397
+Continuously adaptive continuous queries over streams (2002)	396
+Logic and Databases: A Deductive Approach (1984)	395
+Toward integrating feature selection algorithms for classificationand clustering (2005)	394
+Principles of database systems (1982)	393
+Issues as Elements of Information Systems (1970)	393
+Multiple-query optimization (1988)	392
+What Makes Patterns Interesting in Knowledge Discovery Systems (1996)	392
+Query-by-Example: A Data Base Language (1977)	390
+Distance browsing in spatial databases (1999)	390
+When Is ''Nearest Neighbor'' Meaningful? (1999)	389
+A foundation for representing and querying moving objects (2000)	389
+Determining Semantic Similarity among Entity Classes from Different Ontologies (2003)	389
+OBSERVER: An Approach for Query Processing in Global Information Systems Based on Interoperation Across Pre-Existing Ontologies (2000)	388
+Modeling and Querying Moving Objects (1997)	387
+Real-Time Databases (1993)	387
+Locally Adaptive Dimensionality Reduction for Indexing Large Time Series Databases (2001)	387
+A framework for clustering evolving data streams (2003)	386
+Query Optimization in Database Systems (1984)	384
+Workflow Mining: A Survey of Issues and Approaches (2003)	383
+The impact of information systems on organizations and markets (1991)	383
+Maintaining Views Incrementally (1993)	382
+Efficient Time Series Matching by Wavelets (1999)	381
+On the Computation of Multidimensional Aggregates (1996)	379
+Semantic integration: a survey of ontology-based approaches (2004)	379
+An Approach to Persistent Programming (1983)	377
+Ontological Engineering (2009)	376
+Querying the World Wide Web (1997)	375
+The TV-Tree: An Index Structure for High-Dimensional Data (1994)	373
+An Environment for Merging and Testing Large Ontologies (2000)	372
+Continuous queries over data streams (2001)	372
+Index Structures for Path Expressions (1999)	372
+Human Behaviour and the Principle of Least Effort: an Introduction to Human Ecology (1949)	371
+Trie memory (1960)	371
+Hippocratic Databases (2002)	371
+The Ant System Applied to the Quadratic Assignment Problem (1999)	370
+On the power of magic (1987)	370
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data (2002)	368
+Methodology for the Design and Evaluation of Ontologies (1995)	368
+Shoring Up Persistent Applications (1994)	368
+Exploratory Mining and Pruning Optimizations of Constrained Association Rules (1998)	367
+The Tree-to-Tree Correction Problem (1979)	367
+P-Grid: A Self-Organizing Access Structure for P2P Information Systems (2001)	367
+Extendible hashing—a fast access method for dynamic files (1979)	366
+Inductive Learning Algorithms and Representations for Text Categorization (1998)	366
+Latent semantic indexing: a probabilistic analysis (1998)	365
+System R: A Relational Approach to Data Base Management (1976)	364
+View Maintenance in a Warehousing Environment (1995)	364
+Retrieving and Integrating Data from Multiple Information Sources (1993)	363
+Explaining the Role of User Participation in Information System Use (1994)	363
+Tools for Inventing Organizations:Toward a Handbook for Organizational Processes (1999)	362
+Workflow Mining: Discovering Process Models from Event Logs (2004)	362
+The state of the art in distributed query processing (2000)	362
+Xml schema part 1: structures (2002)	361
+Data Privacy through Optimal k-Anonymization (2005)	361
+The link prediction problem for social networks (2003)	361
+Storing Semistructured Data with STORED (1999)	359
+On the Desirability of Acyclic Database Schemes (1983)	359
+A Respecification and Extension of the DeLone and McLean Model of IS Success (1997)	359
+Faceted metadata for image search and browsing (2003)	358
+Lecture Notes in Computer Science (1996)	358
+Fast Algorithms for Projected Clustering (1999)	357
+Object-Oriented Programming: Themes and Variations (1986)	356
+Semantic data models (1988)	356
+Extending and Formalizing the Framework for Information Systems Architecture (1992)	356
+Extensible markup language (xml) 1 (2004)	355
+Efficient Query Evaluation on Probabilistic Databases (2004)	355
+Extracting Patterns and Relations from the World Wide Web (1998)	354
+Evaluating ontological decisions with OntoClean (2002)	354
+Objects and Views (1991)	353
+Towards a Logical Reconstruction of Relational Database Theory (1982)	353
+Unifying the fragmented models of information systems implementation (1987)	353
+Wrapper induction: Efficiency and expressiveness (2000)	352
+Management strategies for information technology (1989)	352
+Ontobroker: Ontology Based Access to Distributed and Semi-Structured Information (1999)	351
+Why and Where: A Characterization of Data Provenance (2001)	351
+Four paradigms of information systems development (1989)	351
+Multivalued Dependencies and a New Normal Form for Relational Databases (1977)	349
+Dependency Structures of Data Base Relationships (1974)	349
+Asymptotic waveform evaluation for timing analysis (1989)	349
+The complexity of relational query languages (Extended Abstract) (1982)	349
+Anchoring data quality dimensions in ontological foundations (1996)	348
+XRANK: ranked keyword search over XML documents (2003)	348
+How Much Information	348
+Exact Indexing of Dynamic Time Warping (2002)	348
+A critical perspective on action research as a method for information systems research (1996)	348
+Optimizing Queries Across Diverse Data Sources (1997)	347
+Semantic Data Caching and Replacement (1996)	347
+Towards requirements-driven information systems engineering: the Tropos project (2002)	347
+A theory of the effects of advanced information technologies on organizational design, intelligence, and decision making (1990)	347
+The PROMPT suite: interactive tools for ontology merging and mapping (2003)	346
+Workflow Management: Models, Methods, and Systems (2002)	346
+Genre repertoire: the structuring of communicative practices in organizations (1994)	346
+Introduction to Object-Oriented Databases (1990)	345
+Information Technologies and Business Value: An Analytic and Empirical Investigation (1995)	345
+SLIQ: A Fast Scalable Classifier for Data Mining (1996)	343
+Join indices (1987)	343
+Scalable Algorithms for Association Mining (2000)	343
+Web Site Usability, Design, and Performance Metrics (2002)	343
+Scheduling Real-time Transactions: a Performance Evaluation (1988)	341
+Data structures and algorithms for nearest neighbor search in general metric spaces (1993)	341
+Towards a Unified Framework for Version Modeling in Engineering Databases (1990)	341
+Owl web ontology language reference (2003)	340
+Broadcast disks: data management for asymmetric communication environments (1995)	339
+Discovery of Spatial Association Rules in Geographic Information Databases (1995)	339
+The TSQL2 Temporal Query Language (1995)	339
+Accelerating XPath location steps (2002)	339
+Index Structures for Path Expressions (1997)	339
+Searching in metric spaces (2001)	339
+Composite Events for Active Databases: Semantics, Contexts and Detection (1994)	337
+Incognito: efficient full-domain K-anonymity (2005)	337
+An introduction to data base systems (1977)	336
+Mobile wireless computing: challenges in data management (1994)	336
+The Merge/Purge Problem for Large Databases (1995)	336
+Reasoning about Binary Topological Relations (1991)	336
+Comparative Models of the File Assignment Problem (1982)	335
+Applications of spatial data structures (1989)	335
+l-Diversity: Privacy Beyond k-Anonymity (2006)	335
+Flexible support for multiple access control policies (2001)	333
+Iris: An Object-Oriented Database Management System (1987)	332
+The Harvest Information Discovery and Access System (1995)	331
+XML-QL: A Query Language for XML (1998)	330
+Resource Description Framework (RDF) (2008)	330
+The oo7 Benchmark (1993)	330
+Combating Web Spam with TrustRank (2004)	330
+Random sampling with a reservoir (1985)	329
+Computable Queries for Relational Data Bases (1980)	329
+Recommender systems in e-commerce (1999)	329
+Sweetening Ontologies with DOLCE (2002)	329
+Issues in data stream management (2003)	329
+The technology acceptance model and the World Wide Web (2000)	329
+XML Path Language (XPath) Version 1.0 (1999)	328
+Constraint Query Languages (1995)	328
+Mission critical: realizing the promise of enterprise systems (2000)	328
+A Query Language for XML (1999)	327
+Building the data warehouse (1996)	327
+Finding Frequent Items in Data Streams (2002)	326
+Efficient Mining of Association Rules Using Closed Itemset Lattices (1999)	326
+Development of an object-oriented DBMS (1986)	325
+Improved Histograms for Selectivity Estimation of Range Predicates (1996)	325
+Studying Online Social Networks (1997)	325
+Implementation of integrity constraints and views by query modification (1975)	324
+Exploring the factors associated with Web site success in the context of electronic commerce (2000)	324
+Snowball: extracting relations from large plain-text collections (2000)	323
+Critical Issues Affecting an ERP Implementation (1999)	323
+The Postgres Next Generation Database Management System (1991)	322
+Update semantics of relational views (1981)	321
+Approximate Aggregation Techniques for Sensor Databases (2004)	321
+Interoperability of multiple autonomous databases (1990)	320
+Balancing Push and Pull for Data Broadcast (1997)	320
+A brief survey of web data extraction tools (2002)	320
+Examining the Technology Acceptance Model Using Physician Acceptance of Telemedicine Technology (1999)	320
+A Conceptual and Operational Definition of Personal Innovativeness in the Domain of Information Technology (1998)	320
+Query Reformulation for Dynamic Information Integration (1996)	319
+An Introduction to Spatial Database Systems (1994)	319
+The Enterprise Ontology (1996)	319
+Effects of Anonymity and Evaluative Tone on Idea Generation in Computer-Mediated Groups (1990)	319
+Crawling the Hidden Web (2001)	318
+Semistructured data (1997)	317
+Bringing Semantics to Web Services: The OWL-S Approach (2004)	317
+Efficient Algorithms for Processing XPath Queries (2002)	317
+Sleepers and Workaholics: Caching Strategies in Mobile Environments (1994)	314
+From Structured Documents to Novel Query Facilities (1994)	313
+Discovering Similar Multidimensional Trajectories (2002)	313
+Consistency in Partitioned Networks (1985)	312
+The Architecture Of An Active Data Base Management System (1989)	311
+An effective way to represent quadtrees (1982)	311
+Bigtable: A Distributed Storage System for Structured Data (2008)	311
+Data quality in context (1997)	311
+Operating system support for database management (1981)	309
+RQL: a declarative query language for RDF (2002)	309
+Agent-Based Systems for Intelligent Manufacturing: A State-of-the-Art Survey (1999)	309
+Managing the crises in data processing (1979)	309
+A Survey of Data Provenance in e-Science (2005)	309
+A Petri Net-based Model for Web Service Composition (2003)	308
+Keyword Searching and Browsing in Databases using BANKS (2002)	308
+Electronic Commerce: A Manager''s Guide (1996)	308
+What is coordination theory and how can it help design cooperative work systems? (1990)	308
+Channel expansion theory and the experiential nature of media richness perceptions (1999)	308
+XLANG Web Services for Business Process Design (2001)	307
+The Transaction Concept: Virtues and Limitations	307
+The Enterprise Ontology (1998)	307
+Dynamic Change within Workflow Systems (1995)	306
+Shaping the future: business design through information technology (1991)	306
+Schema Mediation in Peer Data Management Systems (2003)	306
+Composing Web services on the Semantic Web (2003)	306
+Evaluating probabilistic queries over imprecise data (2003)	306
+DAML-S: Semantic Markup For Web Services (2001)	305
+A Critique of ANSI SQL Isolation Levels (1995)	305
+MindReader: Querying Databases Through Multiple Examples (1998)	305
+OntoSeek: Content-Based Access to the Web (1999)	305
+Analyzing the effectiveness and applicability of co-training (2000)	305
+Application of Social Cognitive Theory to Training for Computer Skills (1995)	305
+Gigascope: a stream database for network applications (2003)	304
+Information Retrieval in Folksonomies: Search and Ranking (2006)	304
+Consistent query answers in inconsistent databases (1999)	304
+Actualizing Organizational Memory with Information Systems (1995)	304
+Energy Efficient Indexing on Air (1994)	303
+The relational model with relation-valued attributes (1986)	303
+Measuring Similarity between Ontologies (2002)	303
+A Survey of Automated Web Service Composition Methods (2004)	303
+Problem Decomposition and Data Reorganization by a Clustering Technique (1972)	302
+Filtering algorithms and implementation for very fast publish/subscribe systems (2001)	302
+Efficient Data Mining for Path Traversal Patterns (1998)	302
+The Web of Computing: Computer Technology as Social Organization (1982)	302
+On packing R-trees (1993)	300
+Using Semantic Knowledge for Transaction Processing in Distributed Database (1983)	299
+Limiting privacy breaches in privacy preserving data mining (2003)	299
+Shooting Stars in the Sky: An Online Algorithm for Skyline Queries (2002)	299
+Executing SQL over encrypted data in the database-service-provider model (2002)	299
+New Sampling-Based Summary Statistics for Improving Approximate Query Answers (1998)	298
+Maintenance of Discovered Association Rules in Large Databases: An Incremental Updating Technique (1996)	298
+Quilt: An XML Query Language for Heterogeneous Data Sources (2000)	298
+The information system as a competitive weapon (1984)	298
+The EM algorithm for graphical association models with missing data (1995)	298
+DISCOVER: Keyword Search in Relational Databases (2002)	298
+A fine-grained access control system for XML documents (2002)	298
+Selection of Views to Materialize in a Data Warehouse (1997)	297
+KNOWLEDGE MANAGEMENT SYSTEMS: ISSUES, CHALLENGES, AND BENEFITS	297
+What Trust Means in E-Commerce Customer Relationships: An Interdisciplinary Conceptual Typology (2001)	297
+Catching the boat with Strudel: experiences with a Web Site management system (1998)	296
+On indexing mobile objects (1999)	296
+Mining Process Models from Workflow Logs (1998)	296
+The LRU-K Page Replacement Algorithm For Database Disk Buffering (1993)	296
+The CQL continuous query language: semantic foundations and query execution (2006)	296
+An Adaptive Query Execution System for Data Integration (1999)	295
+Towards a Methodology for Building Ontologies (1995)	295
+Building Secure and Reliable Network Applications (1997)	295
+Visual Web Information Extraction with Lixto (2001)	295
+A Logical Language for Data and Knowledge Bases (1989)	294
+Is redraws competitive boundaries (1985)	294
+Improved Query Performance with Variant Indexes (1997)	294
+An empirical study of the impact of user involvement on system usage and information satisfaction (1986)	294
+Steps Toward an Ecology of Infrastructure: Design and Access for Large Information Spaces (1996)	294
+Production workflow - concepts and techniques (2000)	293
+Bigtable: a distributed storage system for structured data (2006)	293
+The Protégé OWL Plugin: An Open Development Environment for Semantic Web Applications (2004)	293
+Maintaining Stream Statistics over Sliding Windows (2002)	292
+Information systems and organizational change (1981)	292
+Online communities: designing usability (2000)	292
+Benchmarking Database Systems A Systematic Approach (1983)	291
+Organization and maintenance of large ordered indexes (1972)	291
+The Relative Importance of Perceived Ease of Use in IS Adoption: A Study of E-Commerce Adoption (2000)	291
+GALILEO: a strongly-typed, interactive conceptual language (1985)	290
+The Measurement of Web-Customer Satisfaction: An Expectation and Disconfirmation Approach (2002)	290
+Query processing in a system for distributed databases (SDD1) (1981)	289
+Knowledge Processes and Ontologies (2001)	289
+Complexity of answering queries using materialized views (1998)	289
+Extracting structured data from Web pages (2003)	289
+Cultural Fits and Misfits: Is ERP a Universal Solution? (2000)	289
+Efficient Filtering of XML Documents with XPath Expressions (2002)	288
+Temporal and Real-Time Databases: A Survey (1995)	288
+Generalized Search Trees for Database Systems (1995)	287
+Query Answering for OWL-DL with Rules (2004)	287
+Optimizing Queries with Materialized Views (1995)	286
+Social Analyses of Computing: Theoretical Perspectives in Recent Empirical Research (1980)	286
+DAML-S: Web Service Description for the Semantic Web (2002)	286
+MAFIA: A Maximal Frequent Itemset Algorithm for Transactional Databases (2001)	286
+Focused Crawling Using Context Graphs (2000)	286
+Simlarity Search for Web Services (2004)	286
+Index Selection for OLAP (1997)	285
+Composite Event Specification in Active Databases: Model & Implementation (1992)	285
+Adaptive and Dynamic Service Composition in eFlow (2000)	285
+Trust Management for the Semantic Web (2003)	285
+Your Mediators Need Data Conversion! (1998)	284
+Infomaster: An Information Integration System (1997)	284
+A language facility for designing database-intensive applications (1980)	283
+Efficient Retrieval of Similar Time Sequences Under Time Warping (1998)	283
+Classifying Schematic and Data Heterogeneity in Multidatabase Systems (1991)	283
+On the complexity of optimal K-anonymity (2004)	283
+XMILL: An Efficient Compressor for XML Data (2000)	283
+Applying Model Management to Classical Meta Data Problems (2003)	283
+Semantic Overlay Networks for P2P Systems (2004)	283
+The HiPAC project: combining active databases and timing constraints (1988)	282
+The alternating fixpoint of logic programs with negation (1989)	282
+Chimera: A Virtual Data System for Representing, Querying, and Automating Data Derivation (2002)	282
+FCA-MERGE: Bottom-Up Merging of Ontologies (2001)	282
+Digital capital: harnessing the power of business Webs (2000)	282
+Load Shedding in a Data Stream Manager (2003)	282
+Extending the technology acceptance model with task-technology fit constructs (1999)	282
+Nested Transactions: An Approach to Reliable Distributed Computing (1981)	281
+A Theory of Attribute Equivalence in Databases with Application to Schema Integration (1989)	281
+Electronic Commerce: Strategies and Models for Business-to-Business Trading (2000)	281
+Spatial Query Processing in an Object-Oriented Database System (1986)	280
+Hilbert R-tree: An Improved R-tree using Fractals (1994)	280
+IFO: a formal semantic database model (1987)	280
+Wavelet-Based Histograms for Selectivity Estimation (1998)	280
+Moving Objects Databases: Issues and Solutions (1998)	280
+An Approach for Measuring Semantic Similarity between Words Using Multiple Information Sources (2003)	280
+WaveCluster: A Multi-Resolution Clustering Approach for Very Large Spatial Databases (1998)	279
+The age of social transformation (1994)	279
+A cost model for nearest neighbor search in high-dimensional data space (1997)	278
+Semantic and Schematic Similarities Between Database Objects: A Context-Based Approach (1996)	278
+Data Structures for Range Searching (1979)	277
+Querying Object-Oriented Databases (1992)	277
+The Theory of Database Concurrency Control (1986)	277
+Reducing OWL Entailment to Description Logic Satisfability (2003)	277
+"It is what one does": why people participate and help others in electronic communities of practice (2000)	277
+On Finding the Maxima of a Set of Vectors (1975)	276
+TIMBER: A native XML database (2002)	276
+Testing implications of data dependencies (1979)	275
+An Exploratory Study of the Emerging Role of Electronic Intermediaries (1997)	275
+Data exchange: semantics and query answering (2003)	275
+Deriving Production Rules for Incremental View Maintenance (1991)	274
+Using Schema Matching to Simplify Heterogeneous Data Translation (1998)	274
+A federated architecture for information management (1985)	274
+On the Declarative Semantics of Deductive Databases and Logic Programs (1988)	274
+The Google Similarity Distance (2007)	274
+The Relationship Between Investment in Information Technology and Firm Performance: A Study of the Valve Manufacturing Sector (1992)	274
+Making Smalltalk a Database System (1984)	273
+OIL in a Nutshell (2000)	273
+A principle for resilient sharing of distributed resources (1976)	272
+Linear Hashing: A New Tool for File and Table Addressing (1980)	272
+Change Detection in Hierarchically Structured Information (1996)	272
+LARKS: Dynamic Matchmaking Among Heterogeneous Software Agents in Cyberspace (2002)	272
+Schema Mapping as Query Discovery (2000)	271
+Validity of a single processor approach to achieving large scale computer capabilities (1967)	271
+DBXplorer: A System for Keyword-Based Search over Relational Databases (2002)	271
+Multipoint Relaying for Flooding Broadcast Messages in Mobile Wireless Networks (2002)	271
+View Definition and Generalization for Database Integration in a Multidatabase System (1984)	270
+The Implementation of Postgres (1990)	270
+Efficient locking for concurrent operations on B-trees (1981)	270
+Staggered Striping in Multimedia Information Systems (1994)	270
+Automating DAML-S Web Services Composition Using SHOP2 (2003)	270
+Web Services (2009)	270
+XRel: a path-based approach to storage and retrieval of XML documents using relational databases (2001)	270
+Improving Knowledge Work Processes (1995)	270
+Database systems: the complete book (2002)	270
+Query By Example (1975)	269
+Nonblocking commit protocols (1981)	269
+An Array-Based Algorithm for Simultaneous Multidimensional Aggregates (1997)	269
+InfoSleuth: agent-based semantic integration of information in open and dynamic environments (1997)	269
+Assessing the Validity of IS Success Models: An Empirical Test and Theoretical Analysis (2002)	269
+Structuring computer-mediated communication systems to avoid information overload (1985)	268
+Binary codes capable of correcting deletions (1965)	268
+Data Management for Peer-to-Peer Computing : A Vision (2002)	268
+Information systems failures: a survey and classification of the empirical literature (1987)	268
+An Assessment of Group Support Systems Experimental Research: Methodology and Results (1998)	268
+Building Effective Online Marketplaces with Institution-Based Trust (2004)	268
+Adding Structure to Unstructured Data (1997)	267
+Query Caching and Optimization in Distributed Mediator Systems (1996)	267
+Near Neighbor Search in Large Metric Spaces (1995)	267
+Handbook on Ontologies (2004)	267
+Adaptive filters for continuous queries over distributed data streams (2003)	267
+Mondrian Multidimensional K-Anonymity (2006)	267
+Resource Description Framework (RDF) Model and Syntax Specification (1998)	266
+Understanding Quality in Conceptual Modeling (1994)	266
+The Emergence of Interpretivism in IS Research (1995)	266
+Research Commentary: Desperately Seeking the "IT" in IT Research - A Call to Theorizing the IT Artifact (2001)	266
+Multipoint Relaying: An Efficient Technique for flooding in Mobile Wireless Networks (2000)	265
+Bottom-Up Computation of Sparse and Iceberg CUBEs (1999)	265
+Computer-based systems for cooperative work and group decision making (1988)	265
+A Generalized Definition of Rough Approximations Based on Similarity (2000)	265
+Interactional Coherence in CMC (1999)	265
+Access methods for text (1985)	264
+Join processing in database systems with large main memories (1986)	264
+Data Models (2008)	264
+Middleware: a model for distributed system services (1996)	264
+The Management of Probabilistic Data (1992)	264
+Business Process Management-The Third Wave (2002)	264
+A Framework for Generating Network-Based Moving Objects (2002)	264
+Disjunctive datalog (1997)	264
+Enterprise resource planning: Implementation procedures and critical success factors (2003)	264
+Efficient Mining of Partial Periodic Patterns in Time Series Database (1999)	263
+Computational problems related to the design of normal form relational schemas (1979)	263
+On the decidability of query containment under constraints (1998)	263
+Remarks on the algebra of non first normal form relations (1982)	262
+The Case for Shared Nothing (1986)	262
+Optimal Multi-Step k-Nearest Neighbor Search (1998)	262
+Database Transaction Models For Advanced Applications (1992)	262
+The Ontolin-gua Server: A Tool for Collaborative Ontology Construction (1996)	262
+Complex Queries in DHT-based Peer-to-Peer Networks (2002)	262
+The Impact of Information Technology on the Organization of Economic Activity: The "Move to the Middle" Hypothesis (1993)	262
+Beyond the productivity paradox (1998)	262
+Electronic Mail as a Medium for Rich Communication: An Empirical Investigation Using Hermeneutic Interpretation (1993)	262
+The ConTract Model (1992)	261
+Xml schema part 2: datatypes (2000)	261
+EDUTELLA: A P2P Networking Infrastructure Based on RDF (2001)	261
+The data warehouse lifecycle toolkit (1998)	261
+Updating and Querying Databases that Track Mobile Units (1999)	261
+Basic support for cooperative work on the World Wide Web (1997)	261
+Web services and business process management (2002)	261
+Data Cleaning: Problems and Current Approaches (2000)	261
+A New Framework for Management Information Systems (1971)	261
+Data caching issues in an information retrieval system (1990)	260
+Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity (1998)	260
+Satisfying General Proximity/Similarity Queries with Metric Trees (1991)	260
+Translating Web Data (2002)	260
+Concurrency control in advanced database applications (1991)	260
+Using Orientation Information for Qualitative Spatial Reasoning (1992)	260
+Pig latin: a not-so-foreign language for data processing (2008)	260
+Loose-Coupling a Cellular Automaton Model and GIS: Long-Term Urban Growth Prediction for San Francisco and Washington/Baltimore (1998)	260
+A class of data structures for associative searching (1984)	259
+Selectivity Estimation Without the Attribute Value Independence Assumption (1997)	259
+Inheritance of Workflows: An Approach to Tackling Problems Related to Change (2002)	259
+Foundations of Preferences in Database Systems (2002)	258
+Stochastic gradient boosting (2002)	258
+An optimal and progressive algorithm for skyline queries (2003)	258
+Investigating information systems with action research (1999)	258
+Information systems outsourcing: a survey and analysis of the literature (2004)	258
+Using Semi-Joins to Solve Relational Queries (1981)	257
+A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment (1989)	257
+Continual Queries for Internet Scale Event-Driven Information Delivery (1999)	257
+Ranking in Spatial Databases (1995)	257
+The workflow Reference Model (1995)	257
+Active database systems (1999)	257
+XSB as an Efficient Deductive Database Engine (1994)	257
+Outlier detection for high dimensional data (2001)	257
+Data-Driven Discovery of Quantitative Rules in Relational Databases (1993)	256
+A hierarchical approach to wrapper induction (1999)	256
+The Bayou Architecture: support for data sharing among mobile users (1994)	256
+The Dangers of Replication and a Solution (2003)	256
+Cluster Analysis for Gene Expression Data: A Survey (2004)	256
+Develop long-term competitiveness through it assets (1996)	256
+Intrinsic and extrinsic motivation in Internet usage (1999)	256
+Query Optimization for XML (1999)	255
+A guide to the Literature on Learning Probabilistic Networks fromData (1996)	255
+Concurrency control performance modeling: alternatives and implications (1987)	255
+A computational model of trust and reputation (2002)	255
+Mining Sequential Patterns by Pattern-Growth: The PrefixSpan Approach (2004)	255
+Scalable Parallel Data Mining for Association Rules (1997)	254
+OVID: Design and Implementation of a Video-Object Database System (1993)	254
+Mariposa: A Wide-Area Distributed Database System (1996)	254
+Efficient Progressive Skyline Computation (2001)	254
+Swoogle: a search and metadata engine for the semantic web (2004)	254
+Spatial databases - a tour (2003)	254
+A Taxonomy of Time in Databases (1985)	253
+Constraint-Based Rule Mining in Large, Dense Databases (1999)	253
+Magic sets and other strange ways to implement logic programs (1986)	253
+Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets (1999)	253
+The Object Database Standard: ODMG 2.0 (1997)	253
+The Power of Events: An Introduction to Complex Event Processing in Distributed Enterprise Systems (2008)	253
+ARIS-Business Process Modeling (1999)	253
+DBpedia: A Nucleus for a Web of Open Data (2007)	252
+Gis: a computing perspective (1995)	252
+Fast Time Sequence Indexing for Arbitrary Lp Norms (2000)	252
+Distance-Based Outliers: Algorithms and Applications (2000)	252
+The Equalization Phenomenon: Status Effects in Computer-Mediated and Face-to-Face Decision-Making Groups (1991)	252
+Continuous queries over append-only databases (1992)	251
+Database Description with SDM: A Semantic Database Model (1990)	251
+The Evolution of the Web and Implications for an Incremental Crawler (2000)	251
+2Q: A Low Overhead High Performance Buffer Management Replacement Algorithm (1994)	251
+A framework for management information systems (1989)	251
+The Recovery Manager of the System R Database Manager (1981)	250
+Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals (1995)	250
+Workflow Evolution (1996)	250
+Types and persistence in database programming languages (1987)	250
+Disk Striping (1986)	249
+Optimal implementation of conjunctive queries in relational databases (1976)	249
+Data Placement In Bubba (1988)	249
+Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries (2001)	249
+Bridging the Gap: A Genre Analysis of Weblogs (2004)	249
+Updating XML (2001)	249
+Information sharing across private databases (2003)	249
+Virtual teams: a review of current literature and directions for future research (2004)	249
+Synthesizing third normal form relations from functional dependencies (1976)	248
+Organizing Long-running Activities with Triggers and Transactions (1990)	248
+Providing olap (on-line analytical processing) to user-analysts: an it mandate (1993)	248
+Evaluating Top-k Queries over Web-Accessible Databases (2002)	248
+Dimensionality Reduction for Fast Similarity Search in Large Time Series Databases (2001)	248
+Evidence of hierarchies in cognitive maps (1985)	248
+An Improved Data Stream Summary: The Count-Min Sketch and Its Applications (2004)	248
+The critical success factors for ERP implementation: an organizational fit perspective (2002)	248
+Extracting Semistructured Information from the Web (1997)	247
+Quality of service for workflows and web service processes (2004)	247
+Antecedents of B2C Channel Satisfaction and Preference: Validating e-Commerce Metrics (2002)	247
+Declarative Composition and Peer-to-Peer Provisioning of Dynamic Web Services (2002)	246
+From Semistructured Data to XML: Migrating the Lore Data Model and Query Language (1999)	246
+Approximate Query Processing Using Wavelets (2000)	246
+Semantic e-Workflow Composition (2003)	246
+Dynamic service matchmaking among agents in open information environments (1999)	245
+A polyhedron representation for computer vision (1975)	245
+Data Model and Query Evaluation in Global Information Systems (1995)	245
+Copy Detection Mechanisms for Digital Documents (1995)	245
+Applications of spatial data structures: computer graphics (1990)	245
+Generating Finite-State Transducers for Semi-Structured Data Extraction from the Web (1998)	244
+Temporal Databases (1986)	244
+Using semantic values to facilitate interoperability among heterogeneous information systems (1994)	244
+Partition Based Spatial-Merge Join (1996)	244
+Ontology Learning for the Semantic Web (2002)	244
+Scheduling real-time transactions: a performance evaluation (1992)	244
+StatStream: Statistical Monitoring of Thousands of Data Streams in Real Time (2002)	244
+Human Behavior and The Principles of Least E ort	243
+Extended algebra and calculus for nested relational databases (1988)	243
+An Evaluation of Buffer Management Strategies for Relational Database Systems (1985)	243
+Strategies for Information Requirements Determination (1982)	243
+Foundations of Multidimensional and Metric Data Structures (2006)	243
+Direct Spatial Search on Pictorial Databases Using Packed R-Trees (1985)	242
+Understanding the New SQL: A Complete Guide (1993)	242
+Formal Models for Computer Security (1981)	242
+Data on the web (2000)	242
+XWRAP: An XML-Enabled Wrapper Construction System for Web Information Sources (2000)	242
+OntoSeek: content-based access to the Web (1999)	242
+Nested Transactions: An Approach to Reliable Distributed Computing (1985)	241
+Principles of database buffer management (1984)	241
+Testing the Determinants of Microcomputer Usage via a Structural Equation Model (1995)	241
+Decomposition—a strategy for query processing (1976)	240
+Deriving Production Rules for Constraint Maintainance (1990)	240
+Semantic integration of semistructured and structured data sources (1999)	240
+Description Logics in Data Management (1995)	240
+Modeling Multidimensional Databases (1997)	240
+Spatial SQL: A Query and Presentation Language (1994)	240
+An adaptive data replication algorithm (1997)	240
+Answering XML Queries over Heterogeneous Data Sources (2001)	240
+A Program for Research on Management Information Systems (1973)	240
+DBMSs on a modern processor: Where does time go? (1999)	240
+How to manage an it outsourcing alliance (1995)	240
+Unfounded sets and well-founded semantics for general logic programs (1988)	239
+Detecting Changes in XML Documents (2002)	239
+Finding Generalized Projected Clusters In High Dimensional Spaces (2000)	239
+State-of-the-art in privacy preserving data mining (2004)	239
+The Pyramid-Technique: Towards Breaking the Curse of Dimensionality (1998)	238
+Scalable Distributed Stream Processing (2003)	238
+Learning to match ontologies on the Semantic Web (2003)	238
+Accounting for the Contradictory Organizational Consequences of Information Technology: Theoretical Directions and Methodological Implications (1999)	238
+Understanding User Evaluations of Information Systems (1995)	238
+Individual Trust in Online Firms: Scale Development and Initial Test (2002)	238
+Query Processing, Approximation, and Resource Management in a Data Stream Management System (2003)	237
+Knowledge Discovery in Databases: An Attribute-Oriented Approach (1992)	236
+Discovering Web Access Patterns and Trends by Applying OLAP and Data Mining Technology on Web Logs (1998)	236
+Answering recursive queries using views (1997)	235
+Analyzing Process Models using Graph Reduction Techniques (2000)	235
+YAWL: Yet Another Workflow Language (2005)	235
+The value of selective it sourcing (1996)	235
+Benchmarking Attribute Selection Techniques for Discrete Class Data Mining (2003)	235
+Testing Media Richness Theory in the New Media: The Effects of Cues, Feedback, and Task Equivocality (1998)	235
+Research Report: Empirical Test of an EDI Adoption Model (2001)	235
+On optimizing an SQL-like nested query (1982)	234
+Towards Heterogeneous Multimedia Information Systems: The Garlic Approach (1995)	234
+Don't Scrap It, Wrap It! A Wrapper Architecture for Legacy Data Sources (1997)	234
+SPIRIT: Sequential Pattern Mining with Regular Expression Constraints (1999)	234
+Mobile Computing and Databases - A Survey (1999)	234
+Data quality for the information age (1996)	234
+The deep web:surfacing the hidden value (2000)	234
+Super-peer-based routing and clustering strategies for RDF-based peer-to-peer networks (2003)	234
+Electronic brainstorming and group size (1992)	234
+Combining IS Research Methods: Towards a Pluralist Methodology (2001)	234
+PLS path modeling (2005)	234
+A Data Model and Query Language for EXODUS (1988)	233
+A model of authorization for next-generation database systems (1991)	232
+Approximating block accesses in database organizations (1977)	232
+Wrapper generation for semi-structured Internet sources (1997)	231
+Efficiently Publishing Relational Data as XML Documents (2000)	231
+A Fast Index for Semistructured Data (2001)	231
+How Maps Work - Representation, Visualization, and Design (2004)	231
+Duplicate Record Detection: A Survey (2007)	231
+Aggregate-Query Processing in Data Warehousing Environments (1995)	230
+Equi-Depth Histograms For Estimating Selectivity Factors For MultiDimensional Queries (1988)	230
+W3C: Extensible Markup Language (XML) 1.0	230
+An Ontological Model of an Information System (1990)	230
+Automatic Composition of E-services That Export Their Behavior (2003)	230
+Ontology Evolution: Not the Same as Schema Evolution (2004)	230
+Winnowing: local algorithms for document fingerprinting (2003)	230
+3D Shape Histograms for Similarity Search and Classification in Spatial Databases (1999)	230
+Understanding the use of group decision support systems: the theory of adaptive structuration (1990)	230
+A Theoretical Integration of User Satisfaction and Technology Acceptance (2005)	230
+Extending object-oriented systems with roles (1996)	229
+Query Processing in Spatial Network Databases (2003)	229
+Business Process Management: A Survey (2003)	229
+Ode as an Active Database: Constraints and Triggers (1991)	228
+The LRU-K page replacement algorithm for database disk buffering (1993)	228
+A probabilistic relational algebra for the integration of information retrieval and database systems (1997)	228
+Database Systems: The Complete Book (2001)	228
+General Perspectives on Knowledge Management: Fostering a Research Agenda (2001)	228
+An Empirical Assessment of a Modified Technology Acceptance Model (1996)	228
+W3QS: A Query System for the World-Wide Web (1995)	227
+Collaborative Reputation Mechanisms in Electronic Marketplaces (1999)	227
+Generalizing GlOSS to Vector-Space Databases and Broker Hierarchies (1995)	227
+Optimal Histograms with Quality Guarantees (1998)	227
+Fundamentals of spatial information systems (1993)	227
+Maintaining Data Privacy in Association Rule Mining (2002)	227
+Information technology and organisational change (1988)	227
+Distributed top-k monitoring (2003)	227
+The risks of outsourcing it (1996)	227
+A Graph-Oriented Model for Articulation of Ontology Interdependencies (2000)	226
+Integrating multi-criteria evaluation with geographical information systems (1991)	226
+Analysis of the Clustering Properties of the Hilbert Space-Filling Curve (2001)	226
+An Improvisational Model of Change Management: The Case of Groupware Technologies (1996)	226
+GAMMA - A High Performance Dataflow Database Machine (1986)	225
+The theory of joins in relational databases (1979)	225
+What ISA Is and Isn't: An Analysis of Taxonomic Links in Semantic Networks (1983)	225
+F-Logic: A Higher-Order language for Reasoning about Objects, Inheritance, and Scheme (1989)	225
+Similarity-Based Queries for Time Series Data (1997)	225
+Active Database Systems (1995)	225
+A general language model for information retrieval (1999)	225
+Business Process Engineering, Reference Models for Industrial Enterprises (1994)	225
+Multi-agent systems for concurrent intelligent design and manufacturing (2001)	225
+METHONTOLOGY: From Ontological Arts Towards Ontological Engineering (1997)	225
+Naive Geography (1995)	225
+Optimal aggregation algorithms for middleware (2003)	225
+The New Casper: Query Processing for Location Services without Compromising Privacy (2006)	225
+The EXODUS Optimizer Generator (1987)	224
+Temporal Databases: Theory, Design, and Implementation (1993)	224
+Similarity Search in High Dimensions via Hashing (1997)	224
+Piazza: data management infrastructure for semantic web applications (2003)	224
+Data quality assessment (2002)	224
+Trust online (2000)	224
+Measuring System Usage: Implications for IS Theory Testing (1995)	224
+SEQUEL: A structured English query language (1974)	223
+Business process execution language for web services (2002)	223
+Randomized Algorithms for Optimizing Large Join Queries (1990)	223
+Incremental Maintenance of Views with Duplicates (1995)	223
+Main Memory Database Systems: An Overview (1992)	223
+Discovering Conceptual Relations from Text (2000)	223
+The deep web: surfacing hidden value (2001)	223
+Object and File Management in the EXODUS Extensible Database System (1986)	222
+Knowledge Representation in Fuzzy Logic (1989)	222
+A computer oriented geodetic data base and a new technique in file sequencing (1966)	222
+What Is the Nearest Neighbor in High Dimensional Spaces? (2000)	222
+Query Processing, Resource Management, and Approximation in a Data Stream Management System (2003)	222
+Trio: A System for Integrated Management of Data, Accuracy, and Lineage (2005)	222
+Core is capabilities for exploiting information technology (1998)	222
+The hB-tree: a multiattribute indexing method with good guaranteed performance (1990)	221
+Fast Nearest Neighbor Search in Medical Image Databases (1996)	221
+A homogeneous relational model and query languages for temporal databases (1988)	221
+From XML schema to relations: a cost-based approach to XML storage (2002)	221
+Canonical Quantum Gravity and the Problem of Time (1992)	221
+XSEarch: A Semantic Search Engine for XML (2003)	221
+Web Service Flow Language (2001)	220
+Mining associations between sets of items in massive databases (1993)	220
+Automated Selection of Materialized Views and Indexes in SQL Databases (2000)	220
+Path sharing and predicate evaluation for high-performance XML filtering (2003)	220
+SEQUEL 2: A Unified Approach to Data Definition, Manipulation, and Control (1976)	219
+Equivalences Among Relational Expressions (1979)	219
+Overcoming the Semantic and Other Barriers to GIS Interoperability (1998)	219
+Anchor-PROMPT: Using NonLocal Context for Semantic Matching (2001)	219
+Steps Toward a Science of Service Systems (2007)	219
+Working for Free? - Motivations of Participating in Open Source Projects (2001)	219
+Answering Queries Using Templates with Binding Patterns (1995)	218
+Starburst Mid-Flight: As the Dust Clears (1990)	218
+XIRQL: a query language for information retrieval in XML documents (2001)	218
+Typechecking for XML transformers (2000)	218
+Join processing in relational databases (1992)	218
+Approximate String Joins in a Database (Almost) for Free (2001)	218
+C-Store: A Column-oriented DBMS (2005)	218
+On Agent-Mediated Electronic Commerce (2003)	218
+Model-based feedback in the language modeling approach to information retrieval (2001)	218
+Concurrency of Operations on B-Trees (1977)	217
+Capturing the Uncertainty of Moving-Object Representations (1999)	217
+A classification EM algorithm for clustering and two stochastic versions (1992)	217
+Combining and relating ontologies: an analysis of problems and solutions (2001)	217
+Containment and equivalence for an XPath fragment (2002)	217
+Virtual organization (1997)	217
+Synchronized Disk Interleaving (1986)	216
+Accurate Estimation of the Number of Tuples Satisfying a Condition (1984)	216
+Computing Iceberg Queries Efficiently (1998)	216
+Developing a natural language interface to complex data (1978)	216
+Interval-Based Conceptual Models for Time-Dependent Multimedia Data (1993)	216
+The real value of online communities (1996)	216
+On the ontological expressiveness of information systems analysis and design grammars (1993)	216
+Why do people play on-line games? An extended TAM with social influences and flow experience (2004)	216
+Equivalence of Relational Algebra and Relational Calculus Query Languages Having Aggregate Functions (1982)	215
+Database Security (1995)	215
+Trends in Cooperative Distributed Problem Solving (1989)	215
+The Volcano Optimizer Generator: Extensibility and Efficient Search (1993)	215
+XML document security based on provisional authorization (2000)	215
+Enterprise modeling and integration: principles and applications (1996)	215
+A Framework for Understanding and Classifying Ontology Applications (1999)	215
+Service oriented architectures: approaches, technologies and research issues (2007)	215
+Value-based requirements engineering: exploring innovative e-commerce ideas (2003)	215
+What's Mine Is Ours, or Is It? A Study of Attitudes about Information Sharing (1994)	215
+Algorithms for Acyclic Database Schemes (1981)	214
+Electronic shopping (1998)	214
+ULDBs: Databases with Uncertainty and Lineage (2006)	214
+XML Path Language (XPath) (1999)	213
+A New SQL-like Operator for Mining Association Rules (1996)	213
+Logic-based approach to semantic query optimization (1990)	213
+HiLog: A foundation for higher-order logic programming (1993)	213
+Linear Clustering of Objects with Multiple Atributes (1990)	212
+Exploratory mining and pruning optimizations of constrained associations rules (1998)	212
+Constraint Query Languages (2008)	212
+What's hot and what's not: tracking most frequent items dynamically (2003)	212
+Toward an Assessment of Software Development Risk (1993)	212
+Set-Oriented Production Rules in Relational Database Systems (1990)	211
+Disk Shadowing (1988)	211
+The Data Warehouse Toolkit: Practical Techniques for Building Dimensional Data Warehouses (1996)	211
+Efficient Storage Techniques for Digital Continuous Multimedia (1993)	211
+Score normalization for text-independent speaker verification systems (2000)	211
+GlOSS: Text-Source Discovery over the Internet (1999)	211
+Client-server computing in mobile environments (1999)	211
+Context interchange: new features and formalisms for the intelligent integration of information (1999)	211
+Automated Composition of Semantic Web Services into Executable Processes (2004)	211
+Preference formulas in relational queries (2003)	211
+Institutional Factors in Information Technology Innovation (1994)	211
+An Integrated Model of Information Systems Adoption in Small Businesses (1999)	211
+Analysis and Performance of Inverted Data Base Structures (1975)	210
+An authorization mechanism for a relational database system (1976)	210
+Clustering Association Rules (1997)	210
+Web services flow language (wsfl) 1 (2001)	210
+Service-Oriented Architecture: A Field Guide to Integrating XML and Web Services (2004)	210
+Taxonomy of XML Schema Languages Using Formal Language Theory (2001)	210
+A product perspective on total data quality management (1998)	210
+Spatial databases: with application to gis (2002)	210
+Stream processing of XPath queries with predicates (2003)	210
+Continuous Nearest Neighbor Search (2002)	210
+An Event-Based Spatiotemporal Data Model (ESTDM) for Temporal Analysis of Geographical Data (1995)	210
+Rete: A Fast Algorithm for the Many Patterns/Many Objects Match Problem (1982)	209
+Logic for Improving Integrity Checking in Relational Data Bases (1982)	209
+Linear clustering of objects with multiple attributes (1990)	209
+Signature files: an access method for documents and its analytical performance evaluation (1984)	209
+The Conceptual Basis for Mediation Services (1997)	209
+The Tree-to-Tree Editing Problem (1977)	209
+Snoop: An Expressive Event Specification Language for Active Databases (1994)	209
+A Unified Model for Spatial and Temporal Information (1994)	209
+Clustering Data Streams: Theory and Practice (2003)	209
+Business Strategic Orientation, Information Systems Strategic Orientation, and Strategic Alignment (1997)	209
+Developing and validating an instrument for measuring user-perceived web quality (2002)	209
+Resource Integration Using a Large Knowledge Base in Carnot (1991)	208
+Energy Efficient CMOS Microprocessor Design (1995)	208
+Dynamic and adaptive composition of e-services (2001)	208
+Balancing Histogram Optimality and Practicality for Query Result Size Estimation (1995)	208
+Updatable Views in Object-Oriented Databases (1991)	208
+Using a Hash-Based Method with Transaction Trimming for Mining Association Rules (1997)	208
+E-services: a look behind the curtain (2003)	208
+Price Formation in Double Auctions (2001)	208
+Caching on the World Wide Web (1999)	208
+The Data Warehouse Toolkit: The Complete Guide to Dimensional Modeling (2002)	208
+Geographical information science (1992)	208
+Multiprocessor Hash-Based Join Algorithms (1985)	207
+Dynamic Ontologies on the Web (2000)	207
+Web services flow language (ws 1 (2001)	207
+SilkRoute: trading between relations and XML (2000)	207
+On the foundations of the universal relation model (1984)	207
+A simple algorithm for finding frequent elements in streams and bags (2003)	207
+A Consensus Glossary of Temporal Database Concepts (1994)	207
+From the editors (2004)	207
+A Theoretical Assessment of the User-Satisfaction Construct in Information Systems Research (1990)	207
+Assessing a Firm's Web Presence: A Heuristic Evaluation Procedure for the Measurement of Usability (2002)	207
+Equivalences Among Relational Expressions with the Union and Difference Operators (1980)	206
+Clustering by pattern similarity in large data sets (2002)	206
+Evaluating Structural Similarity in XML Documents (2002)
