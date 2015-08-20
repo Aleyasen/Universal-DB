@@ -201,7 +201,7 @@ if (isset($_GET["nofilter"])) {
         echo $out_dir1 . $outfile_name1;
     } else if ($schema == "target") {
 // schema 2 filter
-        $out_dir2 = printToFile($loc_out2, $v_output2, $e_output2, $vs, $graphData [4], $graphData[3], $graphData[1], $graphData[0], $graphData[5]);
+        $out_dir2 = printToFile($loc_out2, $v_output2, $e_output2, $vs, $graphData[4], $graphData[3], $graphData[1], $graphData[0], $graphData[5]);
         $outfile_name2 = "schema-target.json";
         generateGraph($out_dir2, $v_output2, $e_output2, $out_dir2, $outfile_name2);
         echo $out_dir2 . $outfile_name2;

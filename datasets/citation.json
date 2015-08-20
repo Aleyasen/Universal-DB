@@ -6,10 +6,12 @@
     "result": "/data/citation/result",
     "query": "paper",
     "v_files": [
-        "paper"
+        "paper",
+        "citation"
     ],
     "e_files": [
-        "paper_paper"
+        "paper_paper",
+        "paper_citation"
     ],
     "schema": {
         "source": {
@@ -24,10 +26,11 @@
         "target": {
             "name": "SNAP",
             "v_files": [
-                "paper"
+                "paper",
+                "citation"
             ],
             "e_files": [
-                "paper_paper"
+                "paper_citation"
             ]
         }
     }

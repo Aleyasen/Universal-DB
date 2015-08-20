@@ -1,4 +1,4 @@
-var default_dataset = "movie2";
+var default_dataset = "citation";
 $(document).ready(function() {
 
 
