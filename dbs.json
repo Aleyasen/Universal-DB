@@ -1,5 +1,7 @@
 {
     "datasets": [
-        "citation"
+        "movie2",
+        "citation",
+        "course"
     ]
 }
