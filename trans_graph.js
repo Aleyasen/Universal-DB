@@ -27,7 +27,7 @@ $(document).ready(function() {
 
     $('.refresh-graph-comp').click(function() {
         console.log("click on refresh");
-        generateModalContent();
+//        generateModalContent();
     });
 
 });
@@ -58,12 +58,14 @@ function filterGraph(seed, radius, max_nodes) {
 }
 
 
-function generateModalContent(result_node, query_node, src_ranking_list, target_ranking_list) {
+function generateModalContent(result_node, query_node, src_ranking_list, target_ranking_list, pre_node, post_node) {
     console.log("generateModalContent started.");
     var generic_url = "./filtergraph.php?";
     generic_url += "compare=1&";
     generic_url += "result_node=" + escape(result_node) + "&";
     generic_url += "query_node=" + escape(query_node) + "&";
+    generic_url += "pre_node=" + escape(pre_node) + "&";
+    generic_url += "post_node=" + escape(post_node) + "&";
     generic_url += "radius=" + default_radius_fr + "&";
     generic_url += "max_nodes=" + default_max_nodes_fr + "&";
     var selectedDataset = $(".datasetpicker").select().val();

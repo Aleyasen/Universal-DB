@@ -134,13 +134,18 @@ function createList(svg, x_init, y_init, count, labels, srcLabels, targetLabels)
 
             console.log("open it!!!");
             var lb_text = $(this).attr("title");
+            var rank = jQuery.inArray(lb_text, labels);
+            var pre_node_index = Math.max(rank - 1, 0);
+            var post_node_index = rank + 1;
+            var pre_node = labels[pre_node_index];
+            var post_node = labels[post_node_index];
 //            console.log(lb_text);
             $("#dialog").dialog("open");
             setTimeout(
                     function()
                     {
                         var q_text = $('.search-box').val();
-                        generateModalContent(lb_text, q_text, srcLabels, targetLabels);
+                        generateModalContent(lb_text, q_text, srcLabels, targetLabels, pre_node, post_node);
                     }, 100);
             d3.event.stopPropagation();
         });
