@@ -1,6 +1,6 @@
 
 var default_radius = 1;
-var default_max_nodes = 100;
+var default_max_nodes = 1000;
 
 var radius_fr_filter = 3;
 var max_nodes_fr_filter = 200;
@@ -113,12 +113,12 @@ function generateNetworks() {
     console.log("src_url " + src_url);
     console.log("target_url " + target_url);
     $.get(src_url, function(file_loc) {
-        console.log("get " + file_loc);
+        console.log("get no filter: " + file_loc);
 //        alert(file_loc);
         generateGraph("#trans-src", file_loc);
     });
     $.get(target_url, function(file_loc) {
-        console.log("get " + file_loc);
+        console.log("get no filter: " + file_loc);
 //        alert(file_loc);
         generateGraph("#trans-target", file_loc);
     });
