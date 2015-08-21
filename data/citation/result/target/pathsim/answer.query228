@@ -1,0 +1,63 @@
+Automated Selection of Materialized Views and Indexes in SQL Databases	|	0.2941
+Selection of Views to Materialize in a Data Warehouse	|	0.2895
+Modeling Multidimensional Databases	|	0.2800
+Bottom-Up Computation of Sparse and Iceberg CUBEs	|	0.2128
+Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Total	|	0.1981
+Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.1622
+Answering queries using views: A survey	|	0.0674
+The data warehousing toolkit	|	0.0526
+An Array-Based Algorithm for Simultaneous Multidimensional Aggregates	|	0.0469
+The data webhouse toolkit	|	0.0323
+Data Preparation for Mining World Wide Web Browsing Patterns	|	0.0312
+Understanding the New SQL: A Complete Guide	|	0.0312
+Providing olap (on-line analytical processing) to user-analysts: an it mandate	|	0.0294
+On the Computation of Multidimensional Aggregates	|	0.0294
+Pig latin: a not-so-foreign language for data processing	|	0.0294
+Semantic Data Caching and Replacement	|	0.0263
+Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals	|	0.0241
+Description Logics in Data Management	|	0.0233
+Data on the web	|	0.0233
+Incognito: efficient full-domain K-anonymity	|	0.0213
+Optimal implementation of conjunctive queries in relational databases	|	0.0204
+Data exchange: semantics and query answering	|	0.0204
+Research problems in data warehousing	|	0.0189
+Aggregate-Query Processing in Data Warehousing Environments	|	0.0179
+Approximate Aggregation Techniques for Sensor Databases	|	0.0179
+A New SQL-like Operator for Mining Association Rules	|	0.0168
+Srikant: "fast algorithms for mining association rules	|	0.0137
+Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0134
+Storing and Querying XML Data using an RDBMS	|	0.0106
+Quilt: An XML Query Language for Heterogeneous Data Sources	|	0.0094
+Query Reformulation for Dynamic Information Integration	|	0.0094
+Data Management for Peer-to-Peer Computing : A Vision	|	0.0084
+Answering recursive queries using views	|	0.0084
+A Query Language for XML	|	0.0084
+A Relational Model for Large Shared Data Banks	|	0.0081
+Online Aggregation	|	0.0071
+Schema Mediation in Peer Data Management Systems	|	0.0068
+Join indices	|	0.0068
+Storing Semistructured Data with STORED	|	0.0068
+Piazza: data management infrastructure for semantic web applications	|	0.0061
+Beyond Market Baskets: Generalizing Association Rules to Correlations	|	0.0061
+Semistructured data	|	0.0061
+Complexity of answering queries using materialized views	|	0.0061
+Multiple-query optimization	|	0.0055
+Approximate Frequency Counts over Data Streams	|	0.0055
+An overview of data warehousing and OLAP technology	|	0.0050
+Fast Algorithms for Mining Association Rules in Large Databases	|	0.0046
+Mediators in the Architecture of Future Information Systems	|	0.0046
+Exploratory Mining and Pruning Optimizations of Constrained Association Rules	|	0.0046
+Query Caching and Optimization in Distributed Mediator Systems	|	0.0042
+Optimizing Queries with Materialized Views	|	0.0039
+Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.0039
+An Adaptive Query Execution System for Data Integration	|	0.0039
+A Query Language and Optimization Techniques for Unstructured Data	|	0.0036
+Optimal implementation of conjunctive queries in relational data bases	|	0.0036
+Principles of Database and Knowledge-Base Systems, Volume I	|	0.0028
+Data integration: a theoretical perspective	|	0.0026
+Database techniques for the World-Wide Web: a survey	|	0.0025
+Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0025
+The Lorel Query Language for Semistructured Data	|	0.0025
+Fast Algorithms for Mining Association Rules	|	0.0018
+Foundations of Databases	|	0.0004
+Query evaluation techniques for large databases	|	0.0004

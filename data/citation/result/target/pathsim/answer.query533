@@ -1,0 +1,137 @@
+Exact Indexing of Dynamic Time Warping	|	0.1373
+Efficient Retrieval of Similar Time Sequences Under Time Warping	|	0.1373
+Locally Adaptive Dimensionality Reduction for Indexing Large Time Series Databases	|	0.1354
+Discovering Similar Multidimensional Trajectories	|	0.1354
+StatStream: Statistical Monitoring of Thousands of Data Streams in Real Time	|	0.1260
+Database Mining: A Performance Perspective	|	0.1212
+Similarity Search in High Dimensions via Hashing	|	0.1176
+Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases	|	0.1174
+CURE: An Efficient Clustering Algorithm for Large Databases	|	0.1143
+Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.1057
+FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets	|	0.0953
+Mining Generalized Association Rules	|	0.0949
+Efficient Similarity Search In Sequence Databases	|	0.0881
+An Effective Hash Based Algorithm for Mining Association Rules	|	0.0862
+The X-tree : An Index Structure for High-Dimensional Data	|	0.0850
+Fast Subsequence Matching in Time-Series Databases	|	0.0840
+Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0821
+Mining association rules between sets of items in large databases	|	0.0713
+The R*-tree: an efficient and robust access method for points and rectangles	|	0.0641
+Fast Algorithms for Mining Association Rules	|	0.0558
+Dimensionality Reduction for Fast Similarity Search in Large Time Series Databases	|	0.0285
+Similarity-Based Queries for Time Series Data	|	0.0260
+Efficient Time Series Matching by Wavelets	|	0.0235
+A New SQL-like Operator for Mining Association Rules	|	0.0233
+Optimal Multi-Step k-Nearest Neighbor Search	|	0.0193
+Efficient Data Mining for Path Traversal Patterns	|	0.0189
+Maintenance of Discovered Association Rules in Large Databases: An Incremental Updating Technique	|	0.0174
+Data Mining: An Overview from a Database Perspective	|	0.0170
+Finding Generalized Projected Clusters In High Dimensional Spaces	|	0.0168
+MAFIA: A Maximal Frequent Itemset Algorithm for Transactional Databases	|	0.0157
+OPTICS: Ordering Points To Identify the Clustering Structure	|	0.0157
+M-tree: An Efficient Access Method for Similarity Search in Metric Spaces	|	0.0152
+Parallel Mining of Association Rules	|	0.0145
+Beyond Market Baskets: Generalizing Association Rules to Correlations	|	0.0145
+Scalable Parallel Data Mining for Association Rules	|	0.0139
+ROCK: A Robust Clustering Algorithm for Categorical Attributes	|	0.0133
+MindReader: Querying Databases Through Multiple Examples	|	0.0133
+Sampling Large Databases for Association Rules	|	0.0132
+Distance-Based Outliers: Algorithms and Applications	|	0.0130
+Fast Nearest Neighbor Search in Medical Image Databases	|	0.0122
+Maintaining Data Privacy in Association Rule Mining	|	0.0122
+Efficient Mining of Association Rules Using Closed Itemset Lattices	|	0.0122
+Scalable Algorithms for Association Mining	|	0.0118
+Efficient Algorithms for Mining Outliers from Large Data Sets	|	0.0117
+Knowledge Discovery in Databases: An Attribute-Oriented Approach	|	0.0116
+The design & analysis of spatial data structures	|	0.0116
+Fast Algorithms for Mining Association Rules in Large Databases	|	0.0114
+Discovery of Spatial Association Rules in Geographic Information Databases	|	0.0113
+Constraint-Based Rule Mining in Large, Dense Databases	|	0.0113
+Efficient Processing of Spatial Joins Using R-Trees	|	0.0110
+Efficient and Effective Querying by Image Content	|	0.0105
+Efficiently Mining Long Patterns from Databases	|	0.0104
+The Design and Analysis of Spatial Data Structures	|	0.0103
+Exploratory Mining and Pruning Optimizations of Constrained Association Rules	|	0.0100
+The SR-tree: An Index Structure for High-Dimensional Nearest Neighbor Queries	|	0.0100
+Searching in high-dimensional spaces: Index structures for improving the performance of multimedia databases	|	0.0095
+Wavelet-Based Histograms for Selectivity Estimation	|	0.0094
+The Grid File: An Adaptable, Symmetric Multikey File Structure	|	0.0093
+Fundamentals of spatial information systems	|	0.0093
+A framework for clustering evolving data streams	|	0.0091
+Query Processing in Spatial Network Databases	|	0.0089
+Fast Algorithms for Projected Clustering	|	0.0089
+Mining Sequential Patterns	|	0.0087
+Similarity Indexing with the SS-tree	|	0.0087
+Discovery of Multiple-Level Association Rules from Large Databases	|	0.0087
+A Quantitative Analysis and Performance Study for Similarity-Search Methods in High-Dimensional Spaces	|	0.0082
+On indexing mobile objects	|	0.0081
+Algorithms for Mining Distance-Based Outliers in Large Datasets	|	0.0081
+Data Preparation for Mining World Wide Web Browsing Patterns	|	0.0081
+Computing Iceberg Queries Efficiently	|	0.0078
+LOF: Identifying Density-Based Local Outliers	|	0.0078
+Discovering Frequent Closed Itemsets for Association Rules	|	0.0075
+3D Shape Histograms for Similarity Search and Classification in Spatial Databases	|	0.0075
+The TV-Tree: An Index Structure for High-Dimensional Data	|	0.0075
+The Grid File: An Adaptable, Symmetric Multi-Key File Structure	|	0.0075
+When Is ''Nearest Neighbor'' Meaningful?	|	0.0072
+Incognito: efficient full-domain K-anonymity	|	0.0072
+Distance browsing in spatial databases	|	0.0071
+Finding interesting rules from large sets of discovered association rules	|	0.0070
+Continuous queries over data streams	|	0.0068
+A cost model for nearest neighbor search in high-dimensional data space	|	0.0064
+The Pyramid-Technique: Towards Breaking the Curse of Dimensionality	|	0.0063
+Searching in metric spaces	|	0.0063
+On packing R-trees	|	0.0061
+Hilbert R-tree: An Improved R-tree using Fractals	|	0.0061
+Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.0060
+New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.0055
+Approximate Frequency Counts over Data Streams	|	0.0055
+Spatial Query Processing in an Object-Oriented Database System	|	0.0052
+Discovering Conceptual Relations from Text	|	0.0047
+Automated Selection of Materialized Views and Indexes in SQL Databases	|	0.0046
+WaveCluster: A Multi-Resolution Clustering Approach for Very Large Spatial Databases	|	0.0045
+What Makes Patterns Interesting in Knowledge Discovery Systems	|	0.0045
+On Finding the Maxima of a Set of Vectors	|	0.0045
+Linear Clustering of Objects with Multiple Atributes	|	0.0044
+Limiting privacy breaches in privacy preserving data mining	|	0.0044
+Privacy-Preserving Data Mining	|	0.0044
+SLIQ: A Fast Scalable Classifier for Data Mining	|	0.0043
+Discovering Web Access Patterns and Trends by Applying OLAP and Data Mining Technology on Web Logs	|	0.0043
+SPIRIT: Sequential Pattern Mining with Regular Expression Constraints	|	0.0043
+STING: A Statistical Information Grid Approach to Spatial Data Mining	|	0.0043
+An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.0043
+An optimal and progressive algorithm for skyline queries	|	0.0043
+SPRINT: A Scalable Parallel Classifier for Data Mining	|	0.0042
+Efficient Mining of Partial Periodic Patterns in Time Series Database	|	0.0042
+Selectivity Estimation Without the Attribute Value Independence Assumption	|	0.0041
+An Array-Based Algorithm for Simultaneous Multidimensional Aggregates	|	0.0041
+An effective way to represent quadtrees	|	0.0041
+Multidimensional access methods	|	0.0041
+What Is the Nearest Neighbor in High Dimensional Spaces?	|	0.0039
+Improved Histograms for Selectivity Estimation of Range Predicates	|	0.0039
+Random sampling with a reservoir	|	0.0039
+Srikant: "fast algorithms for mining association rules	|	0.0039
+Mining Sequential Patterns by Pattern-Growth: The PrefixSpan Approach	|	0.0039
+Direct Spatial Search on Pictorial Databases Using Packed R-Trees	|	0.0038
+Data Cleaning: Problems and Current Approaches	|	0.0038
+Mobile Computing and Databases - A Survey	|	0.0038
+Partition Based Spatial-Merge Join	|	0.0036
+Bottom-Up Computation of Sparse and Iceberg CUBEs	|	0.0036
+Access methods for text	|	0.0036
+l-Diversity: Privacy Beyond k-Anonymity	|	0.0036
+Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Total	|	0.0035
+Principles of database and knowledge-base systems	|	0.0035
+Generalized Search Trees for Database Systems	|	0.0033
+Ranking in Spatial Databases	|	0.0033
+An Introduction to Spatial Database Systems	|	0.0033
+Models and issues in data stream systems	|	0.0031
+Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.0030
+Storing Semistructured Data with STORED	|	0.0030
+Approximate Query Processing Using Wavelets	|	0.0030
+Issues in data stream management	|	0.0024
+Online Aggregation	|	0.0022
+Temporal and Real-Time Databases: A Survey	|	0.0021
+Principles of Database and Knowledge-Base Systems, Volume I	|	0.0019
+The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0017
+Access path selection in a relational database management system	|	0.0009
+Query evaluation techniques for large databases	|	0.0004

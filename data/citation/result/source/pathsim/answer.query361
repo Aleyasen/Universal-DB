@@ -1,0 +1,48 @@
+Concurrency control performance modeling: alternatives and implications	|	0.6667
+Concurrency control in advanced database applications	|	0.5263
+Concurrency Control in Distributed Database Systems	|	0.5000
+Principles of transaction-oriented database recovery	|	0.5000
+The notions of consistency and predicate locks in a database system	|	0.4828
+A principle for resilient sharing of distributed resources	|	0.4286
+Real-Time Databases	|	0.4000
+Nonblocking commit protocols	|	0.4000
+The serializability of concurrent database updates	|	0.3750
+On Optimistic Methods for Concurrency Control	|	0.3158
+The Recovery Manager of the System R Database Manager	|	0.3000
+Concurrency Control and Recovery in Database Systems	|	0.2927
+The Theory of Database Concurrency Control	|	0.2667
+Scheduling Real-time Transactions: a Performance Evaluation	|	0.2500
+Scheduling real-time transactions: a performance evaluation	|	0.2500
+Temporal and Real-Time Databases: A Survey	|	0.2424
+An adaptive data replication algorithm	|	0.2353
+A Majority consensus approach to concurrency control for multiple copy databases	|	0.2353
+Notes on Data Base Operating Systems	|	0.2308
+A Critique of ANSI SQL Isolation Levels	|	0.2222
+Bigtable: A Distributed Storage System for Structured Data	|	0.2222
+The Interdisciplinary Study of Coordination	|	0.2105
+ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging	|	0.2105
+Ode as an Active Database: Constraints and Triggers	|	0.1905
+Data Placement In Bubba	|	0.1905
+Notes on database operating systems	|	0.1905
+Impossibility of Distributed Consensus with One Faulty Process	|	0.1818
+Middleware: a model for distributed system services	|	0.1667
+Consistency in Partitioned Networks	|	0.1538
+The Gamma Database Machine Project	|	0.1429
+Nested Transactions: An Approach to Reliable Distributed Computing	|	0.1429
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.1429
+Object and File Management in the EXODUS Extensible Database System	|	0.1429
+The Dangers of Replication and a Solution	|	0.1333
+Distributed Databases: Principles and Systems	|	0.1333
+The HiPAC project: combining active databases and timing constraints	|	0.1333
+The EXODUS Optimizer Generator	|	0.1053
+Principles of database buffer management	|	0.1053
+A federated architecture for information management	|	0.1053
+Operating system support for database management	|	0.1000
+A Relational Model for Large Shared Data Banks	|	0.1000
+Efficient locking for concurrent operations on B-trees	|	0.0952
+Query Optimization in Database Systems	|	0.0930
+Principles of Database Systems, 2nd Edition	|	0.0870
+Query evaluation techniques for large databases	|	0.0741
+Organization and Maintenance of Large Ordered Indices	|	0.0645
+The Ubiquitous B-Tree	|	0.0645
+Foundations of Databases	|	0.0256

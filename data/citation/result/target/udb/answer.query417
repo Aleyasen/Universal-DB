@@ -1,0 +1,67 @@
+Multiple-query optimization	|	0.1258
+Principles of database systems	|	0.1111
+The design and implementation of INGRES	|	0.1111
+Randomized Algorithms for Optimizing Large Join Queries	|	0.0952
+Pnnc:ples of database systems	|	0.0952
+An introduction to data base systems	|	0.0833
+Implementation of integrity constraints and views by query modification	|	0.0833
+Logic and Databases: A Deductive Approach	|	0.0752
+XIRQL: a query language for information retrieval in XML documents	|	0.0625
+Negation as Failure	|	0.0625
+Approximating block accesses in database organizations	|	0.0625
+On closed world databases	|	0.0625
+Selection of Views to Materialize in a Data Warehouse	|	0.0625
+Query Optimization in Database Systems	|	0.0615
+Towards a Logical Reconstruction of Relational Database Theory	|	0.0476
+Organization and maintenance of large ordered indexes	|	0.0476
+GAMMA - A High Performance Dataflow Database Machine	|	0.0370
+On Closed World Data Bases	|	0.0370
+Optimal implementation of conjunctive queries in relational databases	|	0.0370
+Starburst Mid-Flight: As the Dust Clears	|	0.0294
+A probabilistic relational algebra for the integration of information retrieval and database systems	|	0.0294
+Query Processing, Resource Management, and Approximation in a Data Stream Management System	|	0.0294
+DISCOVER: Keyword Search in Relational Databases	|	0.0238
+Data-Driven Discovery of Quantitative Rules in Relational Databases	|	0.0238
+Principles of Database Systems, 2nd Edition	|	0.0206
+Computable Queries for Relational Data Bases	|	0.0198
+Telos: representing knowledge about information systems	|	0.0196
+A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.0196
+Retrieving and Integrating Data from Multiple Information Sources	|	0.0196
+The EXODUS Optimizer Generator	|	0.0196
+Using Semi-Joins to Solve Relational Queries	|	0.0196
+Data Structures for Range Searching	|	0.0164
+On optimizing an SQL-like nested query	|	0.0164
+Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.0139
+Dependency Structures of Data Base Relationships	|	0.0119
+Universality of data retrieval languages	|	0.0102
+Relational Completeness of Data Base Sublanguages	|	0.0093
+Organization and Maintenance of Large Ordered Indexes	|	0.0090
+An Introduction to Database Systems	|	0.0090
+Concurrency Control in Distributed Database Systems	|	0.0090
+Query-by-Example: A Data Base Language	|	0.0090
+Interoperability of multiple autonomous databases	|	0.0079
+Optimal implementation of conjunctive queries in relational data bases	|	0.0077
+Knowledge Discovery in Databases: An Attribute-Oriented Approach	|	0.0070
+Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.0070
+The Design of Postgres	|	0.0051
+The Grid File: An Adaptable, Symmetric Multi-Key File Structure	|	0.0051
+The Gamma Database Machine Project	|	0.0051
+Types and persistence in database programming languages	|	0.0048
+The notions of consistency and predicate locks in a database system	|	0.0046
+Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.0042
+Organization and Maintenance of Large Ordered Indices	|	0.0042
+Continuous queries over data streams	|	0.0042
+Continuously adaptive continuous queries over streams	|	0.0042
+The Theory of Relational Databases	|	0.0040
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0039
+NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0039
+System R: A Relational Approach to Data Base Management	|	0.0039
+Monitoring Streams - A New Class of Data Management Applications	|	0.0033
+The Grid File: An Adaptable, Symmetric Multikey File Structure	|	0.0030
+Extending the database relational model to capture more meaning	|	0.0028
+System R: relational approach to database management	|	0.0026
+Access path selection in a relational database management system	|	0.0023
+Models and issues in data stream systems	|	0.0023
+Foundations of Databases	|	0.0009
+Query evaluation techniques for large databases	|	0.0008
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0007

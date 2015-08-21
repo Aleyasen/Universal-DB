@@ -1,0 +1,66 @@
+Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.5556
+TinyDB: an acquisitional query processing system for sensor networks	|	0.4348
+Continuous queries over data streams	|	0.4286
+Gigascope: a stream database for network applications	|	0.4000
+Distributed top-k monitoring	|	0.4000
+Adaptive filters for continuous queries over distributed data streams	|	0.4000
+The CQL continuous query language: semantic foundations and query execution	|	0.4000
+TelegraphCQ: Continuous Dataflow Processing for an Uncertain World	|	0.4000
+The design of an acquisitional query processor for sensor networks	|	0.3846
+Continuously adaptive continuous queries over streams	|	0.3704
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.3704
+Issues in data stream management	|	0.3704
+Multiple-query optimization	|	0.3333
+Aurora: a new model and architecture for data stream management	|	0.3000
+An Adaptive Query Execution System for Data Integration	|	0.2857
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.2857
+Towards Sensor Database Systems	|	0.2857
+Models and issues in data stream systems	|	0.2778
+NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.2759
+Scalable Distributed Stream Processing	|	0.2667
+Monitoring Streams - A New Class of Data Management Applications	|	0.2581
+Path sharing and predicate evaluation for high-performance XML filtering	|	0.2353
+Online Aggregation	|	0.2222
+Wavelet-Based Histograms for Selectivity Estimation	|	0.2222
+Querying the Internet with PIER	|	0.2222
+The Design of the Borealis Stream Processing Engine	|	0.2222
+Eddies: Continuously Adaptive Query Processing	|	0.2143
+Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.2000
+Logic-based approach to semantic query optimization	|	0.2000
+Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.1905
+Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.1905
+A framework for clustering evolving data streams	|	0.1818
+Filtering algorithms and implementation for very fast publish/subscribe systems	|	0.1818
+Selection of Views to Materialize in a Data Warehouse	|	0.1818
+Evaluating Top-k Queries over Web-Accessible Databases	|	0.1667
+Optimal Histograms with Quality Guarantees	|	0.1667
+An Improved Data Stream Summary: The Count-Min Sketch and Its Applications	|	0.1667
+Randomized Algorithms for Optimizing Large Join Queries	|	0.1667
+Maintaining Stream Statistics over Sliding Windows	|	0.1667
+The cougar approach to in-network query processing in sensor networks	|	0.1429
+Load Shedding in a Data Stream Manager	|	0.1429
+DISCOVER: Keyword Search in Relational Databases	|	0.1333
+Selectivity Estimation Without the Attribute Value Independence Assumption	|	0.1333
+Improved Histograms for Selectivity Estimation of Range Predicates	|	0.1250
+A Taxonomy of Time in Databases	|	0.1250
+Active database systems	|	0.1250
+Random sampling with a reservoir	|	0.1250
+The Architecture Of An Active Data Base Management System	|	0.1111
+Optimizing Queries Across Diverse Data Sources	|	0.1000
+XML-QL: A Query Language for XML	|	0.1000
+Approximate Query Processing Using Wavelets	|	0.0952
+Parallel Database Systems: The Future of High Performance Database Processing1	|	0.0909
+Interoperability of multiple autonomous databases	|	0.0909
+Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.0870
+New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.0833
+The Gamma Database Machine Project	|	0.0800
+Spatial Query Processing in an Object-Oriented Database System	|	0.0800
+The Design of Postgres	|	0.0769
+Query Caching and Optimization in Distributed Mediator Systems	|	0.0741
+Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.0714
+System R: A Relational Approach to Data Base Management	|	0.0690
+The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0667
+Temporal and Real-Time Databases: A Survey	|	0.0667
+System R: relational approach to database management	|	0.0588
+Fast Subsequence Matching in Time-Series Databases	|	0.0513
+Access path selection in a relational database management system	|	0.0417

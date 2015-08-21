@@ -1,0 +1,102 @@
+Making Smalltalk a Database System	|	0.1615
+The Implementation of Postgres	|	0.1605
+Data model issues for object-oriented applications	|	0.1585
+Development of an object-oriented DBMS	|	0.1574
+Logical Foundations of Object-Oriented and Frame-Based Languages	|	0.1509
+Iris: An Object-Oriented Database Management System	|	0.1495
+The relational model with relation-valued attributes	|	0.1493
+The Postgres Next Generation Database Management System	|	0.1418
+A language facility for designing database-intensive applications	|	0.1287
+Object identity	|	0.1284
+The entity-relationship model---toward a unified view of data	|	0.1170
+The functional data model and the data languages DAPLEX	|	0.1047
+Temporal and Real-Time Databases: A Survey	|	0.0986
+Extending the database relational model to capture more meaning	|	0.0935
+Telos: representing knowledge about information systems	|	0.0182
+IFO: a formal semantic database model	|	0.0157
+Database Description with SDM: A Semantic Database Model	|	0.0152
+View Definition and Generalization for Database Integration in a Multidatabase System	|	0.0152
+Semantic data models	|	0.0152
+Database abstractions: aggregation and generalization	|	0.0152
+GALILEO: a strongly-typed, interactive conceptual language	|	0.0151
+Objects and Views	|	0.0142
+Semantics and Implementation of Schema Evolution in Object-Oriented Databases	|	0.0142
+Database description with SDM: a semantic database model	|	0.0138
+F-Logic: A Higher-Order language for Reasoning about Objects, Inheritance, and Scheme	|	0.0135
+Types and persistence in database programming languages	|	0.0133
+An Approach to Persistent Programming	|	0.0128
+Querying Object-Oriented Databases	|	0.0125
+The temporal query language TQuel	|	0.0122
+The EXODUS Optimizer Generator	|	0.0122
+A Taxonomy of Time in Databases	|	0.0122
+Query By Example	|	0.0115
+A federated architecture for information management	|	0.0114
+Benchmarking Database Systems A Systematic Approach	|	0.0108
+The Design of Postgres	|	0.0097
+Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0091
+A Logical Language for Data and Knowledge Bases	|	0.0082
+Introduction to Object-Oriented Databases	|	0.0082
+Extending object-oriented systems with roles	|	0.0082
+Temporal Databases	|	0.0082
+System R: A Relational Approach to Data Base Management	|	0.0081
+Object-Oriented Programming: Themes and Variations	|	0.0080
+Extending and Formalizing the Framework for Information Systems Architecture	|	0.0080
+Implementation of integrity constraints and views by query modification	|	0.0080
+On closed world databases	|	0.0077
+Design and natural science research on information technology	|	0.0077
+FCA-MERGE: Bottom-Up Merging of Ontologies	|	0.0074
+Composite Event Specification in Active Databases: Model & Implementation	|	0.0074
+Real-Time Databases	|	0.0074
+A foundation for representing and querying moving objects	|	0.0074
+A model of authorization for next-generation database systems	|	0.0074
+Data Models	|	0.0074
+EDUTELLA: a P2P networking infrastructure based on RDF	|	0.0071
+On Closed World Data Bases	|	0.0071
+Remarks on the algebra of non first normal form relations	|	0.0071
+Scheduling Real-time Transactions: a Performance Evaluation	|	0.0071
+Scheduling real-time transactions: a performance evaluation	|	0.0071
+Incomplete Information in Relational Databases	|	0.0071
+Further Normalization of the Data Base Relational Model	|	0.0069
+Mariposa: A Wide-Area Distributed Database System	|	0.0068
+EDUTELLA: A P2P Networking Infrastructure Based on RDF	|	0.0068
+Knowledge Engineering: Principles and Methods	|	0.0064
+The entity-relationship model: toward a unified view of data	|	0.0064
+Understanding the New SQL: A Complete Guide	|	0.0064
+Determining Semantic Similarity among Entity Classes from Different Ontologies	|	0.0064
+A comparative analysis of methodologies for database schema integration	|	0.0064
+On Optimistic Methods for Concurrency Control	|	0.0061
+System R: relational approach to database management	|	0.0060
+A Relational Model for Large Shared Data Banks	|	0.0059
+Principles of transaction-oriented database recovery	|	0.0057
+Spatial SQL: A Query and Presentation Language	|	0.0057
+Extended algebra and calculus for nested relational databases	|	0.0057
+Active database systems	|	0.0057
+Ode as an Active Database: Constraints and Triggers	|	0.0054
+Disjunctive datalog	|	0.0051
+Aurora: a new model and architecture for data stream management	|	0.0048
+The CQL continuous query language: semantic foundations and query execution	|	0.0048
+The Architecture Of An Active Data Base Management System	|	0.0047
+An Introduction to Database Systems	|	0.0045
+Query-by-Example: A Data Base Language	|	0.0045
+A logical design methodology for relational databases using the extended entity-relationship model	|	0.0044
+Join processing in relational databases	|	0.0042
+Join indices	|	0.0042
+Interoperability of multiple autonomous databases	|	0.0042
+TinyDB: an acquisitional query processing system for sensor networks	|	0.0039
+Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.0039
+Efficient Processing of Spatial Joins Using R-Trees	|	0.0037
+Query Optimization for XML	|	0.0034
+The Theory of Relational Databases	|	0.0032
+The design of an acquisitional query processor for sensor networks	|	0.0032
+Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0031
+Relational Completeness of Data Base Sublanguages	|	0.0030
+The notions of consistency and predicate locks in a database system	|	0.0030
+Monitoring Streams - A New Class of Data Management Applications	|	0.0024
+Lore: a database management system for semistructured data	|	0.0021
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0021
+Database techniques for the World-Wide Web: a survey	|	0.0020
+Logic and Databases: A Deductive Approach	|	0.0019
+Concurrency Control and Recovery in Database Systems	|	0.0016
+Foundations of Databases	|	0.0016
+Fast Subsequence Matching in Time-Series Databases	|	0.0015
+Query evaluation techniques for large databases	|	0.0015

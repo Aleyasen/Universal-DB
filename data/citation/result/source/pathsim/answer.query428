@@ -1,0 +1,63 @@
+Data Placement In Bubba	|	0.2727
+The Design of Postgres	|	0.2667
+Approximating block accesses in database organizations	|	0.2667
+Semantics and Implementation of Schema Evolution in Object-Oriented Databases	|	0.2353
+The LRU-K Page Replacement Algorithm For Database Disk Buffering	|	0.2222
+2Q: A Low Overhead High Performance Buffer Management Replacement Algorithm	|	0.2105
+Principles of database buffer management	|	0.2000
+ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging	|	0.2000
+System R: A Relational Approach to Data Base Management	|	0.1818
+Query Optimization in Database Systems	|	0.1818
+Parallel database systems: the future of high performance database systems	|	0.1818
+An Evaluation of Buffer Management Strategies for Relational Database Systems	|	0.1739
+The Postgres Next Generation Database Management System	|	0.1739
+A Data Model and Query Language for EXODUS	|	0.1600
+Join processing in relational databases	|	0.1600
+System R: relational approach to database management	|	0.1579
+Parallel Database Systems: The Future of High Performance Database Processing1	|	0.1538
+Access path selection in a relational database management system	|	0.1538
+Temporal Databases	|	0.1538
+TinyDB: an acquisitional query processing system for sensor networks	|	0.1481
+Query evaluation techniques for large databases	|	0.1463
+Staggered Striping in Multimedia Information Systems	|	0.1429
+Object and File Management in the EXODUS Extensible Database System	|	0.1333
+Composite Event Specification in Active Databases: Model & Implementation	|	0.1250
+The Ubiquitous B-Tree	|	0.1250
+Organization and maintenance of large ordered indexes	|	0.1250
+SPRINT: A Scalable Parallel Classifier for Data Mining	|	0.1176
+Join processing in database systems with large main memories	|	0.1176
+The LRU-K page replacement algorithm for database disk buffering	|	0.1176
+Mariposa: A Wide-Area Distributed Database System	|	0.1111
+Disk Striping	|	0.1111
+Starburst Mid-Flight: As the Dust Clears	|	0.1111
+Shoring Up Persistent Applications	|	0.1053
+Scalable Distributed Stream Processing	|	0.1053
+A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.1000
+The Case for Shared Nothing	|	0.1000
+Active database systems	|	0.1000
+The Implementation of Postgres	|	0.0952
+Operating system support for database management	|	0.0952
+The Recovery Manager of the System R Database Manager	|	0.0952
+Partition Based Spatial-Merge Join	|	0.0909
+Querying the Internet with PIER	|	0.0909
+The Architecture Of An Active Data Base Management System	|	0.0909
+Notes on database operating systems	|	0.0909
+A Fast Index for Semistructured Data	|	0.0833
+Making Smalltalk a Database System	|	0.0833
+An Introduction to Spatial Database Systems	|	0.0833
+Organization and Maintenance of Large Ordered Indexes	|	0.0800
+Notes on Data Base Operating Systems	|	0.0741
+Efficient Processing of Spatial Joins Using R-Trees	|	0.0714
+The Gamma Database Machine Project	|	0.0690
+The design of an acquisitional query processor for sensor networks	|	0.0667
+Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0645
+Eddies: Continuously Adaptive Query Processing	|	0.0625
+An Adaptive Query Execution System for Data Integration	|	0.0625
+Organization and Maintenance of Large Ordered Indices	|	0.0625
+Temporal and Real-Time Databases: A Survey	|	0.0588
+Lore: a database management system for semistructured data	|	0.0556
+Extending the database relational model to capture more meaning	|	0.0541
+Concurrency Control and Recovery in Database Systems	|	0.0476
+Answering queries using views: A survey	|	0.0444
+Foundations of Databases	|	0.0253
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0235

@@ -1,0 +1,44 @@
+A Taxonomy of Time in Databases	|	0.2364
+Notes on database operating systems	|	0.1974
+An Evaluation of Buffer Management Strategies for Relational Database Systems	|	0.1818
+The Design of Postgres	|	0.1150
+The design and implementation of INGRES	|	0.0769
+Starburst Mid-Flight: As the Dust Clears	|	0.0526
+Approximating block accesses in database organizations	|	0.0500
+Concurrency control performance modeling: alternatives and implications	|	0.0435
+Nonblocking commit protocols	|	0.0400
+The EXODUS Optimizer Generator	|	0.0364
+The HiPAC project: combining active databases and timing constraints	|	0.0328
+The LRU-K page replacement algorithm for database disk buffering	|	0.0323
+A homogeneous relational model and query languages for temporal databases	|	0.0312
+Operating system support for database management	|	0.0308
+The LRU-K Page Replacement Algorithm For Database Disk Buffering	|	0.0263
+2Q: A Low Overhead High Performance Buffer Management Replacement Algorithm	|	0.0217
+Making Smalltalk a Database System	|	0.0198
+The temporal query language TQuel	|	0.0183
+Bigtable: A Distributed Storage System for Structured Data	|	0.0183
+On Optimistic Methods for Concurrency Control	|	0.0182
+Storing and querying ordered XML using a relational database system	|	0.0182
+Principles of database buffer management	|	0.0182
+The Implementation of Postgres	|	0.0154
+Using Semantic Knowledge for Transaction Processing in Distributed Database	|	0.0154
+Concurrency control in advanced database applications	|	0.0152
+Benchmarking Database Systems A Systematic Approach	|	0.0132
+Data Placement In Bubba	|	0.0132
+The Postgres Next Generation Database Management System	|	0.0114
+An Introduction to Spatial Database Systems	|	0.0099
+Concurrency Control in Distributed Database Systems	|	0.0087
+System R: A Relational Approach to Data Base Management	|	0.0076
+Multiple-query optimization	|	0.0061
+Database description with SDM: a semantic database model	|	0.0055
+System R: relational approach to database management	|	0.0052
+The Gamma Database Machine Project	|	0.0050
+Semantic data models	|	0.0045
+Extending the database relational model to capture more meaning	|	0.0028
+The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0026
+Types and persistence in database programming languages	|	0.0024
+Models and issues in data stream systems	|	0.0022
+Access path selection in a relational database management system	|	0.0011
+Foundations of Databases	|	0.0004
+Query evaluation techniques for large databases	|	0.0004
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0004

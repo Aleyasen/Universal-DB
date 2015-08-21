@@ -1,0 +1,64 @@
+Organization and Maintenance of Large Ordered Indexes	|	0.5263
+Approximating block accesses in database organizations	|	0.4444
+Organization and Maintenance of Large Ordered Indices	|	0.3846
+GAMMA - A High Performance Dataflow Database Machine	|	0.3636
+Sorting Networks and Their Applications	|	0.3333
+The EXODUS Optimizer Generator	|	0.2857
+Principles of database systems	|	0.2857
+On optimizing an SQL-like nested query	|	0.2667
+Logic-based approach to semantic query optimization	|	0.2500
+Trie memory	|	0.2500
+Implementation of integrity constraints and views by query modification	|	0.2500
+XIRQL: a query language for information retrieval in XML documents	|	0.2222
+Complex Queries in DHT-based Peer-to-Peer Networks	|	0.2000
+Randomized Algorithms for Optimizing Large Join Queries	|	0.2000
+Update semantics of relational views	|	0.2000
+Pnnc:ples of database systems	|	0.2000
+The Gamma Database Machine Project	|	0.1739
+Starburst Mid-Flight: As the Dust Clears	|	0.1667
+A probabilistic relational algebra for the integration of information retrieval and database systems	|	0.1667
+Relational Completeness of Data Base Sublanguages	|	0.1600
+The Ubiquitous B-Tree	|	0.1538
+The hB-tree: a multiattribute indexing method with good guaranteed performance	|	0.1538
+A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.1429
+Retrieving and Integrating Data from Multiple Information Sources	|	0.1429
+On Optimistic Methods for Concurrency Control	|	0.1429
+Using Semi-Joins to Solve Relational Queries	|	0.1429
+Query By Example	|	0.1333
+Data Structures for Range Searching	|	0.1333
+The Recovery Manager of the System R Database Manager	|	0.1333
+The Grid File: An Adaptable, Symmetric Multikey File Structure	|	0.1333
+Types and persistence in database programming languages	|	0.1290
+Extending the database relational model to capture more meaning	|	0.1290
+Benchmarking Database Systems A Systematic Approach	|	0.1250
+Ode as an Active Database: Constraints and Triggers	|	0.1250
+Partition Based Spatial-Merge Join	|	0.1250
+Efficient locking for concurrent operations on B-trees	|	0.1250
+An Evaluation of Buffer Management Strategies for Relational Database Systems	|	0.1176
+A Fast Index for Semistructured Data	|	0.1111
+Generalized Search Trees for Database Systems	|	0.1111
+Principles of Database Systems, 2nd Edition	|	0.1111
+The Theory of Relational Databases	|	0.1111
+An Introduction to Spatial Database Systems	|	0.1111
+Concurrency Control in Distributed Database Systems	|	0.1053
+Join processing in relational databases	|	0.1053
+Query evaluation techniques for large databases	|	0.1053
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.1013
+Object identity	|	0.0909
+Multiple-query optimization	|	0.0909
+Access path selection in a relational database management system	|	0.0870
+The Design of Postgres	|	0.0833
+The Grid File: An Adaptable, Symmetric Multi-Key File Structure	|	0.0833
+The notions of consistency and predicate locks in a database system	|	0.0833
+Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0800
+Optimal implementation of conjunctive queries in relational data bases	|	0.0741
+System R: A Relational Approach to Data Base Management	|	0.0741
+The functional data model and the data languages DAPLEX	|	0.0741
+A Quantitative Analysis and Performance Study for Similarity-Search Methods in High-Dimensional Spaces	|	0.0714
+The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0625
+System R: relational approach to database management	|	0.0625
+Concurrency Control and Recovery in Database Systems	|	0.0556
+Foundations of Databases	|	0.0548
+Fast Subsequence Matching in Time-Series Databases	|	0.0541
+Multidimensional access methods	|	0.0541
+Answering queries using views: A survey	|	0.0513

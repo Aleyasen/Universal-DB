@@ -1,0 +1,56 @@
+Distributed Databases: Principles and Systems	|	0.3023
+Principles of Distributed Database Systems	|	0.2791
+Comparative Models of the File Assignment Problem	|	0.2759
+A Majority consensus approach to concurrency control for multiple copy databases	|	0.2679
+Data caching issues in an information retrieval system	|	0.2192
+The Design of the Borealis Stream Processing Engine	|	0.1776
+Concurrency Control and Recovery in Database Systems	|	0.0763
+Consistency in Partitioned Networks	|	0.0588
+A principle for resilient sharing of distributed resources	|	0.0526
+The Dangers of Replication and a Solution	|	0.0517
+Impossibility of Distributed Consensus with One Faulty Process	|	0.0345
+The Bayou Architecture: support for data sharing among mobile users	|	0.0323
+Middleware: a model for distributed system services	|	0.0323
+Using Semantic Knowledge for Transaction Processing in Distributed Database	|	0.0241
+Real-Time Databases	|	0.0233
+Nonblocking commit protocols	|	0.0233
+The Theory of Database Concurrency Control	|	0.0233
+The serializability of concurrent database updates	|	0.0204
+The LRU-K page replacement algorithm for database disk buffering	|	0.0204
+The cougar approach to in-network query processing in sensor networks	|	0.0179
+Load Shedding in a Data Stream Manager	|	0.0179
+The LRU-K Page Replacement Algorithm For Database Disk Buffering	|	0.0179
+2Q: A Low Overhead High Performance Buffer Management Replacement Algorithm	|	0.0156
+Scalable Distributed Stream Processing	|	0.0156
+A Critique of ANSI SQL Isolation Levels	|	0.0156
+Concurrency control performance modeling: alternatives and implications	|	0.0156
+Principles of database buffer management	|	0.0137
+Operating system support for database management	|	0.0120
+Principles of transaction-oriented database recovery	|	0.0120
+Mobile Computing and Databases - A Survey	|	0.0119
+Concurrency control in advanced database applications	|	0.0119
+ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging	|	0.0119
+The Recovery Manager of the System R Database Manager	|	0.0107
+Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.0106
+Efficient locking for concurrent operations on B-trees	|	0.0106
+Data Management for Peer-to-Peer Computing : A Vision	|	0.0084
+Principles of Database Systems, 2nd Edition	|	0.0084
+Aurora: a new model and architecture for data stream management	|	0.0084
+The notions of consistency and predicate locks in a database system	|	0.0084
+An Introduction to Database Systems	|	0.0075
+Concurrency Control in Distributed Database Systems	|	0.0075
+Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.0061
+Notes on Data Base Operating Systems	|	0.0061
+The design of an acquisitional query processor for sensor networks	|	0.0046
+Organization and Maintenance of Large Ordered Indices	|	0.0039
+The Ubiquitous B-Tree	|	0.0039
+Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0036
+Online Aggregation	|	0.0036
+Eddies: Continuously Adaptive Query Processing	|	0.0036
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0036
+Temporal and Real-Time Databases: A Survey	|	0.0033
+Monitoring Streams - A New Class of Data Management Applications	|	0.0030
+A comparative analysis of methodologies for database schema integration	|	0.0026
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0011
+Query evaluation techniques for large databases	|	0.0008
+Foundations of Databases	|	0.0004

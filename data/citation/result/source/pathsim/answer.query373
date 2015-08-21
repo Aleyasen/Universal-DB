@@ -1,0 +1,125 @@
+Complexity of answering queries using materialized views	|	0.4167
+Answering recursive queries using views	|	0.3810
+Incremental Maintenance of Views with Duplicates	|	0.3636
+Using Semi-Joins to Solve Relational Queries	|	0.3529
+What Makes Patterns Interesting in Knowledge Discovery Systems	|	0.3333
+Maintaining Views Incrementally	|	0.3158
+Disjunctive datalog	|	0.3000
+Optimizing Queries with Materialized Views	|	0.2857
+Consistent query answers in inconsistent databases	|	0.2857
+Knowledge Discovery in Databases: An Attribute-Oriented Approach	|	0.2500
+Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.2500
+The complexity of relational query languages (Extended Abstract)	|	0.2500
+Data-Driven Discovery of Quantitative Rules in Relational Databases	|	0.2500
+Mediators in the Architecture of Future Information Systems	|	0.2222
+Extended algebra and calculus for nested relational databases	|	0.2222
+Query Caching and Optimization in Distributed Mediator Systems	|	0.2143
+Data Model and Query Evaluation in Global Information Systems	|	0.2000
+Universality of data retrieval languages	|	0.2000
+A Logical Language for Data and Knowledge Bases	|	0.2000
+Containment and equivalence for an XPath fragment	|	0.2000
+Answering queries using views: A survey	|	0.1905
+Join processing in relational databases	|	0.1818
+Testing implications of data dependencies	|	0.1818
+Storing Semistructured Data with STORED	|	0.1739
+Querying Object-Oriented Databases	|	0.1739
+Database Mining: A Performance Perspective	|	0.1739
+Interoperability of multiple autonomous databases	|	0.1739
+Semantic Data Caching and Replacement	|	0.1667
+Negation as Failure	|	0.1667
+Unfounded sets and well-founded semantics for general logic programs	|	0.1667
+On the Declarative Semantics of Deductive Databases and Logic Programs	|	0.1667
+Logic and Databases: A Deductive Approach	|	0.1667
+On the power of magic	|	0.1538
+On the decidability of query containment under constraints	|	0.1538
+A hierarchical approach to wrapper induction	|	0.1538
+Magic Sets and Other Strange Ways to Implement Logic Programs	|	0.1538
+Towards a Logical Reconstruction of Relational Database Theory	|	0.1538
+Nonblocking commit protocols	|	0.1538
+The Theory of Database Concurrency Control	|	0.1538
+Distributed Databases: Principles and Systems	|	0.1538
+Towards a Theory of Declarative Knowledge	|	0.1538
+On the Desirability of Acyclic Database Schemes	|	0.1538
+Further Normalization of the Data Base Relational Model	|	0.1538
+Incomplete Information in Relational Databases	|	0.1538
+Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.1429
+On Closed World Data Bases	|	0.1429
+Remarks on the algebra of non first normal form relations	|	0.1429
+Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.1429
+The serializability of concurrent database updates	|	0.1429
+Join processing in database systems with large main memories	|	0.1429
+Iris: An Object-Oriented Database Management System	|	0.1429
+Relational Completeness of Data Base Sublanguages	|	0.1429
+Optimal implementation of conjunctive queries in relational databases	|	0.1429
+Data exchange: semantics and query answering	|	0.1429
+Information sharing across private databases	|	0.1333
+Answering XML Queries over Heterogeneous Data Sources	|	0.1333
+Aggregate-Query Processing in Data Warehousing Environments	|	0.1333
+Optimal implementation of conjunctive queries in relational data bases	|	0.1333
+The Management of Probabilistic Data	|	0.1333
+Protecting Respondents' Identities in Microdata Release	|	0.1333
+A Majority consensus approach to concurrency control for multiple copy databases	|	0.1333
+Typechecking for XML transformers	|	0.1250
+Extracting Semistructured Information from the Web	|	0.1250
+Computable Queries for Relational Data Bases	|	0.1250
+Pmnczples of database and knowledge- base systems	|	0.1250
+Data integration: a theoretical perspective	|	0.1212
+Super-peer-based routing and clustering strategies for RDF-based peer-to-peer networks	|	0.1176
+Hippocratic Databases	|	0.1176
+Computing Iceberg Queries Efficiently	|	0.1176
+Database techniques for the World-Wide Web: a survey	|	0.1143
+Querying Heterogeneous Information Sources Using Source Descriptions	|	0.1143
+Linear Hashing: A New Tool for File and Table Addressing	|	0.1111
+Query By Example	|	0.1111
+Quad Trees: A Data Structure for Retrieval on Composite Keys	|	0.1111
+Data Structures for Range Searching	|	0.1111
+The Recovery Manager of the System R Database Manager	|	0.1111
+Principles of transaction-oriented database recovery	|	0.1111
+Computational problems related to the design of normal form relational schemas	|	0.1111
+On optimizing an SQL-like nested query	|	0.1111
+OBSERVER: An Approach for Query Processing in Global Information Systems Based on Interoperation Across Pre-Existing Ontologies	|	0.1053
+Development of an object-oriented DBMS	|	0.1053
+Extracting structured data from Web pages	|	0.1053
+Efficient locking for concurrent operations on B-trees	|	0.1053
+The Theory of Relational Databases	|	0.1026
+Research problems in data warehousing	|	0.1000
+Wrapper induction: Efficiency and expressiveness	|	0.1000
+Why and Where: A Characterization of Data Provenance	|	0.1000
+Dependency Structures of Data Base Relationships	|	0.1000
+Query Optimization in Database Systems	|	0.0976
+A New SQL-like Operator for Mining Association Rules	|	0.0952
+Data Management for Peer-to-Peer Computing : A Vision	|	0.0952
+Principles of Database Systems, 2nd Edition	|	0.0952
+Synthesizing third normal form relations from functional dependencies	|	0.0952
+Concurrency Control in Distributed Database Systems	|	0.0909
+Join indices	|	0.0909
+Query-by-Example: A Data Base Language	|	0.0909
+A class of data structures for associative searching	|	0.0870
+The Quadtree and Related Hierarchical Data Structures	|	0.0870
+Catching the boat with Strudel: experiences with a Web Site management system	|	0.0833
+Notes on Data Base Operating Systems	|	0.0833
+Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.0833
+Access path selection in a relational database management system	|	0.0816
+Object identity	|	0.0800
+Foundations of Databases	|	0.0789
+Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.0769
+The entity-relationship model---toward a unified view of data	|	0.0769
+Database description with SDM: a semantic database model	|	0.0769
+An overview of data warehousing and OLAP technology	|	0.0769
+The Design of Postgres	|	0.0741
+The notions of consistency and predicate locks in a database system	|	0.0741
+Database abstractions: aggregation and generalization	|	0.0714
+Eddies: Continuously Adaptive Query Processing	|	0.0690
+An Adaptive Query Execution System for Data Integration	|	0.0690
+Organization and Maintenance of Large Ordered Indices	|	0.0690
+The Ubiquitous B-Tree	|	0.0690
+The functional data model and the data languages DAPLEX	|	0.0667
+A Quantitative Analysis and Performance Study for Similarity-Search Methods in High-Dimensional Spaces	|	0.0645
+Principles of Database and Knowledge-Base Systems, Volume I	|	0.0606
+Types and persistence in database programming languages	|	0.0588
+A comparative analysis of methodologies for database schema integration	|	0.0588
+Extending the database relational model to capture more meaning	|	0.0588
+The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0571
+System R: relational approach to database management	|	0.0571
+Concurrency Control and Recovery in Database Systems	|	0.0513
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0488

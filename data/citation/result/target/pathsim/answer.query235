@@ -1,0 +1,144 @@
+The Management of Probabilistic Data	|	0.1579
+Computational problems related to the design of normal form relational schemas	|	0.1562
+A Critique of ANSI SQL Isolation Levels	|	0.1560
+Data caching issues in an information retrieval system	|	0.1533
+Synthesizing third normal form relations from functional dependencies	|	0.1480
+Development of an object-oriented DBMS	|	0.1479
+Universality of data retrieval languages	|	0.1472
+A logical design methodology for relational databases using the extended entity-relationship model	|	0.1469
+Interoperability of multiple autonomous databases	|	0.1333
+Semantic data models	|	0.1143
+Logic and Databases: A Deductive Approach	|	0.0881
+Types and persistence in database programming languages	|	0.0880
+Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0774
+Access path selection in a relational database management system	|	0.0580
+The entity-relationship model: toward a unified view of data	|	0.0284
+An introduction to data base systems	|	0.0270
+Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.0207
+A Relational Model for Large Shared Data Banks	|	0.0185
+Algorithms for Acyclic Database Schemes	|	0.0180
+Data Models	|	0.0167
+Dependency Structures of Data Base Relationships	|	0.0164
+Making Smalltalk a Database System	|	0.0153
+The functional data model and the data language DAPLEX	|	0.0153
+The entity-relationship model---toward a unified view of data	|	0.0145
+C-Store: A Column-oriented DBMS	|	0.0142
+Computable Queries for Relational Data Bases	|	0.0134
+A federated architecture for information management	|	0.0124
+A language facility for designing database-intensive applications	|	0.0124
+Query Reformulation for Dynamic Information Integration	|	0.0109
+Data Model and Query Evaluation in Global Information Systems	|	0.0109
+Semantic and Schematic Similarities Between Database Objects: A Context-Based Approach	|	0.0109
+Database Description with SDM: A Semantic Database Model	|	0.0109
+GALILEO: a strongly-typed, interactive conceptual language	|	0.0109
+Further Normalization of the Data Base Relational Model	|	0.0109
+Principles of Database Systems, 2nd Edition	|	0.0102
+The Theory of Relational Databases	|	0.0100
+Database abstractions: aggregation and generalization	|	0.0095
+Query-by-Example: A Data Base Language	|	0.0095
+The Volcano Optimizer Generator: Extensibility and Efficient Search	|	0.0094
+The Bayou Architecture: support for data sharing among mobile users	|	0.0093
+A Graph-Oriented Model for Articulation of Ontology Interdependencies	|	0.0093
+On the ontological expressiveness of information systems analysis and design grammars	|	0.0093
+The design and implementation of INGRES	|	0.0093
+Accurate Estimation of the Number of Tuples Satisfying a Condition	|	0.0090
+Consistency in Partitioned Networks	|	0.0090
+Logic-based approach to semantic query optimization	|	0.0090
+Testing implications of data dependencies	|	0.0090
+Extending the database relational model to capture more meaning	|	0.0088
+Negation as Failure	|	0.0087
+Using semantic values to facilitate interoperability among heterogeneous information systems	|	0.0087
+On closed world databases	|	0.0087
+The functional data model and the data languages DAPLEX	|	0.0084
+Description Logics in Data Management	|	0.0083
+Towards a Logical Reconstruction of Relational Database Theory	|	0.0083
+Randomized Algorithms for Optimizing Large Join Queries	|	0.0083
+The Theory of Database Concurrency Control	|	0.0083
+Distributed Databases: Principles and Systems	|	0.0083
+Transaction Processing: Concepts and Techniques	|	0.0083
+Principles of Distributed Database Systems	|	0.0083
+Probabilistic Counting Algorithms for Data Base Applications	|	0.0083
+Pnnc:ples of database systems	|	0.0083
+ULDBs: Databases with Uncertainty and Lineage	|	0.0083
+Ontology Evolution: Not the Same as Schema Evolution	|	0.0080
+GAMMA - A High Performance Dataflow Database Machine	|	0.0079
+On Closed World Data Bases	|	0.0079
+Iris: An Object-Oriented Database Management System	|	0.0079
+Classifying Schematic and Data Heterogeneity in Multidatabase Systems	|	0.0079
+Optimal implementation of conjunctive queries in relational databases	|	0.0079
+The LRU-K page replacement algorithm for database disk buffering	|	0.0079
+Trio: A System for Integrated Management of Data, Accuracy, and Lineage	|	0.0079
+The theory of joins in relational databases	|	0.0079
+Mariposa: A Wide-Area Distributed Database System	|	0.0075
+An adaptive data replication algorithm	|	0.0075
+A Theory of Attribute Equivalence in Databases with Application to Schema Integration	|	0.0075
+A probabilistic relational algebra for the integration of information retrieval and database systems	|	0.0075
+The LRU-K Page Replacement Algorithm For Database Disk Buffering	|	0.0075
+Object Exchange Across Heterogeneous Information Sources	|	0.0075
+F-Logic: A Higher-Order language for Reasoning about Objects, Inheritance, and Scheme	|	0.0075
+The Dangers of Replication and a Solution	|	0.0074
+Query Optimization for XML	|	0.0072
+Database description with SDM: a semantic database model	|	0.0072
+Selectivity Estimation Without the Attribute Value Independence Assumption	|	0.0071
+2Q: A Low Overhead High Performance Buffer Management Replacement Algorithm	|	0.0071
+The complexity of relational query languages (Extended Abstract)	|	0.0071
+Understanding the New SQL: A Complete Guide	|	0.0071
+Data-Driven Discovery of Quantitative Rules in Relational Databases	|	0.0071
+An Approach to Persistent Programming	|	0.0070
+The Design of Postgres	|	0.0068
+Data model issues for object-oriented applications	|	0.0067
+Telos: representing knowledge about information systems	|	0.0067
+Improved Histograms for Selectivity Estimation of Range Predicates	|	0.0067
+A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.0067
+The EXODUS Optimizer Generator	|	0.0067
+A Taxonomy of Time in Databases	|	0.0067
+Ontology mapping: the state of the art	|	0.0067
+Query Caching and Optimization in Distributed Mediator Systems	|	0.0063
+Relational Completeness of Data Base Sublanguages	|	0.0063
+Efficient Query Evaluation on Probabilistic Databases	|	0.0063
+Query By Example	|	0.0063
+On optimizing an SQL-like nested query	|	0.0063
+Mobile Computing and Databases - A Survey	|	0.0062
+Parallel database systems: the future of high performance database systems	|	0.0058
+Ontology Mapping: The State of the Art	|	0.0058
+Optimal implementation of conjunctive queries in relational data bases	|	0.0056
+System R: A Relational Approach to Data Base Management	|	0.0056
+View Definition and Generalization for Database Integration in a Multidatabase System	|	0.0055
+Data Management for Peer-to-Peer Computing : A Vision	|	0.0051
+Organization and Maintenance of Large Ordered Indexes	|	0.0048
+Optimizing Queries Across Diverse Data Sources	|	0.0047
+Wavelet-Based Histograms for Selectivity Estimation	|	0.0047
+Principles of Database and Knowledge-Base Systems, Volume I	|	0.0047
+Schema Mediation in Peer Data Management Systems	|	0.0045
+A Data Model and Query Language for EXODUS	|	0.0045
+Join processing in relational databases	|	0.0045
+Parallel Database Systems: The Future of High Performance Database Processing1	|	0.0044
+Semantic e-Workflow Composition	|	0.0044
+Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0044
+A comparative analysis of methodologies for database schema integration	|	0.0044
+Lore: a database management system for semistructured data	|	0.0044
+Piazza: data management infrastructure for semantic web applications	|	0.0042
+Knowledge Discovery in Databases: An Attribute-Oriented Approach	|	0.0041
+Your Mediators Need Data Conversion!	|	0.0041
+System R: relational approach to database management	|	0.0041
+Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.0039
+Object identity	|	0.0039
+Multiple-query optimization	|	0.0039
+Foundations of Databases	|	0.0037
+A Survey of Schema-Based Matching Approaches	|	0.0036
+The Gamma Database Machine Project	|	0.0034
+Distance browsing in spatial databases	|	0.0032
+The notions of consistency and predicate locks in a database system	|	0.0032
+Optimizing Queries with Materialized Views	|	0.0030
+Organization and Maintenance of Large Ordered Indices	|	0.0030
+Continuously adaptive continuous queries over streams	|	0.0030
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0030
+Query Optimization in Database Systems	|	0.0029
+Online Aggregation	|	0.0028
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0028
+Query evaluation techniques for large databases	|	0.0026
+The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0026
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0021
+A survey of approaches to automatic schema matching	|	0.0021
+Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0021
+Concurrency Control and Recovery in Database Systems	|	0.0017

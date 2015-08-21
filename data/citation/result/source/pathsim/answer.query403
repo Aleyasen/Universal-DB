@@ -1,0 +1,87 @@
+A Data Model and Query Language for EXODUS	|	0.4444
+Development of an object-oriented DBMS	|	0.4167
+Extending the database relational model to capture more meaning	|	0.3590
+A language facility for designing database-intensive applications	|	0.3571
+GALILEO: a strongly-typed, interactive conceptual language	|	0.3333
+Database description with SDM: a semantic database model	|	0.3226
+Database Description with SDM: A Semantic Database Model	|	0.3200
+Types and persistence in database programming languages	|	0.3077
+Database abstractions: aggregation and generalization	|	0.3030
+System R: A Relational Approach to Data Base Management	|	0.2857
+The functional data model and the data languages DAPLEX	|	0.2857
+Data model issues for object-oriented applications	|	0.2857
+Further Normalization of the Data Base Relational Model	|	0.2581
+System R: relational approach to database management	|	0.2500
+Semantic data models	|	0.2424
+View Definition and Generalization for Database Integration in a Multidatabase System	|	0.2400
+The Postgres Next Generation Database Management System	|	0.2400
+Object and File Management in the EXODUS Extensible Database System	|	0.2353
+The functional data model and the data language DAPLEX	|	0.2308
+An Introduction to Database Systems	|	0.2222
+IFO: a formal semantic database model	|	0.2143
+Semantics and Implementation of Schema Evolution in Object-Oriented Databases	|	0.2105
+F-Logic: A Higher-Order language for Reasoning about Objects, Inheritance, and Scheme	|	0.2105
+Object identity	|	0.2000
+An Approach to Persistent Programming	|	0.2000
+The entity-relationship model---toward a unified view of data	|	0.1935
+The temporal query language TQuel	|	0.1905
+The entity-relationship model: toward a unified view of data	|	0.1905
+Determining Semantic Similarity among Entity Classes from Different Ontologies	|	0.1905
+The Design of Postgres	|	0.1875
+A Taxonomy of Time in Databases	|	0.1818
+The Implementation of Postgres	|	0.1739
+A Relational Model for Large Shared Data Banks	|	0.1739
+Logical Foundations of Object-Oriented and Frame-Based Languages	|	0.1667
+A logical design methodology for relational databases using the extended entity-relationship model	|	0.1538
+Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.1379
+OVID: Design and Implementation of a Video-Object Database System	|	0.1333
+The design and implementation of INGRES	|	0.1333
+Object-Oriented Programming: Themes and Variations	|	0.1250
+Foundations of Databases	|	0.1235
+Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.1212
+The relational model with relation-valued attributes	|	0.1176
+On closed world databases	|	0.1176
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.1149
+Temporal and Real-Time Databases: A Survey	|	0.1111
+A model of authorization for next-generation database systems	|	0.1111
+A homogeneous relational model and query languages for temporal databases	|	0.1111
+The HiPAC project: combining active databases and timing constraints	|	0.1111
+Data Models	|	0.1111
+Incomplete Information in Relational Databases	|	0.1111
+Objects and Views	|	0.1053
+On Closed World Data Bases	|	0.1053
+Remarks on the algebra of non first normal form relations	|	0.1053
+Iris: An Object-Oriented Database Management System	|	0.1053
+A comparative analysis of methodologies for database schema integration	|	0.1026
+Starburst Mid-Flight: As the Dust Clears	|	0.1000
+Logic and Databases: A Deductive Approach	|	0.0976
+Concurrency control performance modeling: alternatives and implications	|	0.0952
+Telos: representing knowledge about information systems	|	0.0909
+The EXODUS Optimizer Generator	|	0.0909
+Storing and querying ordered XML using a relational database system	|	0.0909
+The Theory of Relational Databases	|	0.0909
+A federated architecture for information management	|	0.0909
+Query By Example	|	0.0870
+Operating system support for database management	|	0.0870
+Query Optimization in Database Systems	|	0.0870
+Extended algebra and calculus for nested relational databases	|	0.0870
+Benchmarking Database Systems A Systematic Approach	|	0.0833
+Ode as an Active Database: Constraints and Triggers	|	0.0833
+Notes on database operating systems	|	0.0833
+Semantic and Schematic Similarities Between Database Objects: A Context-Based Approach	|	0.0800
+Universality of data retrieval languages	|	0.0800
+Principles of Database Systems, 2nd Edition	|	0.0769
+An Introduction to Spatial Database Systems	|	0.0769
+Access path selection in a relational database management system	|	0.0741
+Join processing in relational databases	|	0.0741
+Join indices	|	0.0741
+Query-by-Example: A Data Base Language	|	0.0741
+Querying Object-Oriented Databases	|	0.0714
+Query evaluation techniques for large databases	|	0.0714
+Efficient Processing of Spatial Joins Using R-Trees	|	0.0667
+Multiple-query optimization	|	0.0667
+Query Optimization for XML	|	0.0645
+Principles of Database and Knowledge-Base Systems, Volume I	|	0.0526
+The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0500
+Models and issues in data stream systems	|	0.0476
+Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0444

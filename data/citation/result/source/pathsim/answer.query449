@@ -1,0 +1,74 @@
+An Improved Data Stream Summary: The Count-Min Sketch and Its Applications	|	0.5556
+Issues in data stream management	|	0.4848
+Query Processing, Resource Management, and Approximation in a Data Stream Management System	|	0.4000
+What's hot and what's not: tracking most frequent items dynamically	|	0.3333
+Maintaining Stream Statistics over Sliding Windows	|	0.3333
+Finding Frequent Items in Data Streams	|	0.3158
+The CQL continuous query language: semantic foundations and query execution	|	0.3077
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.3030
+Continuous queries over data streams	|	0.2941
+Adaptive filters for continuous queries over distributed data streams	|	0.2857
+Approximate Frequency Counts over Data Streams	|	0.2759
+Random sampling with a reservoir	|	0.2727
+New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.2667
+Multiple-query optimization	|	0.2667
+Wavelet-Based Histograms for Selectivity Estimation	|	0.2500
+Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.2500
+Gigascope: a stream database for network applications	|	0.2500
+TelegraphCQ: Continuous Dataflow Processing for an Uncertain World	|	0.2500
+Continuously adaptive continuous queries over streams	|	0.2424
+Eddies: Continuously Adaptive Query Processing	|	0.2353
+An Adaptive Query Execution System for Data Integration	|	0.2353
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.2353
+NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.2286
+Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.2222
+Approximate Query Processing Using Wavelets	|	0.2222
+Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.2222
+TinyDB: an acquisitional query processing system for sensor networks	|	0.2069
+Load Shedding in a Data Stream Manager	|	0.2000
+Scalable Distributed Stream Processing	|	0.1905
+The design of an acquisitional query processor for sensor networks	|	0.1875
+Online Aggregation	|	0.1818
+Path sharing and predicate evaluation for high-performance XML filtering	|	0.1739
+Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.1667
+Querying the Internet with PIER	|	0.1667
+Monitoring Streams - A New Class of Data Management Applications	|	0.1622
+Aurora: a new model and architecture for data stream management	|	0.1538
+Models and issues in data stream systems	|	0.1429
+Combining Fuzzy Information from Multiple Systems	|	0.1333
+Optimal aggregation algorithms for middleware	|	0.1250
+A framework for clustering evolving data streams	|	0.1176
+Filtering algorithms and implementation for very fast publish/subscribe systems	|	0.1176
+Evaluating Top-k Queries over Web-Accessible Databases	|	0.1111
+Optimal Histograms with Quality Guarantees	|	0.1111
+Evaluating probabilistic queries over imprecise data	|	0.1111
+Optimal Aggregation Algorithms for Middleware	|	0.1111
+Probabilistic Counting Algorithms for Data Base Applications	|	0.1111
+Model-Driven Data Acquisition in Sensor Networks	|	0.1053
+Towards Sensor Database Systems	|	0.1000
+Efficient Algorithms for Mining Outliers from Large Data Sets	|	0.0952
+StatStream: Statistical Monitoring of Thousands of Data Streams in Real Time	|	0.0952
+XRANK: ranked keyword search over XML documents	|	0.0952
+Super-peer-based routing and clustering strategies for RDF-based peer-to-peer networks	|	0.0909
+Efficient Time Series Matching by Wavelets	|	0.0909
+Improved Histograms for Selectivity Estimation of Range Predicates	|	0.0909
+A Taxonomy of Time in Databases	|	0.0909
+Active database systems	|	0.0909
+Srikant: "fast algorithms for mining association rules	|	0.0909
+Efficient Query Evaluation on Probabilistic Databases	|	0.0870
+Bottom-Up Computation of Sparse and Iceberg CUBEs	|	0.0833
+The Architecture Of An Active Data Base Management System	|	0.0833
+The Design of the Borealis Stream Processing Engine	|	0.0833
+Data Management for Peer-to-Peer Computing : A Vision	|	0.0769
+XML-QL: A Query Language for XML	|	0.0769
+Fast Algorithms for Mining Association Rules	|	0.0714
+Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.0690
+Sampling Large Databases for Association Rules	|	0.0690
+An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.0606
+Temporal and Real-Time Databases: A Survey	|	0.0556
+An Effective Hash Based Algorithm for Mining Association Rules	|	0.0513
+Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0500
+Fast Algorithms for Mining Association Rules in Large Databases	|	0.0488
+Fast Subsequence Matching in Time-Series Databases	|	0.0444
+Access path selection in a relational database management system	|	0.0370
+Query evaluation techniques for large databases	|	0.0238

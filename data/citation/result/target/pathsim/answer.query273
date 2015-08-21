@@ -1,0 +1,56 @@
+Optimal Histograms with Quality Guarantees	|	0.2941
+Efficient Filtering of XML Documents with XPath Expressions	|	0.2745
+Accurate Estimation of the Number of Tuples Satisfying a Condition	|	0.2619
+Selectivity Estimation Without the Attribute Value Independence Assumption	|	0.2500
+Improved Histograms for Selectivity Estimation of Range Predicates	|	0.2346
+Computing Iceberg Queries Efficiently	|	0.2099
+On Supporting Containment Queries in Relational Database Management Systems	|	0.1395
+Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.1026
+Human behavior and the principle of least effort	|	0.0652
+Efficient Algorithms for Processing XPath Queries	|	0.0435
+Filtering algorithms and implementation for very fast publish/subscribe systems	|	0.0435
+XML Path Language (XPath) Version 1.0	|	0.0435
+Extensible Markup Language (XML)	|	0.0238
+Path sharing and predicate evaluation for high-performance XML filtering	|	0.0220
+Detecting Changes in XML Documents	|	0.0217
+Approximating block accesses in database organizations	|	0.0217
+Indexing and Querying XML Data for Regular Path Expressions	|	0.0196
+Probabilistic Counting Algorithms for Data Base Applications	|	0.0196
+Extensible Markup Language (XML) 1.0	|	0.0196
+Maintaining Stream Statistics over Sliding Windows	|	0.0196
+extensible markup language (xml) 1	|	0.0156
+Wavelet-Based Histograms for Selectivity Estimation	|	0.0139
+Approximate Query Processing Using Wavelets	|	0.0127
+Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0127
+Storing and querying ordered XML using a relational database system	|	0.0123
+Random sampling with a reservoir	|	0.0123
+Accelerating XPath location steps	|	0.0122
+TIMBER: A native XML database	|	0.0110
+Storing and Querying XML Data using an RDBMS	|	0.0098
+Structural Joins: A Primitive for Efficient XML Query Pattern Matching	|	0.0098
+Quilt: An XML Query Language for Heterogeneous Data Sources	|	0.0088
+Holistic twig joins: optimal XML pattern matching	|	0.0088
+Efficiently Publishing Relational Data as XML Documents	|	0.0079
+A Query Language for XML	|	0.0079
+Aurora: a new model and architecture for data stream management	|	0.0079
+XML-QL: A Query Language for XML	|	0.0079
+The Architecture Of An Active Data Base Management System	|	0.0078
+Hilbert R-tree: An Improved R-tree using Fractals	|	0.0064
+Beyond Market Baskets: Generalizing Association Rules to Correlations	|	0.0058
+New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.0053
+The Lorel Query Language for Semistructured Data	|	0.0048
+Models and issues in data stream systems	|	0.0042
+Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.0037
+Continuous queries over data streams	|	0.0037
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0037
+Online Aggregation	|	0.0035
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0035
+NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0035
+A Query Language and Optimization Techniques for Unstructured Data	|	0.0035
+Access path selection in a relational database management system	|	0.0033
+Monitoring Streams - A New Class of Data Management Applications	|	0.0030
+Principles of Database and Knowledge-Base Systems, Volume I	|	0.0028
+Lore: a database management system for semistructured data	|	0.0026
+An Effective Hash Based Algorithm for Mining Association Rules	|	0.0023
+Fast Algorithms for Mining Association Rules in Large Databases	|	0.0023
+Fast Algorithms for Mining Association Rules	|	0.0009

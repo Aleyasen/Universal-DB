@@ -1,0 +1,55 @@
+The cougar approach to in-network query processing in sensor networks	|	0.5714
+Eddies: Continuously Adaptive Query Processing	|	0.4286
+Adaptive filters for continuous queries over distributed data streams	|	0.4000
+TelegraphCQ: Continuous Dataflow Processing for an Uncertain World	|	0.4000
+Monitoring Streams - A New Class of Data Management Applications	|	0.3871
+Continuously adaptive continuous queries over streams	|	0.3704
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.3704
+The state of the art in distributed query processing	|	0.3636
+An Adaptive Query Execution System for Data Integration	|	0.3571
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.3571
+NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.3448
+Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.3333
+Composite Events for Active Databases: Semantics, Contexts and Detection	|	0.3333
+The design of an acquisitional query processor for sensor networks	|	0.3077
+Aurora: a new model and architecture for data stream management	|	0.3000
+Issues in data stream management	|	0.2963
+Routing Indices For Peer-to-Peer Systems	|	0.2857
+Query Processing, Resource Management, and Approximation in a Data Stream Management System	|	0.2857
+Models and issues in data stream systems	|	0.2778
+TinyDB: an acquisitional query processing system for sensor networks	|	0.2609
+The Design of the Borealis Stream Processing Engine	|	0.2222
+The Postgres Next Generation Database Management System	|	0.2105
+Query Processing in Sensor Networks	|	0.2000
+The CQL continuous query language: semantic foundations and query execution	|	0.2000
+Approximate Query Processing Using Wavelets	|	0.1905
+Parallel Database Systems: The Future of High Performance Database Processing1	|	0.1818
+Complex Queries in DHT-based Peer-to-Peer Networks	|	0.1667
+Evaluating Top-k Queries over Web-Accessible Databases	|	0.1667
+Principles of distributed database systems	|	0.1667
+Maintaining Stream Statistics over Sliding Windows	|	0.1667
+The Gamma Database Machine Project	|	0.1600
+Model-Driven Data Acquisition in Sensor Networks	|	0.1538
+Finding Frequent Items in Data Streams	|	0.1538
+Mariposa: A Wide-Area Distributed Database System	|	0.1429
+Approximate Aggregation Techniques for Sensor Databases	|	0.1429
+Load Shedding in a Data Stream Manager	|	0.1429
+Continuous queries over data streams	|	0.1429
+Scalable Distributed Stream Processing	|	0.1333
+StatStream: Statistical Monitoring of Thousands of Data Streams in Real Time	|	0.1333
+Path sharing and predicate evaluation for high-performance XML filtering	|	0.1176
+Querying the Internet with PIER	|	0.1111
+Parallel database systems: the future of high performance database systems	|	0.1111
+Data Management for Peer-to-Peer Computing : A Vision	|	0.1000
+Optimizing Queries Across Diverse Data Sources	|	0.1000
+Distributed top-k monitoring	|	0.1000
+Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.0952
+Schema Mediation in Peer Data Management Systems	|	0.0952
+Approximate Frequency Counts over Data Streams	|	0.0870
+Access path selection in a relational database management system	|	0.0833
+Multiple-query optimization	|	0.0833
+Online Aggregation	|	0.0741
+Query Caching and Optimization in Distributed Mediator Systems	|	0.0741
+The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0667
+Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0667
+Query evaluation techniques for large databases	|	0.0513

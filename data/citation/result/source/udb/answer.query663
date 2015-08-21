@@ -1,0 +1,59 @@
+Random sampling with a reservoir	|	0.2500
+Mining Sequential Patterns by Pattern-Growth: The PrefixSpan Approach	|	0.2333
+CURE: An Efficient Clustering Algorithm for Large Databases	|	0.1750
+Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases	|	0.1168
+Fundamentals of spatial information systems	|	0.1053
+A framework for clustering evolving data streams	|	0.0800
+Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0777
+Fast Algorithms for Projected Clustering	|	0.0667
+Similarity-Based Queries for Time Series Data	|	0.0556
+Finding Generalized Projected Clusters In High Dimensional Spaces	|	0.0465
+WaveCluster: A Multi-Resolution Clustering Approach for Very Large Spatial Databases	|	0.0400
+OPTICS: Ordering Points To Identify the Clustering Structure	|	0.0333
+Efficient Algorithms for Mining Outliers from Large Data Sets	|	0.0328
+Distance-Based Outliers: Algorithms and Applications	|	0.0278
+STING: A Statistical Information Grid Approach to Spatial Data Mining	|	0.0278
+Efficient Mining of Partial Periodic Patterns in Time Series Database	|	0.0233
+Algorithms for Mining Distance-Based Outliers in Large Datasets	|	0.0196
+Data Preparation for Mining World Wide Web Browsing Patterns	|	0.0196
+Dimensionality Reduction for Fast Similarity Search in Large Time Series Databases	|	0.0196
+Exact Indexing of Dynamic Time Warping	|	0.0167
+Efficient Retrieval of Similar Time Sequences Under Time Warping	|	0.0167
+Improved Histograms for Selectivity Estimation of Range Predicates	|	0.0167
+Srikant: "fast algorithms for mining association rules	|	0.0167
+LOF: Identifying Density-Based Local Outliers	|	0.0164
+Discovering Frequent Closed Itemsets for Association Rules	|	0.0143
+Efficient Data Mining for Path Traversal Patterns	|	0.0143
+Discovery of Spatial Association Rules in Geographic Information Databases	|	0.0143
+Constraint-Based Rule Mining in Large, Dense Databases	|	0.0143
+Fast Time Sequence Indexing for Arbitrary Lp Norms	|	0.0133
+The design & analysis of spatial data structures	|	0.0132
+Efficient Processing of Spatial Joins Using R-Trees	|	0.0119
+Maintenance of Discovered Association Rules in Large Databases: An Incremental Updating Technique	|	0.0108
+Locally Adaptive Dimensionality Reduction for Indexing Large Time Series Databases	|	0.0108
+Discovering Similar Multidimensional Trajectories	|	0.0108
+Efficiently Mining Long Patterns from Databases	|	0.0108
+A New SQL-like Operator for Mining Association Rules	|	0.0094
+The CQL continuous query language: semantic foundations and query execution	|	0.0094
+Wavelet-Based Histograms for Selectivity Estimation	|	0.0081
+Database Mining: A Performance Perspective	|	0.0074
+The Design and Analysis of Spatial Data Structures	|	0.0069
+Mining Sequential Patterns	|	0.0066
+Knowledge Discovery in Databases: An Attribute-Oriented Approach	|	0.0066
+New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.0060
+Optimal Multi-Step k-Nearest Neighbor Search	|	0.0060
+Approximate Frequency Counts over Data Streams	|	0.0059
+Data Mining: An Overview from a Database Perspective	|	0.0059
+Sampling Large Databases for Association Rules	|	0.0054
+Exploratory Mining and Pruning Optimizations of Constrained Association Rules	|	0.0049
+Continuous queries over data streams	|	0.0041
+FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets	|	0.0025
+The R*-tree: an efficient and robust access method for points and rectangles	|	0.0024
+An Effective Hash Based Algorithm for Mining Association Rules	|	0.0024
+Models and issues in data stream systems	|	0.0022
+Efficient Similarity Search In Sequence Databases	|	0.0018
+Fast Subsequence Matching in Time-Series Databases	|	0.0018
+Multidimensional access methods	|	0.0018
+Searching in high-dimensional spaces: Index structures for improving the performance of multimedia databases	|	0.0018
+Mining association rules between sets of items in large databases	|	0.0014
+Fast Algorithms for Mining Association Rules	|	0.0009

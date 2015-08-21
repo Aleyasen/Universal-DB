@@ -1,0 +1,65 @@
+Wrapper generation for semi-structured Internet sources	|	0.5333
+Adding Structure to Unstructured Data	|	0.3750
+Index Structures for Path Expressions	|	0.3750
+Extracting Semistructured Information from the Web	|	0.2667
+Generating Finite-State Transducers for Semi-Structured Data Extraction from the Web	|	0.2667
+Semistructured data	|	0.2609
+Lore: a database management system for semistructured data	|	0.2500
+Database techniques for the World-Wide Web: a survey	|	0.2353
+Extracting Patterns and Relations from the World Wide Web	|	0.2222
+Extensible Markup Language	|	0.2222
+DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.2143
+Wrapper induction: Efficiency and expressiveness	|	0.2105
+Why and Where: A Characterization of Data Provenance	|	0.2105
+A Fast Index for Semistructured Data	|	0.2000
+Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.2000
+A Query Language for XML	|	0.2000
+Simple Fast Algorithms for the Editing Distance Between Trees and Related Problems	|	0.2000
+From Structured Documents to Novel Query Facilities	|	0.1818
+Storing Semistructured Data with STORED	|	0.1818
+Querying Object-Oriented Databases	|	0.1818
+Your Mediators Need Data Conversion!	|	0.1739
+A hierarchical approach to wrapper induction	|	0.1667
+Composite Events for Active Databases: Semantics, Contexts and Detection	|	0.1667
+Query Optimization for XML	|	0.1600
+Wrapper Induction for Information Extraction	|	0.1538
+Change Detection in Hierarchically Structured Information	|	0.1429
+Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.1429
+extensible markup language (xml) 1	|	0.1429
+A brief survey of web data extraction tools	|	0.1333
+Visual Web Information Extraction with Lixto	|	0.1333
+Typechecking for XML transformers	|	0.1333
+From Semistructured Data to XML: Migrating the Lore Data Model and Query Language	|	0.1333
+View Maintenance in a Warehousing Environment	|	0.1333
+Adaptive filters for continuous queries over distributed data streams	|	0.1333
+Data integration: a theoretical perspective	|	0.1250
+Data caching issues in an information retrieval system	|	0.1250
+W3QS: A Query System for the World-Wide Web	|	0.1176
+Querying Heterogeneous Information Sources Using Source Descriptions	|	0.1176
+Path sharing and predicate evaluation for high-performance XML filtering	|	0.1176
+Indexing and Querying XML Data for Regular Path Expressions	|	0.1111
+Maintaining Views Incrementally	|	0.1111
+Extracting structured data from Web pages	|	0.1111
+The Architecture Of An Active Data Base Management System	|	0.1111
+Quilt: An XML Query Language for Heterogeneous Data Sources	|	0.1053
+RQL: a declarative query language for RDF	|	0.1000
+Optimizing Queries Across Diverse Data Sources	|	0.1000
+The CQL continuous query language: semantic foundations and query execution	|	0.1000
+Answering queries using views: A survey	|	0.0976
+On Supporting Containment Queries in Relational Database Management Systems	|	0.0870
+Catching the boat with Strudel: experiences with a Web Site management system	|	0.0870
+TinyDB: an acquisitional query processing system for sensor networks	|	0.0870
+Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.0833
+Multiple-query optimization	|	0.0833
+The design of an acquisitional query processor for sensor networks	|	0.0769
+Continuously adaptive continuous queries over streams	|	0.0741
+Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.0741
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0741
+Issues in data stream management	|	0.0741
+Continuous queries over data streams	|	0.0714
+NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0690
+The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0667
+The Lorel Query Language for Semistructured Data	|	0.0588
+Models and issues in data stream systems	|	0.0556
+Foundations of Databases	|	0.0267
+Query evaluation techniques for large databases	|	0.0256

@@ -1,0 +1,126 @@
+Composite Event Specification in Active Databases: Model & Implementation	|	0.2346
+The HiPAC project: combining active databases and timing constraints	|	0.2081
+Scheduling Real-time Transactions: a Performance Evaluation	|	0.2069
+Active database systems	|	0.1721
+The Architecture Of An Active Data Base Management System	|	0.1651
+Object identity	|	0.1461
+Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.1304
+The notions of consistency and predicate locks in a database system	|	0.1155
+System R: A Relational Approach to Data Base Management	|	0.1097
+System R: relational approach to database management	|	0.0923
+Logic Programming and Databases	|	0.0395
+Nested Transactions: An Approach to Reliable Distributed Computing	|	0.0377
+Real-Time Databases	|	0.0370
+Update semantics of relational views	|	0.0370
+Deriving Production Rules for Constraint Maintainance	|	0.0345
+Scheduling real-time transactions: a performance evaluation	|	0.0345
+Foundations of Databases	|	0.0344
+Composite Events for Active Databases: Semantics, Contexts and Detection	|	0.0247
+GAMMA - A High Performance Dataflow Database Machine	|	0.0230
+Remarks on the algebra of non first normal form relations	|	0.0230
+The Recovery Manager of the System R Database Manager	|	0.0228
+The Postgres Next Generation Database Management System	|	0.0208
+The EXODUS Optimizer Generator	|	0.0180
+Query By Example	|	0.0165
+On optimizing an SQL-like nested query	|	0.0165
+Using Semantic Knowledge for Transaction Processing in Distributed Database	|	0.0165
+The Design of Postgres	|	0.0156
+Efficient locking for concurrent operations on B-trees	|	0.0152
+Database Transaction Models For Advanced Applications	|	0.0149
+Equivalence of Relational Algebra and Relational Calculus Query Languages Having Aggregate Functions	|	0.0149
+Updating and Querying Databases that Track Mobile Units	|	0.0145
+Set-Oriented Production Rules in Relational Database Systems	|	0.0145
+Conceptual Database Design: An Entity-Relationship Approach	|	0.0145
+The Essential Distributed Objects Survival Guide	|	0.0145
+An Evaluation of Buffer Management Strategies for Relational Database Systems	|	0.0139
+Deriving Production Rules for Incremental View Maintenance	|	0.0139
+Negation as Failure	|	0.0132
+Unfounded sets and well-founded semantics for general logic programs	|	0.0132
+The functional data model and the data languages DAPLEX	|	0.0125
+Complex Queries in DHT-based Peer-to-Peer Networks	|	0.0123
+On the power of magic	|	0.0123
+On the decidability of query containment under constraints	|	0.0123
+Magic Sets and Other Strange Ways to Implement Logic Programs	|	0.0123
+Towards a Logical Reconstruction of Relational Database Theory	|	0.0123
+The Theory of Database Concurrency Control	|	0.0123
+Towards a Theory of Declarative Knowledge	|	0.0123
+Foundations of Logic Programming, 2nd Edition	|	0.0123
+On the Desirability of Acyclic Database Schemes	|	0.0123
+ULDBs: Databases with Uncertainty and Lineage	|	0.0123
+Organization and maintenance of large ordered indexes	|	0.0123
+Query-by-Example: A Data Base Language	|	0.0117
+Objects and Views	|	0.0115
+On Closed World Data Bases	|	0.0115
+The serializability of concurrent database updates	|	0.0115
+Relational Completeness of Data Base Sublanguages	|	0.0109
+Change Detection in Hierarchically Structured Information	|	0.0106
+A Majority consensus approach to concurrency control for multiple copy databases	|	0.0106
+F-Logic: A Higher-Order language for Reasoning about Objects, Inheritance, and Scheme	|	0.0105
+IFO: a formal semantic database model	|	0.0099
+DISCOVER: Keyword Search in Relational Databases	|	0.0098
+The complexity of relational query languages (Extended Abstract)	|	0.0098
+A Critique of ANSI SQL Isolation Levels	|	0.0098
+Understanding the New SQL: A Complete Guide	|	0.0098
+Determining Semantic Similarity among Entity Classes from Different Ontologies	|	0.0098
+Concurrency control performance modeling: alternatives and implications	|	0.0098
+An Approach to Persistent Programming	|	0.0097
+Multiple-query optimization	|	0.0091
+Computable Queries for Relational Data Bases	|	0.0090
+On Optimistic Methods for Concurrency Control	|	0.0090
+Using Semi-Joins to Solve Relational Queries	|	0.0090
+Types and persistence in database programming languages	|	0.0085
+Further Normalization of the Data Base Relational Model	|	0.0084
+The Implementation of Postgres	|	0.0083
+Operating system support for database management	|	0.0083
+Principles of transaction-oriented database recovery	|	0.0083
+Computational problems related to the design of normal form relational schemas	|	0.0083
+Concurrency control in advanced database applications	|	0.0082
+The Gamma Database Machine Project	|	0.0078
+Maintaining Views Incrementally	|	0.0076
+Logical Foundations of Object-Oriented and Frame-Based Languages	|	0.0076
+Extracting structured data from Web pages	|	0.0076
+Extending the database relational model to capture more meaning	|	0.0072
+A Relational Model for Large Shared Data Banks	|	0.0070
+Research problems in data warehousing	|	0.0069
+Disjunctive datalog	|	0.0069
+Why and Where: A Characterization of Data Provenance	|	0.0069
+Dependency Structures of Data Base Relationships	|	0.0069
+GALILEO: a strongly-typed, interactive conceptual language	|	0.0069
+Organization and Maintenance of Large Ordered Indices	|	0.0067
+Making Smalltalk a Database System	|	0.0064
+Principles of Database Systems, 2nd Edition	|	0.0064
+Synthesizing third normal form relations from functional dependencies	|	0.0064
+Aurora: a new model and architecture for data stream management	|	0.0064
+Universality of data retrieval languages	|	0.0063
+RQL: a declarative query language for RDF	|	0.0059
+Temporal and Real-Time Databases: A Survey	|	0.0058
+Organization and Maintenance of Large Ordered Indexes	|	0.0058
+Concurrency Control in Distributed Database Systems	|	0.0058
+A logical design methodology for relational databases using the extended entity-relationship model	|	0.0058
+Schema Mediation in Peer Data Management Systems	|	0.0054
+A Data Model and Query Language for EXODUS	|	0.0054
+Querying Object-Oriented Databases	|	0.0054
+The Theory of Relational Databases	|	0.0053
+Principles of Database and Knowledge-Base Systems, Volume I	|	0.0051
+Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.0050
+Complexity of answering queries using materialized views	|	0.0050
+A language facility for designing database-intensive applications	|	0.0049
+The entity-relationship model---toward a unified view of data	|	0.0042
+Database description with SDM: a semantic database model	|	0.0042
+Mediators in the Architecture of Future Information Systems	|	0.0039
+Semantic data models	|	0.0036
+Concurrency Control and Recovery in Database Systems	|	0.0036
+Continuous queries over data streams	|	0.0034
+Access path selection in a relational database management system	|	0.0032
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0031
+NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0031
+Optimal implementation of conjunctive queries in relational data bases	|	0.0031
+Query Optimization in Database Systems	|	0.0030
+Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0029
+Monitoring Streams - A New Class of Data Management Applications	|	0.0027
+A comparative analysis of methodologies for database schema integration	|	0.0024
+Logic and Databases: A Deductive Approach	|	0.0021
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0018
+Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0017
+Answering queries using views: A survey	|	0.0015
+Query evaluation techniques for large databases	|	0.0011

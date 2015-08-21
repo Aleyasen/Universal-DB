@@ -1,0 +1,31 @@
+Combining Fuzzy Information from Multiple Systems	|	0.3889
+Evaluating Top-k Queries over Web-Accessible Databases	|	0.3243
+XRANK: ranked keyword search over XML documents	|	0.2745
+Efficient Query Evaluation on Probabilistic Databases	|	0.2286
+Distributed top-k monitoring	|	0.1653
+Optimal aggregation algorithms for middleware	|	0.1154
+DBXplorer: A System for Keyword-Based Search over Relational Databases	|	0.0667
+XSEarch: A Semantic Search Engine for XML	|	0.0625
+Keyword Searching and Browsing in Databases using BANKS	|	0.0556
+DISCOVER: Keyword Search in Relational Databases	|	0.0392
+Evaluating probabilistic queries over imprecise data	|	0.0333
+What's hot and what's not: tracking most frequent items dynamically	|	0.0333
+Principles of distributed database systems	|	0.0333
+ULDBs: Databases with Uncertainty and Lineage	|	0.0333
+Adaptive filters for continuous queries over distributed data streams	|	0.0328
+Trio: A System for Integrated Management of Data, Accuracy, and Lineage	|	0.0278
+The Management of Probabilistic Data	|	0.0233
+A probabilistic relational algebra for the integration of information retrieval and database systems	|	0.0233
+Finding Frequent Items in Data Streams	|	0.0227
+Storing and querying ordered XML using a relational database system	|	0.0167
+From Structured Documents to Novel Query Facilities	|	0.0074
+Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.0074
+Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.0060
+New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.0060
+Approximate Frequency Counts over Data Streams	|	0.0059
+Continuously adaptive continuous queries over streams	|	0.0040
+Eddies: Continuously Adaptive Query Processing	|	0.0037
+NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0037
+Monitoring Streams - A New Class of Data Management Applications	|	0.0032
+Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0025
+Models and issues in data stream systems	|	0.0022

@@ -1,0 +1,134 @@
+COMA - A System for Flexible Combination of Schema Matching Approaches	|	0.1358
+Generic Schema Matching with Cupid	|	0.1341
+Schema Mapping as Query Discovery	|	0.1329
+Learning to match ontologies on the Semantic Web	|	0.1305
+Translating Web Data	|	0.1261
+Data Cleaning: Problems and Current Approaches	|	0.1208
+Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.1207
+Towards Heterogeneous Multimedia Information Systems: The Garlic Approach	|	0.1181
+PROMPT: Algorithm and Tool for Automated Ontology Merging and Alignment	|	0.1163
+Your Mediators Need Data Conversion!	|	0.1156
+Object Exchange Across Heterogeneous Information Sources	|	0.1134
+Learning to map between ontologies on the semantic web	|	0.1128
+From Structured Documents to Novel Query Facilities	|	0.1121
+SGML handbook	|	0.1080
+A Query Language and Optimization Techniques for Unstructured Data	|	0.0950
+The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0947
+A survey of approaches to automatic schema matching	|	0.0901
+Database techniques for the World-Wide Web: a survey	|	0.0884
+A comparative analysis of methodologies for database schema integration	|	0.0873
+Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0833
+The PROMPT suite: interactive tools for ontology merging and mapping	|	0.0181
+Similarity Flooding: A Versatile Graph Matching Algorithm and Its Application to Schema Matching	|	0.0168
+Don't Scrap It, Wrap It! A Wrapper Architecture for Legacy Data Sources	|	0.0162
+A Survey of Schema-Based Matching Approaches	|	0.0157
+Querying Object-Oriented Databases	|	0.0152
+Catching the boat with Strudel: experiences with a Web Site management system	|	0.0145
+Simlarity Search for Web Services	|	0.0133
+Data Management for Peer-to-Peer Computing : A Vision	|	0.0133
+Ontology Evolution: Not the Same as Schema Evolution	|	0.0130
+Optimizing Queries Across Diverse Data Sources	|	0.0127
+Semantic integration of semistructured and structured data sources	|	0.0126
+Mediators in the Architecture of Future Information Systems	|	0.0125
+Typechecking for XML transformers	|	0.0122
+Wrapper generation for semi-structured Internet sources	|	0.0122
+Interoperability of multiple autonomous databases	|	0.0121
+Adding Structure to Unstructured Data	|	0.0118
+Ontology mapping: the state of the art	|	0.0118
+Piazza: data management infrastructure for semantic web applications	|	0.0116
+Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.0110
+Ontology Mapping: The State of the Art	|	0.0109
+Wrapper induction: Efficiency and expressiveness	|	0.0104
+A Query Language for XML	|	0.0100
+Ontologies - a silver bullet for knowledge management and electronic commerce	|	0.0094
+Ontology Learning for the Semantic Web	|	0.0092
+Trust Management for the Semantic Web	|	0.0091
+Applying Model Management to Classical Meta Data Problems	|	0.0091
+Data integration: a theoretical perspective	|	0.0089
+Enhanced hypertext categorization using hyperlinks	|	0.0089
+Semantic integration: a survey of ontology-based approaches	|	0.0087
+Data exchange: semantics and query answering	|	0.0087
+DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0086
+Answering XML Queries over Heterogeneous Data Sources	|	0.0084
+An Information-Theoretic Definition of Similarity	|	0.0084
+A Theory of Attribute Equivalence in Databases with Application to Schema Integration	|	0.0084
+Extracting Semistructured Information from the Web	|	0.0081
+Answering Queries Using Templates with Binding Patterns	|	0.0081
+W3QS: A Query System for the World-Wide Web	|	0.0075
+Extended algebra and calculus for nested relational databases	|	0.0075
+Extracting structured data from Web pages	|	0.0072
+Query Caching and Optimization in Distributed Mediator Systems	|	0.0071
+Why and Where: A Characterization of Data Provenance	|	0.0069
+View Definition and Generalization for Database Integration in a Multidatabase System	|	0.0069
+Index Structures for Path Expressions	|	0.0069
+An Adaptive Query Execution System for Data Integration	|	0.0068
+Answering recursive queries using views	|	0.0066
+RQL: a declarative query language for RDF	|	0.0064
+Schema Mediation in Peer Data Management Systems	|	0.0061
+Storing Semistructured Data with STORED	|	0.0061
+Semantic e-Workflow Composition	|	0.0061
+Semistructured data	|	0.0058
+Complexity of answering queries using materialized views	|	0.0058
+The Lorel Query Language for Semistructured Data	|	0.0051
+The Harvest Information Discovery and Access System	|	0.0047
+The ObjectStore database system	|	0.0047
+The Ontolin-gua Server: A Tool for Collaborative Ontology Construction	|	0.0047
+Measuring Similarity between Ontologies	|	0.0046
+Combining and relating ontologies: an analysis of problems and solutions	|	0.0046
+Simple Fast Algorithms for the Editing Distance Between Trees and Related Problems	|	0.0046
+InfoSleuth: agent-based semantic integration of information in open and dynamic environments	|	0.0045
+Optimizing Queries with Materialized Views	|	0.0045
+Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.0045
+Optimal aggregation algorithms for middleware	|	0.0045
+Crawling the Hidden Web	|	0.0044
+FCA-MERGE: Bottom-Up Merging of Ontologies	|	0.0044
+A hierarchical approach to wrapper induction	|	0.0044
+Distributed Databases: Principles and Systems	|	0.0044
+Classifying Schematic and Data Heterogeneity in Multidatabase Systems	|	0.0043
+Wrapper Induction for Information Extraction	|	0.0043
+Development and application of a metric on semantic nets	|	0.0043
+XRel: a path-based approach to storage and retrieval of XML documents using relational databases	|	0.0043
+Evaluating Top-k Queries over Web-Accessible Databases	|	0.0043
+Information sharing across private databases	|	0.0042
+XWRAP: An XML-Enabled Wrapper Construction System for Web Information Sources	|	0.0042
+Querying the World Wide Web	|	0.0042
+A brief survey of web data extraction tools	|	0.0041
+From Semistructured Data to XML: Migrating the Lore Data Model and Query Language	|	0.0041
+The entity-relationship model: toward a unified view of data	|	0.0041
+XRANK: ranked keyword search over XML documents	|	0.0041
+The Ontolingua Server: a tool for collaborative ontology construction	|	0.0041
+Super-peer-based routing and clustering strategies for RDF-based peer-to-peer networks	|	0.0039
+Retrieving and Integrating Data from Multiple Information Sources	|	0.0039
+Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases	|	0.0038
+Answering queries using views: A survey	|	0.0037
+OBSERVER: An Approach for Query Processing in Global Information Systems Based on Interoperation Across Pre-Existing Ontologies	|	0.0036
+Logical Foundations of Object-Oriented and Frame-Based Languages	|	0.0036
+Lore: a database management system for semistructured data	|	0.0036
+Research problems in data warehousing	|	0.0035
+Query Reformulation for Dynamic Information Integration	|	0.0035
+Data Model and Query Evaluation in Global Information Systems	|	0.0035
+Semantic and Schematic Similarities Between Database Objects: A Context-Based Approach	|	0.0035
+Database Description with SDM: A Semantic Database Model	|	0.0035
+GALILEO: a strongly-typed, interactive conceptual language	|	0.0035
+A Fast Index for Semistructured Data	|	0.0033
+Principles of Database Systems, 2nd Edition	|	0.0033
+Synthesizing third normal form relations from functional dependencies	|	0.0033
+The functional data model and the data language DAPLEX	|	0.0033
+Query-by-Example: A Data Base Language	|	0.0032
+IFO: a formal semantic database model	|	0.0029
+A language facility for designing database-intensive applications	|	0.0029
+Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0027
+Query Optimization for XML	|	0.0026
+The entity-relationship model---toward a unified view of data	|	0.0026
+Database description with SDM: a semantic database model	|	0.0026
+An overview of data warehousing and OLAP technology	|	0.0026
+Database abstractions: aggregation and generalization	|	0.0024
+An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.0022
+Eddies: Continuously Adaptive Query Processing	|	0.0022
+Optimal implementation of conjunctive queries in relational data bases	|	0.0022
+The functional data model and the data languages DAPLEX	|	0.0022
+Mining Generalized Association Rules	|	0.0021
+Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0021
+The Theory of Relational Databases	|	0.0014
+Foundations of Databases	|	0.0004
+Query evaluation techniques for large databases	|	0.0004

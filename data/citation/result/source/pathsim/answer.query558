@@ -1,0 +1,57 @@
+Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.4444
+Scalable Distributed Stream Processing	|	0.4000
+Gigascope: a stream database for network applications	|	0.4000
+The Design of the Borealis Stream Processing Engine	|	0.3333
+Maintaining Stream Statistics over Sliding Windows	|	0.3333
+Monitoring Streams - A New Class of Data Management Applications	|	0.3226
+Issues in data stream management	|	0.2963
+NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.2759
+StatStream: Statistical Monitoring of Thousands of Data Streams in Real Time	|	0.2667
+Adaptive filters for continuous queries over distributed data streams	|	0.2667
+Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.2609
+The design of an acquisitional query processor for sensor networks	|	0.2308
+Continuously adaptive continuous queries over streams	|	0.2222
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.2222
+Models and issues in data stream systems	|	0.2222
+Eddies: Continuously Adaptive Query Processing	|	0.2143
+Continuous queries over data streams	|	0.2143
+Query Processing in Sensor Networks	|	0.2000
+Distributed top-k monitoring	|	0.2000
+Aurora: a new model and architecture for data stream management	|	0.2000
+Providing olap (on-line analytical processing) to user-analysts: an it mandate	|	0.2000
+The CQL continuous query language: semantic foundations and query execution	|	0.2000
+Approximate Query Processing Using Wavelets	|	0.1905
+Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.1905
+Approximate Frequency Counts over Data Streams	|	0.1739
+Complex Queries in DHT-based Peer-to-Peer Networks	|	0.1667
+New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.1667
+An Improved Data Stream Summary: The Count-Min Sketch and Its Applications	|	0.1667
+The Dangers of Replication and a Solution	|	0.1667
+Model-Driven Data Acquisition in Sensor Networks	|	0.1538
+Finding Frequent Items in Data Streams	|	0.1538
+Online Aggregation	|	0.1481
+Mariposa: A Wide-Area Distributed Database System	|	0.1429
+The cougar approach to in-network query processing in sensor networks	|	0.1429
+An adaptive data replication algorithm	|	0.1429
+Aggregate-Query Processing in Data Warehousing Environments	|	0.1429
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.1429
+Towards Sensor Database Systems	|	0.1429
+Query Processing, Resource Management, and Approximation in a Data Stream Management System	|	0.1429
+Temporal and Real-Time Databases: A Survey	|	0.1333
+Efficient Time Series Matching by Wavelets	|	0.1250
+Computing Iceberg Queries Efficiently	|	0.1250
+Active database systems	|	0.1250
+Random sampling with a reservoir	|	0.1250
+Maintaining Views Incrementally	|	0.1111
+Wavelet-Based Histograms for Selectivity Estimation	|	0.1111
+Parallel database systems: the future of high performance database systems	|	0.1111
+Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Total	|	0.1053
+Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.0952
+Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.0909
+Parallel Database Systems: The Future of High Performance Database Processing1	|	0.0909
+TinyDB: an acquisitional query processing system for sensor networks	|	0.0870
+Multiple-query optimization	|	0.0833
+Exploratory Mining and Pruning Optimizations of Constrained Association Rules	|	0.0769
+An Adaptive Query Execution System for Data Integration	|	0.0714
+Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0667
+Access path selection in a relational database management system	|	0.0417

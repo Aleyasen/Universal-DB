@@ -1,0 +1,105 @@
+Nested Transactions: An Approach to Reliable Distributed Computing	|	0.3750
+The Theory of Database Concurrency Control	|	0.2254
+Using Semantic Knowledge for Transaction Processing in Distributed Database	|	0.2252
+Notes on database operating systems	|	0.1885
+Concurrency Control in Distributed Database Systems	|	0.1863
+Notes on Data Base Operating Systems	|	0.1510
+The notions of consistency and predicate locks in a database system	|	0.1236
+Concurrency Control and Recovery in Database Systems	|	0.0851
+The serializability of concurrent database updates	|	0.0519
+Principles of transaction-oriented database recovery	|	0.0450
+A federated architecture for information management	|	0.0446
+Concurrency control performance modeling: alternatives and implications	|	0.0435
+Nonblocking commit protocols	|	0.0423
+On Optimistic Methods for Concurrency Control	|	0.0396
+Active database systems	|	0.0357
+A Majority consensus approach to concurrency control for multiple copy databases	|	0.0357
+The Recovery Manager of the System R Database Manager	|	0.0329
+A Critique of ANSI SQL Isolation Levels	|	0.0326
+Consistency in Partitioned Networks	|	0.0323
+Query evaluation techniques for large databases	|	0.0318
+A principle for resilient sharing of distributed resources	|	0.0303
+Real-Time Databases	|	0.0282
+The Architecture Of An Active Data Base Management System	|	0.0271
+Scheduling Real-time Transactions: a Performance Evaluation	|	0.0260
+Scheduling real-time transactions: a performance evaluation	|	0.0260
+Data Placement In Bubba	|	0.0246
+Bigtable: A Distributed Storage System for Structured Data	|	0.0199
+The Interdisciplinary Study of Coordination	|	0.0198
+Principles of database buffer management	|	0.0198
+Operating system support for database management	|	0.0180
+ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging	|	0.0179
+Impossibility of Distributed Consensus with One Faulty Process	|	0.0175
+Middleware: a model for distributed system services	|	0.0169
+On the Computation of Multidimensional Aggregates	|	0.0161
+Object and File Management in the EXODUS Extensible Database System	|	0.0152
+The relational model with relation-valued attributes	|	0.0142
+Complex Queries in DHT-based Peer-to-Peer Networks	|	0.0141
+The Skyline Operator	|	0.0141
+Distributed Databases: Principles and Systems	|	0.0141
+Transaction Processing: Concepts and Techniques	|	0.0141
+Principles of Distributed Database Systems	|	0.0141
+Principles of distributed database systems	|	0.0141
+Security-Control Methods for Statistical Databases: A Comparative Study	|	0.0130
+Join processing in database systems with large main memories	|	0.0130
+The Gamma Database Machine Project	|	0.0121
+An adaptive data replication algorithm	|	0.0119
+Aggregate-Query Processing in Data Warehousing Environments	|	0.0119
+Disk Striping	|	0.0119
+The Dangers of Replication and a Solution	|	0.0116
+C-Store: A Column-oriented DBMS	|	0.0109
+Don't Scrap It, Wrap It! A Wrapper Architecture for Legacy Data Sources	|	0.0108
+A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.0099
+The EXODUS Optimizer Generator	|	0.0099
+The Case for Shared Nothing	|	0.0099
+The Implementation of Postgres	|	0.0090
+Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals	|	0.0090
+Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases	|	0.0090
+Linear Hashing: A New Tool for File and Table Addressing	|	0.0090
+Quad Trees: A Data Structure for Retrieval on Composite Keys	|	0.0090
+Extended algebra and calculus for nested relational databases	|	0.0090
+Ode as an Active Database: Constraints and Triggers	|	0.0082
+Querying the Internet with PIER	|	0.0082
+Access methods for text	|	0.0082
+Efficient locking for concurrent operations on B-trees	|	0.0082
+Parallel database systems: the future of high performance database systems	|	0.0082
+Structural Joins: A Primitive for Efficient XML Query Pattern Matching	|	0.0082
+An Evaluation of Buffer Management Strategies for Relational Database Systems	|	0.0075
+Holistic twig joins: optimal XML pattern matching	|	0.0075
+A Relational Model for Large Shared Data Banks	|	0.0072
+Organization and Maintenance of Large Ordered Indices	|	0.0070
+The Ubiquitous B-Tree	|	0.0070
+Principles of Database Systems, 2nd Edition	|	0.0068
+The functional data model and the data language DAPLEX	|	0.0068
+Organization and Maintenance of Large Ordered Indexes	|	0.0062
+A logical design methodology for relational databases using the extended entity-relationship model	|	0.0062
+Temporal and Real-Time Databases: A Survey	|	0.0060
+Join indices	|	0.0057
+Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.0057
+Parallel Database Systems: The Future of High Performance Database Processing1	|	0.0057
+Interoperability of multiple autonomous databases	|	0.0057
+The Quadtree and Related Hierarchical Data Structures	|	0.0057
+Query Optimization in Database Systems	|	0.0046
+Query Optimization for XML	|	0.0044
+The entity-relationship model---toward a unified view of data	|	0.0044
+The Grid File: An Adaptable, Symmetric Multi-Key File Structure	|	0.0041
+Semantic data models	|	0.0038
+An Adaptive Query Execution System for Data Integration	|	0.0035
+Continuous queries over data streams	|	0.0035
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0035
+System R: A Relational Approach to Data Base Management	|	0.0032
+The functional data model and the data languages DAPLEX	|	0.0032
+The Grid File: An Adaptable, Symmetric Multikey File Structure	|	0.0026
+A comparative analysis of methodologies for database schema integration	|	0.0025
+Lore: a database management system for semistructured data	|	0.0025
+The Lorel Query Language for Semistructured Data	|	0.0023
+The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0023
+System R: relational approach to database management	|	0.0023
+Logic and Databases: A Deductive Approach	|	0.0022
+Types and persistence in database programming languages	|	0.0022
+The Theory of Relational Databases	|	0.0018
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0018
+Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0017
+Foundations of Databases	|	0.0012
+The R*-tree: an efficient and robust access method for points and rectangles	|	0.0011
+Access path selection in a relational database management system	|	0.0011

@@ -1,0 +1,148 @@
+Starburst Mid-Flight: As the Dust Clears	|	0.3529
+Data model issues for object-oriented applications	|	0.3333
+Operating system support for database management	|	0.3000
+The relational model with relation-valued attributes	|	0.2857
+The Postgres Next Generation Database Management System	|	0.2727
+Composite Event Specification in Active Databases: Model & Implementation	|	0.2667
+A Data Model and Query Language for EXODUS	|	0.2500
+Mariposa: A Wide-Area Distributed Database System	|	0.2353
+Object identity	|	0.2222
+Understanding the New SQL: A Complete Guide	|	0.2222
+A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.2105
+On Optimistic Methods for Concurrency Control	|	0.2105
+The EXODUS Optimizer Generator	|	0.2105
+Principles of transaction-oriented database recovery	|	0.2000
+Development of an object-oriented DBMS	|	0.1905
+The Architecture Of An Active Data Base Management System	|	0.1905
+System R: A Relational Approach to Data Base Management	|	0.1875
+The functional data model and the data languages DAPLEX	|	0.1875
+An Evaluation of Buffer Management Strategies for Relational Database Systems	|	0.1818
+Database Transaction Models For Advanced Applications	|	0.1818
+Making Smalltalk a Database System	|	0.1739
+An Introduction to Spatial Database Systems	|	0.1739
+Conceptual Database Design: An Entity-Relationship Approach	|	0.1667
+Introduction to Object-Oriented Databases	|	0.1667
+Types and persistence in database programming languages	|	0.1667
+Join indices	|	0.1667
+Extending object-oriented systems with roles	|	0.1667
+Capturing the Uncertainty of Moving-Object Representations	|	0.1667
+The design and implementation of INGRES	|	0.1667
+Temporal Databases	|	0.1667
+System R: relational approach to database management	|	0.1622
+A language facility for designing database-intensive applications	|	0.1600
+The oo7 Benchmark	|	0.1538
+Object-Oriented Programming: Themes and Variations	|	0.1538
+Consistency in Partitioned Networks	|	0.1538
+On the Computation of Multidimensional Aggregates	|	0.1538
+The Gamma Database Machine Project	|	0.1429
+Logic Programming and Databases	|	0.1429
+The entity-relationship model---toward a unified view of data	|	0.1429
+Applying Model Management to Classical Meta Data Problems	|	0.1429
+Object and File Management in the EXODUS Extensible Database System	|	0.1429
+The Design of Postgres	|	0.1379
+Query Processing in Spatial Network Databases	|	0.1333
+Complex Queries in DHT-based Peer-to-Peer Networks	|	0.1333
+Real-Time Databases	|	0.1333
+The Skyline Operator	|	0.1333
+Composite Events for Active Databases: Semantics, Contexts and Detection	|	0.1333
+Transaction Processing: Concepts and Techniques	|	0.1333
+Principles of Distributed Database Systems	|	0.1333
+Semantic data models	|	0.1333
+A foundation for representing and querying moving objects	|	0.1333
+The HiPAC project: combining active databases and timing constraints	|	0.1333
+Principles of distributed database systems	|	0.1333
+Data Models	|	0.1333
+Continuous queries over data streams	|	0.1290
+GAMMA - A High Performance Dataflow Database Machine	|	0.1250
+Deriving Production Rules for Constraint Maintainance	|	0.1250
+Scheduling Real-time Transactions: a Performance Evaluation	|	0.1250
+Security-Control Methods for Statistical Databases: A Comparative Study	|	0.1250
+Join processing in database systems with large main memories	|	0.1250
+Scheduling real-time transactions: a performance evaluation	|	0.1250
+Iris: An Object-Oriented Database Management System	|	0.1250
+Change Detection in Hierarchically Structured Information	|	0.1176
+Aggregate-Query Processing in Data Warehousing Environments	|	0.1176
+Disk Striping	|	0.1176
+Don't Scrap It, Wrap It! A Wrapper Architecture for Legacy Data Sources	|	0.1176
+Lore: a database management system for semistructured data	|	0.1143
+The temporal query language TQuel	|	0.1111
+An effective way to represent quadtrees	|	0.1111
+Extending the database relational model to capture more meaning	|	0.1111
+Concurrency control performance modeling: alternatives and implications	|	0.1111
+C-Store: A Column-oriented DBMS	|	0.1111
+The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.1081
+Telos: representing knowledge about information systems	|	0.1053
+A Taxonomy of Time in Databases	|	0.1053
+The Case for Shared Nothing	|	0.1053
+Active database systems	|	0.1053
+Concurrency control in advanced database applications	|	0.1053
+Principles of database buffer management	|	0.1053
+Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals	|	0.1000
+Discovery of Spatial Association Rules in Geographic Information Databases	|	0.1000
+Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases	|	0.1000
+Linear Hashing: A New Tool for File and Table Addressing	|	0.1000
+Query By Example	|	0.1000
+Quad Trees: A Data Structure for Retrieval on Composite Keys	|	0.1000
+The Recovery Manager of the System R Database Manager	|	0.1000
+Extended algebra and calculus for nested relational databases	|	0.1000
+Concurrency Control and Recovery in Database Systems	|	0.0976
+Benchmarking Database Systems A Systematic Approach	|	0.0952
+Ode as an Active Database: Constraints and Triggers	|	0.0952
+Logical Foundations of Object-Oriented and Frame-Based Languages	|	0.0952
+Partition Based Spatial-Merge Join	|	0.0952
+Querying the Internet with PIER	|	0.0952
+Data Placement In Bubba	|	0.0952
+Access methods for text	|	0.0952
+Parallel database systems: the future of high performance database systems	|	0.0952
+Structural Joins: A Primitive for Efficient XML Query Pattern Matching	|	0.0952
+Research problems in data warehousing	|	0.0909
+Holistic twig joins: optimal XML pattern matching	|	0.0909
+Database Description with SDM: A Semantic Database Model	|	0.0909
+A logical design methodology for relational databases using the extended entity-relationship model	|	0.0870
+Aurora: a new model and architecture for data stream management	|	0.0870
+The functional data model and the data language DAPLEX	|	0.0870
+The CQL continuous query language: semantic foundations and query execution	|	0.0870
+Organization and Maintenance of Large Ordered Indexes	|	0.0833
+Concurrency Control in Distributed Database Systems	|	0.0833
+Query-by-Example: A Data Base Language	|	0.0833
+The R*-tree: an efficient and robust access method for points and rectangles	|	0.0816
+Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.0800
+Parallel Database Systems: The Future of High Performance Database Processing1	|	0.0800
+A class of data structures for associative searching	|	0.0800
+Interoperability of multiple autonomous databases	|	0.0800
+The Quadtree and Related Hierarchical Data Structures	|	0.0800
+Access path selection in a relational database management system	|	0.0784
+TinyDB: an acquisitional query processing system for sensor networks	|	0.0769
+The design & analysis of spatial data structures	|	0.0769
+Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases	|	0.0741
+Multiple-query optimization	|	0.0741
+Query Optimization for XML	|	0.0714
+Spatial Query Processing in an Object-Oriented Database System	|	0.0714
+Database description with SDM: a semantic database model	|	0.0714
+The TV-Tree: An Index Structure for High-Dimensional Data	|	0.0690
+The Grid File: An Adaptable, Symmetric Multi-Key File Structure	|	0.0690
+The design of an acquisitional query processor for sensor networks	|	0.0690
+The notions of consistency and predicate locks in a database system	|	0.0690
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0667
+Database abstractions: aggregation and generalization	|	0.0667
+Relational Completeness of Data Base Sublanguages	|	0.0667
+An Adaptive Query Execution System for Data Integration	|	0.0645
+Organization and Maintenance of Large Ordered Indices	|	0.0645
+The Ubiquitous B-Tree	|	0.0645
+Temporal and Real-Time Databases: A Survey	|	0.0606
+The Design and Analysis of Spatial Data Structures	|	0.0606
+Monitoring Streams - A New Class of Data Management Applications	|	0.0588
+Principles of Database and Knowledge-Base Systems, Volume I	|	0.0571
+The Grid File: An Adaptable, Symmetric Multikey File Structure	|	0.0571
+FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets	|	0.0556
+A comparative analysis of methodologies for database schema integration	|	0.0556
+Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0541
+The Lorel Query Language for Semistructured Data	|	0.0541
+Logic and Databases: A Deductive Approach	|	0.0526
+Foundations of Databases	|	0.0513
+The Theory of Relational Databases	|	0.0488
+Fast Subsequence Matching in Time-Series Databases	|	0.0476
+Multidimensional access methods	|	0.0476
+Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0476
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0476
+Query Optimization in Database Systems	|	0.0465

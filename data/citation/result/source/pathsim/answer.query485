@@ -1,0 +1,43 @@
+Pig latin: a not-so-foreign language for data processing	|	0.4000
+Model-Driven Data Acquisition in Sensor Networks	|	0.3077
+An Array-Based Algorithm for Simultaneous Multidimensional Aggregates	|	0.2667
+Data Preparation for Mining World Wide Web Browsing Patterns	|	0.2667
+Understanding the New SQL: A Complete Guide	|	0.2667
+Online Aggregation	|	0.2222
+Query Processing in Sensor Networks	|	0.2000
+On the Computation of Multidimensional Aggregates	|	0.2000
+The state of the art in distributed query processing	|	0.1818
+New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.1667
+Modeling Multidimensional Databases	|	0.1667
+Composite Events for Active Databases: Semantics, Contexts and Detection	|	0.1667
+Evaluating probabilistic queries over imprecise data	|	0.1667
+Principles of Distributed Database Systems	|	0.1667
+An overview of data warehousing and OLAP technology	|	0.1600
+The design of an acquisitional query processor for sensor networks	|	0.1538
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.1481
+Issues in data stream management	|	0.1481
+Routing Indices For Peer-to-Peer Systems	|	0.1429
+The cougar approach to in-network query processing in sensor networks	|	0.1429
+Eddies: Continuously Adaptive Query Processing	|	0.1429
+Index Selection for OLAP	|	0.1429
+Towards Sensor Database Systems	|	0.1429
+Computing Iceberg Queries Efficiently	|	0.1250
+Wavelet-Based Histograms for Selectivity Estimation	|	0.1111
+Bottom-Up Computation of Sparse and Iceberg CUBEs	|	0.1111
+Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.1111
+Incognito: efficient full-domain K-anonymity	|	0.1111
+The Design of the Borealis Stream Processing Engine	|	0.1111
+The Postgres Next Generation Database Management System	|	0.1053
+A New SQL-like Operator for Mining Association Rules	|	0.1000
+Answering queries using views: A survey	|	0.0976
+Approximate Query Processing Using Wavelets	|	0.0952
+Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0952
+Beyond Market Baskets: Generalizing Association Rules to Correlations	|	0.0870
+TinyDB: an acquisitional query processing system for sensor networks	|	0.0870
+Continuously adaptive continuous queries over streams	|	0.0741
+An Adaptive Query Execution System for Data Integration	|	0.0714
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0714
+NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0690
+Monitoring Streams - A New Class of Data Management Applications	|	0.0645
+Query evaluation techniques for large databases	|	0.0513
+Access path selection in a relational database management system	|	0.0417

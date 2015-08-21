@@ -1,0 +1,34 @@
+Data quality in context	|	0.5556
+Impossibility of Distributed Consensus with One Faulty Process	|	0.2500
+Beyond Accuracy: What Data Quality Means to Data Consumers	|	0.1667
+Anchoring data quality dimensions in ontological foundations	|	0.1111
+Consistency in Partitioned Networks	|	0.1111
+A principle for resilient sharing of distributed resources	|	0.0769
+Concurrency Control and Recovery in Database Systems	|	0.0661
+Real-Time Databases	|	0.0556
+Nonblocking commit protocols	|	0.0556
+The Theory of Database Concurrency Control	|	0.0556
+Distributed Databases: Principles and Systems	|	0.0556
+The serializability of concurrent database updates	|	0.0417
+An adaptive data replication algorithm	|	0.0323
+A Majority consensus approach to concurrency control for multiple copy databases	|	0.0323
+The Dangers of Replication and a Solution	|	0.0303
+A Critique of ANSI SQL Isolation Levels	|	0.0256
+Principles of database buffer management	|	0.0208
+Operating system support for database management	|	0.0172
+Principles of transaction-oriented database recovery	|	0.0172
+Using Semantic Knowledge for Transaction Processing in Distributed Database	|	0.0172
+Concurrency control in advanced database applications	|	0.0169
+ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging	|	0.0169
+The Recovery Manager of the System R Database Manager	|	0.0146
+Efficient locking for concurrent operations on B-trees	|	0.0145
+Principles of Database Systems, 2nd Edition	|	0.0106
+Concurrency Control in Distributed Database Systems	|	0.0093
+Notes on Data Base Operating Systems	|	0.0072
+The notions of consistency and predicate locks in a database system	|	0.0047
+Organization and Maintenance of Large Ordered Indices	|	0.0043
+The Ubiquitous B-Tree	|	0.0043
+Temporal and Real-Time Databases: A Survey	|	0.0036
+Foundations of Databases	|	0.0004
+Query evaluation techniques for large databases	|	0.0004
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0004

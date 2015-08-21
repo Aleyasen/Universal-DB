@@ -1,0 +1,72 @@
+Semantic Data Caching and Replacement	|	0.4000
+Optimal implementation of conjunctive queries in relational data bases	|	0.3571
+Aggregate-Query Processing in Data Warehousing Environments	|	0.3077
+The design and implementation of INGRES	|	0.2500
+Dependency Structures of Data Base Relationships	|	0.2222
+Logic-based approach to semantic query optimization	|	0.2222
+An introduction to data base systems	|	0.2222
+Answering recursive queries using views	|	0.2105
+Negation as Failure	|	0.2000
+On closed world databases	|	0.2000
+Principles of Database and Knowledge-Base Systems, Volume I	|	0.1935
+Description Logics in Data Management	|	0.1818
+Towards a Logical Reconstruction of Relational Database Theory	|	0.1818
+On the Desirability of Acyclic Database Schemes	|	0.1818
+Data on the web	|	0.1818
+Pnnc:ples of database systems	|	0.1818
+Complexity of answering queries using materialized views	|	0.1818
+On Closed World Data Bases	|	0.1667
+Data exchange: semantics and query answering	|	0.1667
+Query Caching and Optimization in Distributed Mediator Systems	|	0.1538
+Optimizing Queries with Materialized Views	|	0.1538
+Index Selection for OLAP	|	0.1538
+Relational Completeness of Data Base Sublanguages	|	0.1538
+Object Exchange Across Heterogeneous Information Sources	|	0.1538
+Answering Queries Using Templates with Binding Patterns	|	0.1429
+Computable Queries for Relational Data Bases	|	0.1429
+Data-Driven Discovery of Quantitative Rules in Relational Databases	|	0.1429
+Pmnczples of database and knowledge- base systems	|	0.1429
+Telos: representing knowledge about information systems	|	0.1333
+Data integration: a theoretical perspective	|	0.1290
+Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals	|	0.1250
+Database techniques for the World-Wide Web: a survey	|	0.1212
+Querying Heterogeneous Information Sources Using Source Descriptions	|	0.1212
+Storing and Querying XML Data using an RDBMS	|	0.1176
+Maintaining Views Incrementally	|	0.1176
+Quilt: An XML Query Language for Heterogeneous Data Sources	|	0.1111
+Query Reformulation for Dynamic Information Integration	|	0.1111
+Data Model and Query Evaluation in Global Information Systems	|	0.1111
+Universality of data retrieval languages	|	0.1111
+Principles of database and knowledge-base systems	|	0.1111
+The Theory of Relational Databases	|	0.1081
+Data Management for Peer-to-Peer Computing : A Vision	|	0.1053
+Principles of Database Systems, 2nd Edition	|	0.1053
+A Query Language for XML	|	0.1053
+Synthesizing third normal form relations from functional dependencies	|	0.1053
+Schema Mediation in Peer Data Management Systems	|	0.1000
+An Introduction to Database Systems	|	0.1000
+Join processing in relational databases	|	0.1000
+Join indices	|	0.1000
+Query-by-Example: A Data Base Language	|	0.1000
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.1000
+Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.0952
+Storing Semistructured Data with STORED	|	0.0952
+Piazza: data management infrastructure for semantic web applications	|	0.0952
+Knowledge Discovery in Databases: An Attribute-Oriented Approach	|	0.0909
+Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.0909
+Semistructured data	|	0.0909
+Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.0909
+Access path selection in a relational database management system	|	0.0851
+An overview of data warehousing and OLAP technology	|	0.0833
+Foundations of Databases	|	0.0811
+Mediators in the Architecture of Future Information Systems	|	0.0800
+Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.0741
+An Adaptive Query Execution System for Data Integration	|	0.0741
+A Query Language and Optimization Techniques for Unstructured Data	|	0.0714
+The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0690
+Types and persistence in database programming languages	|	0.0625
+Extending the database relational model to capture more meaning	|	0.0625
+The Lorel Query Language for Semistructured Data	|	0.0606
+Query Optimization in Database Systems	|	0.0513
+Answering queries using views: A survey	|	0.0500
+Query evaluation techniques for large databases	|	0.0260

@@ -1,0 +1,54 @@
+The Theory of Database Concurrency Control	|	0.4000
+An adaptive data replication algorithm	|	0.3333
+Impossibility of Distributed Consensus with One Faulty Process	|	0.3333
+A Critique of ANSI SQL Isolation Levels	|	0.3077
+Middleware: a model for distributed system services	|	0.2857
+Main Memory Database Systems: An Overview	|	0.2857
+Consistency in Partitioned Networks	|	0.2500
+Semantic Data Caching and Replacement	|	0.2222
+A principle for resilient sharing of distributed resources	|	0.2222
+Balancing Push and Pull for Data Broadcast	|	0.2000
+Real-Time Databases	|	0.2000
+Nonblocking commit protocols	|	0.2000
+Distributed Databases: Principles and Systems	|	0.2000
+Transaction Processing: Concepts and Techniques	|	0.2000
+Data on Air: Organization and Access	|	0.2000
+Sleepers and Workaholics: Caching Strategies in Mobile Environments	|	0.1818
+Energy Efficient Indexing on Air	|	0.1818
+The serializability of concurrent database updates	|	0.1818
+Load Shedding in a Data Stream Manager	|	0.1667
+The notions of consistency and predicate locks in a database system	|	0.1667
+A Majority consensus approach to concurrency control for multiple copy databases	|	0.1667
+Scalable Distributed Stream Processing	|	0.1538
+Understanding the New SQL: A Complete Guide	|	0.1538
+C-Store: A Column-oriented DBMS	|	0.1538
+Concurrency control in advanced database applications	|	0.1429
+Principles of database buffer management	|	0.1429
+ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging	|	0.1429
+Data caching issues in an information retrieval system	|	0.1429
+Broadcast disks: data management for asymmetric communication environments	|	0.1429
+Broadcast Disks: Data Management for Asymmetric Communications Environments	|	0.1333
+Operating system support for database management	|	0.1333
+The Recovery Manager of the System R Database Manager	|	0.1333
+Principles of transaction-oriented database recovery	|	0.1333
+Using Semantic Knowledge for Transaction Processing in Distributed Database	|	0.1333
+Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.1250
+Efficient locking for concurrent operations on B-trees	|	0.1250
+Discovering Similar Multidimensional Trajectories	|	0.1176
+Principles of Database Systems, 2nd Edition	|	0.1111
+Aurora: a new model and architecture for data stream management	|	0.1111
+An Introduction to Database Systems	|	0.1053
+Concurrency Control in Distributed Database Systems	|	0.1053
+Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.0952
+Notes on Data Base Operating Systems	|	0.0952
+The design of an acquisitional query processor for sensor networks	|	0.0833
+Online Aggregation	|	0.0800
+Eddies: Continuously Adaptive Query Processing	|	0.0769
+Organization and Maintenance of Large Ordered Indices	|	0.0769
+The Ubiquitous B-Tree	|	0.0769
+Temporal and Real-Time Databases: A Survey	|	0.0714
+Monitoring Streams - A New Class of Data Management Applications	|	0.0690
+Concurrency Control and Recovery in Database Systems	|	0.0556
+Query evaluation techniques for large databases	|	0.0526
+Foundations of Databases	|	0.0274
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0253

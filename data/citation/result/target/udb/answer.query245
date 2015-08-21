@@ -1,0 +1,85 @@
+Scalable Distributed Stream Processing	|	0.2344
+Benchmarking Database Systems A Systematic Approach	|	0.2021
+Querying the Internet with PIER	|	0.1915
+Data Placement In Bubba	|	0.1915
+The Postgres Next Generation Database Management System	|	0.1887
+An Adaptive Query Execution System for Data Integration	|	0.1081
+Access path selection in a relational database management system	|	0.0540
+Principles of distributed database systems	|	0.0465
+Parallel database systems: the future of high performance database systems	|	0.0426
+A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.0411
+GAMMA - A High Performance Dataflow Database Machine	|	0.0408
+The Volcano Optimizer Generator: Extensibility and Efficient Search	|	0.0345
+Temporal Databases	|	0.0323
+C-Store: A Column-oriented DBMS	|	0.0312
+The oo7 Benchmark	|	0.0294
+Accurate Estimation of the Number of Tuples Satisfying a Condition	|	0.0294
+An introduction to data base systems	|	0.0294
+Parallel Database Systems: The Future of High Performance Database Processing1	|	0.0270
+The Implementation of Postgres	|	0.0241
+Complex Queries in DHT-based Peer-to-Peer Networks	|	0.0233
+Composite Event Specification in Active Databases: Model & Implementation	|	0.0233
+Randomized Algorithms for Optimizing Large Join Queries	|	0.0233
+Probabilistic Counting Algorithms for Data Base Applications	|	0.0233
+Wrapper Induction for Information Extraction	|	0.0204
+Query Reformulation for Dynamic Information Integration	|	0.0189
+Towards Sensor Database Systems	|	0.0179
+Load Shedding in a Data Stream Manager	|	0.0179
+Starburst Mid-Flight: As the Dust Clears	|	0.0179
+Selectivity Estimation Without the Attribute Value Independence Assumption	|	0.0156
+Optimizing Queries Across Diverse Data Sources	|	0.0149
+Bigtable: A Distributed Storage System for Structured Data	|	0.0138
+The Gamma Database Machine Project	|	0.0137
+Improved Histograms for Selectivity Estimation of Range Predicates	|	0.0137
+The EXODUS Optimizer Generator	|	0.0137
+The Case for Shared Nothing	|	0.0137
+TinyDB: an acquisitional query processing system for sensor networks	|	0.0122
+Query By Example	|	0.0120
+Operating system support for database management	|	0.0120
+On optimizing an SQL-like nested query	|	0.0120
+Active database systems	|	0.0119
+Notes on database operating systems	|	0.0106
+An Evaluation of Buffer Management Strategies for Relational Database Systems	|	0.0094
+The Design of the Borealis Stream Processing Engine	|	0.0093
+The Design of Postgres	|	0.0092
+The design of an acquisitional query processor for sensor networks	|	0.0092
+Data Management for Peer-to-Peer Computing : A Vision	|	0.0084
+Query Caching and Optimization in Distributed Mediator Systems	|	0.0084
+Aurora: a new model and architecture for data stream management	|	0.0084
+The Architecture Of An Active Data Base Management System	|	0.0084
+Continuously adaptive continuous queries over streams	|	0.0077
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0077
+Organization and Maintenance of Large Ordered Indexes	|	0.0075
+An Introduction to Database Systems	|	0.0075
+Wavelet-Based Histograms for Selectivity Estimation	|	0.0074
+Eddies: Continuously Adaptive Query Processing	|	0.0071
+Schema Mediation in Peer Data Management Systems	|	0.0068
+A Data Model and Query Language for EXODUS	|	0.0068
+Join processing in relational databases	|	0.0068
+Join indices	|	0.0068
+Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0067
+Notes on Data Base Operating Systems	|	0.0061
+Monitoring Streams - A New Class of Data Management Applications	|	0.0061
+Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.0055
+Query Optimization for XML	|	0.0050
+Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.0050
+Models and issues in data stream systems	|	0.0043
+Distance browsing in spatial databases	|	0.0042
+Issues in data stream management	|	0.0042
+Optimizing Queries with Materialized Views	|	0.0039
+Organization and Maintenance of Large Ordered Indices	|	0.0039
+Continuous queries over data streams	|	0.0039
+Online Aggregation	|	0.0036
+NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0036
+System R: A Relational Approach to Data Base Management	|	0.0036
+The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0033
+Lore: a database management system for semistructured data	|	0.0026
+Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0025
+System R: relational approach to database management	|	0.0025
+Logic and Databases: A Deductive Approach	|	0.0023
+The Theory of Relational Databases	|	0.0019
+Answering queries using views: A survey	|	0.0016
+Query Optimization in Database Systems	|	0.0016
+Query evaluation techniques for large databases	|	0.0015
+Foundations of Databases	|	0.0004
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0004

@@ -1,0 +1,166 @@
+The notions of consistency and predicate locks in a database system	|	0.2857
+Using Semantic Knowledge for Transaction Processing in Distributed Database	|	0.2424
+Real-Time Databases	|	0.2143
+Scheduling Real-time Transactions: a Performance Evaluation	|	0.2069
+Scheduling real-time transactions: a performance evaluation	|	0.2069
+The entity-relationship model---toward a unified view of data	|	0.1951
+Further Normalization of the Data Base Relational Model	|	0.1951
+A Critique of ANSI SQL Isolation Levels	|	0.1935
+The Recovery Manager of the System R Database Manager	|	0.1818
+Principles of transaction-oriented database recovery	|	0.1818
+Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.1765
+Extending the database relational model to capture more meaning	|	0.1633
+Concurrency Control in Distributed Database Systems	|	0.1622
+IFO: a formal semantic database model	|	0.1579
+Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.1538
+Notes on Data Base Operating Systems	|	0.1538
+Gigascope: a stream database for network applications	|	0.1538
+The HiPAC project: combining active databases and timing constraints	|	0.1429
+Continuously adaptive continuous queries over streams	|	0.1395
+Semantic data models	|	0.1395
+The serializability of concurrent database updates	|	0.1379
+Continuous queries over data streams	|	0.1364
+NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.1333
+Load Shedding in a Data Stream Manager	|	0.1333
+A Majority consensus approach to concurrency control for multiple copy databases	|	0.1333
+The temporal query language TQuel	|	0.1290
+Concurrency control performance modeling: alternatives and implications	|	0.1290
+A Taxonomy of Time in Databases	|	0.1250
+Active database systems	|	0.1250
+Concurrency control in advanced database applications	|	0.1250
+ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging	|	0.1250
+A federated architecture for information management	|	0.1250
+Spatial SQL: A Query and Presentation Language	|	0.1212
+GALILEO: a strongly-typed, interactive conceptual language	|	0.1176
+Ode as an Active Database: Constraints and Triggers	|	0.1176
+Efficient locking for concurrent operations on B-trees	|	0.1176
+The Design of the Borealis Stream Processing Engine	|	0.1176
+The Postgres Next Generation Database Management System	|	0.1143
+Making Smalltalk a Database System	|	0.1111
+Concurrency Control and Recovery in Database Systems	|	0.1111
+Principles of Database Systems, 2nd Edition	|	0.1111
+The functional data model and the data language DAPLEX	|	0.1111
+A language facility for designing database-intensive applications	|	0.1053
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.1031
+Object identity	|	0.1000
+Online Aggregation	|	0.0930
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0930
+Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0930
+Database abstractions: aggregation and generalization	|	0.0930
+Issues in data stream management	|	0.0930
+Eddies: Continuously Adaptive Query Processing	|	0.0909
+An Adaptive Query Execution System for Data Integration	|	0.0909
+Organization and Maintenance of Large Ordered Indices	|	0.0909
+Optimal implementation of conjunctive queries in relational data bases	|	0.0889
+The functional data model and the data languages DAPLEX	|	0.0889
+Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0870
+Query evaluation techniques for large databases	|	0.0851
+Impossibility of Distributed Consensus with One Faulty Process	|	0.0833
+Types and persistence in database programming languages	|	0.0816
+A comparative analysis of methodologies for database schema integration	|	0.0816
+SEQUEL: A structured English query language	|	0.0800
+The TSQL2 Temporal Query Language	|	0.0800
+Middleware: a model for distributed system services	|	0.0800
+SEQUEL 2: A Unified Approach to Data Definition, Manipulation, and Control	|	0.0800
+Capturing the Uncertainty of Moving-Object Representations	|	0.0800
+The Entity-Relationship Model-Towards a Uni ed View of Data	|	0.0800
+System R: relational approach to database management	|	0.0800
+Logic and Databases: A Deductive Approach	|	0.0784
+Models and issues in data stream systems	|	0.0769
+Consistency in Partitioned Networks	|	0.0769
+Data Mining: An Overview from a Database Perspective	|	0.0755
+Towards requirements-driven information systems engineering: the Tropos project	|	0.0741
+A principle for resilient sharing of distributed resources	|	0.0741
+The Theory of Relational Databases	|	0.0741
+The relational model with relation-valued attributes	|	0.0741
+Query Processing in Spatial Network Databases	|	0.0714
+Towards a Logical Reconstruction of Relational Database Theory	|	0.0714
+The Dangers of Replication and a Solution	|	0.0714
+Nonblocking commit protocols	|	0.0714
+The Theory of Database Concurrency Control	|	0.0714
+Distributed Databases: Principles and Systems	|	0.0714
+Query Optimization in Database Systems	|	0.0714
+A foundation for representing and querying moving objects	|	0.0714
+A homogeneous relational model and query languages for temporal databases	|	0.0714
+Incomplete Information in Relational Databases	|	0.0714
+Similarity-Based Queries for Time Series Data	|	0.0690
+Semantics and Implementation of Schema Evolution in Object-Oriented Databases	|	0.0690
+Iris: An Object-Oriented Database Management System	|	0.0690
+An adaptive data replication algorithm	|	0.0667
+A probabilistic relational algebra for the integration of information retrieval and database systems	|	0.0667
+Query Processing, Resource Management, and Approximation in a Data Stream Management System	|	0.0667
+Foundations of Databases	|	0.0659
+Fast Nearest Neighbor Search in Medical Image Databases	|	0.0645
+Scalable Distributed Stream Processing	|	0.0645
+The complexity of relational query languages (Extended Abstract)	|	0.0645
+StatStream: Statistical Monitoring of Thousands of Data Streams in Real Time	|	0.0645
+Adaptive filters for continuous queries over distributed data streams	|	0.0645
+Understanding the New SQL: A Complete Guide	|	0.0645
+Computable Queries for Relational Data Bases	|	0.0645
+Dimensionality Reduction for Fast Similarity Search in Large Time Series Databases	|	0.0645
+Data model issues for object-oriented applications	|	0.0645
+Exact Indexing of Dynamic Time Warping	|	0.0625
+Telos: representing knowledge about information systems	|	0.0625
+Efficient Time Series Matching by Wavelets	|	0.0625
+Efficient Retrieval of Similar Time Sequences Under Time Warping	|	0.0625
+On Optimistic Methods for Concurrency Control	|	0.0625
+Using Semi-Joins to Solve Relational Queries	|	0.0625
+Principles of database buffer management	|	0.0625
+Random sampling with a reservoir	|	0.0625
+The Implementation of Postgres	|	0.0606
+Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals	|	0.0606
+Query By Example	|	0.0606
+Operating system support for database management	|	0.0606
+On optimizing an SQL-like nested query	|	0.0606
+Extended algebra and calculus for nested relational databases	|	0.0606
+A Relational Model for Large Shared Data Banks	|	0.0606
+Benchmarking Database Systems A Systematic Approach	|	0.0588
+Maintaining Views Incrementally	|	0.0588
+Logical Foundations of Object-Oriented and Frame-Based Languages	|	0.0588
+Development of an object-oriented DBMS	|	0.0588
+Access methods for text	|	0.0588
+Notes on database operating systems	|	0.0588
+Locally Adaptive Dimensionality Reduction for Indexing Large Time Series Databases	|	0.0571
+Discovering Similar Multidimensional Trajectories	|	0.0571
+Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Total	|	0.0571
+Universality of data retrieval languages	|	0.0571
+A New SQL-like Operator for Mining Association Rules	|	0.0556
+RQL: a declarative query language for RDF	|	0.0556
+Distributed top-k monitoring	|	0.0556
+The CQL continuous query language: semantic foundations and query execution	|	0.0556
+A Data Model and Query Language for EXODUS	|	0.0541
+Organization and Maintenance of Large Ordered Indexes	|	0.0541
+Join processing in relational databases	|	0.0541
+Query-by-Example: A Data Base Language	|	0.0541
+Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.0526
+M-tree: An Efficient Access Method for Similarity Search in Metric Spaces	|	0.0526
+On packing R-trees	|	0.0526
+Database Mining: A Performance Perspective	|	0.0526
+Similarity Indexing with the SS-tree	|	0.0513
+TinyDB: an acquisitional query processing system for sensor networks	|	0.0513
+The design & analysis of spatial data structures	|	0.0513
+Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases	|	0.0500
+Optimal Multi-Step k-Nearest Neighbor Search	|	0.0500
+Efficient Processing of Spatial Joins Using R-Trees	|	0.0500
+Multiple-query optimization	|	0.0500
+Efficient and Effective Querying by Image Content	|	0.0488
+Spatial Query Processing in an Object-Oriented Database System	|	0.0488
+Database description with SDM: a semantic database model	|	0.0488
+The Design of Postgres	|	0.0476
+The design of an acquisitional query processor for sensor networks	|	0.0476
+Fast Time Sequence Indexing for Arbitrary Lp Norms	|	0.0465
+Relational Completeness of Data Base Sublanguages	|	0.0465
+DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0455
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0455
+The Ubiquitous B-Tree	|	0.0455
+System R: A Relational Approach to Data Base Management	|	0.0444
+The Design and Analysis of Spatial Data Structures	|	0.0435
+Monitoring Streams - A New Class of Data Management Applications	|	0.0426
+Lore: a database management system for semistructured data	|	0.0417
+The Grid File: An Adaptable, Symmetric Multikey File Structure	|	0.0417
+Efficient Similarity Search In Sequence Databases	|	0.0364
+Searching in high-dimensional spaces: Index structures for improving the performance of multimedia databases	|	0.0364
+Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0364
+Mining association rules between sets of items in large databases	|	0.0345
+The R*-tree: an efficient and robust access method for points and rectangles	|	0.0323
+Access path selection in a relational database management system	|	0.0312

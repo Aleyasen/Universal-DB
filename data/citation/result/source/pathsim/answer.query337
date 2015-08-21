@@ -1,0 +1,81 @@
+The EXODUS Optimizer Generator	|	0.5333
+On optimizing an SQL-like nested query	|	0.5000
+The Gamma Database Machine Project	|	0.4167
+A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.4000
+Randomized Algorithms for Optimizing Large Join Queries	|	0.3636
+Update semantics of relational views	|	0.3636
+Organization and maintenance of large ordered indexes	|	0.3636
+An Evaluation of Buffer Management Strategies for Relational Database Systems	|	0.3333
+Mariposa: A Wide-Area Distributed Database System	|	0.3077
+Starburst Mid-Flight: As the Dust Clears	|	0.3077
+Organization and Maintenance of Large Ordered Indexes	|	0.3000
+Organization and Maintenance of Large Ordered Indices	|	0.2963
+The Volcano Optimizer Generator: Extensibility and Efficient Search	|	0.2857
+Disk Shadowing	|	0.2857
+Equivalence of Relational Algebra and Relational Calculus Query Languages Having Aggregate Functions	|	0.2857
+Query By Example	|	0.2500
+The Recovery Manager of the System R Database Manager	|	0.2500
+Main Memory Database Systems: An Overview	|	0.2500
+Principles of database systems	|	0.2500
+The Design of Postgres	|	0.2400
+Ode as an Active Database: Constraints and Triggers	|	0.2353
+Efficient locking for concurrent operations on B-trees	|	0.2353
+Parallel database systems: the future of high performance database systems	|	0.2353
+Relational Completeness of Data Base Sublanguages	|	0.2308
+The oo7 Benchmark	|	0.2222
+Staggered Striping in Multimedia Information Systems	|	0.2222
+Accurate Estimation of the Number of Tuples Satisfying a Condition	|	0.2222
+Logic-based approach to semantic query optimization	|	0.2222
+An introduction to data base systems	|	0.2222
+Implementation of integrity constraints and views by query modification	|	0.2222
+The Theory of Relational Databases	|	0.2162
+XIRQL: a query language for information retrieval in XML documents	|	0.2000
+Approximating block accesses in database organizations	|	0.2000
+Parallel Database Systems: The Future of High Performance Database Processing1	|	0.1905
+Types and persistence in database programming languages	|	0.1875
+Complex Queries in DHT-based Peer-to-Peer Networks	|	0.1818
+Probabilistic Counting Algorithms for Data Base Applications	|	0.1818
+Pnnc:ples of database systems	|	0.1818
+Object identity	|	0.1739
+Multiple-query optimization	|	0.1739
+Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.1538
+A probabilistic relational algebra for the integration of information retrieval and database systems	|	0.1538
+Selectivity Estimation Without the Attribute Value Independence Assumption	|	0.1429
+The functional data model and the data languages DAPLEX	|	0.1429
+C-Store: A Column-oriented DBMS	|	0.1429
+Improved Histograms for Selectivity Estimation of Range Predicates	|	0.1333
+Retrieving and Integrating Data from Multiple Information Sources	|	0.1333
+Using Semi-Joins to Solve Relational Queries	|	0.1333
+Query evaluation techniques for large databases	|	0.1299
+Access path selection in a relational database management system	|	0.1277
+The Implementation of Postgres	|	0.1250
+Operating system support for database management	|	0.1250
+Data Structures for Range Searching	|	0.1250
+Extending the database relational model to capture more meaning	|	0.1250
+Wavelet-Based Histograms for Selectivity Estimation	|	0.1176
+Query Reformulation for Dynamic Information Integration	|	0.1111
+The Postgres Next Generation Database Management System	|	0.1111
+Optimizing Queries Across Diverse Data Sources	|	0.1053
+Principles of Database Systems, 2nd Edition	|	0.1053
+Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.1000
+An Introduction to Database Systems	|	0.1000
+Concurrency Control in Distributed Database Systems	|	0.1000
+Join processing in relational databases	|	0.1000
+Join indices	|	0.1000
+Query Optimization for XML	|	0.0833
+Foundations of Databases	|	0.0811
+The Grid File: An Adaptable, Symmetric Multi-Key File Structure	|	0.0800
+The notions of consistency and predicate locks in a database system	|	0.0800
+Online Aggregation	|	0.0769
+Continuously adaptive continuous queries over streams	|	0.0769
+Query Caching and Optimization in Distributed Mediator Systems	|	0.0769
+Optimizing Queries with Materialized Views	|	0.0769
+Distance browsing in spatial databases	|	0.0769
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0769
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0750
+Optimal implementation of conjunctive queries in relational data bases	|	0.0714
+System R: A Relational Approach to Data Base Management	|	0.0714
+The Grid File: An Adaptable, Symmetric Multikey File Structure	|	0.0645
+System R: relational approach to database management	|	0.0606
+Logic and Databases: A Deductive Approach	|	0.0588
+Query Optimization in Database Systems	|	0.0513

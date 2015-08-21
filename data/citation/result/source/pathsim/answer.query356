@@ -1,0 +1,32 @@
+Impossibility of Distributed Consensus with One Faulty Process	|	0.6667
+Beyond Accuracy: What Data Quality Means to Data Consumers	|	0.5000
+Anchoring data quality dimensions in ontological foundations	|	0.4000
+Consistency in Partitioned Networks	|	0.4000
+A principle for resilient sharing of distributed resources	|	0.3333
+Real-Time Databases	|	0.2857
+The Dangers of Replication and a Solution	|	0.2857
+Nonblocking commit protocols	|	0.2857
+The Theory of Database Concurrency Control	|	0.2857
+Distributed Databases: Principles and Systems	|	0.2857
+The serializability of concurrent database updates	|	0.2500
+An adaptive data replication algorithm	|	0.2222
+A Majority consensus approach to concurrency control for multiple copy databases	|	0.2222
+A Critique of ANSI SQL Isolation Levels	|	0.2000
+Concurrency control in advanced database applications	|	0.1818
+Principles of database buffer management	|	0.1818
+ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging	|	0.1818
+Operating system support for database management	|	0.1667
+The Recovery Manager of the System R Database Manager	|	0.1667
+Principles of transaction-oriented database recovery	|	0.1667
+Using Semantic Knowledge for Transaction Processing in Distributed Database	|	0.1667
+Efficient locking for concurrent operations on B-trees	|	0.1538
+Principles of Database Systems, 2nd Edition	|	0.1333
+Concurrency Control in Distributed Database Systems	|	0.1250
+Notes on Data Base Operating Systems	|	0.1111
+The notions of consistency and predicate locks in a database system	|	0.0952
+Organization and Maintenance of Large Ordered Indices	|	0.0870
+The Ubiquitous B-Tree	|	0.0870
+Temporal and Real-Time Databases: A Survey	|	0.0800
+Foundations of Databases	|	0.0286
+Query evaluation techniques for large databases	|	0.0274
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0263

@@ -1,0 +1,66 @@
+Dimensionality Reduction for Fast Similarity Search in Large Time Series Databases	|	0.2281
+Exact Indexing of Dynamic Time Warping	|	0.2276
+Efficient Retrieval of Similar Time Sequences Under Time Warping	|	0.2195
+StatStream: Statistical Monitoring of Thousands of Data Streams in Real Time	|	0.2105
+Efficient Time Series Matching by Wavelets	|	0.2033
+Discovering Similar Multidimensional Trajectories	|	0.1859
+Ranking in Spatial Databases	|	0.1538
+Optimal Multi-Step k-Nearest Neighbor Search	|	0.1472
+Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases	|	0.1453
+Fast Time Sequence Indexing for Arbitrary Lp Norms	|	0.1354
+Fast Subsequence Matching in Time-Series Databases	|	0.0891
+Efficient Similarity Search In Sequence Databases	|	0.0875
+Similarity-Based Queries for Time Series Data	|	0.0404
+Query Processing in Spatial Network Databases	|	0.0215
+Database Mining: A Performance Perspective	|	0.0202
+A New SQL-like Operator for Mining Association Rules	|	0.0178
+Fast Nearest Neighbor Search in Medical Image Databases	|	0.0175
+Similarity Search in High Dimensions via Hashing	|	0.0163
+FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets	|	0.0154
+M-tree: An Efficient Access Method for Similarity Search in Metric Spaces	|	0.0152
+3D Shape Histograms for Similarity Search and Classification in Spatial Databases	|	0.0150
+When Is ''Nearest Neighbor'' Meaningful?	|	0.0139
+Applications of spatial data structures: computer graphics	|	0.0123
+On Finding the Maxima of a Set of Vectors	|	0.0114
+A cost model for nearest neighbor search in high-dimensional data space	|	0.0110
+ROCK: A Robust Clustering Algorithm for Categorical Attributes	|	0.0108
+Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.0101
+Similarity Indexing with the SS-tree	|	0.0093
+The design & analysis of spatial data structures	|	0.0093
+The X-tree : An Index Structure for High-Dimensional Data	|	0.0088
+On indexing mobile objects	|	0.0088
+The Design and Analysis of Spatial Data Structures	|	0.0085
+What Is the Nearest Neighbor in High Dimensional Spaces?	|	0.0081
+Efficient and Effective Querying by Image Content	|	0.0080
+Efficient Data Mining for Path Traversal Patterns	|	0.0075
+Mobile Computing and Databases - A Survey	|	0.0075
+Data Mining: An Overview from a Database Perspective	|	0.0070
+Distance browsing in spatial databases	|	0.0069
+Access methods for text	|	0.0069
+Searching in high-dimensional spaces: Index structures for improving the performance of multimedia databases	|	0.0066
+Continuous queries over data streams	|	0.0065
+A Quantitative Analysis and Performance Study for Similarity-Search Methods in High-Dimensional Spaces	|	0.0056
+The R*-tree: an efficient and robust access method for points and rectangles	|	0.0056
+CURE: An Efficient Clustering Algorithm for Large Databases	|	0.0055
+The Pyramid-Technique: Towards Breaking the Curse of Dimensionality	|	0.0055
+Searching in metric spaces	|	0.0055
+On packing R-trees	|	0.0051
+Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0050
+The Grid File: An Adaptable, Symmetric Multikey File Structure	|	0.0050
+Mining Sequential Patterns	|	0.0047
+Efficient Processing of Spatial Joins Using R-Trees	|	0.0043
+An Effective Hash Based Algorithm for Mining Association Rules	|	0.0041
+Spatial Query Processing in an Object-Oriented Database System	|	0.0040
+Mining association rules between sets of items in large databases	|	0.0038
+The TV-Tree: An Index Structure for High-Dimensional Data	|	0.0037
+The Grid File: An Adaptable, Symmetric Multi-Key File Structure	|	0.0037
+Issues in data stream management	|	0.0035
+The Ubiquitous B-Tree	|	0.0032
+Mining Generalized Association Rules	|	0.0028
+Temporal and Real-Time Databases: A Survey	|	0.0028
+The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0022
+Fast Algorithms for Mining Association Rules in Large Databases	|	0.0021
+Models and issues in data stream systems	|	0.0019
+Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0019
+Fast Algorithms for Mining Association Rules	|	0.0017
+Multidimensional access methods	|	0.0017

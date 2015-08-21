@@ -1,0 +1,114 @@
+Super-peer-based routing and clustering strategies for RDF-based peer-to-peer networks	|	0.2333
+Querying the Internet with PIER	|	0.2099
+Online Aggregation	|	0.1011
+System R: relational approach to database management	|	0.0840
+Principles of distributed database systems	|	0.0667
+Designing a Super-Peer Network	|	0.0556
+Consistency in Partitioned Networks	|	0.0476
+Providing olap (on-line analytical processing) to user-analysts: an it mandate	|	0.0476
+On the Computation of Multidimensional Aggregates	|	0.0476
+Aggregate-Query Processing in Data Warehousing Environments	|	0.0465
+The relational model with relation-valued attributes	|	0.0339
+The Skyline Operator	|	0.0333
+Transaction Processing: Concepts and Techniques	|	0.0333
+Principles of Distributed Database Systems	|	0.0333
+Update semantics of relational views	|	0.0333
+Organization and maintenance of large ordered indexes	|	0.0333
+Query evaluation techniques for large databases	|	0.0303
+GAMMA - A High Performance Dataflow Database Machine	|	0.0278
+EDUTELLA: a P2P networking infrastructure based on RDF	|	0.0278
+Model-Driven Data Acquisition in Sensor Networks	|	0.0278
+Security-Control Methods for Statistical Databases: A Comparative Study	|	0.0278
+Join processing in database systems with large main memories	|	0.0278
+The Recovery Manager of the System R Database Manager	|	0.0248
+Parallel database systems: the future of high performance database systems	|	0.0247
+Mariposa: A Wide-Area Distributed Database System	|	0.0233
+Routing Indices For Peer-to-Peer Systems	|	0.0233
+EDUTELLA: A P2P Networking Infrastructure Based on RDF	|	0.0233
+The cougar approach to in-network query processing in sensor networks	|	0.0233
+Towards Sensor Database Systems	|	0.0233
+Disk Striping	|	0.0233
+Load Shedding in a Data Stream Manager	|	0.0233
+An Evaluation of Buffer Management Strategies for Relational Database Systems	|	0.0215
+C-Store: A Column-oriented DBMS	|	0.0196
+Don't Scrap It, Wrap It! A Wrapper Architecture for Legacy Data Sources	|	0.0192
+Data Management for Peer-to-Peer Computing : A Vision	|	0.0189
+A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.0167
+Computing Iceberg Queries Efficiently	|	0.0167
+On Optimistic Methods for Concurrency Control	|	0.0167
+The EXODUS Optimizer Generator	|	0.0167
+Organization and Maintenance of Large Ordered Indexes	|	0.0167
+The Case for Shared Nothing	|	0.0167
+Principles of database buffer management	|	0.0167
+Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.0148
+Parallel Database Systems: The Future of High Performance Database Processing1	|	0.0148
+The Implementation of Postgres	|	0.0143
+Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals	|	0.0143
+Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases	|	0.0143
+Linear Hashing: A New Tool for File and Table Addressing	|	0.0143
+Query By Example	|	0.0143
+Quad Trees: A Data Structure for Retrieval on Composite Keys	|	0.0143
+Operating system support for database management	|	0.0143
+Principles of transaction-oriented database recovery	|	0.0143
+On optimizing an SQL-like nested query	|	0.0143
+Extended algebra and calculus for nested relational databases	|	0.0143
+Concurrency control in advanced database applications	|	0.0141
+Ode as an Active Database: Constraints and Triggers	|	0.0123
+Data Placement In Bubba	|	0.0123
+Access methods for text	|	0.0123
+Efficient locking for concurrent operations on B-trees	|	0.0123
+Structural Joins: A Primitive for Efficient XML Query Pattern Matching	|	0.0123
+Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Total	|	0.0108
+Holistic twig joins: optimal XML pattern matching	|	0.0108
+The Design of the Borealis Stream Processing Engine	|	0.0106
+The Gamma Database Machine Project	|	0.0097
+Aurora: a new model and architecture for data stream management	|	0.0094
+The functional data model and the data language DAPLEX	|	0.0094
+Concurrency Control in Distributed Database Systems	|	0.0083
+A logical design methodology for relational databases using the extended entity-relationship model	|	0.0083
+Organization and Maintenance of Large Ordered Indices	|	0.0081
+Continuous queries over data streams	|	0.0081
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0081
+The functional data model and the data languages DAPLEX	|	0.0075
+Schema Mediation in Peer Data Management Systems	|	0.0074
+Join indices	|	0.0074
+Interoperability of multiple autonomous databases	|	0.0074
+The Quadtree and Related Hierarchical Data Structures	|	0.0074
+Approximate Query Processing Using Wavelets	|	0.0074
+Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0074
+New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.0060
+Object identity	|	0.0060
+Multiple-query optimization	|	0.0060
+Approximate Frequency Counts over Data Streams	|	0.0059
+Query Optimization for XML	|	0.0054
+The entity-relationship model---toward a unified view of data	|	0.0054
+Mediators in the Architecture of Future Information Systems	|	0.0049
+Exploratory Mining and Pruning Optimizations of Constrained Association Rules	|	0.0049
+The Design of Postgres	|	0.0049
+The Grid File: An Adaptable, Symmetric Multi-Key File Structure	|	0.0049
+Types and persistence in database programming languages	|	0.0047
+Models and issues in data stream systems	|	0.0044
+Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0044
+Semantic data models	|	0.0044
+Relational Completeness of Data Base Sublanguages	|	0.0044
+An Adaptive Query Execution System for Data Integration	|	0.0041
+The Ubiquitous B-Tree	|	0.0041
+The Theory of Relational Databases	|	0.0039
+Eddies: Continuously Adaptive Query Processing	|	0.0037
+System R: A Relational Approach to Data Base Management	|	0.0037
+The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0034
+Access path selection in a relational database management system	|	0.0034
+Monitoring Streams - A New Class of Data Management Applications	|	0.0032
+The Grid File: An Adaptable, Symmetric Multikey File Structure	|	0.0029
+A comparative analysis of methodologies for database schema integration	|	0.0027
+Extending the database relational model to capture more meaning	|	0.0027
+Lore: a database management system for semistructured data	|	0.0027
+The Lorel Query Language for Semistructured Data	|	0.0025
+The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0025
+Logic and Databases: A Deductive Approach	|	0.0024
+Concurrency Control and Recovery in Database Systems	|	0.0020
+Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0018
+Query Optimization in Database Systems	|	0.0016
+The R*-tree: an efficient and robust access method for points and rectangles	|	0.0012
+Foundations of Databases	|	0.0008
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0004
