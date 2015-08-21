@@ -26,7 +26,7 @@
             </a>
         </center>
     </div>    
-    <div class="panel-heading btn-block menu-header">
+<!--    <div class="panel-heading btn-block menu-header">
         <br>
         <center>
             <a id="compare-algs" href="#algorithm" aria-controls="algorithm" role="tab" data-toggle="tab">
@@ -34,7 +34,7 @@
                 <div>Compare Algorithms</div>
             </a>
         </center>
-    </div>
+    </div>-->
 
     <!--    <div class="panel-heading btn-block menu-header">
             <center>

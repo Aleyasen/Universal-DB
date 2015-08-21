@@ -220,7 +220,7 @@ if (isset($_GET["nofilter"])) {
         for ($i = 0; $i < sizeof($vs1); $i++) {
             if (isset($dist_query_node[$vs1[$i]]) && isset($dist_pre_node[$vs1[$i]])) {
                 $d = $dist_query_node[$vs1[$i]] + $dist_pre_node[$vs1[$i]];
-                if ($d <= ($dis_pre_query + 1 )) {
+                if ($d <= ($dis_pre_query  )) {
                     array_push($vs, $vs1[$i]);
                 }
             }
@@ -228,7 +228,7 @@ if (isset($_GET["nofilter"])) {
         for ($i = 0; $i < sizeof($vs1); $i++) {
             if (isset($dist_query_node[$vs1[$i]]) && isset($dist_post_node[$vs1[$i]])) {
                 $d = $dist_query_node[$vs1[$i]] + $dist_post_node[$vs1[$i]];
-                if ($d <= ($dis_post_query + 1 )) {
+                if ($d <= ($dis_post_query )) {
                     array_push($vs, $vs1[$i]);
                 }
             }
