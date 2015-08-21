@@ -145,7 +145,8 @@ if (isset($_GET["nofilter"])) {
         for ($i = 0; $i < sizeof($vs_from_query_node); $i++) {
             array_push($vs_nodes_query_node, $vs_from_query_node[$i][0]);
         }
-
+//        example:
+//        http://localhost:8080/Universal-DB/filtergraph.php?schema=target&dataset=citation&query_node=1&compare=1&radius=10&max_nodes=300000&result_node=1
 //        $vs_nodes_result_node = array_values($vs_nodes_result_node);
 //        $vs_nodes_result_node = array_unique($vs_nodes_result_node);
 //        $vs_nodes_query_node = array_values($vs_nodes_query_node);
