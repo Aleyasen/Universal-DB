@@ -114,8 +114,10 @@ function createList(svg, x_init, y_init, count, labels, srcLabels, targetLabels)
 //            console.log(labels[i]);
         var lb = labels[i];
         var original_text = labels[i];
-        if (lb.length > truncate_limit) {
-            lb = lb.substring(0, truncate_limit) + "...";
+        if (lb != null) {
+            if (lb.length > truncate_limit) {
+                lb = lb.substring(0, truncate_limit) + "...";
+            }
         }
         var tooltip = rectangle.append("svg:title")
                 .text(original_text);
