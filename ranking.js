@@ -72,8 +72,8 @@ function generateList(selector, src_query_file, target_query_file) {
 
 
 function createAll(svg, top_k, src_list, target_list) {
-    var srcRects = createList(svg, 5, 10, top_k, src_list);
-    var destRects = createList(svg, 155, 10, top_k, target_list);
+    var srcRects = createList(svg, 5, 10, top_k, src_list, src_list, target_list);
+    var destRects = createList(svg, 155, 10, top_k, target_list, src_list, target_list);
     var connect_src = [];
     var connect_target = [];
     for (var i = 0; i < top_k; i++) {
@@ -98,7 +98,7 @@ function createAll(svg, top_k, src_list, target_list) {
         }
     }
 }
-function createList(svg, x_init, y_init, count, labels) {
+function createList(svg, x_init, y_init, count, labels, srcLabels, targetLabels) {
     var rects = [];
     for (var i = 0; i < count; i++) {
         var rectangle = svg.append("rect")
@@ -113,27 +113,32 @@ function createList(svg, x_init, y_init, count, labels) {
         rects[i] = rectangle;
 //            console.log(labels[i]);
         var lb = labels[i];
+        var original_text = labels[i];
         if (lb.length > truncate_limit) {
             lb = lb.substring(0, truncate_limit) + "...";
         }
+        var tooltip = rectangle.append("svg:title")
+                .text(original_text);
+
         var text = svg.append("text")
                 .attr("x", x_init + 5)
                 .attr("y", y_init + (rect_height * (i)) + 20)
                 .text(lb)
+                .attr("svg:title", original_text)
                 .attr("font-family", "sans-serif")
                 .attr("font-size", "11px")
                 .attr("fill", "black");
         text.on("click", function(d) {
 
             console.log("open it!!!");
-            var lb_text = $(this).text();
+            var lb_text = $(this).attr("title");
 //            console.log(lb_text);
             $("#dialog").dialog("open");
             setTimeout(
                     function()
                     {
                         var q_text = $('.search-box').val();
-                        generateModalContent(lb_text, q_text, labels);
+                        generateModalContent(lb_text, q_text, srcLabels, targetLabels);
                     }, 100);
             d3.event.stopPropagation();
         });

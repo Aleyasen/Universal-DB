@@ -58,7 +58,7 @@ function filterGraph(seed, radius, max_nodes) {
 }
 
 
-function generateModalContent(result_node, query_node, ranking_list) {
+function generateModalContent(result_node, query_node, src_ranking_list, target_ranking_list) {
     console.log("generateModalContent started.");
     var generic_url = "./filtergraph.php?";
     generic_url += "compare=1&";
@@ -78,12 +78,12 @@ function generateModalContent(result_node, query_node, ranking_list) {
     $.get(src_url, function(file_loc) {
         console.log("get " + file_loc);
 //        alert(file_loc);
-        generateGraphForRanking("#modal-content-src", file_loc, result_node, query_node, ranking_list);
+        generateGraphForRanking("#modal-content-src", file_loc, result_node, query_node, src_ranking_list);
     });
     $.get(target_url, function(file_loc) {
         console.log("get " + file_loc);
 //        alert(file_loc);
-        generateGraphForRanking("#modal-content-target", file_loc, result_node, query_node, ranking_list);
+        generateGraphForRanking("#modal-content-target", file_loc, result_node, query_node, target_ranking_list);
 
     });
 
@@ -427,14 +427,14 @@ function generateGraphForRanking(container, inputdata, result_node, query_node, 
                 .text(function(d) {
                     var rank = jQuery.inArray(d.name, ranking_list);
                     if (d.name == result_node) {
-                        return d.name + "* (" + rank + ")";
+                        return d.name + "* (" + (rank + 1) + ")";
                     }
                     if (d.name == query_node) {
                         return d.name + " (q)";
                     }
 
                     if (rank != -1) {
-                        return d.name + " (" + rank + ")";
+                        return d.name + " (" + (rank + 1) + ")";
                     }
                     return d.name;
 
