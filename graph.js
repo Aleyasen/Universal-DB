@@ -37,7 +37,7 @@ $(document).ready(function() {
         setTimeout(
                 function()
                 {
-                    generageAllGraphs();
+                    generateAllGraphs();
                 }, 100);
     });
     function inititialize(dt) {
@@ -47,14 +47,14 @@ $(document).ready(function() {
             console.log(data);
             $("#source-label").text(data.schema.source.name);
             $("#target-label").text(data.schema.target.name);
-            generageAllGraphs();
+            generateAllGraphs();
 //            $.each(data, function(key, val) {
 //                items.push("<li id='" + key + "'>" + val + "</li>");
 //            });
         });
     }
 
-    function generageAllGraphs() {
+    function generateAllGraphs() {
 //    var datafile = "data.json";
 //    var datafile = "data/uw-courses/data.json";
 

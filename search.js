@@ -9,7 +9,8 @@ $(document).ready(function() {
 
     $('.search-button').click(function() {
         doIt(loc_queries, loc_result_dir);
-        generateAllGraphs();
+//        generateAllGraphs();
+        
     });
 
 

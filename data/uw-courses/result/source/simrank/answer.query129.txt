@@ -1,0 +1,15 @@
+MolecularStructure and Properties	|	0.1074
+Chemical Reactivity	|	0.0399
+Organic Chemistry I	|	0.0292
+Organic Chemistry II	|	0.0292
+Analytical Chemistry	|	0.0114
+Biochemical Methods	|	0.0114
+Structural Biochemistry	|	0.0110
+Advanced Inorganic Chemistry	|	0.0063
+Metabolic Biochemistry	|	0.0037
+Physical Chemistry Laboratory	|	0.0037
+Statistical Thermodynamics	|	0.0037
+Quantum Mechanics  and  MolStruct	|	0.0037
+Computational Organic Chem	|	0.0036
+Adv Synth Organic Chemistry	|	0.0036
+Environmental Chemistry	|	0.0033

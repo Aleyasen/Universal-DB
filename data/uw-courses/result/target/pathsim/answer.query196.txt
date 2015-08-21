@@ -1,0 +1,14 @@
+Theory II:IntermediateHarmony	|	0.8824
+Chamber Orchestra	|	0.6897
+Chorus	|	0.6897
+Collegium Musicum	|	0.6897
+Jazz	|	0.6897
+Intro to Music Listening	|	0.3846
+Survey of Western Music	|	0.3846
+Theory III: BaroqueCounterpnt	|	0.3846
+The String Quartet	|	0.3846
+Representation in Music	|	0.3846
+Romantic Music	|	0.3846
+Modernism in Music	|	0.3846
+Medieval and RenaissanceMusic	|	0.3846
+Advanced Analysis	|	0.3846

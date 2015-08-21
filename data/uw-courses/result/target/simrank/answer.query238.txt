@@ -1,0 +1,45 @@
+Aerobics	|	0.0592
+African Dance	|	0.0316
+Aikido	|	0.0316
+Archery	|	0.0316
+Bellydance	|	0.0316
+Ballroom Dance-Beginning	|	0.0316
+Ballroom Dance-Intermediate	|	0.0316
+Self Defense	|	0.0316
+Fencing	|	0.0316
+Yoga-Hatha	|	0.0316
+Judo	|	0.0316
+Juggling	|	0.0316
+Jitterbug	|	0.0316
+Lifeguard Training	|	0.0316
+Rock Climbing	|	0.0316
+Rugby-Men and Women	|	0.0316
+Squash-Intermediate	|	0.0316
+Tai Chi-Beginning	|	0.0316
+Tai Chi-Intermediate	|	0.0316
+Ultimate Frisbee	|	0.0316
+Badminton	|	0.0316
+Canoeing	|	0.0177
+Folkdance	|	0.0177
+Golf	|	0.0177
+Yoga-Kundilini	|	0.0177
+Kayaking-Intermediate	|	0.0177
+Yoga-Relaxaion	|	0.0177
+Tennis-Advanced	|	0.0177
+Tennis-Beginning	|	0.0177
+Tennis-Intermediate	|	0.0177
+White Water Rafting	|	0.0177
+Basketball-Coed	|	0.0177
+Rowing-Beginning	|	0.0177
+Rowing-Intermediate	|	0.0177
+Softball	|	0.0177
+Squash-Beginning	|	0.0177
+Backcountry Navigation	|	0.0177
+Bowling	|	0.0177
+Folkdancing	|	0.0177
+Hiking Around Portland	|	0.0177
+Yoga-Kundlini	|	0.0177
+Modern Dance	|	0.0177
+Yoga-Relaxation	|	0.0177
+Raquetball-Beginning	|	0.0177
+Squash-beginning	|	0.0177
