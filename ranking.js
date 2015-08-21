@@ -19,7 +19,7 @@ $(function() {
 var top_k = 10;
 var rect_width = 120;
 var rect_height = 30;
-var truncate_limit = 20;
+var truncate_limit = 18;
 
 function generateAllLists(result_dir, query_index, tk, query_text) {
 //    alert(query_index);
@@ -27,15 +27,21 @@ function generateAllLists(result_dir, query_index, tk, query_text) {
 //        var query = "5";
     var root_dir = result_dir;
 //    var root_dir = "data\\ranking\\dblp_c50_top2000";
-    query_index++;
-    var src_file1 = root_dir + "\\source\\rwr\\answer.query" + query_index + ".txt";
-    var target_file1 = root_dir + "\\target\\rwr\\answer.query" + query_index + ".txt";
-    var src_file2 = root_dir + "\\source\\simrank\\answer.query" + query_index + ".txt";
-    var target_file2 = root_dir + "\\target\\simrank\\answer.query" + query_index + ".txt";
-    var src_file3 = root_dir + "\\source\\pathsim\\answer.query" + query_index + ".txt";
-    var target_file3 = root_dir + "\\target\\pathsim\\answer.query" + query_index + ".txt";
-    var src_file4 = root_dir + "\\source\\pathsim\\answer.query" + query_index + ".txt";
-    var target_file4 = root_dir + "\\target\\pathsim\\answer.query" + query_index + ".txt";
+//    console.log("query_index" + query_index);
+    var selectedDataset = $(".datasetpicker").select().val();
+    if (selectedDataset == "citation") {
+        extension = "";
+    } else {
+        extension = ".txt";
+    }
+    var src_file1 = root_dir + "\\source\\rwr\\answer.query" + (query_index + 1) + extension;
+    var target_file1 = root_dir + "\\target\\rwr\\answer.query" + (query_index + 1) + extension;
+    var src_file2 = root_dir + "\\source\\simrank\\answer.query" + (query_index + 1) + extension;
+    var target_file2 = root_dir + "\\target\\simrank\\answer.query" + (query_index + 1) + extension;
+    var src_file3 = root_dir + "\\source\\pathsim\\answer.query" + (query_index + 1) + extension;
+    var target_file3 = root_dir + "\\target\\pathsim\\answer.query" + (query_index + 1) + extension;
+    var src_file4 = root_dir + "\\source\\udb\\answer.query" + (query_index + 1) + extension;
+    var target_file4 = root_dir + "\\target\\udb\\answer.query" + (query_index + 1) + extension;
 
     generateList("#ranking1", src_file1, target_file1);
     generateList("#ranking2", src_file2, target_file2);
@@ -160,7 +166,7 @@ function createLine(svg, src, dest) {
 }
 
 function createLineSrcToEnd(svg, src, lastsrc) {
-    var r = Math.floor((Math.random() * 30) + 10);
+    var r = Math.floor((Math.random() * 20) + 5);
     var line = svg.append("line")
             .attr("x1", (+src.attr("x")) + (+src.attr("width")))
             .attr("y1", (+src.attr("y")) + (+src.attr("height") / 2))
@@ -172,7 +178,7 @@ function createLineSrcToEnd(svg, src, lastsrc) {
 }
 
 function createLineTargetToEnd(svg, src, lastsrc) {
-    var r = Math.floor((Math.random() * 30) + 10);
+    var r = Math.floor((Math.random() * 20) + 5);
     var line = svg.append("line")
             .attr("x1", (+src.attr("x")))
             .attr("y1", (+src.attr("y")) + (+src.attr("height") / 2))

@@ -19,15 +19,16 @@ $(document).ready(function() {
 
 function initRankingView(query_file) {
     console.log("init Ranking View >>>>>>>> " + query_file);
-    readFile(query_file, function(queries) {
+    readFileWithoutHeader(query_file, function(queries) {
         var words = [];
-        for (var i = 1; i < queries.length; i++) {
+        for (var i = 0; i < queries.length; i++) {
             words.push(queries[i]);
         }
         $(".search-box").autocomplete({
             source: words
         });
-
+//        console.log("words");
+//        console.log(words);
         $(".search-box").val(words[0]);
 
         var selectedVal = $(".datasetpicker").select().val();
@@ -45,6 +46,9 @@ function doIt(query_list, result_dir, k) {
     var q = $('.search-box').val();
 //        alert(q);
     var q_index = -1;
+//    console.log("query_list");
+//    console.log(query_list);
+    
     for (var i = 0; i <= query_list.length; i++) {
         if (query_list[i] == q) {
             q_index = i;
