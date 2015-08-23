@@ -2,7 +2,7 @@
     <div class="col-md-6">
         <div class="row">
             <div class="inner-container">
-                <div class="col-md-12 highlight text-center">
+                <div class="col-md-12 highlight text-center" id="source-label-modal">
                     Source
                 </div>
                 <div class="col-md-12 highlight">
@@ -17,7 +17,7 @@
     <div class="col-md-6">
         <div class="row">
             <div class="inner-container">
-                <div class="col-md-12 highlight text-center">
+                <div class="col-md-12 highlight text-center" id="target-label-modal">
                     Target
                 </div>
                 <div class="col-md-12 highlight">

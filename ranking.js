@@ -1,7 +1,7 @@
 $(function() {
     var dialog;
 
-    dialog = $("#dialog").dialog({
+    dialog = $("#dialog_2").dialog({
         autoOpen: false,
         height: 540,
         width: 1200,
@@ -140,7 +140,7 @@ function createList(svg, x_init, y_init, count, labels, srcLabels, targetLabels)
             var pre_node = labels[pre_node_index];
             var post_node = labels[post_node_index];
 //            console.log(lb_text);
-            $("#dialog").dialog("open");
+            $("#dialog_2").dialog("open");
             setTimeout(
                     function()
                     {

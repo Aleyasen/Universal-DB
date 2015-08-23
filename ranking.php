@@ -43,7 +43,7 @@
         </div>
     </div>
 
-    <div id="dialog" title="Algorithms Comparison">
+    <div id="dialog_2" title="Algorithms Comparison">
         <!--<div>Query: XYZ</div>-->
         <?php include 'network_modal.php'; ?>
     </div>

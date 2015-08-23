@@ -47,6 +47,11 @@ $(document).ready(function() {
             console.log(data);
             $("#source-label").text(data.schema.source.name);
             $("#target-label").text(data.schema.target.name);
+            $("#source-label-modal").text(data.schema.source.name);
+            $("#target-label-modal").text(data.schema.target.name);
+            console.log("dialog >>>>>>>");
+            console.log($("#dialog"));
+            $("#dialog_2").prop('title', data.name);
             generateAllGraphs();
 //            $.each(data, function(key, val) {
 //                items.push("<li id='" + key + "'>" + val + "</li>");
