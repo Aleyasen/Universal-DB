@@ -1,89 +1,26 @@
-793816	Semantic e-Workflow Composition
-127832	Formal Ontology and Information Systems
-133771	Generic Schema Matching with Cupid
-372215	Ontologies: principles, methods and applications
-781468	Federated database systems for managing distributed, heterogeneous, and autonomous databases
-1364311	Semantic Matching of Web Services Capabilities
-1992594	A Translation Approach to Portable Ontology Specifications
-2018268	PROMPT: Algorithm and Tool for Automated Ontology Merging and Alignment
-231407	OBSERVER: An Approach for Query Processing in Global Information Systems Based on Interoperation Across Pre-Existing Ontologies
-126201	DAML-S: Semantic Markup For Web Services
-133397	OntoSeek: Content-Based Access to the Web
-1329394	XLANG Web Services for Business Process Design
-398353	Semantic and Schematic Similarities Between Database Objects: A Context-Based Approach
-95319	Dynamic service matchmaking among agents in open information environments
-807585	Composing Web services on the Semantic Web
-1745277	Quality of service for workflows and web service processes
-802709	Determining Semantic Similarity among Entity Classes from Different Ontologies
-1856135	Ontologies Are Us: A Unified Model of Social Networks and Semantics
-772980	WordNet: a lexical database for English
-824347	Toward principles for the design of ontologies used for knowledge sharing?
-766065	An Ontological Model of an Information System
-52738	COMA - A System for Flexible Combination of Schema Matching Approaches
-85146	A survey of approaches to automatic schema matching
-489293	Learning to map between ontologies on the semantic web
-522294	Similarity Flooding: A Versatile Graph Matching Algorithm and Its Application to Schema Matching
-807590	Learning to match ontologies on the Semantic Web
-1733718	A Survey of Schema-Based Matching Approaches
-84754	Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach
-196795	Using Schema Matching to Simplify Heterogeneous Data Translation
-577890	Schema Mapping as Query Discovery
-326447	Semantic integration of semistructured and structured data sources
-201105	A Framework for Understanding and Classifying Ontology Applications
-237951	OIL in a Nutshell
-238990	Knowledge Engineering: Principles and Methods
-2060441	Ontology development 101: A guide to creating your first ontology
-246893	Methodology for the Design and Evaluation of Ontologies
-403985	Towards a Methodology for Building Ontologies
-577900	The entity-relationship model: toward a unified view of data
-694450	An Introduction to Database Systems
-695213	Principles of Distributed Database Systems
-161007	Query Caching and Optimization in Distributed Mediator Systems
-234595	A Graph-Oriented Model for Articulation of Ontology Interdependencies
-325983	Lore: a database management system for semistructured data
-334622	Description Logics in Data Management
-341264	Query Reformulation for Dynamic Information Integration
-341825	Data Model and Query Evaluation in Global Information Systems
-781126	Interoperability of multiple autonomous databases
-781559	Query evaluation techniques for large databases
-804074	Using semantic values to facilitate interoperability among heterogeneous information systems
-1406678	Foundations of Databases
-1717997	Ontology Evolution: Not the Same as Schema Evolution
-1860317	Ontology Mapping: The State of the Art
-2091218	Ontology mapping: the state of the art
-2378348	Piazza: data management infrastructure for semantic web applications
-781572	A comparative analysis of methodologies for database schema integration
+1957278	Design and natural science research on information technology
 803605	The entity-relationship model---toward a unified view of data
-694962	Distributed Databases: Principles and Systems
-803759	The functional data model and the data languages DAPLEX
-1308231	The functional data model and the data language DAPLEX
-781064	A logical design methodology for relational databases using the extended entity-relationship model
+781058	Computer-based systems for cooperative work and group decision making
+1934993	A framework for management information systems
+1301841	A Program for Research on Management Information Systems
+1406678	Foundations of Databases
+171052	Telos: representing knowledge about information systems
+781468	Federated database systems for managing distributed, heterogeneous, and autonomous databases
+781572	A comparative analysis of methodologies for database schema integration
+781559	Query evaluation techniques for large databases
+694578	The Theory of Relational Databases
+667173	A Data Model and Query Language for EXODUS
+695296	Database Description with SDM: A Semantic Database Model
 780883	Semantic data models
-765910	A Theory of Attribute Equivalence in Databases with Application to Schema Integration
-767778	View Definition and Generalization for Database Integration in a Multidatabase System
-804392	A federated architecture for information management
-4442249	Data Models
-579334	Simlarity Search for Web Services
-1856091	Bringing Semantics to Web Services: The OWL-S Approach
-1911828	DAML-S: Web Service Description for the Semantic Web
-121622	Combining and relating ontologies: an analysis of problems and solutions
-824873	The Ontolingua Server: a tool for collaborative ontology construction
-40898	Mediators in the Architecture of Future Information Systems
-176979	FCA-MERGE: Bottom-Up Merging of Ontologies
-927164	The PROMPT suite: interactive tools for ontology merging and mapping
-3935807	The Ontolin-gua Server: A Tool for Collaborative Ontology Construction
-383296	The TSIMMIS Project: Integration of Heterogeneous Information Sources
-14415090	InfoSleuth: agent-based semantic integration of information in open and dynamic environments
-356522	Retrieving and Integrating Data from Multiple Information Sources
-3070	KQML as an agent communication language
-444283	A Petri Net-based Model for Web Service Composition
-822416	Web services and business process management
-578793	Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases
-778984	Data Cleaning: Problems and Current Approaches
-846844	Classifying Schematic and Data Heterogeneity in Multidatabase Systems
-3974516	The TSIMMIS Approach to Mediation: Data Models and Languages
-193591	Infomaster: An Information Integration System
-1856049	A Survey of Automated Web Service Composition Methods
-588980	Adaptive and Dynamic Service Composition in eFlow
-522944	Declarative Composition and Peer-to-Peer Provisioning of Dynamic Web Services
-310910	An Information-Theoretic Definition of Similarity
+780993	Types and persistence in database programming languages
+781064	A logical design methodology for relational databases using the extended entity-relationship model
+803759	The functional data model and the data languages DAPLEX
+803762	Database description with SDM: a semantic database model
+803915	IFO: a formal semantic database model
+822207	Extending and Formalizing the Framework for Information Systems Architecture
+2404354	Principles of Database and Knowledge-Base Systems, Volume II
+3217526	Implementation of integrity constraints and views by query modification
+780793	The Interdisciplinary Study of Coordination
+1943607	Groups: interaction and performance
+773057	Intelligent information-sharing systems
+697046	The Web of Computing: Computer Technology as Social Organization

@@ -37,6 +37,7 @@ $e_output1 = $dbs[$dataset]["schema"]["source"]["e_files"];
 $v_output2 = $dbs[$dataset]["schema"]["target"]["v_files"];
 $e_output2 = $dbs[$dataset]["schema"]["target"]["e_files"];
 
+$entities = $dbs[$dataset]["entity_nodes"];
 
 if (isset($_GET["nofilter"])) {
     if ($schema == "src") {
@@ -72,16 +73,17 @@ if (isset($_GET["nofilter"])) {
 //        mkdir($loc_out2);
 //    }
 // read graph data
-    $graphData = graphReaders($loc, $v_files, $e_files);
+    $graphData = graphReaders($loc, $v_files, $e_files, $entities);
 
     if (isset($_GET["seed"])) {
 
         $seed_node = $_GET["seed"];
+//        $seed_node = "Implementation of integrity constraints and views by query modification";
 // locate query node from node type+value
         $v = idInFullGraph($seed_node, $graphData[2], $graphData[3]);
 
 // bfs search
-        $vs = bfsTraversal($v, $graphData[5], $RADIUS, $MAX_NODES);
+        $vs = bfsTraversal($v, $graphData[5], $RADIUS, $MAX_NODES, $graphData[4]);
     } else {
 
         $result_node = $_GET["result_node"];
@@ -220,7 +222,7 @@ if (isset($_GET["nofilter"])) {
         for ($i = 0; $i < sizeof($vs1); $i++) {
             if (isset($dist_query_node[$vs1[$i]]) && isset($dist_pre_node[$vs1[$i]])) {
                 $d = $dist_query_node[$vs1[$i]] + $dist_pre_node[$vs1[$i]];
-                if ($d <= ($dis_pre_query  )) {
+                if ($d <= ($dis_pre_query )) {
                     array_push($vs, $vs1[$i]);
                 }
             }
@@ -254,6 +256,9 @@ if (isset($_GET["nofilter"])) {
 //            }
 //        }
     }
+    $vs_ent = filterEntities($vs, $graphData[4], $graphData[6]);
+
+    $vs = connectEntities($vs_ent, $graphData[5], $graphData[4], $graphData[6]);
 // schema 1 filter
     if ($schema == "src") {
         $out_dir1 = printToFile($loc_out1, $v_output1, $e_output1, $vs, $graphData[4], $graphData[3], $graphData[1], $graphData[0], $graphData[5]);

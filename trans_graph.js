@@ -1,6 +1,6 @@
 
 var default_radius = 1;
-var default_max_nodes = 1000;
+var default_max_nodes = 100000;
 
 var radius_fr_filter = 3;
 var max_nodes_fr_filter = 200;

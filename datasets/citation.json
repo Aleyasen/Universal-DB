@@ -10,8 +10,12 @@
         "citation"
     ],
     "e_files": [
-        "paper_paper",
-        "paper_citation"
+        "paper_citation",
+        "paper_paper"
+
+    ],
+    "entity_nodes": [
+        "paper"
     ],
     "schema": {
         "source": {

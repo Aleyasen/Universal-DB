@@ -24,6 +24,12 @@
         "film_directedby",
         "film_director"
     ],
+    "entity_nodes": [
+        "actor",
+        "film",
+        "character",
+        "director"
+    ],
     "schema": {
         "source": {
             "name": "IMDb",

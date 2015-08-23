@@ -5,14 +5,16 @@ require_once 'utils.php';
 
 // ------------------------------------------------------------------------------------
 
-function graphReaders($loc, $v_files, $e_files) {
 
-    $h_VVG = array(); // node_id	=> graph_id
-    $h_VGV = array(); // graph_id	=> node_id
-    $h_VA = array(); // node_id 	=> node_val
+function graphReaders($loc, $v_files, $e_files, $entities) {
+
+    $h_VVG = array();  // node_id	=> graph_id
+    $h_VGV = array();  // graph_id	=> node_id
+    $h_VA = array();  // node_id 	=> node_val
     $h_AV = array(); // node_val => node_id
     $h_L = array();  // label 	=> label_id 	and		label_id	=> label
     $h_EG = array(); // graph_id => graph_id list
+    $l_ENT = array(); // list of entity_id
     // read node files
     $t_id = 0;
     $vg_id = 0;
@@ -101,7 +103,12 @@ function graphReaders($loc, $v_files, $e_files) {
 //    c_log(print_r($h_VGV, true));
 //    c_log(print_r($h_EG, true));
     // check comment for each var
-    return array($h_L, $h_VA, $h_AV, $h_VVG, $h_VGV, $h_EG);
+    // read entity types
+    foreach ($entities as $ent) {
+        array_push($l_ENT, $h_L[$ent]);
+    }
+
+    return array($h_L, $h_VA, $h_AV, $h_VVG, $h_VGV, $h_EG, $l_ENT);
 }
 
 function idInFullGraph($n_val, $h_AV, $h_VVG) {
@@ -109,6 +116,55 @@ function idInFullGraph($n_val, $h_AV, $h_VVG) {
     $vg = $h_VVG[$n_id];
 
     return $vg;
+}
+
+function filterEntities($vs, $h_VGV, $l_ENT) {
+    $vg_ent = array();
+    foreach ($vs as $vg) {
+        $v = $h_VGV[$vg];
+        $vt = $v % 100;
+        if (in_array($vt, $l_ENT)) {
+            array_push($vg_ent, $vg);
+        }
+    }
+    return $vg_ent;
+}
+
+function connectEntities($vg_ent, $h_EG, $h_VGV, $l_ENT) {
+    $vs = array();
+    foreach ($vg_ent as $vg1) {
+        foreach ($vg_ent as $vg2) {
+            if ($vg1 == $vg2) {
+                continue;
+            }
+            $eg1 = $h_EG[$vg1];
+            $eg2 = $h_EG[$vg2];
+            $common_neighbor = array();
+            foreach ($eg1 as $n1) {
+                if (in_array($n1, $eg2)) {
+                    array_push($common_neighbor, $n1);
+                }
+            }
+            foreach ($eg2 as $n2) {
+                if (in_array($n2, $eg1) && !in_array($n2, $common_neighbor)) {
+                    array_push($common_neighbor, $n2);
+                }
+            }
+            foreach ($common_neighbor as $n) {
+                $v = $h_VGV[$n];
+                $vt = $v % 100;
+                if (!in_array($vt, $l_ENT)) {
+                    if (!in_array($n, $vs)) {
+                        array_push($vs, $n);
+                    }
+                }
+            }
+        }
+        if (!in_array($vg1, $vs)) {
+            array_push($vs, $vg1);
+        }
+    }
+    return $vs;
 }
 
 function findShortestPath($vfrom, $vto, $h_EG) {
@@ -138,7 +194,7 @@ function findShortestPath($vfrom, $vto, $h_EG) {
 //                }
 //            }
 //            echo "<br>";
-            return $n ;
+            return $n;
         }
         $eg = $h_EG[$v];
         foreach ($eg as $v2) {
@@ -190,7 +246,9 @@ function bfsTraversalWithDistance($vg, $h_EG, $RAD, $MAX_NODES) {
     return $vs;
 }
 
-function bfsTraversal($vg, $h_EG, $RAD, $MAX_NODES) {
+function bfsTraversal($vg, $h_EG, $RAD, $MAX_NODES, $h_VGV) {
+    c_log("hello bfs from " . $h_VGV[$vg] . " Rad: " . $RAD . " MaxNodes: " . $MAX_NODES . "\n");
+    c_log(print_r($h_EG[$vg], true));
     $vs = array();
     $mark = array();
     $queue = new SplQueue();
@@ -200,24 +258,38 @@ function bfsTraversal($vg, $h_EG, $RAD, $MAX_NODES) {
     $mark[$vg] = 1;
 
     while (!$queue->isEmpty() && count($vs) < $MAX_NODES) {
+
         $v = $queue->dequeue();
         $n = $queue_rad->dequeue();
+        c_log("dequeue: " . $h_VGV[$v] . " d: " . $n . "\n");
         array_push($vs, $v);
-        if ($n > $RAD) {
+        if ($n >= $RAD) {
+            c_log("n: " . $n . " RAD:" . $RAD);
+            c_log("bfsTraversal - exceed max radius >>>>>>>>>>>>>>>>>>>>>>>");
+//            c_log(print_r($vs, true));
+            continue;
+        }
+        if ($n > ($RAD + 2)) {
             break;
         }
         $eg = $h_EG[$v];
+        foreach ($eg as $vv) {
+            c_log("\t\t" . $h_VGV[$v] . " >>>>>>>t> " . $h_VGV[$vv] . "\n");
+        }
         foreach ($eg as $v2) {
             if (!isset($mark[$v2])) {
                 $mark[$v2] = 1;
                 $queue->enqueue($v2);
                 $queue_rad->enqueue($n + 1);
+                c_log("enqueue: " . $h_VGV[$v2] . " d: " . $n . "parent: " . $h_VGV[$v] . "\n");
+
 //                echo "enqueue: " . $v . " d: " . $n . "<br>";
             }
         }
     }
 
     // test print
+    c_log("bfsTraversal done >>>>>>>>>>>>>>>>>>>>>>>");
 //    c_log(print_r($vs, true));
 
     return $vs;
