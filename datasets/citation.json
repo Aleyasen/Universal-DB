@@ -19,7 +19,7 @@
     ],
     "schema": {
         "source": {
-            "name": "DBLP",
+            "name": "Digital Bibliography & Library Project (DBLP)",
             "v_files": [
                 "paper"
             ],
@@ -28,7 +28,7 @@
             ]
         },
         "target": {
-            "name": "SNAP",
+            "name": "Stanford Network Analysis Project (SNAP)",
             "v_files": [
                 "paper",
                 "citation"

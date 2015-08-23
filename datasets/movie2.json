@@ -32,7 +32,7 @@
     ],
     "schema": {
         "source": {
-            "name": "IMDb",
+            "name": "Internet Movie Database (IMDb)",
             "v_files": [
                 "actor",
                 "character",
