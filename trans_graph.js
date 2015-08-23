@@ -32,6 +32,20 @@ $(document).ready(function() {
 
 });
 
+getEntityNodes = function(dataset) {
+//    alert(dataset);
+    var url = "./getattr.php?dataset=" + dataset + "&attr=entity_nodes";
+    return $.getJSON(url, function(data) {
+//        console.log("get " + file_loc);
+//        alert(file_loc);
+//        alert(entity_nodes_json);
+//        var data = JSON.parse(entity_nodes_json);
+//        alert("salam" + data);
+        return data;
+    });
+
+}
+
 function filterGraph(seed, radius, max_nodes) {
     var generic_url = "./filtergraph.php?";
     generic_url += "seed=" + escape(seed) + "&";
@@ -40,21 +54,26 @@ function filterGraph(seed, radius, max_nodes) {
     var selectedDataset = $(".datasetpicker").select().val();
 //    alert(selectedDataset);
     generic_url += "dataset=" + selectedDataset;
-    var src_url = generic_url + "&schema=src";
-    var target_url = generic_url + "&schema=target";
-    console.log("src_url " + src_url);
-    console.log("target_url " + target_url);
-    $.get(src_url, function(file_loc) {
-        console.log("get " + file_loc);
+
+    var entitynd = getEntityNodes(selectedDataset);
+    entitynd.then(function(entityNodes) {
+
+        var src_url = generic_url + "&schema=src";
+        var target_url = generic_url + "&schema=target";
+        console.log("src_url " + src_url);
+        console.log("target_url " + target_url);
+        $.get(src_url, function(file_loc) {
+            console.log("get " + file_loc);
 //        alert(file_loc);
-        generateGraph("#trans-src", file_loc);
-    });
-    $.get(target_url, function(file_loc) {
-        console.log("get " + file_loc);
+            generateGraph("#trans-src", file_loc, entityNodes);
+        });
+        $.get(target_url, function(file_loc) {
+            console.log("get " + file_loc);
 //        alert(file_loc);
-        generateGraph("#trans-target", file_loc);
+            generateGraph("#trans-target", file_loc, entityNodes);
+        });
+        $(".refresh-graph").css('visibility', 'visible');
     });
-    $(".refresh-graph").css('visibility', 'visible');
 }
 
 
@@ -69,26 +88,27 @@ function generateModalContent(result_node, query_node, src_ranking_list, target_
     generic_url += "radius=" + default_radius_fr + "&";
     generic_url += "max_nodes=" + default_max_nodes_fr + "&";
     var selectedDataset = $(".datasetpicker").select().val();
-//    alert(selectedDataset);
-    generic_url += "dataset=" + selectedDataset;
-    var src_url = generic_url + "&schema=src";
-    var target_url = generic_url + "&schema=target";
+    var entitynd = getEntityNodes(selectedDataset);
+    entitynd.then(function(entityNodes) {
 
+        generic_url += "dataset=" + selectedDataset;
+        var src_url = generic_url + "&schema=src";
+        var target_url = generic_url + "&schema=target";
 
-    console.log("src_url " + src_url);
-    console.log("target_url " + target_url);
-    $.get(src_url, function(file_loc) {
-        console.log("get " + file_loc);
+        console.log("src_url " + src_url);
+        console.log("target_url " + target_url);
+        $.get(src_url, function(file_loc) {
+            console.log("get " + file_loc);
 //        alert(file_loc);
-        generateGraphForRanking("#modal-content-src", file_loc, result_node, query_node, src_ranking_list);
-    });
-    $.get(target_url, function(file_loc) {
-        console.log("get " + file_loc);
+            generateGraphForRanking("#modal-content-src", file_loc, result_node, query_node, src_ranking_list, entityNodes);
+        });
+        $.get(target_url, function(file_loc) {
+            console.log("get " + file_loc);
 //        alert(file_loc);
-        generateGraphForRanking("#modal-content-target", file_loc, result_node, query_node, target_ranking_list);
+            generateGraphForRanking("#modal-content-target", file_loc, result_node, query_node, target_ranking_list, entityNodes);
 
+        });
     });
-
 }
 
 
@@ -109,25 +129,33 @@ function generateNetworks() {
     var generic_url = "./filtergraph.php?";
     generic_url += "nofilter=1&";
     var selectedDataset = $(".datasetpicker").select().val();
-    generic_url += "dataset=" + selectedDataset;
-    var src_url = generic_url + "&schema=src";
-    var target_url = generic_url + "&schema=target";
-    console.log("src_url " + src_url);
-    console.log("target_url " + target_url);
-    $.get(src_url, function(file_loc) {
-        console.log("get no filter: " + file_loc);
+    var entitynd = getEntityNodes(selectedDataset);
+    entitynd.then(function(entityNodes) {
+//        alert(result);
+
+        console.log(">>>>>>>>>>>>>>>>>>");
+        console.log(entityNodes);
+        generic_url += "dataset=" + selectedDataset;
+        var src_url = generic_url + "&schema=src";
+        var target_url = generic_url + "&schema=target";
+        console.log("src_url " + src_url);
+        console.log("target_url " + target_url);
+        $.get(src_url, function(file_loc) {
+            console.log("get no filter: " + file_loc);
 //        alert(file_loc);
-        generateGraph("#trans-src", file_loc);
-    });
-    $.get(target_url, function(file_loc) {
-        console.log("get no filter: " + file_loc);
+            generateGraph("#trans-src", file_loc, entityNodes);
+        });
+        $.get(target_url, function(file_loc) {
+            console.log("get no filter: " + file_loc);
 //        alert(file_loc);
-        generateGraph("#trans-target", file_loc);
+            generateGraph("#trans-target", file_loc, entityNodes);
+        });
+        $(".refresh-graph").css('visibility', 'visible');
     });
-    $(".refresh-graph").css('visibility', 'visible');
 }
 
-function generateGraph(container, inputdata) {
+function generateGraph(container, inputdata, entityNodes) {
+//    alert(entityNodes);
     d3.select(container).html("");
     var width = $(container).width();
 //        alert(width);
@@ -271,7 +299,12 @@ function generateGraph(container, inputdata) {
                 .attr("dx", 15)
                 .attr("dy", ".35em")
                 .text(function(d) {
-                    return d.name;
+                    var isInList = jQuery.inArray(d.type, entityNodes);
+                    if (isInList == -1) {
+                        return "";
+                    } else {
+                        return d.name;
+                    }
                 });
 //            force.stop();
 
@@ -350,7 +383,7 @@ function generateGraph(container, inputdata) {
 
 
 
-function generateGraphForRanking(container, inputdata, result_node, query_node, ranking_list) {
+function generateGraphForRanking(container, inputdata, result_node, query_node, ranking_list, entityNodes) {
 //    console.log("ranking list:");
 //    console.log(ranking_list);
     d3.select(container).html("");
@@ -427,18 +460,23 @@ function generateGraphForRanking(container, inputdata, result_node, query_node, 
                 .attr("dx", 15)
                 .attr("dy", ".35em")
                 .text(function(d) {
-                    var rank = jQuery.inArray(d.name, ranking_list);
-                    if (d.name == result_node) {
-                        return d.name + "* (" + (rank + 1) + ")";
-                    }
-                    if (d.name == query_node) {
-                        return d.name + " (q)";
-                    }
+                    var isInList = jQuery.inArray(d.type, entityNodes);
+                    if (isInList == -1) {
+                        return "";
+                    } else {
+                        var rank = jQuery.inArray(d.name, ranking_list);
+                        if (d.name == result_node) {
+                            return d.name + "* (" + (rank + 1) + ")";
+                        }
+                        if (d.name == query_node) {
+                            return d.name + " (q)";
+                        }
 
-                    if (rank != -1) {
-                        return d.name + " (" + (rank + 1) + ")";
+                        if (rank != -1) {
+                            return d.name + " (" + (rank + 1) + ")";
+                        }
+                        return d.name;
                     }
-                    return d.name;
 
                 });
 

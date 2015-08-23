@@ -58,21 +58,21 @@ $(document).ready(function() {
 //    var datafile = "data.json";
 //    var datafile = "data/uw-courses/data.json";
 
-        var datafile = "data/uw-courses_small/source.json";
+//        var datafile = "data/uw-courses_small/source.json";
 //    var datafile =  "data/samplegraph/data.json";
 
-        generateGraph("#rwr-src", datafile);
-        generateGraph("#rwr-target", datafile);
-
-        generateGraph("#simrank-src", datafile);
-        generateGraph("#simrank-target", datafile);
-
-        generateGraph("#rpathsim-src", datafile);
-        generateGraph("#rpathsim-target", datafile);
-
-
-        generateGraph("#rpathsim2-src", datafile);
-        generateGraph("#rpathsim2-target", datafile);
+//        generateGraph("#rwr-src", datafile);
+//        generateGraph("#rwr-target", datafile);
+//
+//        generateGraph("#simrank-src", datafile);
+//        generateGraph("#simrank-target", datafile);
+//
+//        generateGraph("#rpathsim-src", datafile);
+//        generateGraph("#rpathsim-target", datafile);
+//
+//
+//        generateGraph("#rpathsim2-src", datafile);
+//        generateGraph("#rpathsim2-target", datafile);
     }
 
 //    function generateGraph(container, inputdata) {

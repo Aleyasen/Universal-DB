@@ -6,7 +6,4 @@
     <div role="tabpanel" class="tab-pane" id="ranking">
         <?php include 'ranking.php'; ?>
     </div>
-    <div role="tabpanel" class="tab-pane" id="algorithm">
-        <?php include 'network.php'; ?>
-    </div>
 </div>
