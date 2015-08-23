@@ -3,8 +3,8 @@ $(function() {
 
     dialog = $("#dialog_2").dialog({
         autoOpen: false,
-        height: 540,
-        width: 1200,
+        height: "550",
+        width: "98%",
         modal: true
     });
 
