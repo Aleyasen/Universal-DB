@@ -7,10 +7,21 @@ $(document).ready(function() {
         doIt(loc_queries, loc_result_dir, k);
     });
 
+    $(".search-box").bind("enterKey", function(e) {
+        doIt(loc_queries, loc_result_dir);
+    });
+    
+    $(".search-box").keyup(function(e) {
+        if (e.keyCode == 13)
+        {
+            $(this).trigger("enterKey");
+        }
+    });
+
     $('.search-button').click(function() {
         doIt(loc_queries, loc_result_dir);
 //        generateAllGraphs();
-        
+
     });
 
 
@@ -49,7 +60,7 @@ function doIt(query_list, result_dir, k) {
     var q_index = -1;
 //    console.log("query_list");
 //    console.log(query_list);
-    
+
     for (var i = 0; i <= query_list.length; i++) {
         if (query_list[i] == q) {
             q_index = i;
