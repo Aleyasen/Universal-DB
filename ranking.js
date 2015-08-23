@@ -51,10 +51,12 @@ function generateAllLists(result_dir, query_index, tk, query_text) {
 
 function generateList(selector, src_query_file, target_query_file) {
     //    d3.select(selector).remove();
+    var list_size = top_k;
+
     d3.select(selector).selectAll("*").remove();
     var svgContainer = d3.select(selector).append("svg")
             .attr("width", 280)
-            .attr("height", top_k * 35);
+            .attr("height", list_size * 35);
 
     readFileWithoutHeader(src_query_file, function(src_list) {
         readFileWithoutHeader(target_query_file, function(target_list) {
@@ -63,7 +65,8 @@ function generateList(selector, src_query_file, target_query_file) {
 //                console.log(target_list[1]);
 //                console.log(src_list[5]);
 //                console.log(svgContainer);
-            createAll(svgContainer, top_k, src_list, target_list);
+            list_size = Math.min(list_size, src_list.length);
+            createAll(svgContainer, list_size, src_list, target_list);
         });
     });
 }
@@ -240,6 +243,9 @@ function parseFileWithoutHeader(allText) {
 //    console.log("lines");
 //    console.log(allTextLines);
     for (var i = 0; i < allTextLines.length; i++) {
+        if (allTextLines[i].length == 0){
+            break;
+        }
         var split = allTextLines[i].split('\t');
         result[i] = split[0];
     }
