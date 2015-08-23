@@ -1,21 +1,16 @@
-1048	Cognitive Processes
-996	Intro to Psychology I
-1046	Human Development
-534	Psycholinguistics
-537	Psych of Language Acquisition
-1039	Research Design  and  DataAnalysi
-1052	Learning
-1007	Intro to Psychology II
-1037	Thinking
-1000	Intro to Psychology
-1033	Psychopharmacology
-1014	Social Psychology
-1063	Psychobiology Research
-1065	Clinical Psychology
-1043	Psychopathology
-1054	Music Perception
-1031	Neuropsychology
-1023	Community Psychology
-1017	Health Psychology
-1020	Social Development
-1056	Cross-Cultural Psychology
+642	Topics in Advanced AnalysisII
+596	Introduction to Computing
+619	Complex Analysis
+648	Topics In Computer Theory
+1212	Ornamental Art
+631	Combinatorics
+603	Intro to Probability  and Statist
+599	Introduction to Combinatorics
+644	Elemetary Number Theory
+627	Abstract Algebra
+646	Algebraic Structures
+635	Computer Graphics
+633	Data Structure  and  Algorithm
+621	Advanced Calculus
+629	Geometry
+640	Probability
