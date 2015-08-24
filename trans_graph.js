@@ -374,7 +374,13 @@ function generateGraph(container, inputdata, entityNodes) {
 
         d3.selectAll(".trans-graph > svg").selectAll(selector + " image")
                 .attr("width", focus_icon_size)
-                .attr("height", focus_icon_size);
+                .attr("height", focus_icon_size)
+                .attr("x", -focus_icon_size / 2)
+                .attr("y", -focus_icon_size / 2);
+
+        d3.selectAll(".trans-graph > svg").selectAll(selector + " text")
+                .attr("dx", 25)
+                .attr("dy", ".35em");
     }
 
 
@@ -508,6 +514,8 @@ function generateGraphForRanking(container, inputdata, result_node, query_node, 
         d3.selectAll(".compare-graph > svg").selectAll(selector)
                 .attr("width", 25)
                 .attr("height", 25)
+                .attr("x", -25 / 2)
+                .attr("y", -25 / 2)
                 .classed("fixed", d.fixed = false);
 
     }
@@ -521,7 +529,13 @@ function generateGraphForRanking(container, inputdata, result_node, query_node, 
 
         d3.selectAll(".compare-graph > svg").selectAll(selector + " image")
                 .attr("width", 45)
-                .attr("height", 45);
+                .attr("height", 45)
+                .attr("x", -45 / 2)
+                .attr("y", -45 / 2);
+
+        d3.selectAll(".compare-graph > svg").selectAll(selector + " text")
+                .attr("dx", 25)
+                .attr("dy", ".35em");
     }
 
 
