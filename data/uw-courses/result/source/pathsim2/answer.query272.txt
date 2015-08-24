@@ -1,0 +1,14 @@
+Advanced Laboratory I	|	0.9600
+Advanced Laboratory II	|	0.9600
+General Physics I	|	0.4706
+Classical Mechanics I	|	0.4706
+Electrodynamics I	|	0.4706
+Electrodynamics II	|	0.4706
+Optics	|	0.4706
+Quantum Mechanics I	|	0.4706
+Thermal Physics	|	0.4706
+Solid State Physics	|	0.4706
+Elementary Particles	|	0.4706
+Classical Mechanics II	|	0.4706
+Quantum Mechanics II	|	0.4706
+Scientific Computation	|	0.4444

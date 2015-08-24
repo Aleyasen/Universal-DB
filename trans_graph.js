@@ -167,10 +167,10 @@ function generateGraph(container, inputdata, entityNodes) {
 //    alert(height);
     var color = d3.scale.category10();
     var force = d3.layout.force()
-//            .gravity(.5)
-            .distance(120)
-            .charge(-200)
-//            .friction(.8)
+//            .gravity(.1)
+            .distance(100)
+            .charge(-250)
+//            .friction(.4)
             .size([width, height]);
     safety = 0;
     var svg = d3.select(container).append("svg")

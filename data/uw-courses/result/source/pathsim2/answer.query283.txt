@@ -1,0 +1,26 @@
+Field Biology of Amphibians	|	0.6667
+Bacterial Pathogenesis	|	0.6667
+Seminar in Biology	|	0.6667
+Classical Mechanics I	|	0.6667
+Electrodynamics I	|	0.6667
+Electrodynamics II	|	0.6667
+Optics	|	0.6667
+Quantum Mechanics I	|	0.6667
+Thermal Physics	|	0.6667
+Solid State Physics	|	0.6667
+Elementary Particles	|	0.6667
+Classical Mechanics II	|	0.6667
+Quantum Mechanics II	|	0.6667
+Advanced Laboratory I	|	0.5455
+Advanced Laboratory II	|	0.5455
+Vascular Plant Diversity	|	0.5455
+Animal Behav.  and  Behav.Ecology	|	0.5455
+Developmental Biology	|	0.5455
+Genetics and Gene Regulation	|	0.5455
+Population Bio:Ecolgy and Evolutn	|	0.5455
+Cellular Biology	|	0.5455
+Animal Physiology	|	0.5455
+Evolutionary Biology	|	0.5455
+General Physics II	|	0.4444
+Genetics and MolecularBiology	|	0.4444
+General Physics I	|	0.1240

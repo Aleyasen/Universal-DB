@@ -19,7 +19,8 @@
     "entity_nodes": [
         "course",
         "inst",
-        "subject"
+        "subject",
+        "offer"
     ],
     "schema": {
         "source": {
