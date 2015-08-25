@@ -1,0 +1,35 @@
+{
+    "nodes": [
+        {
+            "index": 0,
+            "dataId": "inst-2723",
+            "name": "AHN",
+            "type": "inst",
+            "group": 2
+        },
+        {
+            "index": 1,
+            "dataId": "offer-2722",
+            "name": "3805",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 2,
+            "dataId": "offer-3579",
+            "name": "4898",
+            "type": "offer",
+            "group": 3
+        }
+    ],
+    "links": [
+        {
+            "source": 1,
+            "target": 0
+        },
+        {
+            "source": 2,
+            "target": 0
+        }
+    ]
+}

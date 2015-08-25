@@ -1,0 +1,358 @@
+{
+    "nodes": [
+        {
+            "index": 0,
+            "dataId": "course-2713",
+            "name": "STAT ANALYS",
+            "type": "course",
+            "group": 1
+        },
+        {
+            "index": 1,
+            "dataId": "course-2716",
+            "name": "EXPERMTL DES",
+            "type": "course",
+            "group": 1
+        },
+        {
+            "index": 2,
+            "dataId": "course-2718",
+            "name": "NONPARA STAT",
+            "type": "course",
+            "group": 1
+        },
+        {
+            "index": 3,
+            "dataId": "course-2721",
+            "name": "TIME SERIES",
+            "type": "course",
+            "group": 1
+        },
+        {
+            "index": 4,
+            "dataId": "course-2724",
+            "name": "LINEAR MODEL",
+            "type": "course",
+            "group": 1
+        },
+        {
+            "index": 5,
+            "dataId": "course-2726",
+            "name": "STAT COMPUT",
+            "type": "course",
+            "group": 1
+        },
+        {
+            "index": 6,
+            "dataId": "inst-2505",
+            "name": "NEWMAN",
+            "type": "inst",
+            "group": 2
+        },
+        {
+            "index": 7,
+            "dataId": "inst-2720",
+            "name": "STEINHORST",
+            "type": "inst",
+            "group": 2
+        },
+        {
+            "index": 8,
+            "dataId": "inst-766",
+            "name": "WILLIAMS",
+            "type": "inst",
+            "group": 2
+        },
+        {
+            "index": 9,
+            "dataId": "inst-2723",
+            "name": "AHN",
+            "type": "inst",
+            "group": 2
+        },
+        {
+            "index": 10,
+            "dataId": "inst-310",
+            "name": "LEE",
+            "type": "inst",
+            "group": 2
+        },
+        {
+            "index": 11,
+            "dataId": "offer-2714",
+            "name": "3792",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 12,
+            "dataId": "offer-2719",
+            "name": "3804",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 13,
+            "dataId": "offer-2717",
+            "name": "3799",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 14,
+            "dataId": "offer-2722",
+            "name": "3805",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 15,
+            "dataId": "offer-2725",
+            "name": "3806",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 16,
+            "dataId": "offer-2727",
+            "name": "3807",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 17,
+            "dataId": "offer-3019",
+            "name": "4222",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 18,
+            "dataId": "offer-2504",
+            "name": "3556",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 19,
+            "dataId": "offer-2209",
+            "name": "3301",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 20,
+            "dataId": "offer-1080",
+            "name": "1992",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 21,
+            "dataId": "offer-1041",
+            "name": "1976",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 22,
+            "dataId": "offer-765",
+            "name": "1738",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 23,
+            "dataId": "offer-2358",
+            "name": "3436",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 24,
+            "dataId": "offer-3579",
+            "name": "4898",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 25,
+            "dataId": "offer-309",
+            "name": "1271",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 26,
+            "dataId": "offer-622",
+            "name": "1560",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 27,
+            "dataId": "offer-3176",
+            "name": "4418",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 28,
+            "dataId": "offer-1937",
+            "name": "2884",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 29,
+            "dataId": "offer-578",
+            "name": "1524",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 30,
+            "dataId": "offer-577",
+            "name": "1522",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 31,
+            "dataId": "subject-2715",
+            "name": "STAT",
+            "type": "subject",
+            "group": 4
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 11
+        },
+        {
+            "source": 1,
+            "target": 13
+        },
+        {
+            "source": 2,
+            "target": 12
+        },
+        {
+            "source": 3,
+            "target": 14
+        },
+        {
+            "source": 4,
+            "target": 15
+        },
+        {
+            "source": 5,
+            "target": 16
+        },
+        {
+            "source": 0,
+            "target": 31
+        },
+        {
+            "source": 1,
+            "target": 31
+        },
+        {
+            "source": 2,
+            "target": 31
+        },
+        {
+            "source": 3,
+            "target": 31
+        },
+        {
+            "source": 4,
+            "target": 31
+        },
+        {
+            "source": 5,
+            "target": 31
+        },
+        {
+            "source": 11,
+            "target": 6
+        },
+        {
+            "source": 12,
+            "target": 7
+        },
+        {
+            "source": 13,
+            "target": 8
+        },
+        {
+            "source": 14,
+            "target": 9
+        },
+        {
+            "source": 15,
+            "target": 7
+        },
+        {
+            "source": 16,
+            "target": 10
+        },
+        {
+            "source": 17,
+            "target": 6
+        },
+        {
+            "source": 18,
+            "target": 6
+        },
+        {
+            "source": 19,
+            "target": 8
+        },
+        {
+            "source": 20,
+            "target": 8
+        },
+        {
+            "source": 21,
+            "target": 8
+        },
+        {
+            "source": 22,
+            "target": 8
+        },
+        {
+            "source": 23,
+            "target": 8
+        },
+        {
+            "source": 24,
+            "target": 9
+        },
+        {
+            "source": 25,
+            "target": 10
+        },
+        {
+            "source": 26,
+            "target": 10
+        },
+        {
+            "source": 27,
+            "target": 10
+        },
+        {
+            "source": 28,
+            "target": 10
+        },
+        {
+            "source": 29,
+            "target": 10
+        },
+        {
+            "source": 30,
+            "target": 10
+        }
+    ]
+}

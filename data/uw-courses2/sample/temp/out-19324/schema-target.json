@@ -1,0 +1,79 @@
+{
+    "nodes": [
+        {
+            "index": 0,
+            "dataId": "inst-766",
+            "name": "WILLIAMS",
+            "type": "inst",
+            "group": 2
+        },
+        {
+            "index": 1,
+            "dataId": "offer-2717",
+            "name": "3799",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 2,
+            "dataId": "offer-2209",
+            "name": "3301",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 3,
+            "dataId": "offer-1080",
+            "name": "1992",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 4,
+            "dataId": "offer-1041",
+            "name": "1976",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 5,
+            "dataId": "offer-765",
+            "name": "1738",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 6,
+            "dataId": "offer-2358",
+            "name": "3436",
+            "type": "offer",
+            "group": 3
+        }
+    ],
+    "links": [
+        {
+            "source": 1,
+            "target": 0
+        },
+        {
+            "source": 2,
+            "target": 0
+        },
+        {
+            "source": 3,
+            "target": 0
+        },
+        {
+            "source": 4,
+            "target": 0
+        },
+        {
+            "source": 5,
+            "target": 0
+        },
+        {
+            "source": 6,
+            "target": 0
+        }
+    ]
+}
