@@ -1,9 +1,9 @@
 $(function() {
     var dialog;
-
+    var dHeight = $(window).height() * 0.9;
     dialog = $("#dialog_2").dialog({
         autoOpen: false,
-        height: "550",
+        height: dHeight,
         width: "98%",
         modal: true
     });
