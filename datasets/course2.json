@@ -1,9 +1,9 @@
 {
-    "id": "course",
-    "name": "Course",
-    "path": "/data/uw-courses/all",
-    "sample_path": "/data/uw-courses/sample",
-    "result": "/data/uw-courses/result",
+    "id": "course2",
+    "name": "Course2",
+    "path": "/data/uw-courses2/all",
+    "sample_path": "/data/uw-courses2/sample",
+    "result": "/data/uw-courses2/result",
     "v_files": [
         "course",
         "inst",

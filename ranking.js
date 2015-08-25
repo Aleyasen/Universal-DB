@@ -60,7 +60,7 @@ function generateList(selector, src_query_file, target_query_file) {
 
     readFileWithoutHeader(src_query_file, function(src_list) {
         readFileWithoutHeader(target_query_file, function(target_list) {
-//            console.log("src_list");
+//            console.log(src_list);
 //            console.log(src_list);
 //                console.log(target_list[1]);
 //                console.log(src_list[5]);
@@ -81,7 +81,7 @@ function createAll(svg, top_k, src_list, target_list) {
     var connect_target = [];
     for (var i = 0; i < top_k; i++) {
         for (var j = 0; j < top_k; j++) {
-            if (src_list[i] == target_list[j]) {
+            if (src_list[i][0] == target_list[j][0]) {
                 createLine(svg, srcRects[i], destRects[j]);
                 connect_src[i] = true;
                 connect_target[j] = true;
@@ -115,8 +115,8 @@ function createList(svg, x_init, y_init, count, labels, srcLabels, targetLabels)
 
         rects[i] = rectangle;
 //            console.log(labels[i]);
-        var lb = labels[i];
-        var original_text = labels[i];
+        var lb = labels[i][0];
+        var original_text = labels[i][0];
         if (lb != null) {
             if (lb.length > truncate_limit) {
                 lb = lb.substring(0, truncate_limit) + "...";
@@ -137,11 +137,11 @@ function createList(svg, x_init, y_init, count, labels, srcLabels, targetLabels)
 
             console.log("open it!!!");
             var lb_text = $(this).attr("title");
-            var rank = jQuery.inArray(lb_text, labels);
+            var rank = findInArray(labels, lb_text);
             var pre_node_index = Math.max(rank - 1, 0);
             var post_node_index = rank + 1;
-            var pre_node = labels[pre_node_index];
-            var post_node = labels[post_node_index];
+            var pre_node = labels[pre_node_index][0];
+            var post_node = labels[post_node_index][0];
 //            console.log(lb_text);
             $("#dialog_2").dialog("open");
             setTimeout(
@@ -243,11 +243,16 @@ function parseFileWithoutHeader(allText) {
 //    console.log("lines");
 //    console.log(allTextLines);
     for (var i = 0; i < allTextLines.length; i++) {
-        if (allTextLines[i].length == 0){
+        if (allTextLines[i].length == 0) {
             break;
         }
         var split = allTextLines[i].split('\t');
-        result[i] = split[0];
+//        console.log(split.length);
+        if (split.length > 1) {
+            result[i] = [split[0], split[2]];
+        } else {
+            result[i] = split[0];
+        }
     }
     //alert(lines.length);
     return result;

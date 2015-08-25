@@ -11,6 +11,15 @@ var default_max_nodes_fr = 1000;
 var default_icon_size = 20;
 var focus_icon_size = 25;
 
+function findInArray(arr, element) {
+    for (var i = 0; i < arr.length; i++) {
+        if (arr[i][0] == element) {
+            return i;
+        }
+    }
+    return -1;
+}
+
 $(document).ready(function() {
 
     $("#choose-dataset").css("background-color", "#E0E0E0");
@@ -470,16 +479,17 @@ function generateGraphForRanking(container, inputdata, result_node, query_node, 
                     if (isInList == -1) {
                         return "";
                     } else {
-                        var rank = jQuery.inArray(d.name, ranking_list);
+//                        var rank = jQuery.inArray(d.name, ranking_list);
+                        var rank = findInArray(ranking_list, d.name);
                         if (d.name == result_node) {
-                            return d.name + "* (" + (rank + 1) + ")";
+                            return d.name + "* (" + (rank + 1) + ")" + " [" + ranking_list[rank][1] + "]";
                         }
                         if (d.name == query_node) {
                             return d.name + " (q)";
                         }
 
                         if (rank != -1) {
-                            return d.name + " (" + (rank + 1) + ")";
+                            return d.name + " (" + (rank + 1) + ")" + " [" + ranking_list[rank][1] + "]";
                         }
                         return d.name;
                     }
