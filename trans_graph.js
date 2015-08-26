@@ -169,7 +169,7 @@ function generateGraph(container, inputdata, entityNodes) {
     var width = $(container).width();
 //        alert(width);
 //            height = $("#rwr-src").width();
-    var height = 400;
+    var height = ($(window).height()) - 200;
     console.log("width = " + width);
     console.log("height = " + height);
 //    alert(width);
@@ -403,7 +403,7 @@ function generateGraphForRanking(container, inputdata, result_node, query_node, 
 //    console.log(ranking_list);
     d3.select(container).html("");
     var width = $(container).width();
-    var height = ($(window).height() * 0.9) - 140;
+    var height = ($(window).height() * 0.9) - 165;
     console.log("width = " + width);
     console.log("height = " + height);
     var color = d3.scale.category10();
