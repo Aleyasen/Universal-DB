@@ -13,6 +13,16 @@ $(function() {
 //        dialog.dialog("open");
 //    });
 
+    $("#increase-nodes-button").click(function() {
+        others_count++;
+        showModal(last_clicked_element);
+    });
+
+    $("#decrease-nodes-button").click(function() {
+        others_count--;
+        others_count = Math.max(0, others_count);
+        showModal(last_clicked_element);
+    });
 });
 
 //$(document).ready(function() {
@@ -20,6 +30,9 @@ var top_k = 10;
 var rect_width = 120;
 var rect_height = 30;
 var truncate_limit = 18;
+var others_count = 4;
+var lists_arr = Array();
+var last_clicked_element;
 
 function generateAllLists(result_dir, query_index, tk, query_text) {
 //    alert(query_index);
@@ -43,13 +56,13 @@ function generateAllLists(result_dir, query_index, tk, query_text) {
     var src_file4 = root_dir + "\\source\\udb\\answer.query" + (query_index + 1) + extension;
     var target_file4 = root_dir + "\\target\\udb\\answer.query" + (query_index + 1) + extension;
 
-    generateList("#ranking1", src_file1, target_file1);
-    generateList("#ranking2", src_file2, target_file2);
-    generateList("#ranking3", src_file3, target_file3);
-    generateList("#ranking4", src_file4, target_file4);
+    generateList("#ranking1", src_file1, target_file1, 0);
+    generateList("#ranking2", src_file2, target_file2, 1);
+    generateList("#ranking3", src_file3, target_file3, 2);
+    generateList("#ranking4", src_file4, target_file4, 3);
 }
 
-function generateList(selector, src_query_file, target_query_file) {
+function generateList(selector, src_query_file, target_query_file, listIndex) {
     //    d3.select(selector).remove();
     var list_size = top_k;
 
@@ -65,8 +78,12 @@ function generateList(selector, src_query_file, target_query_file) {
 //                console.log(target_list[1]);
 //                console.log(src_list[5]);
 //                console.log(svgContainer);
+            lists_arr[listIndex] = Array();
+            lists_arr[listIndex]["src"] = src_list;
+            lists_arr[listIndex]["target"] = target_list;
+            console.log("initialized the list_arr");
             list_size = Math.min(list_size, src_list.length);
-            createAll(svgContainer, list_size, src_list, target_list);
+            createAll(svgContainer, list_size, src_list, target_list, listIndex);
         });
     });
 }
@@ -74,9 +91,9 @@ function generateList(selector, src_query_file, target_query_file) {
 
 
 
-function createAll(svg, top_k, src_list, target_list) {
-    var srcRects = createList(svg, 5, 10, top_k, src_list, src_list, target_list);
-    var destRects = createList(svg, 155, 10, top_k, target_list, src_list, target_list);
+function createAll(svg, top_k, src_list, target_list, listIndex) {
+    var srcRects = createList(svg, 5, 10, top_k, src_list, src_list, target_list, listIndex, 1);
+    var destRects = createList(svg, 155, 10, top_k, target_list, src_list, target_list, listIndex, 0);
     var connect_src = [];
     var connect_target = [];
     for (var i = 0; i < top_k; i++) {
@@ -101,7 +118,7 @@ function createAll(svg, top_k, src_list, target_list) {
         }
     }
 }
-function createList(svg, x_init, y_init, count, labels, srcLabels, targetLabels) {
+function createList(svg, x_init, y_init, count, labels, srcLabels, targetLabels, listIndex, isSource) {
     var rects = [];
     for (var i = 0; i < count; i++) {
         var rectangle = svg.append("rect")
@@ -130,26 +147,15 @@ function createList(svg, x_init, y_init, count, labels, srcLabels, targetLabels)
                 .attr("y", y_init + (rect_height * (i)) + 20)
                 .text(lb)
                 .attr("svg:title", original_text)
+                .attr("id", listIndex + "-" + isSource + "-" + i)
+                .attr("data-isSource", isSource)
                 .attr("font-family", "sans-serif")
                 .attr("font-size", "11px")
                 .attr("fill", "black");
         text.on("click", function(d) {
+            last_clicked_element = $(this);
+            showModal($(this));
 
-            console.log("open it!!!");
-            var lb_text = $(this).attr("title");
-            var rank = findInArray(labels, lb_text);
-            var pre_node_index = Math.max(rank - 1, 0);
-            var post_node_index = rank + 1;
-            var pre_node = labels[pre_node_index][0];
-            var post_node = labels[post_node_index][0];
-//            console.log(lb_text);
-            $("#dialog_2").dialog("open");
-            setTimeout(
-                    function()
-                    {
-                        var q_text = $('.search-box').val();
-                        generateModalContent(lb_text, q_text, srcLabels, targetLabels, pre_node, post_node);
-                    }, 100);
             d3.event.stopPropagation();
         });
         rectangle.on("mouseover", function() {
@@ -268,4 +274,46 @@ function parseFile(allText) {
     }
     //alert(lines.length);
     return result;
+}
+
+function generateOtherNodes(labels, rank, count) {
+    var other_nodes_list = Array();
+    var pre_count = Math.ceil(count / 2);
+    var post_count = count - pre_count;
+    var pre_rank = Math.max(0, rank - pre_count);
+    var post_rank = Math.min(labels.length, rank + post_count);
+    for (var i = pre_rank; i <= post_rank; i++) {
+        if (i != rank) {
+            other_nodes_list.push(labels[i][0])
+        }
+    }
+    return other_nodes_list;
+}
+
+function showModal($element) {
+    console.log("open it!!!");
+    var lb_text = $element.attr("title");
+    var id = $element.attr("id");
+    var split = id.split("-");
+    var listIndex = split[0];
+    var isSource = split[1];
+    console.log($element);
+    console.log(lists_arr);
+    console.log("listIndex: " + listIndex);
+    console.log("isSource: " + isSource);
+    var labels = lists_arr[listIndex]["target"];
+    if (isSource == 1) {
+        labels = lists_arr[listIndex]["src"];
+    }
+    var rank = findInArray(labels, lb_text);
+    var other_nodes = generateOtherNodes(labels, rank, others_count);
+
+//            console.log(lb_text);
+    $("#dialog_2").dialog("open");
+    setTimeout(
+            function()
+            {
+                var q_text = $('.search-box').val();
+                generateModalContent(lb_text, q_text, lists_arr[listIndex]["src"], lists_arr[listIndex]["target"], other_nodes);
+            }, 100);
 }

@@ -88,14 +88,6 @@ if (isset($_GET["nofilter"])) {
 
         $result_node = $_GET["result_node"];
         $query_node = $_GET["query_node"];
-        if (isset($_GET["pre_node"])) {
-            $pre_node = $_GET["pre_node"];
-            $v_pre = idInFullGraph($pre_node, $graphData[2], $graphData[3]);
-        }
-        if (isset($_GET["post_node"])) {
-            $post_node = $_GET["post_node"];
-            $v_post = idInFullGraph($post_node, $graphData[2], $graphData[3]);
-        }
 
 
         //DEBUG PURPOSE:: uncomment these lines:
@@ -128,19 +120,7 @@ if (isset($_GET["nofilter"])) {
         $MAX_NODES_ = 100000;
         $vs_from_result_node = bfsTraversalWithDistance($v_result, $graphData[5], $RADIUS_, $MAX_NODES_);
         $vs_from_query_node = bfsTraversalWithDistance($v_query, $graphData[5], $RADIUS_, $MAX_NODES_);
-        $vs_from_pre_node = array();
-        $vs_from_post_node = array();
-        $dis_pre_query = 1000;
-        $dis_post_query = 1000;
 
-        if (isset($v_pre)) {
-            $dis_pre_query = findShortestPath($v_pre, $v_query, $graphData[5]);
-            $vs_from_pre_node = bfsTraversalWithDistance($v_pre, $graphData[5], $RADIUS_, $MAX_NODES_);
-        }
-        if (isset($v_post)) {
-            $dis_post_query = findShortestPath($v_post, $v_query, $graphData[5]);
-            $vs_from_post_node = bfsTraversalWithDistance($v_post, $graphData[5], $RADIUS_, $MAX_NODES_);
-        }
 //        echo "<br>nodes in result graph: <br>";
 //        print_r($vs_from_result_node);
 //        echo "<br>nodes in query graph: <br>";
@@ -150,13 +130,9 @@ if (isset($_GET["nofilter"])) {
 //        echo "sizeof arr result: " . sizeof($vs_from_result_node) . "<br>";
         $vs_nodes_result_node = array();
         $vs_nodes_query_node = array();
-        $vs_nodes_pre_node = array();
-        $vs_nodes_post_node = array();
 
         $dist_result_node = array();
         $dist_query_node = array();
-        $dist_pre_node = array();
-        $dist_post_node = array();
 
         for ($i = 0; $i < sizeof($vs_from_result_node); $i++) {
             $dist_result_node[$vs_from_result_node[$i][0]] = $vs_from_result_node[$i][1];
@@ -166,13 +142,6 @@ if (isset($_GET["nofilter"])) {
             $dist_query_node[$vs_from_query_node[$i][0]] = $vs_from_query_node[$i][1];
         }
 
-        for ($i = 0; $i < sizeof($vs_from_pre_node); $i++) {
-            $dist_pre_node[$vs_from_pre_node[$i][0]] = $vs_from_pre_node[$i][1];
-        }
-
-        for ($i = 0; $i < sizeof($vs_from_post_node); $i++) {
-            $dist_post_node[$vs_from_post_node[$i][0]] = $vs_from_post_node[$i][1];
-        }
 
         for ($i = 0; $i < sizeof($vs_from_result_node); $i++) {
             array_push($vs_nodes_result_node, $vs_from_result_node[$i][0]);
@@ -182,13 +151,29 @@ if (isset($_GET["nofilter"])) {
             array_push($vs_nodes_query_node, $vs_from_query_node[$i][0]);
         }
 
-        for ($i = 0; $i < sizeof($vs_from_pre_node); $i++) {
-            array_push($vs_nodes_pre_node, $vs_from_pre_node[$i][0]);
+        if (isset($_GET["other_nodes"])) {
+            $other_nodes = json_decode($_GET["other_nodes"]);
+            $vs_nodes_other_nodes_all = array();
+            $dist_other_node = array();
+            $dis_other_query = array();
+            for ($i = 0; $i < sizeof($other_nodes); $i++) {
+                $v_other = idInFullGraph($other_nodes[$i], $graphData[2], $graphData[3]);
+                $vs_from_other_node = array();
+                $dis_other_query[$i] = 1000;
+                $dis_other_query[$i] = findShortestPath($v_other, $v_query, $graphData[5]);
+                $vs_from_other_node = bfsTraversalWithDistance($v_other, $graphData[5], $RADIUS_, $MAX_NODES_);
+                $vs_nodes_other_node = array();
+
+                for ($j = 0; $j < sizeof($vs_from_other_node); $j++) {
+                    $dist_other_node[$i][$vs_from_other_node[$j][0]] = $vs_from_other_node[$j][1];
+                }
+                for ($j = 0; $j < sizeof($vs_from_other_node); $j++) {
+                    array_push($vs_nodes_other_node, $vs_from_other_node[$j][0]);
+                    array_push($vs_nodes_other_nodes_all, $vs_from_other_node[$j][0]);
+                }
+            }
         }
 
-        for ($i = 0; $i < sizeof($vs_from_post_node); $i++) {
-            array_push($vs_nodes_post_node, $vs_from_post_node[$i][0]);
-        }
 //        example:
 //        http://localhost:8080/Universal-DB/filtergraph.php?schema=target&dataset=citation&query_node=1&compare=1&radius=10&max_nodes=300000&result_node=1
 //        $vs_nodes_result_node = array_values($vs_nodes_result_node);
@@ -201,7 +186,10 @@ if (isset($_GET["nofilter"])) {
 //        echo "<br>nodes in query graph 2: <br>";
 //        print_r($vs_nodes_query_node);
 
-        $vs1 = array_merge($vs_nodes_result_node, $vs_nodes_query_node, $vs_nodes_pre_node, $vs_nodes_post_node);
+        $vs1 = array_merge($vs_nodes_result_node, $vs_nodes_query_node);
+        if (isset($vs_nodes_other_nodes_all)) {
+            $vs1 = array_merge($vs1, $vs_nodes_other_nodes_all);
+        }
 //        echo "<br>nodes in vs1 <br>";
 //        print_r($vs1);
         $vs1 = array_unique($vs1);
@@ -219,22 +207,20 @@ if (isset($_GET["nofilter"])) {
                 }
             }
         }
-        for ($i = 0; $i < sizeof($vs1); $i++) {
-            if (isset($dist_query_node[$vs1[$i]]) && isset($dist_pre_node[$vs1[$i]])) {
-                $d = $dist_query_node[$vs1[$i]] + $dist_pre_node[$vs1[$i]];
-                if ($d <= ($dis_pre_query )) {
-                    array_push($vs, $vs1[$i]);
+
+        if (isset($other_nodes)) {
+            for ($i = 0; $i < sizeof($other_nodes); $i++) {
+                for ($j = 0; $j < sizeof($vs1); $j++) {
+                    if (isset($dist_query_node[$vs1[$j]]) && isset($dist_other_node[$i][$vs1[$j]])) {
+                        $d = $dist_query_node[$vs1[$j]] + $dist_other_node[$i][$vs1[$j]];
+                        if ($d <= ($dis_other_query[$i] )) {
+                            array_push($vs, $vs1[$j]);
+                        }
+                    }
                 }
             }
         }
-        for ($i = 0; $i < sizeof($vs1); $i++) {
-            if (isset($dist_query_node[$vs1[$i]]) && isset($dist_post_node[$vs1[$i]])) {
-                $d = $dist_query_node[$vs1[$i]] + $dist_post_node[$vs1[$i]];
-                if ($d <= ($dis_post_query )) {
-                    array_push($vs, $vs1[$i]);
-                }
-            }
-        }
+
         $vs = array_unique($vs);
         $vs = array_values($vs);
 //        $vs = $vs1;

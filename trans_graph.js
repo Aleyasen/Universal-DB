@@ -55,6 +55,15 @@ getEntityNodes = function(dataset) {
 
 }
 
+function findNodes(nodes, name) {
+    for (var i = 0; i < nodes.length; i++) {
+//        console.log(nodes.name);
+        if (nodes[i].name == name) {
+            return nodes[i];
+        }
+    }
+    return null;
+}
 function filterGraph(seed, radius, max_nodes) {
     var generic_url = "./filtergraph.php?";
     generic_url += "seed=" + escape(seed) + "&";
@@ -86,14 +95,13 @@ function filterGraph(seed, radius, max_nodes) {
 }
 
 
-function generateModalContent(result_node, query_node, src_ranking_list, target_ranking_list, pre_node, post_node) {
+function generateModalContent(result_node, query_node, src_ranking_list, target_ranking_list, other_nodes) {
     console.log("generateModalContent started.");
     var generic_url = "./filtergraph.php?";
     generic_url += "compare=1&";
     generic_url += "result_node=" + escape(result_node) + "&";
     generic_url += "query_node=" + escape(query_node) + "&";
-    generic_url += "pre_node=" + escape(pre_node) + "&";
-    generic_url += "post_node=" + escape(post_node) + "&";
+    generic_url += "other_nodes=" + escape(JSON.stringify(other_nodes)) + "&";
     generic_url += "radius=" + default_radius_fr + "&";
     generic_url += "max_nodes=" + default_max_nodes_fr + "&";
     var selectedDataset = $(".datasetpicker").select().val();
@@ -109,12 +117,12 @@ function generateModalContent(result_node, query_node, src_ranking_list, target_
         $.get(src_url, function(file_loc) {
             console.log("get " + file_loc);
 //        alert(file_loc);
-            generateGraphForRanking("#modal-content-src", file_loc, result_node, query_node, src_ranking_list, entityNodes);
+            generateGraphForRanking("#modal-content-src", file_loc, result_node, query_node, src_ranking_list, entityNodes, other_nodes);
         });
         $.get(target_url, function(file_loc) {
             console.log("get " + file_loc);
 //        alert(file_loc);
-            generateGraphForRanking("#modal-content-target", file_loc, result_node, query_node, target_ranking_list, entityNodes);
+            generateGraphForRanking("#modal-content-target", file_loc, result_node, query_node, target_ranking_list, entityNodes, other_nodes);
 
         });
     });
@@ -169,7 +177,7 @@ function generateGraph(container, inputdata, entityNodes) {
     var width = $(container).width();
 //        alert(width);
 //            height = $("#rwr-src").width();
-    var height = ($(window).height()) - 200;
+    var height = Math.max(400, ($(window).height()) - 200);
     console.log("width = " + width);
     console.log("height = " + height);
 //    alert(width);
@@ -398,12 +406,14 @@ function generateGraph(container, inputdata, entityNodes) {
 
 
 
-function generateGraphForRanking(container, inputdata, result_node, query_node, ranking_list, entityNodes) {
+function generateGraphForRanking(container, inputdata, result_node, query_node, ranking_list, entityNodes, other_nodes) {
+    console.log("result_node: " + result_node);
+    console.log("query_node: " + query_node);
 //    console.log("ranking list:");
 //    console.log(ranking_list);
     d3.select(container).html("");
     var width = $(container).width();
-    var height = ($(window).height() * 0.9) - 165;
+    var height = Math.max(400, ($(window).height() * 0.9) - 165);
     console.log("width = " + width);
     console.log("height = " + height);
     var color = d3.scale.category10();
@@ -423,10 +433,29 @@ function generateGraphForRanking(container, inputdata, result_node, query_node, 
         if (error) {
             throw error;
         }
+
         force
                 .nodes(graph.nodes)
                 .links(graph.links);
+//        console.log(graph.nodes);
+        var query_node_obj = findNodes(graph.nodes, query_node);
+        console.log("query_obj");
+        console.log(query_node_obj);
+        query_node_obj.x = width / 2;
+        query_node_obj.y = height / 2;
+        query_node_obj.fixed = true;
 
+        var r = 200;
+//        other_nodes.push(result_node);
+        var count = other_nodes.length;
+        console.log("other nodes");
+        console.log(other_nodes);
+        for (var i = 0; i < count; i++) {
+            var oth_node = findNodes(graph.nodes, other_nodes[i]);
+            oth_node.x = query_node_obj.x + (r * Math.sin((i * 2 * Math.PI + 1) / count));
+            oth_node.y = query_node_obj.y + (r * Math.cos((i * 2 * Math.PI + 1) / count));
+            oth_node.fixed = true;
+        }
 
         force.start();
 
