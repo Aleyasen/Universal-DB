@@ -195,6 +195,8 @@ function generateGraph(container, inputdata, entityNodes) {
             .attr("height", height);
     var drag = force.drag()
             .on("dragstart", dragstart);
+//            .on("drag", movingNode);
+
     d3.json(inputdata, function(error, graph) {
         if (error) {
             throw error;
@@ -401,6 +403,57 @@ function generateGraph(container, inputdata, entityNodes) {
     }
 
 
+    function movingNode(d) {
+//        console.log("movedown");
+
+        var selector = ".node[data-id=\"" + d.dataId + "\"]";
+        selected_nodes = d3.selectAll(".trans-graph > svg").selectAll(selector)
+                .attr("x", d.x)
+                .attr("y", d.y)
+                .attr("px", d.x)
+                .attr("py", d.y);
+        ;
+        console.log(selected_nodes);
+//        d3.selectAll(".trans-graph > svg").selectAll(selector)
+//                .classed("fixed", d.fixed = true);
+        selected_nodes.attr("transform", function(dd) {
+            console.log("translate(" + d.x + "," + d.y + ")");
+            return "translate(" + d.x + "," + d.y + ")";
+        });
+//        tick();
+//        var link = svg.selectAll(selector + " .link");
+//        link.attr("x1", function(d) {
+//            return d.source.x;
+//        })
+//                .attr("y1", function(d) {
+//                    return d.source.y;
+//                })
+//                .attr("x2", function(d) {
+//                    return d.target.x;
+//                })
+//                .attr("y2", function(d) {
+//                    return d.target.y;
+//                });
+//        selected_nodes[0].attr("transform", function(d) {
+//            return "translate(" + d.x + "," + d.y + ")";
+//        });
+
+//        nodes.forEach(function(o, i) {
+//            o.x += (Math.random() - .5) * 40;
+//            o.y += (Math.random() - .5) * 40;
+//        });
+//        force.resume();
+    }
+//
+//    function tick(node) {
+//        // Update positions of circle elements.
+//        node.attr("cx", function(d) {
+//            return d.x;
+//        })
+//        .attr("cy", function(d) {
+//            return d.y;
+//        });
+//    }
 }
 
 
@@ -518,7 +571,12 @@ function generateGraphForRanking(container, inputdata, result_node, query_node, 
                         }
 
                         if (rank != -1) {
-                            return d.name + " (" + (rank + 1) + ")" + " [" + ranking_list[rank][1] + "]";
+                            var rank_in_other_nodes = findInArray(other_nodes, d.name);
+                            if (rank_in_other_nodes != -1) {
+                                return d.name + " (" + (rank + 1) + ")" + " [" + ranking_list[rank][1] + "]";
+                            } else {
+                                return d.name.substring(0, 20) + "..." + " (" + (rank + 1) + ")" + " [" + ranking_list[rank][1] + "]";
+                            }
                         }
                         return d.name;
                     }
