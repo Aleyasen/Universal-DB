@@ -24,6 +24,8 @@
         "film_directedby",
         "film_director"
     ],
+    "e_files_min": [
+    ],
     "entity_nodes": [
         "actor",
         "film",

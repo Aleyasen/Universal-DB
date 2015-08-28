@@ -4,9 +4,8 @@ require 'generatejson.php';
 require_once 'utils.php';
 
 // ------------------------------------------------------------------------------------
-
-
-function graphReaders($loc, $v_files, $e_files, $entities) {
+// only course dataset need to set e_files_min
+function graphReaders($loc, $v_files, $e_files, $entities, $e_files_min) {
 
     $h_VVG = array();  // node_id	=> graph_id
     $h_VGV = array();  // graph_id	=> node_id
@@ -15,6 +14,8 @@ function graphReaders($loc, $v_files, $e_files, $entities) {
     $h_L = array();  // label 	=> label_id 	and		label_id	=> label
     $h_EG = array(); // graph_id => graph_id list
     $l_ENT = array(); // list of entity_id
+    //extra info
+    $h_EG_min = null; // empty iff e_files_min is empty
     // read node files
     $t_id = 0;
     $vg_id = 0;
@@ -108,7 +109,61 @@ function graphReaders($loc, $v_files, $e_files, $entities) {
         array_push($l_ENT, $h_L[$ent]);
     }
 
-    return array($h_L, $h_VA, $h_AV, $h_VVG, $h_VGV, $h_EG, $l_ENT);
+    if (isset($e_files_min)) {
+        $h_EG_min = array();
+        // read min set of edge file
+        foreach ($e_files_min as $x => $x_val) {
+            $x_val = $x_val . ".txt";
+            c_log("? key=" . $x . ", val=" . $loc . $x_val . "\n");
+            //        echo "key=" . $x . ", val=" . $loc . $x_val . "<br>";
+
+            $file_arr = preg_split("/[._]/", $x_val);
+            $t1 = $h_L[$file_arr[0]];
+            $t2 = $h_L[$file_arr[1]];
+            $file = fopen($loc . $x_val, "r") or die("unable to open " . $loc . $x_val . " !");
+            $line = fgets($file); // read headline
+            while (($line = fgets($file)) !== false) {
+                //            echo $line . "\n";
+                $line_arr = preg_split("/\t/", $line);
+                $v1 = rtrim($line_arr[0]);
+                $v2 = rtrim($line_arr[1]);
+                $n1_id = $v1 * 100 + $t1;
+                $n2_id = $v2 * 100 + $t2;
+                //            $vg1 = -1;
+                //            if (!isset($h_VVG[$n1_id])) {
+                //                echo "file: ". $loc . $x_val . "<br>";
+                //                echo $line. "<br>";
+                //                echo "v1: ". $v1 . " v2: ". $v2. "<br>";
+                //                echo "n1_id: ". $n1_id . "<br>";
+                //            }
+                // added by amir
+                if ((!isset($h_VVG[$n1_id])) || (!isset($h_VVG[$n2_id]))) {
+                    continue;
+                }
+                $vg1 = $h_VVG[$n1_id];
+                $vg2 = $h_VVG[$n2_id];
+
+                //echo $vg1.":".$n1_id."\t".$vg2.":".$n2_id."\n";
+                if (array_key_exists($vg1, $h_EG_min))
+                    $eg1 = $h_EG_min[$vg1];
+                else
+                    $eg1 = array();
+                if (!in_array($vg2, $eg1))
+                    array_push($eg1, $vg2);
+                $h_EG_min[$vg1] = $eg1;
+                if (array_key_exists($vg2, $h_EG_min))
+                    $eg2 = $h_EG_min[$vg2];
+                else
+                    $eg2 = array();
+                if (!in_array($vg1, $eg2))
+                    array_push($eg2, $vg1);
+                $h_EG_min[$vg2] = $eg2;
+            }
+            fclose($file);
+        }
+    }
+
+    return array($h_L, $h_VA, $h_AV, $h_VVG, $h_VGV, $h_EG, $l_ENT, $h_EG_min);
 }
 
 function idInFullGraph($n_val, $h_AV, $h_VVG) {
@@ -247,8 +302,8 @@ function bfsTraversalWithDistance($vg, $h_EG, $RAD, $MAX_NODES) {
 }
 
 function bfsTraversal($vg, $h_EG, $RAD, $MAX_NODES, $h_VGV) {
-    c_log("hello bfs from " . $h_VGV[$vg] . " Rad: " . $RAD . " MaxNodes: " . $MAX_NODES . "\n");
-    c_log(print_r($h_EG[$vg], true));
+//    c_log("hello bfs from " . $h_VGV[$vg] . " Rad: " . $RAD . " MaxNodes: " . $MAX_NODES . "\n");
+//    c_log(print_r($h_EG[$vg], true));
     $vs = array();
     $mark = array();
     $queue = new SplQueue();
@@ -261,11 +316,11 @@ function bfsTraversal($vg, $h_EG, $RAD, $MAX_NODES, $h_VGV) {
 
         $v = $queue->dequeue();
         $n = $queue_rad->dequeue();
-        c_log("dequeue: " . $h_VGV[$v] . " d: " . $n . "\n");
+//        c_log("dequeue: " . $h_VGV[$v] . " d: " . $n . "\n");
         array_push($vs, $v);
         if ($n >= $RAD) {
-            c_log("n: " . $n . " RAD:" . $RAD);
-            c_log("bfsTraversal - exceed max radius >>>>>>>>>>>>>>>>>>>>>>>");
+//            c_log("n: " . $n . " RAD:" . $RAD);
+//            c_log("bfsTraversal - exceed max radius >>>>>>>>>>>>>>>>>>>>>>>");
 //            c_log(print_r($vs, true));
             continue;
         }
@@ -273,15 +328,15 @@ function bfsTraversal($vg, $h_EG, $RAD, $MAX_NODES, $h_VGV) {
             break;
         }
         $eg = $h_EG[$v];
-        foreach ($eg as $vv) {
-            c_log("\t\t" . $h_VGV[$v] . " >>>>>>>t> " . $h_VGV[$vv] . "\n");
-        }
+//        foreach ($eg as $vv) {
+//            c_log("\t\t" . $h_VGV[$v] . " >>>>>>>t> " . $h_VGV[$vv] . "\n");
+//        }
         foreach ($eg as $v2) {
             if (!isset($mark[$v2])) {
                 $mark[$v2] = 1;
                 $queue->enqueue($v2);
                 $queue_rad->enqueue($n + 1);
-                c_log("enqueue: " . $h_VGV[$v2] . " d: " . $n . "parent: " . $h_VGV[$v] . "\n");
+//                c_log("enqueue: " . $h_VGV[$v2] . " d: " . $n . "parent: " . $h_VGV[$v] . "\n");
 
 //                echo "enqueue: " . $v . " d: " . $n . "<br>";
             }

@@ -16,6 +16,11 @@
         "offer_subject",
         "course_subject"
     ],
+    "e_files_min": [
+        "course_offer",
+        "offer_inst",
+        "offer_subject"
+    ],
     "entity_nodes": [
         "course",
         "inst",

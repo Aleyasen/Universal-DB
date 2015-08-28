@@ -1,8 +1,7 @@
-1957278	Design and natural science research on information technology
+822207	Extending and Formalizing the Framework for Information Systems Architecture
 803605	The entity-relationship model---toward a unified view of data
-781058	Computer-based systems for cooperative work and group decision making
-1934993	A framework for management information systems
-1301841	A Program for Research on Management Information Systems
+771179	Electronic markets and electronic hierarchies
+1403402	A Framework for Information Systems Architecture
 1406678	Foundations of Databases
 171052	Telos: representing knowledge about information systems
 781468	Federated database systems for managing distributed, heterogeneous, and autonomous databases
@@ -17,10 +16,15 @@
 803759	The functional data model and the data languages DAPLEX
 803762	Database description with SDM: a semantic database model
 803915	IFO: a formal semantic database model
-822207	Extending and Formalizing the Framework for Information Systems Architecture
+1957278	Design and natural science research on information technology
 2404354	Principles of Database and Knowledge-Base Systems, Volume II
 3217526	Implementation of integrity constraints and views by query modification
 780793	The Interdisciplinary Study of Coordination
-1943607	Groups: interaction and performance
 773057	Intelligent information-sharing systems
-697046	The Web of Computing: Computer Technology as Social Organization
+776216	The impact of information systems on organizations and markets
+1292059	Studying Information Technology in Organizations: Research Approaches and Assumptions
+2733557	Applying the Technology Acceptance Model and Flow Theory to Online Consumer Behavior
+11775251	Exploring the factors associated with Web site success in the context of electronic commerce
+1289359	How Information Gives You Competitive Advantage
+773557	The information system as a competitive weapon
+1399217	Is redraws competitive boundaries

@@ -21,6 +21,8 @@ $loc = substr($loc, 1);
 $v_files = $dbs[$dataset]["v_files"];
 $e_files = $dbs[$dataset]["e_files"];
 
+$e_files_min = $dbs[$dataset]["e_files_min"];
+
 
 // output: schema 1
 //$v_output1 = array("a", "b", "c");
@@ -36,6 +38,7 @@ $e_output1 = $dbs[$dataset]["schema"]["source"]["e_files"];
 
 $v_output2 = $dbs[$dataset]["schema"]["target"]["v_files"];
 $e_output2 = $dbs[$dataset]["schema"]["target"]["e_files"];
+
 
 $entities = $dbs[$dataset]["entity_nodes"];
 
@@ -73,7 +76,7 @@ if (isset($_GET["nofilter"])) {
 //        mkdir($loc_out2);
 //    }
 // read graph data
-    $graphData = graphReaders($loc, $v_files, $e_files, $entities);
+    $graphData = graphReaders($loc, $v_files, $e_files, $entities, $e_files_min);
 
     if (isset($_GET["seed"])) {
 
@@ -81,9 +84,15 @@ if (isset($_GET["nofilter"])) {
 //        $seed_node = "Implementation of integrity constraints and views by query modification";
 // locate query node from node type+value
         $v = idInFullGraph($seed_node, $graphData[2], $graphData[3]);
-
+        c_log(" >>>>>>>>>>>>>>>>>>>>> H-EG-MIN\n" );
+        c_log(print_r($graphData[7], true));
+        c_log("DONE DONE H-EG-MIN");
 // bfs search
-        $vs = bfsTraversal($v, $graphData[5], $RADIUS, $MAX_NODES, $graphData[4]);
+        if (sizeof($e_files_min) == 0) {
+            $vs = bfsTraversal($v, $graphData[5], $RADIUS, $MAX_NODES, $graphData[4]);
+        } else {
+            $vs = bfsTraversal($v, $graphData[7], $RADIUS, $MAX_NODES, $graphData[4]);
+        }
     } else {
 
         $result_node = $_GET["result_node"];
@@ -118,9 +127,13 @@ if (isset($_GET["nofilter"])) {
         $dis_result_query = findShortestPath($v_result, $v_query, $graphData[5]);
         $RADIUS_ = $dis_result_query + 4;
         $MAX_NODES_ = 100000;
-        $vs_from_result_node = bfsTraversalWithDistance($v_result, $graphData[5], $RADIUS_, $MAX_NODES_);
-        $vs_from_query_node = bfsTraversalWithDistance($v_query, $graphData[5], $RADIUS_, $MAX_NODES_);
-
+        if (sizeof($e_files_min) == 0) {
+            $vs_from_result_node = bfsTraversalWithDistance($v_result, $graphData[5], $RADIUS_, $MAX_NODES_);
+            $vs_from_query_node = bfsTraversalWithDistance($v_query, $graphData[5], $RADIUS_, $MAX_NODES_);
+        } else {
+            $vs_from_result_node = bfsTraversalWithDistance($v_result, $graphData[7], $RADIUS_, $MAX_NODES_);
+            $vs_from_query_node = bfsTraversalWithDistance($v_query, $graphData[7], $RADIUS_, $MAX_NODES_);
+        }
 //        echo "<br>nodes in result graph: <br>";
 //        print_r($vs_from_result_node);
 //        echo "<br>nodes in query graph: <br>";
