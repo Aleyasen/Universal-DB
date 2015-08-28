@@ -291,6 +291,7 @@ function generateOtherNodes(labels, rank, count) {
     return other_nodes_list;
 }
 
+algorithmList = ["RWR", "SimRank", "PathSim", "Universal-DB"];
 function showModal($element) {
     console.log("open it!!!");
     var lb_text = $element.attr("title");
@@ -315,6 +316,6 @@ function showModal($element) {
             function()
             {
                 var q_text = $('.search-box').val();
-                generateModalContent(lb_text, q_text, lists_arr[listIndex]["src"], lists_arr[listIndex]["target"], other_nodes);
-            }, 100);
+                generateModalContent(lb_text, q_text, lists_arr[listIndex]["src"], lists_arr[listIndex]["target"], other_nodes, algorithmList[listIndex]);
+            }, 50);
 }

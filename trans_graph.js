@@ -110,8 +110,10 @@ function filterGraph(seed, radius, max_nodes) {
 }
 
 
-function generateModalContent(result_node, query_node, src_ranking_list, target_ranking_list, other_nodes) {
+function generateModalContent(result_node, query_node, src_ranking_list, target_ranking_list, other_nodes, algorithm) {
     console.log("generateModalContent started.");
+    console.log($("#dialog_2"));
+    $("span.ui-dialog-title").text(algorithm + " (" + query_node + ") ");
     var generic_url = "./filtergraph.php?";
     generic_url += "compare=1&";
     generic_url += "result_node=" + escape(result_node) + "&";
