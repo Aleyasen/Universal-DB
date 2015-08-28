@@ -1,6 +1,6 @@
 {
     "id": "course2",
-    "name": "Course2",
+    "name": "Course",
     "path": "/data/uw-courses2/all",
     "sample_path": "/data/uw-courses2/sample",
     "result": "/data/uw-courses2/result",

@@ -2,7 +2,6 @@
     "datasets": [
         "movie2",
         "citation",
-        "course",
         "course2"
     ]
 }
