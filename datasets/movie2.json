@@ -48,8 +48,8 @@
                 "film_director"
             ],
             "param": {
-                "distance": 100,
-                "charge": -200
+                "distance": 120,
+                "charge": -250
             }
         },
         "target": {
@@ -70,8 +70,8 @@
                 "director_directedby"
             ],
             "param": {
-                "distance": 100,
-                "charge": -200
+                "distance": 60,
+                "charge": -150
             }
         }
     }

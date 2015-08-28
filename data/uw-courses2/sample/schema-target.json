@@ -2,225 +2,407 @@
     "nodes": [
         {
             "index": 0,
-            "dataId": "course-2713",
-            "name": "STAT ANALYS",
+            "dataId": "course-3303",
+            "name": "LAW MASS COM",
             "type": "course",
             "group": 1
         },
         {
             "index": 1,
-            "dataId": "course-2716",
-            "name": "EXPERMTL DES",
+            "dataId": "course-3306",
+            "name": "NEW COM TECH",
             "type": "course",
             "group": 1
         },
         {
             "index": 2,
-            "dataId": "course-2718",
-            "name": "NONPARA STAT",
+            "dataId": "course-3309",
+            "name": "MEDIA ETHICS",
             "type": "course",
             "group": 1
         },
         {
             "index": 3,
-            "dataId": "course-2721",
-            "name": "TIME SERIES",
+            "dataId": "course-3313",
+            "name": "MEDIA CRITIC",
             "type": "course",
             "group": 1
         },
         {
             "index": 4,
-            "dataId": "course-2724",
-            "name": "LINEAR MODEL",
+            "dataId": "course-3311",
+            "name": "FIRST AMEND",
             "type": "course",
             "group": 1
         },
         {
             "index": 5,
-            "dataId": "course-2726",
-            "name": "STAT COMPUT",
+            "dataId": "course-3298",
+            "name": "MEDIA WRITNG",
             "type": "course",
             "group": 1
         },
         {
             "index": 6,
-            "dataId": "inst-2505",
-            "name": "NEWMAN",
-            "type": "inst",
-            "group": 2
+            "dataId": "course-3342",
+            "name": "SEMINAR COM",
+            "type": "course",
+            "group": 1
         },
         {
             "index": 7,
-            "dataId": "inst-2720",
-            "name": "STEINHORST",
-            "type": "inst",
-            "group": 2
+            "dataId": "course-3340",
+            "name": "COM THEORY",
+            "type": "course",
+            "group": 1
         },
         {
             "index": 8,
-            "dataId": "inst-766",
-            "name": "WILLIAMS",
-            "type": "inst",
-            "group": 2
+            "dataId": "course-3300",
+            "name": "[I] INTRCULT COM",
+            "type": "course",
+            "group": 1
         },
         {
             "index": 9,
-            "dataId": "inst-2723",
-            "name": "AHN",
-            "type": "inst",
-            "group": 2
+            "dataId": "course-3330",
+            "name": "CRIT PUB ADD",
+            "type": "course",
+            "group": 1
         },
         {
             "index": 10,
-            "dataId": "inst-310",
-            "name": "LEE",
+            "dataId": "course-3333",
+            "name": "SEM TRAINING",
+            "type": "course",
+            "group": 1
+        },
+        {
+            "index": 11,
+            "dataId": "course-3289",
+            "name": "PHOTOCOM",
+            "type": "course",
+            "group": 1
+        },
+        {
+            "index": 12,
+            "dataId": "course-3285",
+            "name": "LANG & BEHAV",
+            "type": "course",
+            "group": 1
+        },
+        {
+            "index": 13,
+            "dataId": "course-3277",
+            "name": "[S] MASS COM SOC",
+            "type": "course",
+            "group": 1
+        },
+        {
+            "index": 14,
+            "dataId": "inst-2743",
+            "name": "TAN",
             "type": "inst",
             "group": 2
         },
         {
-            "index": 11,
-            "dataId": "offer-2714",
-            "name": "3792",
-            "type": "offer",
-            "group": 3
-        },
-        {
-            "index": 12,
-            "dataId": "offer-2719",
-            "name": "3804",
-            "type": "offer",
-            "group": 3
-        },
-        {
-            "index": 13,
-            "dataId": "offer-2717",
-            "name": "3799",
-            "type": "offer",
-            "group": 3
-        },
-        {
-            "index": 14,
-            "dataId": "offer-2722",
-            "name": "3805",
-            "type": "offer",
-            "group": 3
-        },
-        {
             "index": 15,
-            "dataId": "offer-2725",
-            "name": "3806",
-            "type": "offer",
-            "group": 3
+            "dataId": "inst-3327",
+            "name": "BUSSELLE",
+            "type": "inst",
+            "group": 2
         },
         {
             "index": 16,
-            "dataId": "offer-2727",
-            "name": "3807",
-            "type": "offer",
-            "group": 3
+            "dataId": "inst-3100",
+            "name": "TAFLINGER",
+            "type": "inst",
+            "group": 2
         },
         {
             "index": 17,
-            "dataId": "offer-3019",
-            "name": "4222",
-            "type": "offer",
-            "group": 3
+            "dataId": "inst-3287",
+            "name": "NOFSINGER",
+            "type": "inst",
+            "group": 2
         },
         {
             "index": 18,
-            "dataId": "offer-2504",
-            "name": "3556",
-            "type": "offer",
-            "group": 3
+            "dataId": "inst-3291",
+            "name": "VINCENT",
+            "type": "inst",
+            "group": 2
         },
         {
             "index": 19,
-            "dataId": "offer-2209",
-            "name": "3301",
-            "type": "offer",
-            "group": 3
+            "dataId": "inst-3096",
+            "name": "ROBISON",
+            "type": "inst",
+            "group": 2
         },
         {
             "index": 20,
-            "dataId": "offer-1080",
-            "name": "1992",
-            "type": "offer",
-            "group": 3
+            "dataId": "inst-3305",
+            "name": "LIMBURG",
+            "type": "inst",
+            "group": 2
         },
         {
             "index": 21,
-            "dataId": "offer-1041",
-            "name": "1976",
-            "type": "offer",
-            "group": 3
+            "dataId": "inst-3308",
+            "name": "REAGAN",
+            "type": "inst",
+            "group": 2
         },
         {
             "index": 22,
-            "dataId": "offer-765",
-            "name": "1738",
-            "type": "offer",
-            "group": 3
+            "dataId": "inst-1390",
+            "name": "ROSS",
+            "type": "inst",
+            "group": 2
         },
         {
             "index": 23,
-            "dataId": "offer-2358",
-            "name": "3436",
-            "type": "offer",
-            "group": 3
+            "dataId": "inst-1387",
+            "name": "KELLY",
+            "type": "inst",
+            "group": 2
         },
         {
             "index": 24,
-            "dataId": "offer-3579",
-            "name": "4898",
-            "type": "offer",
-            "group": 3
+            "dataId": "inst-3302",
+            "name": "DRZEWIECKA",
+            "type": "inst",
+            "group": 2
         },
         {
             "index": 25,
-            "dataId": "offer-309",
-            "name": "1271",
-            "type": "offer",
-            "group": 3
+            "dataId": "inst-3332",
+            "name": "SALVADOR",
+            "type": "inst",
+            "group": 2
         },
         {
             "index": 26,
-            "dataId": "offer-622",
-            "name": "1560",
-            "type": "offer",
-            "group": 3
+            "dataId": "inst-3335",
+            "name": "HOPF",
+            "type": "inst",
+            "group": 2
         },
         {
             "index": 27,
-            "dataId": "offer-3176",
-            "name": "4418",
-            "type": "offer",
-            "group": 3
+            "dataId": "inst-3320",
+            "name": "AYRES",
+            "type": "inst",
+            "group": 2
         },
         {
             "index": 28,
-            "dataId": "offer-1937",
-            "name": "2884",
-            "type": "offer",
-            "group": 3
+            "dataId": "inst-1395",
+            "name": "DEMERS",
+            "type": "inst",
+            "group": 2
         },
         {
             "index": 29,
-            "dataId": "offer-578",
-            "name": "1524",
+            "dataId": "offer-3343",
+            "name": "4634",
             "type": "offer",
             "group": 3
         },
         {
             "index": 30,
-            "dataId": "offer-577",
-            "name": "1522",
+            "dataId": "offer-3341",
+            "name": "4633",
             "type": "offer",
             "group": 3
         },
         {
             "index": 31,
-            "dataId": "subject-2715",
-            "name": "STAT",
+            "dataId": "offer-3338",
+            "name": "4631",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 32,
+            "dataId": "offer-3339",
+            "name": "4632",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 33,
+            "dataId": "offer-3288",
+            "name": "4574",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 34,
+            "dataId": "offer-3290",
+            "name": "4577",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 35,
+            "dataId": "offer-3286",
+            "name": "4573",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 36,
+            "dataId": "offer-3278",
+            "name": "4552",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 37,
+            "dataId": "offer-3304",
+            "name": "4609",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 38,
+            "dataId": "offer-3307",
+            "name": "4610",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 39,
+            "dataId": "offer-3310",
+            "name": "4611",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 40,
+            "dataId": "offer-3312",
+            "name": "4612",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 41,
+            "dataId": "offer-3299",
+            "name": "4597",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 42,
+            "dataId": "offer-3301",
+            "name": "4607",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 43,
+            "dataId": "offer-3326",
+            "name": "4623",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 44,
+            "dataId": "offer-3328",
+            "name": "4624",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 45,
+            "dataId": "offer-3329",
+            "name": "4626",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 46,
+            "dataId": "offer-3331",
+            "name": "4627",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 47,
+            "dataId": "offer-3334",
+            "name": "4628",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 48,
+            "dataId": "offer-3336",
+            "name": "4629",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 49,
+            "dataId": "offer-3337",
+            "name": "4630",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 50,
+            "dataId": "offer-3314",
+            "name": "4613",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 51,
+            "dataId": "offer-3317",
+            "name": "4615",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 52,
+            "dataId": "offer-3319",
+            "name": "4618",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 53,
+            "dataId": "offer-3321",
+            "name": "4619",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 54,
+            "dataId": "offer-3324",
+            "name": "4621",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 55,
+            "dataId": "offer-3323",
+            "name": "4620",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 56,
+            "dataId": "offer-3325",
+            "name": "4622",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 57,
+            "dataId": "subject-3279",
+            "name": "COM",
             "type": "subject",
             "group": 4
         }
@@ -228,39 +410,39 @@
     "links": [
         {
             "source": 0,
-            "target": 11
-        },
-        {
-            "source": 1,
-            "target": 13
-        },
-        {
-            "source": 2,
-            "target": 12
-        },
-        {
-            "source": 3,
-            "target": 14
-        },
-        {
-            "source": 4,
-            "target": 15
-        },
-        {
-            "source": 5,
-            "target": 16
+            "target": 44
         },
         {
             "source": 0,
-            "target": 31
+            "target": 37
         },
         {
             "source": 1,
-            "target": 31
+            "target": 45
+        },
+        {
+            "source": 1,
+            "target": 38
         },
         {
             "source": 2,
-            "target": 31
+            "target": 39
+        },
+        {
+            "source": 2,
+            "target": 48
+        },
+        {
+            "source": 3,
+            "target": 50
+        },
+        {
+            "source": 3,
+            "target": 51
+        },
+        {
+            "source": 3,
+            "target": 32
         },
         {
             "source": 3,
@@ -268,91 +450,219 @@
         },
         {
             "source": 4,
-            "target": 31
+            "target": 40
+        },
+        {
+            "source": 4,
+            "target": 49
         },
         {
             "source": 5,
-            "target": 31
+            "target": 41
+        },
+        {
+            "source": 6,
+            "target": 29
+        },
+        {
+            "source": 7,
+            "target": 30
+        },
+        {
+            "source": 8,
+            "target": 42
+        },
+        {
+            "source": 9,
+            "target": 46
+        },
+        {
+            "source": 10,
+            "target": 47
         },
         {
             "source": 11,
-            "target": 6
+            "target": 34
         },
         {
             "source": 12,
-            "target": 7
+            "target": 35
+        },
+        {
+            "source": 12,
+            "target": 33
         },
         {
             "source": 13,
-            "target": 8
+            "target": 36
         },
         {
-            "source": 14,
-            "target": 9
+            "source": 0,
+            "target": 57
         },
         {
-            "source": 15,
-            "target": 7
+            "source": 1,
+            "target": 57
         },
         {
-            "source": 16,
-            "target": 10
+            "source": 2,
+            "target": 57
         },
         {
-            "source": 17,
-            "target": 6
+            "source": 3,
+            "target": 57
         },
         {
-            "source": 18,
-            "target": 6
+            "source": 4,
+            "target": 57
         },
         {
-            "source": 19,
-            "target": 8
+            "source": 5,
+            "target": 57
         },
         {
-            "source": 20,
-            "target": 8
+            "source": 6,
+            "target": 57
         },
         {
-            "source": 21,
-            "target": 8
+            "source": 7,
+            "target": 57
         },
         {
-            "source": 22,
-            "target": 8
+            "source": 8,
+            "target": 57
         },
         {
-            "source": 23,
-            "target": 8
+            "source": 9,
+            "target": 57
         },
         {
-            "source": 24,
-            "target": 9
+            "source": 10,
+            "target": 57
         },
         {
-            "source": 25,
-            "target": 10
+            "source": 11,
+            "target": 57
         },
         {
-            "source": 26,
-            "target": 10
+            "source": 12,
+            "target": 57
         },
         {
-            "source": 27,
-            "target": 10
-        },
-        {
-            "source": 28,
-            "target": 10
+            "source": 13,
+            "target": 57
         },
         {
             "source": 29,
-            "target": 10
+            "target": 14
         },
         {
             "source": 30,
-            "target": 10
+            "target": 15
+        },
+        {
+            "source": 31,
+            "target": 16
+        },
+        {
+            "source": 32,
+            "target": 16
+        },
+        {
+            "source": 33,
+            "target": 17
+        },
+        {
+            "source": 34,
+            "target": 18
+        },
+        {
+            "source": 35,
+            "target": 17
+        },
+        {
+            "source": 36,
+            "target": 19
+        },
+        {
+            "source": 37,
+            "target": 20
+        },
+        {
+            "source": 38,
+            "target": 21
+        },
+        {
+            "source": 39,
+            "target": 20
+        },
+        {
+            "source": 40,
+            "target": 22
+        },
+        {
+            "source": 41,
+            "target": 23
+        },
+        {
+            "source": 42,
+            "target": 24
+        },
+        {
+            "source": 43,
+            "target": 15
+        },
+        {
+            "source": 44,
+            "target": 20
+        },
+        {
+            "source": 45,
+            "target": 21
+        },
+        {
+            "source": 46,
+            "target": 25
+        },
+        {
+            "source": 47,
+            "target": 26
+        },
+        {
+            "source": 48,
+            "target": 20
+        },
+        {
+            "source": 49,
+            "target": 22
+        },
+        {
+            "source": 50,
+            "target": 16
+        },
+        {
+            "source": 51,
+            "target": 16
+        },
+        {
+            "source": 52,
+            "target": 27
+        },
+        {
+            "source": 53,
+            "target": 28
+        },
+        {
+            "source": 54,
+            "target": 19
+        },
+        {
+            "source": 55,
+            "target": 27
+        },
+        {
+            "source": 56,
+            "target": 23
         }
     ]
 }

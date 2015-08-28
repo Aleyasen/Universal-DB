@@ -284,9 +284,9 @@ function bfsTraversalWithDistance($vg, $h_EG, $RAD, $MAX_NODES) {
         if ($n >= $RAD) {
             continue;
         }
-        if ($n > ($RAD + 2)) {
-            break;
-        }
+//        if ($n > ($RAD + 2)) {
+//            break;
+//        }
         $eg = $h_EG[$v];
         foreach ($eg as $v2) {
             if (!isset($mark[$v2])) {
@@ -327,9 +327,9 @@ function bfsTraversal($vg, $h_EG, $RAD, $MAX_NODES, $h_VGV) {
 //            c_log(print_r($vs, true));
             continue;
         }
-        if ($n > ($RAD + 2)) {
-            break;
-        }
+//        if ($n > ($RAD + 2)) {
+//            break;
+//        }
         $eg = $h_EG[$v];
 //        foreach ($eg as $vv) {
 //            c_log("\t\t" . $h_VGV[$v] . " >>>>>>>t> " . $h_VGV[$vv] . "\n");

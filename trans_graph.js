@@ -31,8 +31,8 @@ function findInArray(arr, element) {
 }
 
 var dbs;
-$(document).ready(function() {
 
+$(document).ready(function() {
     $("#choose-dataset").css("background-color", "#E0E0E0");
 
     $(".menu-header").click(function() {
@@ -40,18 +40,18 @@ $(document).ready(function() {
         $(this).css("background-color", "#E0E0E0");
     });
     var url = "./getattr.php?attr=all";
-    return $.getJSON(url, function(data) {
+    $.getJSON(url, function(data) {
         dbs = data;
         generateNetworks();
-
     });
 
     $('.refresh-graph').click(function() {
+        console.log("refresh graph clicked!");
         generateNetworks();
     });
 
     $('.refresh-graph-comp').click(function() {
-        console.log("click on refresh");
+//        console.log("click on refresh");
 //        generateModalContent();
     });
 
@@ -147,6 +147,7 @@ function generateModalContent(result_node, query_node, src_ranking_list, target_
 
 
 function generateNetworks() {
+    console.log("generateNetworks started...");
     $(".refresh-graph").css('visibility', 'hidden');
 //    var datafile = "data.json";
 //    var src_datafile = "data/uw-courses_small/source.json";

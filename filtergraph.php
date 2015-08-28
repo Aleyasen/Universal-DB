@@ -215,7 +215,7 @@ if (isset($_GET["nofilter"])) {
         for ($i = 0; $i < sizeof($vs1); $i++) {
             if (isset($dist_query_node[$vs1[$i]]) && isset($dist_result_node[$vs1[$i]])) {
                 $d = $dist_query_node[$vs1[$i]] + $dist_result_node[$vs1[$i]];
-                if ($d <= ($dis_result_query + 1 )) {
+                if ($d <= ($dis_result_query + 1 )) { //change the expansion factor here ( + 1 )
                     array_push($vs, $vs1[$i]);
                 }
             }
@@ -226,7 +226,7 @@ if (isset($_GET["nofilter"])) {
                 for ($j = 0; $j < sizeof($vs1); $j++) {
                     if (isset($dist_query_node[$vs1[$j]]) && isset($dist_other_node[$i][$vs1[$j]])) {
                         $d = $dist_query_node[$vs1[$j]] + $dist_other_node[$i][$vs1[$j]];
-                        if ($d <= ($dis_other_query[$i] + 1 )) {
+                        if ($d <= ($dis_other_query[$i] + 1 )) { //change the expansion factor here ( + 1 )
                             array_push($vs, $vs1[$j]);
                         }
                     }
