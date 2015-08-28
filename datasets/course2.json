@@ -39,8 +39,8 @@
                 "offer_subject"
             ],
             "param": {
-                "distance": 200,
-                "charge": -500
+                "distance": 100,
+                "charge": -200
             }
         },
         "target": {

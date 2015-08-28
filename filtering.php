@@ -264,7 +264,7 @@ function findShortestPath($vfrom, $vto, $h_EG) {
     }
 
     // unreachable node
-    return -1;
+    return 9999;
 }
 
 function bfsTraversalWithDistance($vg, $h_EG, $RAD, $MAX_NODES) {
@@ -281,7 +281,10 @@ function bfsTraversalWithDistance($vg, $h_EG, $RAD, $MAX_NODES) {
         $v = $queue->dequeue();
         $n = $queue_rad->dequeue();
         array_push($vs, array($v, $n));
-        if ($n > $RAD) {
+        if ($n >= $RAD) {
+            continue;
+        }
+        if ($n > ($RAD + 2)) {
             break;
         }
         $eg = $h_EG[$v];
@@ -337,7 +340,6 @@ function bfsTraversal($vg, $h_EG, $RAD, $MAX_NODES, $h_VGV) {
                 $queue->enqueue($v2);
                 $queue_rad->enqueue($n + 1);
 //                c_log("enqueue: " . $h_VGV[$v2] . " d: " . $n . "parent: " . $h_VGV[$v] . "\n");
-
 //                echo "enqueue: " . $v . " d: " . $n . "<br>";
             }
         }

@@ -154,6 +154,7 @@ function createList(svg, x_init, y_init, count, labels, srcLabels, targetLabels,
                 .attr("fill", "black");
         text.on("click", function(d) {
             last_clicked_element = $(this);
+            others_count = 3;
             showModal($(this));
 
             d3.event.stopPropagation();
@@ -281,7 +282,7 @@ function generateOtherNodes(labels, rank, count) {
     var pre_count = Math.ceil(count / 2);
     var post_count = count - pre_count;
     var pre_rank = Math.max(0, rank - pre_count);
-    var post_rank = Math.min(labels.length, rank + post_count);
+    var post_rank = Math.min(labels.length - 1, rank + post_count);
     for (var i = pre_rank; i <= post_rank; i++) {
         if (i != rank) {
             other_nodes_list.push(labels[i][0])

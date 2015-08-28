@@ -84,9 +84,9 @@ if (isset($_GET["nofilter"])) {
 //        $seed_node = "Implementation of integrity constraints and views by query modification";
 // locate query node from node type+value
         $v = idInFullGraph($seed_node, $graphData[2], $graphData[3]);
-        c_log(" >>>>>>>>>>>>>>>>>>>>> H-EG-MIN\n");
-        c_log(print_r($graphData[7], true));
-        c_log("DONE DONE H-EG-MIN");
+//        c_log(" >>>>>>>>>>>>>>>>>>>>> H-EG-MIN\n");
+//        c_log(print_r($graphData[7], true));
+//        c_log("DONE DONE H-EG-MIN");
 // bfs search
         if (sizeof($e_files_min) == 0) {
             $vs = bfsTraversal($v, $graphData[5], $RADIUS, $MAX_NODES, $graphData[4]);
