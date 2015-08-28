@@ -5,30 +5,30 @@ Randomized Algorithms for Optimizing Large Join Queries	|	0.1310
 Selection of Views to Materialize in a Data Warehouse	|	0.1288
 Logic-based approach to semantic query optimization	|	0.1258
 Interoperability of multiple autonomous databases	|	0.1172
+Continuously adaptive continuous queries over streams	|	0.1157
 NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.1133
-Continuously adaptive continuous queries over streams	|	0.1117
 The Design of Postgres	|	0.1108
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.1094
 Continuous queries over data streams	|	0.1094
-Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.1060
 Monitoring Streams - A New Class of Data Management Applications	|	0.1015
 Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.0990
 System R: A Relational Approach to Data Base Management	|	0.0985
 Models and issues in data stream systems	|	0.0884
 System R: relational approach to database management	|	0.0847
-Adaptive filters for continuous queries over distributed data streams	|	0.0251
+Adaptive filters for continuous queries over distributed data streams	|	0.0265
 The CQL continuous query language: semantic foundations and query execution	|	0.0246
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0182
 TinyDB: an acquisitional query processing system for sensor networks	|	0.0173
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0165
 Issues in data stream management	|	0.0165
+Distributed top-k monitoring	|	0.0164
 Aurora: a new model and architecture for data stream management	|	0.0164
-Distributed top-k monitoring	|	0.0154
+Approximate Query Processing Using Wavelets	|	0.0155
 The EXODUS Optimizer Generator	|	0.0152
-Approximate Query Processing Using Wavelets	|	0.0146
 The design of an acquisitional query processor for sensor networks	|	0.0146
 Path sharing and predicate evaluation for high-performance XML filtering	|	0.0144
+Eddies: Continuously Adaptive Query Processing	|	0.0130
 Gigascope: a stream database for network applications	|	0.0126
 TelegraphCQ: Continuous Dataflow Processing for an Uncertain World	|	0.0126
-Eddies: Continuously Adaptive Query Processing	|	0.0123
 Update semantics of relational views	|	0.0119
 Pnnc:ples of database systems	|	0.0119
 Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0117
@@ -36,19 +36,19 @@ GAMMA - A High Performance Dataflow Database Machine	|	0.0115
 Scalable Distributed Stream Processing	|	0.0106
 An Adaptive Query Execution System for Data Integration	|	0.0104
 Random sampling with a reservoir	|	0.0101
+The Recovery Manager of the System R Database Manager	|	0.0096
 On optimizing an SQL-like nested query	|	0.0096
-The Recovery Manager of the System R Database Manager	|	0.0092
 Ode as an Active Database: Constraints and Triggers	|	0.0091
+The Architecture Of An Active Data Base Management System	|	0.0091
 Efficient locking for concurrent operations on B-trees	|	0.0091
+The Design of the Borealis Stream Processing Engine	|	0.0091
 An Evaluation of Buffer Management Strategies for Relational Database Systems	|	0.0087
-The Design of the Borealis Stream Processing Engine	|	0.0086
+Online Aggregation	|	0.0083
 Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0083
 Principles of Database Systems, 2nd Edition	|	0.0082
 XML-QL: A Query Language for XML	|	0.0082
-The Architecture Of An Active Data Base Management System	|	0.0082
-Online Aggregation	|	0.0074
-Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.0073
-Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0073
+Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.0078
+Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0078
 Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.0069
 Object identity	|	0.0065
 Equivalence of Relational Algebra and Relational Calculus Query Languages Having Aggregate Functions	|	0.0065
@@ -56,6 +56,7 @@ Keyword Searching and Browsing in Databases using BANKS	|	0.0064
 The design and implementation of INGRES	|	0.0064
 Extensible Markup Language (XML)	|	0.0063
 Simple Fast Algorithms for the Editing Distance Between Trees and Related Problems	|	0.0063
+The Gamma Database Machine Project	|	0.0062
 A framework for clustering evolving data streams	|	0.0061
 Filtering algorithms and implementation for very fast publish/subscribe systems	|	0.0061
 The data warehousing toolkit	|	0.0061
@@ -65,10 +66,10 @@ Optimal Histograms with Quality Guarantees	|	0.0060
 DBXplorer: A System for Keyword-Based Search over Relational Databases	|	0.0060
 Composite Events for Active Databases: Semantics, Contexts and Detection	|	0.0060
 An Improved Data Stream Summary: The Count-Min Sketch and Its Applications	|	0.0060
+Types and persistence in database programming languages	|	0.0060
+The HiPAC project: combining active databases and timing constraints	|	0.0060
 Maintaining Stream Statistics over Sliding Windows	|	0.0060
 Organization and maintenance of large ordered indexes	|	0.0060
-The Gamma Database Machine Project	|	0.0058
-The HiPAC project: combining active databases and timing constraints	|	0.0058
 Remarks on the algebra of non first normal form relations	|	0.0057
 Iris: An Object-Oriented Database Management System	|	0.0057
 Classifying Schematic and Data Heterogeneity in Multidatabase Systems	|	0.0057
@@ -82,15 +83,16 @@ Starburst Mid-Flight: As the Dust Clears	|	0.0055
 extensible markup language (xml) 1	|	0.0055
 Object Exchange Across Heterogeneous Information Sources	|	0.0055
 Relational Completeness of Data Base Sublanguages	|	0.0055
-Types and persistence in database programming languages	|	0.0054
+View Maintenance in a Warehousing Environment	|	0.0053
 StatStream: Statistical Monitoring of Thousands of Data Streams in Real Time	|	0.0053
 XRANK: ranked keyword search over XML documents	|	0.0053
 Concurrency control performance modeling: alternatives and implications	|	0.0053
 Organization and Maintenance of Large Ordered Indices	|	0.0052
-View Maintenance in a Warehousing Environment	|	0.0051
 Storing and querying ordered XML using a relational database system	|	0.0051
 A Taxonomy of Time in Databases	|	0.0051
+Active database systems	|	0.0051
 Data caching issues in an information retrieval system	|	0.0051
+A federated architecture for information management	|	0.0051
 Access path selection in a relational database management system	|	0.0049
 The functional data model and the data languages DAPLEX	|	0.0049
 The Implementation of Postgres	|	0.0048
@@ -98,27 +100,25 @@ TIMBER: A native XML database	|	0.0048
 Efficient Query Evaluation on Probabilistic Databases	|	0.0048
 Query By Example	|	0.0048
 Operating system support for database management	|	0.0048
-Active database systems	|	0.0048
-A federated architecture for information management	|	0.0048
 Storing and Querying XML Data using an RDBMS	|	0.0046
 Maintaining Views Incrementally	|	0.0046
+Wavelet-Based Histograms for Selectivity Estimation	|	0.0046
 Querying the Internet with PIER	|	0.0046
 Structural Joins: A Primitive for Efficient XML Query Pattern Matching	|	0.0046
 Research problems in data warehousing	|	0.0043
 Data Model and Query Evaluation in Global Information Systems	|	0.0043
 Holistic twig joins: optimal XML pattern matching	|	0.0043
 The Postgres Next Generation Database Management System	|	0.0043
+Lore: a database management system for semistructured data	|	0.0042
 Data Management for Peer-to-Peer Computing : A Vision	|	0.0041
 A Fast Index for Semistructured Data	|	0.0041
 Efficiently Publishing Relational Data as XML Documents	|	0.0041
 Making Smalltalk a Database System	|	0.0041
 An Introduction to Spatial Database Systems	|	0.0041
 Extending the database relational model to capture more meaning	|	0.0040
-Lore: a database management system for semistructured data	|	0.0040
+Schema Mediation in Peer Data Management Systems	|	0.0039
 Organization and Maintenance of Large Ordered Indexes	|	0.0039
 An Introduction to Database Systems	|	0.0039
-Wavelet-Based Histograms for Selectivity Estimation	|	0.0038
-Schema Mediation in Peer Data Management Systems	|	0.0037
 From Structured Documents to Novel Query Facilities	|	0.0037
 Storing Semistructured Data with STORED	|	0.0037
 On Supporting Containment Queries in Relational Database Management Systems	|	0.0035
@@ -126,7 +126,7 @@ Your Mediators Need Data Conversion!	|	0.0035
 Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.0035
 The Theory of Relational Databases	|	0.0031
 Fast Subsequence Matching in Time-Series Databases	|	0.0029
-Query Optimization in Database Systems	|	0.0027
+Query Optimization in Database Systems	|	0.0028
 A Query Language and Optimization Techniques for Unstructured Data	|	0.0025
 The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0023
 Temporal and Real-Time Databases: A Survey	|	0.0023

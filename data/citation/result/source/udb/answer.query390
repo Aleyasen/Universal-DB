@@ -1,5 +1,5 @@
+F-Logic: A Higher-Order language for Reasoning about Objects, Inheritance, and Scheme	|	0.3226
 Flexible support for multiple access control policies	|	0.2895
-F-Logic: A Higher-Order language for Reasoning about Objects, Inheritance, and Scheme	|	0.2821
 Disjunctive datalog	|	0.1932
 Foundations of Logic Programming, 2nd Edition	|	0.1200
 The alternating fixpoint of logic programs with negation	|	0.0909
@@ -27,35 +27,35 @@ The serializability of concurrent database updates	|	0.0323
 Join processing in database systems with large main memories	|	0.0323
 Iris: An Object-Oriented Database Management System	|	0.0323
 Principles of Database and Knowledge-Base Systems, Volume II	|	0.0284
+Development of an object-oriented DBMS	|	0.0263
 Protecting Respondents' Identities in Microdata Release	|	0.0263
 A Majority consensus approach to concurrency control for multiple copy databases	|	0.0263
-Development of an object-oriented DBMS	|	0.0229
 Answering Queries Using Templates with Binding Patterns	|	0.0217
+Computable Queries for Relational Data Bases	|	0.0217
 Pmnczples of database and knowledge- base systems	|	0.0217
-Computable Queries for Relational Data Bases	|	0.0183
 Hippocratic Databases	|	0.0182
 Using Semi-Joins to Solve Relational Queries	|	0.0182
 Linear Hashing: A New Tool for File and Table Addressing	|	0.0154
 Quad Trees: A Data Structure for Retrieval on Composite Keys	|	0.0154
 Data Structures for Range Searching	|	0.0154
+The Recovery Manager of the System R Database Manager	|	0.0154
 Principles of transaction-oriented database recovery	|	0.0154
 Computational problems related to the design of normal form relational schemas	|	0.0154
 On optimizing an SQL-like nested query	|	0.0154
-The Recovery Manager of the System R Database Manager	|	0.0132
+A Relational Model for Large Shared Data Banks	|	0.0154
 Maintaining Views Incrementally	|	0.0132
 Logical Foundations of Object-Oriented and Frame-Based Languages	|	0.0132
 Efficient locking for concurrent operations on B-trees	|	0.0132
 Object identity	|	0.0123
 Dependency Structures of Data Base Relationships	|	0.0114
+Universality of data retrieval languages	|	0.0114
 Principles of database and knowledge-base systems	|	0.0114
 Answering recursive queries using views	|	0.0099
 Principles of Database Systems, 2nd Edition	|	0.0099
 Synthesizing third normal form relations from functional dependencies	|	0.0099
-Universality of data retrieval languages	|	0.0098
 Concurrency Control in Distributed Database Systems	|	0.0087
+Join indices	|	0.0087
 Query-by-Example: A Data Base Language	|	0.0087
-A Relational Model for Large Shared Data Banks	|	0.0087
-Join indices	|	0.0077
 Storing Semistructured Data with STORED	|	0.0077
 A class of data structures for associative searching	|	0.0077
 The Quadtree and Related Hierarchical Data Structures	|	0.0077
@@ -68,12 +68,12 @@ The entity-relationship model---toward a unified view of data	|	0.0055
 Database description with SDM: a semantic database model	|	0.0055
 Further Normalization of the Data Base Relational Model	|	0.0055
 The Design of Postgres	|	0.0050
+The notions of consistency and predicate locks in a database system	|	0.0050
 Query Caching and Optimization in Distributed Mediator Systems	|	0.0045
+Optimizing Queries with Materialized Views	|	0.0045
 Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0045
 Database abstractions: aggregation and generalization	|	0.0045
 Relational Completeness of Data Base Sublanguages	|	0.0045
-The notions of consistency and predicate locks in a database system	|	0.0045
-Optimizing Queries with Materialized Views	|	0.0042
 Organization and Maintenance of Large Ordered Indices	|	0.0041
 The Ubiquitous B-Tree	|	0.0041
 Optimal implementation of conjunctive queries in relational data bases	|	0.0038
@@ -85,6 +85,6 @@ System R: relational approach to database management	|	0.0026
 Logic and Databases: A Deductive Approach	|	0.0024
 Concurrency Control and Recovery in Database Systems	|	0.0020
 The Theory of Relational Databases	|	0.0020
-Query Optimization in Database Systems	|	0.0017
+Query Optimization in Database Systems	|	0.0018
 Access path selection in a relational database management system	|	0.0011
 Foundations of Databases	|	0.0008

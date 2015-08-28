@@ -9,12 +9,12 @@ A Quantitative Analysis and Performance Study for Similarity-Search Methods in H
 The X-tree : An Index Structure for High-Dimensional Data	|	0.0969
 MindReader: Querying Databases Through Multiple Examples	|	0.0500
 Similarity Search in High Dimensions via Hashing	|	0.0444
-A cost model for nearest neighbor search in high-dimensional data space	|	0.0401
+A cost model for nearest neighbor search in high-dimensional data space	|	0.0441
 3D Shape Histograms for Similarity Search and Classification in Spatial Databases	|	0.0400
 The Pyramid-Technique: Towards Breaking the Curse of Dimensionality	|	0.0333
 Similarity Indexing with the SS-tree	|	0.0331
+LOF: Identifying Density-Based Local Outliers	|	0.0247
 M-tree: An Efficient Access Method for Similarity Search in Metric Spaces	|	0.0242
-LOF: Identifying Density-Based Local Outliers	|	0.0220
 Searching in metric spaces	|	0.0200
 The Grid File: An Adaptable, Symmetric Multi-Key File Structure	|	0.0170
 Query Processing in Spatial Network Databases	|	0.0167
@@ -34,18 +34,18 @@ Quad Trees: A Data Structure for Retrieval on Composite Keys	|	0.0100
 Data Structures for Range Searching	|	0.0100
 Access methods for text	|	0.0090
 Locally Adaptive Dimensionality Reduction for Indexing Large Time Series Databases	|	0.0081
+FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets	|	0.0076
 Generalized Search Trees for Database Systems	|	0.0074
 An Introduction to Spatial Database Systems	|	0.0074
-FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets	|	0.0071
 The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0071
 Efficient Similarity Search In Sequence Databases	|	0.0070
 The Design and Analysis of Spatial Data Structures	|	0.0062
 Hilbert R-tree: An Improved R-tree using Fractals	|	0.0061
-The R*-tree: an efficient and robust access method for points and rectangles	|	0.0058
+The R*-tree: an efficient and robust access method for points and rectangles	|	0.0061
 Multidimensional access methods	|	0.0052
+Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases	|	0.0051
 Efficient Processing of Spatial Joins Using R-Trees	|	0.0051
-Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases	|	0.0042
-Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0042
+Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0047
 Fast Time Sequence Indexing for Arbitrary Lp Norms	|	0.0039
 Fast Subsequence Matching in Time-Series Databases	|	0.0035
 Principles of Database and Knowledge-Base Systems, Volume I	|	0.0027

@@ -5,11 +5,11 @@ Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, a
 Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.1474
 Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.1138
 Temporal and Real-Time Databases: A Survey	|	0.1026
-Lore: a database management system for semistructured data	|	0.0876
+Lore: a database management system for semistructured data	|	0.0914
 Pig latin: a not-so-foreign language for data processing	|	0.0476
 An Array-Based Algorithm for Simultaneous Multidimensional Aggregates	|	0.0417
 Data Preparation for Mining World Wide Web Browsing Patterns	|	0.0417
-Modeling Multidimensional Databases	|	0.0345
+Modeling Multidimensional Databases	|	0.0392
 Index Selection for OLAP	|	0.0312
 Approximate Aggregation Techniques for Sensor Databases	|	0.0312
 Database Transaction Models For Advanced Applications	|	0.0270
@@ -25,6 +25,7 @@ Composite Event Specification in Active Databases: Model & Implementation	|	0.01
 Bottom-Up Computation of Sparse and Iceberg CUBEs	|	0.0196
 Real-Time Databases	|	0.0196
 Composite Events for Active Databases: Semantics, Contexts and Detection	|	0.0196
+The Dangers of Replication and a Solution	|	0.0196
 The Theory of Database Concurrency Control	|	0.0196
 Transaction Processing: Concepts and Techniques	|	0.0196
 Incognito: efficient full-domain K-anonymity	|	0.0196
@@ -36,12 +37,11 @@ Scheduling real-time transactions: a performance evaluation	|	0.0175
 A New SQL-like Operator for Mining Association Rules	|	0.0157
 Change Detection in Hierarchically Structured Information	|	0.0156
 Querying the World Wide Web	|	0.0156
-The Dangers of Replication and a Solution	|	0.0152
+Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0142
 Query-by-Example: A Data Base Language	|	0.0142
 From Semistructured Data to XML: Migrating the Lore Data Model and Query Language	|	0.0139
+The temporal query language TQuel	|	0.0139
 C-Store: A Column-oriented DBMS	|	0.0139
-Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0127
-The temporal query language TQuel	|	0.0124
 Telos: representing knowledge about information systems	|	0.0123
 On Optimistic Methods for Concurrency Control	|	0.0123
 Beyond Market Baskets: Generalizing Association Rules to Correlations	|	0.0116
@@ -53,20 +53,19 @@ Query By Example	|	0.0110
 Principles of transaction-oriented database recovery	|	0.0110
 Spatial SQL: A Query and Presentation Language	|	0.0110
 Ode as an Active Database: Constraints and Triggers	|	0.0098
+The Architecture Of An Active Data Base Management System	|	0.0098
 Structural Joins: A Primitive for Efficient XML Query Pattern Matching	|	0.0098
 An overview of data warehousing and OLAP technology	|	0.0097
+The notions of consistency and predicate locks in a database system	|	0.0088
 Holistic twig joins: optimal XML pattern matching	|	0.0088
 Database Description with SDM: A Semantic Database Model	|	0.0088
 The Postgres Next Generation Database Management System	|	0.0088
-The notions of consistency and predicate locks in a database system	|	0.0081
+Online Aggregation	|	0.0081
 A Fast Index for Semistructured Data	|	0.0079
 Aurora: a new model and architecture for data stream management	|	0.0079
 The CQL continuous query language: semantic foundations and query execution	|	0.0079
-The Architecture Of An Active Data Base Management System	|	0.0078
+A Data Model and Query Language for EXODUS	|	0.0071
 An Introduction to Database Systems	|	0.0071
-Online Aggregation	|	0.0069
-DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0069
-A Data Model and Query Language for EXODUS	|	0.0064
 From Structured Documents to Novel Query Facilities	|	0.0064
 Querying Object-Oriented Databases	|	0.0064
 Interoperability of multiple autonomous databases	|	0.0064
@@ -78,6 +77,7 @@ Database description with SDM: a semantic database model	|	0.0048
 Relational Completeness of Data Base Sublanguages	|	0.0041
 Concurrency Control and Recovery in Database Systems	|	0.0038
 Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.0037
+DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0037
 Continuous queries over data streams	|	0.0037
 A Query Language and Optimization Techniques for Unstructured Data	|	0.0035
 System R: A Relational Approach to Data Base Management	|	0.0035

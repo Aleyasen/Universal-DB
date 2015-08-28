@@ -14,14 +14,15 @@ Extensible Markup Language (XML) 1.0	|	0.0400
 Indexing and Querying XML Data for Regular Path Expressions	|	0.0263
 extensible markup language (xml) 1	|	0.0263
 DISCOVER: Keyword Search in Relational Databases	|	0.0217
+Accelerating XPath location steps	|	0.0217
 XRANK: ranked keyword search over XML documents	|	0.0217
 Pmnczples of database and knowledge- base systems	|	0.0217
 Storing and querying ordered XML using a relational database system	|	0.0182
-Accelerating XPath location steps	|	0.0179
 TIMBER: A native XML database	|	0.0154
 Efficient Query Evaluation on Probabilistic Databases	|	0.0154
 Path sharing and predicate evaluation for high-performance XML filtering	|	0.0154
 Storing and Querying XML Data using an RDBMS	|	0.0132
+The Architecture Of An Active Data Base Management System	|	0.0132
 Structural Joins: A Primitive for Efficient XML Query Pattern Matching	|	0.0132
 Quilt: An XML Query Language for Heterogeneous Data Sources	|	0.0114
 Holistic twig joins: optimal XML pattern matching	|	0.0114
@@ -29,20 +30,19 @@ Efficiently Publishing Relational Data as XML Documents	|	0.0099
 A Query Language for XML	|	0.0099
 Aurora: a new model and architecture for data stream management	|	0.0099
 XML-QL: A Query Language for XML	|	0.0099
-The Architecture Of An Active Data Base Management System	|	0.0099
 Beyond Market Baskets: Generalizing Association Rules to Correlations	|	0.0068
 The Lorel Query Language for Semistructured Data	|	0.0052
+Online Aggregation	|	0.0045
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0045
 Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.0041
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0041
 Continuous queries over data streams	|	0.0041
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0041
-Online Aggregation	|	0.0038
-Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0038
 NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0038
 A Query Language and Optimization Techniques for Unstructured Data	|	0.0038
 Monitoring Streams - A New Class of Data Management Applications	|	0.0032
+Lore: a database management system for semistructured data	|	0.0030
 Principles of Database and Knowledge-Base Systems, Volume I	|	0.0030
-Lore: a database management system for semistructured data	|	0.0028
-An Effective Hash Based Algorithm for Mining Association Rules	|	0.0024
+An Effective Hash Based Algorithm for Mining Association Rules	|	0.0028
 Fast Algorithms for Mining Association Rules in Large Databases	|	0.0024
 Models and issues in data stream systems	|	0.0022
-Fast Algorithms for Mining Association Rules	|	0.0009
+Fast Algorithms for Mining Association Rules	|	0.0010

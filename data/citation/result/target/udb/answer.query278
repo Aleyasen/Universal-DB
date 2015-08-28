@@ -1,14 +1,15 @@
 XMILL: An Efficient Compressor for XML Data	|	0.2500
-DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.1012
-Lore: a database management system for semistructured data	|	0.0845
+DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.1026
+Lore: a database management system for semistructured data	|	0.0854
 From Semistructured Data to XML: Migrating the Lore Data Model and Query Language	|	0.0513
 TIMBER: A native XML database	|	0.0345
 W3QS: A Query System for the World-Wide Web	|	0.0345
 Querying the World Wide Web	|	0.0323
+Accelerating XPath location steps	|	0.0256
 Understanding the New SQL: A Complete Guide	|	0.0256
 A Fast Index for Semistructured Data	|	0.0213
 Adding Structure to Unstructured Data	|	0.0208
-Accelerating XPath location steps	|	0.0204
+Index Structures for Path Expressions	|	0.0208
 Query-by-Example: A Data Base Language	|	0.0185
 Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases	|	0.0172
 Linear Hashing: A New Tool for File and Table Addressing	|	0.0172
@@ -19,7 +20,6 @@ Structural Joins: A Primitive for Efficient XML Query Pattern Matching	|	0.0145
 Semistructured data	|	0.0144
 Holistic twig joins: optimal XML pattern matching	|	0.0123
 The Postgres Next Generation Database Management System	|	0.0123
-Index Structures for Path Expressions	|	0.0119
 Query Optimization for XML	|	0.0115
 From Structured Documents to Novel Query Facilities	|	0.0081
 Querying Object-Oriented Databases	|	0.0081

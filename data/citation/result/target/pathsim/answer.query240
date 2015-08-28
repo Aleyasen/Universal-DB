@@ -1,151 +1,153 @@
-Monitoring Streams - A New Class of Data Management Applications	|	0.5660
-Continuous queries over data streams	|	0.5200
-Continuously adaptive continuous queries over streams	|	0.4490
-NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.4314
-Aurora: a new model and architecture for data stream management	|	0.4286
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.4082
-Adaptive filters for continuous queries over distributed data streams	|	0.3784
-The design of an acquisitional query processor for sensor networks	|	0.3750
-Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.3721
-Issues in data stream management	|	0.3673
-TinyDB: an acquisitional query processing system for sensor networks	|	0.3556
-The CQL continuous query language: semantic foundations and query execution	|	0.3333
-Approximate Query Processing Using Wavelets	|	0.3256
-Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.3200
-New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.3043
-Eddies: Continuously Adaptive Query Processing	|	0.2800
-Towards Sensor Database Systems	|	0.2778
-Query Processing, Resource Management, and Approximation in a Data Stream Management System	|	0.2778
-Approximate Frequency Counts over Data Streams	|	0.2667
-Improved Histograms for Selectivity Estimation of Range Predicates	|	0.2632
-Multiple-query optimization	|	0.2609
-Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.2500
-Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.2326
-Load Shedding in a Data Stream Manager	|	0.2222
-Selectivity Estimation Without the Attribute Value Independence Assumption	|	0.2162
-StatStream: Statistical Monitoring of Thousands of Data Streams in Real Time	|	0.2162
-Path sharing and predicate evaluation for high-performance XML filtering	|	0.2051
-Wavelet-Based Histograms for Selectivity Estimation	|	0.2000
-Principles of distributed database systems	|	0.1765
-Maintaining Stream Statistics over Sliding Windows	|	0.1765
-Finding Frequent Items in Data Streams	|	0.1714
-The cougar approach to in-network query processing in sensor networks	|	0.1667
-Online Aggregation	|	0.1633
-An Adaptive Query Execution System for Data Integration	|	0.1600
-Random sampling with a reservoir	|	0.1579
-Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.1538
-The Architecture Of An Active Data Base Management System	|	0.1500
-The Design of the Borealis Stream Processing Engine	|	0.1500
-Access path selection in a relational database management system	|	0.1429
-Distributed top-k monitoring	|	0.1429
-TelegraphCQ: Continuous Dataflow Processing for an Uncertain World	|	0.1250
-Filtering algorithms and implementation for very fast publish/subscribe systems	|	0.1212
-Complex Queries in DHT-based Peer-to-Peer Networks	|	0.1176
-Evaluating Top-k Queries over Web-Accessible Databases	|	0.1176
-What's hot and what's not: tracking most frequent items dynamically	|	0.1176
-Mariposa: A Wide-Area Distributed Database System	|	0.1111
-Scalable Distributed Stream Processing	|	0.1081
-Human Behaviour and the Principle of Least Effort: an Introduction to Human Ecology	|	0.1081
-Efficient Time Series Matching by Wavelets	|	0.1053
-Maintaining Views Incrementally	|	0.1000
-Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Total	|	0.0976
-Optimizing Queries Across Diverse Data Sources	|	0.0952
-XML-QL: A Query Language for XML	|	0.0952
-CURE: An Efficient Clustering Algorithm for Large Databases	|	0.0930
-Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.0909
-Parallel Database Systems: The Future of High Performance Database Processing1	|	0.0909
-Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.0889
-Spatial Query Processing in an Object-Oriented Database System	|	0.0851
-Query Caching and Optimization in Distributed Mediator Systems	|	0.0816
-Fast Time Sequence Indexing for Arbitrary Lp Norms	|	0.0816
-Query evaluation techniques for large databases	|	0.0800
-The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0769
-Temporal and Real-Time Databases: A Survey	|	0.0769
-Query Processing in Sensor Networks	|	0.0625
-Gigascope: a stream database for network applications	|	0.0625
-Logic-based approach to semantic query optimization	|	0.0625
-Extensible Markup Language (XML)	|	0.0625
-Providing olap (on-line analytical processing) to user-analysts: an it mandate	|	0.0625
-Simple Fast Algorithms for the Editing Distance Between Trees and Related Problems	|	0.0625
-Efficient Algorithms for Processing XPath Queries	|	0.0606
-Detecting Changes in XML Documents	|	0.0606
-XML Path Language (XPath) Version 1.0	|	0.0606
-Human behavior and the principle of least effort	|	0.0606
-Selection of Views to Materialize in a Data Warehouse	|	0.0606
-Object and File Management in the EXODUS Extensible Database System	|	0.0606
-ROCK: A Robust Clustering Algorithm for Categorical Attributes	|	0.0588
-Query Processing in Spatial Network Databases	|	0.0588
-Optimal Histograms with Quality Guarantees	|	0.0588
-Efficient Filtering of XML Documents with XPath Expressions	|	0.0588
-Composite Events for Active Databases: Semantics, Contexts and Detection	|	0.0588
-An Improved Data Stream Summary: The Count-Min Sketch and Its Applications	|	0.0588
-Randomized Algorithms for Optimizing Large Join Queries	|	0.0588
-Optimal Aggregation Algorithms for Middleware	|	0.0588
-Probabilistic Counting Algorithms for Data Base Applications	|	0.0588
-A homogeneous relational model and query languages for temporal databases	|	0.0588
-Extensible Markup Language (XML) 1.0	|	0.0588
-Similarity-Based Queries for Time Series Data	|	0.0571
-Model-Driven Data Acquisition in Sensor Networks	|	0.0571
-Wrapper Induction for Information Extraction	|	0.0571
-Change Detection in Hierarchically Structured Information	|	0.0556
-XWRAP: An XML-Enabled Wrapper Construction System for Web Information Sources	|	0.0556
-Aggregate-Query Processing in Data Warehousing Environments	|	0.0556
-extensible markup language (xml) 1	|	0.0556
-Fast Nearest Neighbor Search in Medical Image Databases	|	0.0541
-DISCOVER: Keyword Search in Relational Databases	|	0.0541
-View Maintenance in a Warehousing Environment	|	0.0541
-An Array-Based Algorithm for Simultaneous Multidimensional Aggregates	|	0.0541
-The temporal query language TQuel	|	0.0541
-Dimensionality Reduction for Fast Similarity Search in Large Time Series Databases	|	0.0541
-Exact Indexing of Dynamic Time Warping	|	0.0526
-Similarity Search in High Dimensions via Hashing	|	0.0526
-Efficient Retrieval of Similar Time Sequences Under Time Warping	|	0.0526
-Computing Iceberg Queries Efficiently	|	0.0526
-Storing and querying ordered XML using a relational database system	|	0.0526
-OPTICS: Ordering Points To Identify the Clustering Structure	|	0.0526
-Data caching issues in an information retrieval system	|	0.0526
-Indexing and Querying XML Data for Regular Path Expressions	|	0.0500
-Querying the Internet with PIER	|	0.0500
-Access methods for text	|	0.0500
-Parallel database systems: the future of high performance database systems	|	0.0500
-Locally Adaptive Dimensionality Reduction for Indexing Large Time Series Databases	|	0.0488
-Discovering Similar Multidimensional Trajectories	|	0.0488
-Query Reformulation for Dynamic Information Integration	|	0.0488
-A New SQL-like Operator for Mining Association Rules	|	0.0476
-Data Management for Peer-to-Peer Computing : A Vision	|	0.0476
-Making Smalltalk a Database System	|	0.0476
-Schema Mediation in Peer Data Management Systems	|	0.0465
-M-tree: An Efficient Access Method for Similarity Search in Metric Spaces	|	0.0455
-On packing R-trees	|	0.0455
-Database Mining: A Performance Perspective	|	0.0455
-Interoperability of multiple autonomous databases	|	0.0455
-Similarity Indexing with the SS-tree	|	0.0444
-The design & analysis of spatial data structures	|	0.0444
-Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases	|	0.0435
-Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.0435
-Optimal Multi-Step k-Nearest Neighbor Search	|	0.0435
-Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.0426
-The Gamma Database Machine Project	|	0.0426
-Efficient and Effective Querying by Image Content	|	0.0426
-Database description with SDM: a semantic database model	|	0.0426
-Exploratory Mining and Pruning Optimizations of Constrained Association Rules	|	0.0417
-The Design of Postgres	|	0.0417
-Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0408
-Semantic data models	|	0.0408
-Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.0400
-A Query Language and Optimization Techniques for Unstructured Data	|	0.0392
-System R: A Relational Approach to Data Base Management	|	0.0392
-The Design and Analysis of Spatial Data Structures	|	0.0385
-The Grid File: An Adaptable, Symmetric Multikey File Structure	|	0.0370
-Extending the database relational model to capture more meaning	|	0.0364
-Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0357
-Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0357
-The Lorel Query Language for Semistructured Data	|	0.0357
-System R: relational approach to database management	|	0.0357
-Data Mining: An Overview from a Database Perspective	|	0.0339
-Efficient Similarity Search In Sequence Databases	|	0.0328
-Fast Subsequence Matching in Time-Series Databases	|	0.0328
-Searching in high-dimensional spaces: Index structures for improving the performance of multimedia databases	|	0.0328
-Answering queries using views: A survey	|	0.0317
-Mining association rules between sets of items in large databases	|	0.0312
-The R*-tree: an efficient and robust access method for points and rectangles	|	0.0294
+Continuous queries over data streams	|	0.0946
+Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.0944
+The CQL continuous query language: semantic foundations and query execution	|	0.0932
+Continuously adaptive continuous queries over streams	|	0.0930
+Approximate Query Processing Using Wavelets	|	0.0926
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0915
+NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0901
+Issues in data stream management	|	0.0899
+Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.0898
+Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0889
+Query Processing, Resource Management, and Approximation in a Data Stream Management System	|	0.0886
+Multiple-query optimization	|	0.0884
+Wavelet-Based Histograms for Selectivity Estimation	|	0.0878
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0871
+Eddies: Continuously Adaptive Query Processing	|	0.0856
+Distributed top-k monitoring	|	0.0856
+Random sampling with a reservoir	|	0.0854
+Maintaining Stream Statistics over Sliding Windows	|	0.0822
+Online Aggregation	|	0.0822
+Querying the Internet with PIER	|	0.0818
+An Adaptive Query Execution System for Data Integration	|	0.0811
+A Taxonomy of Time in Databases	|	0.0792
+Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0788
+Optimal Histograms with Quality Guarantees	|	0.0778
+An Improved Data Stream Summary: The Count-Min Sketch and Its Applications	|	0.0778
+TelegraphCQ: Continuous Dataflow Processing for an Uncertain World	|	0.0771
+Gigascope: a stream database for network applications	|	0.0748
+A framework for clustering evolving data streams	|	0.0742
+Fast Subsequence Matching in Time-Series Databases	|	0.0644
+Monitoring Streams - A New Class of Data Management Applications	|	0.0204
+Aurora: a new model and architecture for data stream management	|	0.0171
+Adaptive filters for continuous queries over distributed data streams	|	0.0149
+The design of an acquisitional query processor for sensor networks	|	0.0144
+TinyDB: an acquisitional query processing system for sensor networks	|	0.0140
+New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.0119
+Towards Sensor Database Systems	|	0.0108
+Approximate Frequency Counts over Data Streams	|	0.0105
+Improved Histograms for Selectivity Estimation of Range Predicates	|	0.0104
+Load Shedding in a Data Stream Manager	|	0.0086
+Selectivity Estimation Without the Attribute Value Independence Assumption	|	0.0085
+StatStream: Statistical Monitoring of Thousands of Data Streams in Real Time	|	0.0085
+Path sharing and predicate evaluation for high-performance XML filtering	|	0.0082
+Principles of distributed database systems	|	0.0067
+Finding Frequent Items in Data Streams	|	0.0066
+The cougar approach to in-network query processing in sensor networks	|	0.0065
+The Architecture Of An Active Data Base Management System	|	0.0060
+The Design of the Borealis Stream Processing Engine	|	0.0060
+Filtering algorithms and implementation for very fast publish/subscribe systems	|	0.0045
+Complex Queries in DHT-based Peer-to-Peer Networks	|	0.0044
+Evaluating Top-k Queries over Web-Accessible Databases	|	0.0044
+What's hot and what's not: tracking most frequent items dynamically	|	0.0044
+Mariposa: A Wide-Area Distributed Database System	|	0.0043
+Scalable Distributed Stream Processing	|	0.0042
+Human Behaviour and the Principle of Least Effort: an Introduction to Human Ecology	|	0.0042
+Efficient Time Series Matching by Wavelets	|	0.0042
+Maintaining Views Incrementally	|	0.0040
+Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Total	|	0.0039
+Access path selection in a relational database management system	|	0.0039
+Optimizing Queries Across Diverse Data Sources	|	0.0038
+XML-QL: A Query Language for XML	|	0.0038
+CURE: An Efficient Clustering Algorithm for Large Databases	|	0.0037
+Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.0036
+Parallel Database Systems: The Future of High Performance Database Processing1	|	0.0036
+Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.0035
+Spatial Query Processing in an Object-Oriented Database System	|	0.0033
+Query Caching and Optimization in Distributed Mediator Systems	|	0.0031
+Fast Time Sequence Indexing for Arbitrary Lp Norms	|	0.0031
+The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0028
+Temporal and Real-Time Databases: A Survey	|	0.0028
+Query Processing in Sensor Networks	|	0.0023
+Logic-based approach to semantic query optimization	|	0.0023
+Extensible Markup Language (XML)	|	0.0023
+Providing olap (on-line analytical processing) to user-analysts: an it mandate	|	0.0023
+Simple Fast Algorithms for the Editing Distance Between Trees and Related Problems	|	0.0023
+Efficient Algorithms for Processing XPath Queries	|	0.0022
+Detecting Changes in XML Documents	|	0.0022
+XML Path Language (XPath) Version 1.0	|	0.0022
+Human behavior and the principle of least effort	|	0.0022
+Selection of Views to Materialize in a Data Warehouse	|	0.0022
+Object and File Management in the EXODUS Extensible Database System	|	0.0022
+ROCK: A Robust Clustering Algorithm for Categorical Attributes	|	0.0022
+Query Processing in Spatial Network Databases	|	0.0022
+Efficient Filtering of XML Documents with XPath Expressions	|	0.0022
+Composite Events for Active Databases: Semantics, Contexts and Detection	|	0.0022
+Randomized Algorithms for Optimizing Large Join Queries	|	0.0022
+Optimal Aggregation Algorithms for Middleware	|	0.0022
+Probabilistic Counting Algorithms for Data Base Applications	|	0.0022
+A homogeneous relational model and query languages for temporal databases	|	0.0022
+Extensible Markup Language (XML) 1.0	|	0.0022
+Similarity-Based Queries for Time Series Data	|	0.0022
+Model-Driven Data Acquisition in Sensor Networks	|	0.0022
+Wrapper Induction for Information Extraction	|	0.0022
+Change Detection in Hierarchically Structured Information	|	0.0022
+XWRAP: An XML-Enabled Wrapper Construction System for Web Information Sources	|	0.0022
+Aggregate-Query Processing in Data Warehousing Environments	|	0.0022
+extensible markup language (xml) 1	|	0.0022
+Fast Nearest Neighbor Search in Medical Image Databases	|	0.0021
+DISCOVER: Keyword Search in Relational Databases	|	0.0021
+View Maintenance in a Warehousing Environment	|	0.0021
+An Array-Based Algorithm for Simultaneous Multidimensional Aggregates	|	0.0021
+The temporal query language TQuel	|	0.0021
+Dimensionality Reduction for Fast Similarity Search in Large Time Series Databases	|	0.0021
+Exact Indexing of Dynamic Time Warping	|	0.0021
+Similarity Search in High Dimensions via Hashing	|	0.0021
+Efficient Retrieval of Similar Time Sequences Under Time Warping	|	0.0021
+Computing Iceberg Queries Efficiently	|	0.0021
+Storing and querying ordered XML using a relational database system	|	0.0021
+OPTICS: Ordering Points To Identify the Clustering Structure	|	0.0021
+Data caching issues in an information retrieval system	|	0.0021
+Indexing and Querying XML Data for Regular Path Expressions	|	0.0020
+Access methods for text	|	0.0020
+Parallel database systems: the future of high performance database systems	|	0.0020
+Locally Adaptive Dimensionality Reduction for Indexing Large Time Series Databases	|	0.0019
+Discovering Similar Multidimensional Trajectories	|	0.0019
+Query Reformulation for Dynamic Information Integration	|	0.0019
+A New SQL-like Operator for Mining Association Rules	|	0.0019
+Data Management for Peer-to-Peer Computing : A Vision	|	0.0019
+Making Smalltalk a Database System	|	0.0019
+Schema Mediation in Peer Data Management Systems	|	0.0019
+M-tree: An Efficient Access Method for Similarity Search in Metric Spaces	|	0.0018
+On packing R-trees	|	0.0018
+Database Mining: A Performance Perspective	|	0.0018
+Interoperability of multiple autonomous databases	|	0.0018
+Similarity Indexing with the SS-tree	|	0.0018
+The design & analysis of spatial data structures	|	0.0018
+Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases	|	0.0017
+Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.0017
+Optimal Multi-Step k-Nearest Neighbor Search	|	0.0017
+Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.0017
+The Gamma Database Machine Project	|	0.0017
+Efficient and Effective Querying by Image Content	|	0.0017
+Database description with SDM: a semantic database model	|	0.0017
+Exploratory Mining and Pruning Optimizations of Constrained Association Rules	|	0.0016
+The Design of Postgres	|	0.0016
+Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0016
+Semantic data models	|	0.0016
+Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.0015
+A Query Language and Optimization Techniques for Unstructured Data	|	0.0015
+System R: A Relational Approach to Data Base Management	|	0.0015
+The Design and Analysis of Spatial Data Structures	|	0.0014
+Query evaluation techniques for large databases	|	0.0013
+The Grid File: An Adaptable, Symmetric Multikey File Structure	|	0.0013
+Extending the database relational model to capture more meaning	|	0.0013
+Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0012
+Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0012
+The Lorel Query Language for Semistructured Data	|	0.0012
+System R: relational approach to database management	|	0.0012
+Data Mining: An Overview from a Database Perspective	|	0.0011
+Efficient Similarity Search In Sequence Databases	|	0.0010
+Searching in high-dimensional spaces: Index structures for improving the performance of multimedia databases	|	0.0010
+Answering queries using views: A survey	|	0.0010
+Mining association rules between sets of items in large databases	|	0.0009
+The R*-tree: an efficient and robust access method for points and rectangles	|	0.0008

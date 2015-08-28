@@ -1,47 +1,47 @@
-Principles of database systems	|	0.5882
-The temporal query language TQuel	|	0.2556
-A Taxonomy of Time in Databases	|	0.2388
-Principles of Database Systems, 2nd Edition	|	0.1770
-The Theory of Relational Databases	|	0.0714
-Magic Sets and Other Strange Ways to Implement Logic Programs	|	0.0541
-Object and File Management in the EXODUS Extensible Database System	|	0.0312
-Randomized Algorithms for Optimizing Large Join Queries	|	0.0270
-On the Desirability of Acyclic Database Schemes	|	0.0270
-On Closed World Data Bases	|	0.0233
-DISCOVER: Keyword Search in Relational Databases	|	0.0172
-Database description with SDM: a semantic database model	|	0.0155
-Computable Queries for Relational Data Bases	|	0.0150
-Telos: representing knowledge about information systems	|	0.0149
-Storing and querying ordered XML using a relational database system	|	0.0149
-Using Semi-Joins to Solve Relational Queries	|	0.0149
-Spatial SQL: A Query and Presentation Language	|	0.0130
-Computational problems related to the design of normal form relational schemas	|	0.0130
-On optimizing an SQL-like nested query	|	0.0130
-Extended algebra and calculus for nested relational databases	|	0.0130
-Dependency Structures of Data Base Relationships	|	0.0100
-Query Optimization in Database Systems	|	0.0097
-Making Smalltalk a Database System	|	0.0088
-Synthesizing third normal form relations from functional dependencies	|	0.0088
-Universality of data retrieval languages	|	0.0088
-Extending the database relational model to capture more meaning	|	0.0080
-Query-by-Example: A Data Base Language	|	0.0079
-A logical design methodology for relational databases using the extended entity-relationship model	|	0.0078
-Join processing in relational databases	|	0.0071
-Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.0063
-A comparative analysis of methodologies for database schema integration	|	0.0054
-The entity-relationship model---toward a unified view of data	|	0.0052
-Further Normalization of the Data Base Relational Model	|	0.0052
-Logic and Databases: A Deductive Approach	|	0.0047
-Semantic data models	|	0.0043
-Database abstractions: aggregation and generalization	|	0.0043
-Relational Completeness of Data Base Sublanguages	|	0.0043
-Optimal implementation of conjunctive queries in relational data bases	|	0.0036
-System R: A Relational Approach to Data Base Management	|	0.0036
+Principles of database systems	|	0.3889
+The temporal query language TQuel	|	0.2941
+A Taxonomy of Time in Databases	|	0.2500
+Principles of Database Systems, 2nd Edition	|	0.1792
+The Theory of Relational Databases	|	0.0705
+Magic Sets and Other Strange Ways to Implement Logic Programs	|	0.0667
+Object and File Management in the EXODUS Extensible Database System	|	0.0400
+Randomized Algorithms for Optimizing Large Join Queries	|	0.0333
+On the Desirability of Acyclic Database Schemes	|	0.0333
+On Closed World Data Bases	|	0.0278
+DISCOVER: Keyword Search in Relational Databases	|	0.0196
+Computable Queries for Relational Data Bases	|	0.0196
+Telos: representing knowledge about information systems	|	0.0167
+Storing and querying ordered XML using a relational database system	|	0.0167
+Using Semi-Joins to Solve Relational Queries	|	0.0167
+Database description with SDM: a semantic database model	|	0.0161
+Spatial SQL: A Query and Presentation Language	|	0.0143
+Computational problems related to the design of normal form relational schemas	|	0.0143
+On optimizing an SQL-like nested query	|	0.0143
+Extended algebra and calculus for nested relational databases	|	0.0143
+Dependency Structures of Data Base Relationships	|	0.0108
+Universality of data retrieval languages	|	0.0108
+Making Smalltalk a Database System	|	0.0094
+A logical design methodology for relational databases using the extended entity-relationship model	|	0.0094
+Synthesizing third normal form relations from functional dependencies	|	0.0094
+Join processing in relational databases	|	0.0083
+Query-by-Example: A Data Base Language	|	0.0083
+Extending the database relational model to capture more meaning	|	0.0082
+Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.0066
+A comparative analysis of methodologies for database schema integration	|	0.0055
+The entity-relationship model---toward a unified view of data	|	0.0054
+Further Normalization of the Data Base Relational Model	|	0.0054
+Query Optimization in Database Systems	|	0.0052
+Logic and Databases: A Deductive Approach	|	0.0048
+Semantic data models	|	0.0044
+Database abstractions: aggregation and generalization	|	0.0044
+Relational Completeness of Data Base Sublanguages	|	0.0044
+Optimal implementation of conjunctive queries in relational data bases	|	0.0037
+System R: A Relational Approach to Data Base Management	|	0.0037
 Temporal and Real-Time Databases: A Survey	|	0.0034
+Types and persistence in database programming languages	|	0.0027
 System R: relational approach to database management	|	0.0025
-Types and persistence in database programming languages	|	0.0023
 Models and issues in data stream systems	|	0.0022
-Concurrency Control and Recovery in Database Systems	|	0.0019
+Concurrency Control and Recovery in Database Systems	|	0.0020
 Access path selection in a relational database management system	|	0.0011
 Foundations of Databases	|	0.0008
 Principles of Database and Knowledge-Base Systems, Volume II	|	0.0007

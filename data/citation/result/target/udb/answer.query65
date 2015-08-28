@@ -1,7 +1,7 @@
 Resource Description Framework (RDF) Model and Syntax Specification	|	0.4545
 Ontologies Are Us: A Unified Model of Social Networks and Semantics	|	0.4375
 Resource description framework (rdf)	|	0.3600
-Piazza: data management infrastructure for semantic web applications	|	0.1375
+Piazza: data management infrastructure for semantic web applications	|	0.1462
 Information Retrieval in Folksonomies: Search and Ranking	|	0.0909
 Reducing OWL Entailment to Description Logic Satisfability	|	0.0769
 EDUTELLA: A P2P Networking Infrastructure Based on RDF	|	0.0526
@@ -13,9 +13,9 @@ Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomo
 Ontology Mapping: The State of the Art	|	0.0132
 Data Management for Peer-to-Peer Computing : A Vision	|	0.0099
 A Query Language for XML	|	0.0099
-Schema Mediation in Peer Data Management Systems	|	0.0077
+Schema Mediation in Peer Data Management Systems	|	0.0087
+Learning to map between ontologies on the semantic web	|	0.0077
 Complexity of answering queries using materialized views	|	0.0068
-Learning to map between ontologies on the semantic web	|	0.0061
 Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.0055
 A survey of approaches to automatic schema matching	|	0.0026
 Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0026

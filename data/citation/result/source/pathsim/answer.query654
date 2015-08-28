@@ -1,58 +1,55 @@
-The data warehousing toolkit	|	0.3226
-An Array-Based Algorithm for Simultaneous Multidimensional Aggregates	|	0.2456
-Data Preparation for Mining World Wide Web Browsing Patterns	|	0.2456
-Discovery of Multiple-Level Association Rules from Large Databases	|	0.1062
-Mining Generalized Association Rules	|	0.1015
-Data Mining: An Overview from a Database Perspective	|	0.0753
-Discovering Conceptual Relations from Text	|	0.0455
-Introduction to Object-Oriented Databases	|	0.0417
-Providing olap (on-line analytical processing) to user-analysts: an it mandate	|	0.0370
-Data-Driven Discovery of Quantitative Rules in Relational Databases	|	0.0351
-Selection of Views to Materialize in a Data Warehouse	|	0.0323
-Maintenance of Discovered Association Rules in Large Databases: An Incremental Updating Technique	|	0.0305
-Srikant: "fast algorithms for mining association rules	|	0.0303
-Extensible Markup Language (XML) 1.0	|	0.0278
-Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals	|	0.0263
-Discovery of Spatial Association Rules in Geographic Information Databases	|	0.0263
-SLIQ: A Fast Scalable Classifier for Data Mining	|	0.0244
-STING: A Statistical Information Grid Approach to Spatial Data Mining	|	0.0238
-Parallel Mining of Association Rules	|	0.0231
-Bottom-Up Computation of Sparse and Iceberg CUBEs	|	0.0230
-SPRINT: A Scalable Parallel Classifier for Data Mining	|	0.0206
-Aggregate-Query Processing in Data Warehousing Environments	|	0.0204
-Efficient Mining of Partial Periodic Patterns in Time Series Database	|	0.0204
-Scalable Parallel Data Mining for Association Rules	|	0.0203
-Finding interesting rules from large sets of discovered association rules	|	0.0203
-Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Total	|	0.0202
-A New SQL-like Operator for Mining Association Rules	|	0.0179
-Maintaining Data Privacy in Association Rule Mining	|	0.0175
-Efficient Mining of Association Rules Using Closed Itemset Lattices	|	0.0175
-C-Store: A Column-oriented DBMS	|	0.0175
-View Maintenance in a Warehousing Environment	|	0.0153
-MAFIA: A Maximal Frequent Itemset Algorithm for Transactional Databases	|	0.0152
-Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.0142
-Database Mining: A Performance Perspective	|	0.0142
-Discovering Frequent Closed Itemsets for Association Rules	|	0.0132
-3D Shape Histograms for Similarity Search and Classification in Spatial Databases	|	0.0132
-Efficient Data Mining for Path Traversal Patterns	|	0.0132
-Data Cleaning: Problems and Current Approaches	|	0.0132
-Mining Sequential Patterns	|	0.0128
-Beyond Market Baskets: Generalizing Association Rules to Correlations	|	0.0127
-Incognito: efficient full-domain K-anonymity	|	0.0115
-Sampling Large Databases for Association Rules	|	0.0105
-Research problems in data warehousing	|	0.0101
-Exploratory Mining and Pruning Optimizations of Constrained Association Rules	|	0.0095
-Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases	|	0.0095
-An Effective Hash Based Algorithm for Mining Association Rules	|	0.0070
-Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0070
-Fast Algorithms for Mining Association Rules in Large Databases	|	0.0070
-An overview of data warehousing and OLAP technology	|	0.0052
-Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0044
-Fast Time Sequence Indexing for Arbitrary Lp Norms	|	0.0043
-Mining association rules between sets of items in large databases	|	0.0041
-An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.0037
-Fast Algorithms for Mining Association Rules	|	0.0036
-FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets	|	0.0025
-Efficient Similarity Search In Sequence Databases	|	0.0018
-Fast Subsequence Matching in Time-Series Databases	|	0.0018
-The R*-tree: an efficient and robust access method for points and rectangles	|	0.0012
+Maintenance of Discovered Association Rules in Large Databases: An Incremental Updating Technique	|	0.3529
+Discovering Conceptual Relations from Text	|	0.2857
+Data-Driven Discovery of Quantitative Rules in Relational Databases	|	0.2857
+Srikant: "fast algorithms for mining association rules	|	0.2667
+Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals	|	0.2500
+Parallel Mining of Association Rules	|	0.2500
+Discovery of Spatial Association Rules in Geographic Information Databases	|	0.2500
+Introduction to Object-Oriented Databases	|	0.2500
+Scalable Parallel Data Mining for Association Rules	|	0.2353
+Bottom-Up Computation of Sparse and Iceberg CUBEs	|	0.2353
+Finding interesting rules from large sets of discovered association rules	|	0.2353
+Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Total	|	0.2222
+Providing olap (on-line analytical processing) to user-analysts: an it mandate	|	0.2222
+A New SQL-like Operator for Mining Association Rules	|	0.2105
+SLIQ: A Fast Scalable Classifier for Data Mining	|	0.2000
+Selection of Views to Materialize in a Data Warehouse	|	0.2000
+Mining Sequential Patterns	|	0.1905
+Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.1905
+Database Mining: A Performance Perspective	|	0.1905
+An Effective Hash Based Algorithm for Mining Association Rules	|	0.1875
+Beyond Market Baskets: Generalizing Association Rules to Correlations	|	0.1818
+Sampling Large Databases for Association Rules	|	0.1818
+Extensible Markup Language (XML) 1.0	|	0.1818
+Fast Algorithms for Mining Association Rules in Large Databases	|	0.1765
+STING: A Statistical Information Grid Approach to Spatial Data Mining	|	0.1667
+SPRINT: A Scalable Parallel Classifier for Data Mining	|	0.1667
+Fast Algorithms for Mining Association Rules	|	0.1633
+Exploratory Mining and Pruning Optimizations of Constrained Association Rules	|	0.1600
+Aggregate-Query Processing in Data Warehousing Environments	|	0.1538
+Efficient Mining of Partial Periodic Patterns in Time Series Database	|	0.1538
+Mining association rules between sets of items in large databases	|	0.1463
+View Maintenance in a Warehousing Environment	|	0.1429
+Maintaining Data Privacy in Association Rule Mining	|	0.1429
+Efficient Mining of Association Rules Using Closed Itemset Lattices	|	0.1429
+C-Store: A Column-oriented DBMS	|	0.1429
+MAFIA: A Maximal Frequent Itemset Algorithm for Transactional Databases	|	0.1333
+Discovering Frequent Closed Itemsets for Association Rules	|	0.1250
+3D Shape Histograms for Similarity Search and Classification in Spatial Databases	|	0.1250
+Efficient Data Mining for Path Traversal Patterns	|	0.1250
+Data Cleaning: Problems and Current Approaches	|	0.1250
+Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.1212
+Incognito: efficient full-domain K-anonymity	|	0.1176
+Research problems in data warehousing	|	0.1111
+Data Mining: An Overview from a Database Perspective	|	0.1111
+Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.1000
+Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases	|	0.0870
+An overview of data warehousing and OLAP technology	|	0.0833
+Fast Time Sequence Indexing for Arbitrary Lp Norms	|	0.0769
+Discovery of Multiple-Level Association Rules from Large Databases	|	0.0769
+An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.0769
+Mining Generalized Association Rules	|	0.0769
+FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets	|	0.0625
+Efficient Similarity Search In Sequence Databases	|	0.0526
+Fast Subsequence Matching in Time-Series Databases	|	0.0526
+The R*-tree: an efficient and robust access method for points and rectangles	|	0.0444

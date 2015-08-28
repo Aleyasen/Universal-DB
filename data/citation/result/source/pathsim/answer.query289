@@ -1,12 +1,11 @@
-Why and Where: A Characterization of Data Provenance	|	0.1646
-Data on the web: from relations to semistructured data and xml	|	0.1429
-Data on the Web: From Relations to Semistructured Data and XML	|	0.0625
-Data on the web	|	0.0625
-ULDBs: Databases with Uncertainty and Lineage	|	0.0625
-Trio: A System for Integrated Management of Data, Accuracy, and Lineage	|	0.0455
-Object Exchange Across Heterogeneous Information Sources	|	0.0345
-View Maintenance in a Warehousing Environment	|	0.0220
-XML-QL: A Query Language for XML	|	0.0109
-A Query Language and Optimization Techniques for Unstructured Data	|	0.0039
-The Lorel Query Language for Semistructured Data	|	0.0026
-Foundations of Databases	|	0.0004
+Data on the web: from relations to semistructured data and xml	|	0.5000
+Data on the Web: From Relations to Semistructured Data and XML	|	0.3333
+Data on the web	|	0.3333
+ULDBs: Databases with Uncertainty and Lineage	|	0.3333
+Trio: A System for Integrated Management of Data, Accuracy, and Lineage	|	0.2857
+Object Exchange Across Heterogeneous Information Sources	|	0.2500
+View Maintenance in a Warehousing Environment	|	0.2222
+XML-QL: A Query Language for XML	|	0.1429
+A Query Language and Optimization Techniques for Unstructured Data	|	0.0870
+The Lorel Query Language for Semistructured Data	|	0.0714
+Foundations of Databases	|	0.0290

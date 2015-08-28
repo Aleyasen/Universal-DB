@@ -1,55 +1,57 @@
-Logic Programming and Databases	|	0.4444
-The state of the art in distributed query processing	|	0.4444
-The Postgres Next Generation Database Management System	|	0.3529
-Change Detection in Hierarchically Structured Information	|	0.3333
-Routing Indices For Peer-to-Peer Systems	|	0.3333
-The cougar approach to in-network query processing in sensor networks	|	0.3333
-Towards Sensor Database Systems	|	0.3333
-Database Transaction Models For Advanced Applications	|	0.3333
-Conceptual Database Design: An Entity-Relationship Approach	|	0.2857
-The Essential Distributed Objects Survival Guide	|	0.2857
-Ode as an Active Database: Constraints and Triggers	|	0.2500
-Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.2500
-The Architecture Of An Active Data Base Management System	|	0.2500
-Simple Fast Algorithms for the Editing Distance Between Trees and Related Problems	|	0.2500
-Continuously adaptive continuous queries over streams	|	0.2400
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.2400
-NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.2222
-Nested Transactions: An Approach to Reliable Distributed Computing	|	0.2222
-Approximate Query Processing Using Wavelets	|	0.2105
-Monitoring Streams - A New Class of Data Management Applications	|	0.2069
-Composite Event Specification in Active Databases: Model & Implementation	|	0.2000
-Deriving Production Rules for Constraint Maintainance	|	0.1818
-Model-Driven Data Acquisition in Sensor Networks	|	0.1818
-XWRAP: An XML-Enabled Wrapper Construction System for Web Information Sources	|	0.1667
-Approximate Aggregation Techniques for Sensor Databases	|	0.1667
-Issues in data stream management	|	0.1600
-Eddies: Continuously Adaptive Query Processing	|	0.1538
-An Adaptive Query Execution System for Data Integration	|	0.1538
-View Maintenance in a Warehousing Environment	|	0.1538
-Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.1538
-Adaptive filters for continuous queries over distributed data streams	|	0.1538
-Understanding the New SQL: A Complete Guide	|	0.1538
-Continuous queries over data streams	|	0.1538
-Data caching issues in an information retrieval system	|	0.1429
-The Implementation of Postgres	|	0.1333
-Path sharing and predicate evaluation for high-performance XML filtering	|	0.1333
-Maintaining Views Incrementally	|	0.1250
-The Design of the Borealis Stream Processing Engine	|	0.1250
-Research problems in data warehousing	|	0.1176
-Aurora: a new model and architecture for data stream management	|	0.1111
-The CQL continuous query language: semantic foundations and query execution	|	0.1111
-Query-by-Example: A Data Base Language	|	0.1053
-IFO: a formal semantic database model	|	0.1000
-TinyDB: an acquisitional query processing system for sensor networks	|	0.0952
-Object identity	|	0.0909
-Multiple-query optimization	|	0.0909
-The Gamma Database Machine Project	|	0.0870
-The design of an acquisitional query processor for sensor networks	|	0.0833
-System R: A Relational Approach to Data Base Management	|	0.0741
-The functional data model and the data languages DAPLEX	|	0.0741
-Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0714
-Principles of Database and Knowledge-Base Systems, Volume I	|	0.0667
-System R: relational approach to database management	|	0.0625
-Models and issues in data stream systems	|	0.0588
-Principles of Database and Knowledge-Base Systems, Volume II	|	0.0253
+Active database systems	|	0.2333
+TinyDB: an acquisitional query processing system for sensor networks	|	0.1457
+The design of an acquisitional query processor for sensor networks	|	0.1220
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.1138
+Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.1111
+Logic Programming and Databases	|	0.0800
+The state of the art in distributed query processing	|	0.0800
+Database Transaction Models For Advanced Applications	|	0.0625
+Conceptual Database Design: An Entity-Relationship Approach	|	0.0556
+The Essential Distributed Objects Survival Guide	|	0.0556
+Simple Fast Algorithms for the Editing Distance Between Trees and Related Problems	|	0.0476
+Change Detection in Hierarchically Structured Information	|	0.0465
+Routing Indices For Peer-to-Peer Systems	|	0.0465
+The cougar approach to in-network query processing in sensor networks	|	0.0465
+Towards Sensor Database Systems	|	0.0465
+Nested Transactions: An Approach to Reliable Distributed Computing	|	0.0400
+Composite Event Specification in Active Databases: Model & Implementation	|	0.0333
+The Postgres Next Generation Database Management System	|	0.0323
+Deriving Production Rules for Constraint Maintainance	|	0.0278
+Model-Driven Data Acquisition in Sensor Networks	|	0.0278
+Ode as an Active Database: Constraints and Triggers	|	0.0247
+Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.0247
+The Architecture Of An Active Data Base Management System	|	0.0247
+XWRAP: An XML-Enabled Wrapper Construction System for Web Information Sources	|	0.0233
+Approximate Aggregation Techniques for Sensor Databases	|	0.0233
+View Maintenance in a Warehousing Environment	|	0.0196
+Adaptive filters for continuous queries over distributed data streams	|	0.0196
+Understanding the New SQL: A Complete Guide	|	0.0196
+Approximate Query Processing Using Wavelets	|	0.0167
+Data caching issues in an information retrieval system	|	0.0167
+The Implementation of Postgres	|	0.0143
+Path sharing and predicate evaluation for high-performance XML filtering	|	0.0143
+Continuously adaptive continuous queries over streams	|	0.0133
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0133
+Maintaining Views Incrementally	|	0.0123
+The Design of the Borealis Stream Processing Engine	|	0.0123
+NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0112
+Research problems in data warehousing	|	0.0108
+Monitoring Streams - A New Class of Data Management Applications	|	0.0095
+Aurora: a new model and architecture for data stream management	|	0.0094
+The CQL continuous query language: semantic foundations and query execution	|	0.0094
+Issues in data stream management	|	0.0089
+Query-by-Example: A Data Base Language	|	0.0083
+Eddies: Continuously Adaptive Query Processing	|	0.0081
+An Adaptive Query Execution System for Data Integration	|	0.0081
+Continuous queries over data streams	|	0.0081
+IFO: a formal semantic database model	|	0.0074
+Object identity	|	0.0060
+Multiple-query optimization	|	0.0060
+The Gamma Database Machine Project	|	0.0054
+System R: A Relational Approach to Data Base Management	|	0.0037
+The functional data model and the data languages DAPLEX	|	0.0037
+Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0034
+Principles of Database and Knowledge-Base Systems, Volume I	|	0.0029
+System R: relational approach to database management	|	0.0025
+Models and issues in data stream systems	|	0.0022
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0004

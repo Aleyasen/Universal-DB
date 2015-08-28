@@ -1,6 +1,6 @@
 Scheduling Real-time Transactions: a Performance Evaluation	|	0.3611
-The HiPAC project: combining active databases and timing constraints	|	0.3099
-The notions of consistency and predicate locks in a database system	|	0.1239
+The HiPAC project: combining active databases and timing constraints	|	0.3333
+The notions of consistency and predicate locks in a database system	|	0.1317
 Scheduling real-time transactions: a performance evaluation	|	0.1111
 Temporal and Real-Time Databases: A Survey	|	0.1065
 Concurrency Control and Recovery in Database Systems	|	0.0744
@@ -17,32 +17,32 @@ A Critique of ANSI SQL Isolation Levels	|	0.0392
 Ode as an Active Database: Constraints and Triggers	|	0.0370
 Composite Event Specification in Active Databases: Model & Implementation	|	0.0333
 On Optimistic Methods for Concurrency Control	|	0.0333
+The Dangers of Replication and a Solution	|	0.0333
 Nonblocking commit protocols	|	0.0333
 The Theory of Database Concurrency Control	|	0.0333
 Distributed Databases: Principles and Systems	|	0.0333
+Concurrency control in advanced database applications	|	0.0333
 A foundation for representing and querying moving objects	|	0.0333
 Data Models	|	0.0333
-Concurrency control in advanced database applications	|	0.0282
-The Recovery Manager of the System R Database Manager	|	0.0248
+The Recovery Manager of the System R Database Manager	|	0.0286
 An adaptive data replication algorithm	|	0.0233
-The Dangers of Replication and a Solution	|	0.0222
+The temporal query language TQuel	|	0.0196
 Understanding the New SQL: A Complete Guide	|	0.0196
 Concurrency control performance modeling: alternatives and implications	|	0.0196
-The temporal query language TQuel	|	0.0168
 Telos: representing knowledge about information systems	|	0.0167
 Concurrency Control in Distributed Database Systems	|	0.0167
 Principles of database buffer management	|	0.0167
+ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging	|	0.0167
 The Implementation of Postgres	|	0.0143
 Query By Example	|	0.0143
 Operating system support for database management	|	0.0143
-ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging	|	0.0141
+A Relational Model for Large Shared Data Banks	|	0.0143
 Efficient locking for concurrent operations on B-trees	|	0.0123
 Database Description with SDM: A Semantic Database Model	|	0.0108
 Principles of Database Systems, 2nd Edition	|	0.0094
 Aurora: a new model and architecture for data stream management	|	0.0094
 The CQL continuous query language: semantic foundations and query execution	|	0.0094
-A Relational Model for Large Shared Data Banks	|	0.0085
-A Data Model and Query Language for EXODUS	|	0.0074
+A Data Model and Query Language for EXODUS	|	0.0083
 Notes on Data Base Operating Systems	|	0.0066
 Database description with SDM: a semantic database model	|	0.0054
 The Design of Postgres	|	0.0049
@@ -51,7 +51,7 @@ Organization and Maintenance of Large Ordered Indices	|	0.0041
 The Ubiquitous B-Tree	|	0.0041
 Monitoring Streams - A New Class of Data Management Applications	|	0.0032
 Fast Subsequence Matching in Time-Series Databases	|	0.0018
-Query Optimization in Database Systems	|	0.0016
+Query Optimization in Database Systems	|	0.0017
 Principles of Database and Knowledge-Base Systems, Volume II	|	0.0007
 Foundations of Databases	|	0.0004
 Query evaluation techniques for large databases	|	0.0004

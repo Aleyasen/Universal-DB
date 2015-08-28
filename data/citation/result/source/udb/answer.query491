@@ -5,15 +5,15 @@ Multiple-query optimization	|	0.1288
 Duplicate Record Detection: A Survey	|	0.0769
 Automated Selection of Materialized Views and Indexes in SQL Databases	|	0.0625
 Logic-based approach to semantic query optimization	|	0.0625
+Modeling Multidimensional Databases	|	0.0400
 Randomized Algorithms for Optimizing Large Join Queries	|	0.0400
 Discovering Web Access Patterns and Trends by Applying OLAP and Data Mining Technology on Web Logs	|	0.0323
-Modeling Multidimensional Databases	|	0.0312
 Change Detection in Hierarchically Structured Information	|	0.0263
 Bottom-Up Computation of Sparse and Iceberg CUBEs	|	0.0263
 Query Processing, Resource Management, and Approximation in a Data Stream Management System	|	0.0263
 Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Total	|	0.0227
 DISCOVER: Keyword Search in Relational Databases	|	0.0217
-View Maintenance in a Warehousing Environment	|	0.0183
+View Maintenance in a Warehousing Environment	|	0.0217
 Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.0132
 An overview of data warehousing and OLAP technology	|	0.0110
 Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.0077
@@ -22,16 +22,16 @@ Beyond Market Baskets: Generalizing Association Rules to Correlations	|	0.0068
 Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.0068
 Mediators in the Architecture of Future Information Systems	|	0.0050
 The Design of Postgres	|	0.0050
+Continuously adaptive continuous queries over streams	|	0.0045
 Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0045
 Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.0041
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0041
 Continuous queries over data streams	|	0.0041
-Continuously adaptive continuous queries over streams	|	0.0041
-Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0038
 NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0038
 System R: A Relational Approach to Data Base Management	|	0.0038
 The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0035
 Monitoring Streams - A New Class of Data Management Applications	|	0.0032
 System R: relational approach to database management	|	0.0026
 Models and issues in data stream systems	|	0.0022
-Data Mining: An Overview from a Database Perspective	|	0.0020
+Data Mining: An Overview from a Database Perspective	|	0.0021
 Answering queries using views: A survey	|	0.0017

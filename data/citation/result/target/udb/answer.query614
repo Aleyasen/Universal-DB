@@ -2,12 +2,12 @@ Exact Indexing of Dynamic Time Warping	|	0.2114
 Similarity Search in High Dimensions via Hashing	|	0.1870
 Locally Adaptive Dimensionality Reduction for Indexing Large Time Series Databases	|	0.1859
 On indexing mobile objects	|	0.1754
+Mobile Computing and Databases - A Survey	|	0.1707
 When Is ''Nearest Neighbor'' Meaningful?	|	0.1667
-Mobile Computing and Databases - A Survey	|	0.1642
+Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases	|	0.1472
 Fast Time Sequence Indexing for Arbitrary Lp Norms	|	0.1354
-Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases	|	0.1341
 A Quantitative Analysis and Performance Study for Similarity-Search Methods in High-Dimensional Spaces	|	0.1017
-FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets	|	0.0922
+FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets	|	0.0956
 Efficient Similarity Search In Sequence Databases	|	0.0825
 Fast Subsequence Matching in Time-Series Databases	|	0.0809
 Efficient Retrieval of Similar Time Sequences Under Time Warping	|	0.0569
@@ -19,7 +19,6 @@ Optimal Multi-Step k-Nearest Neighbor Search	|	0.0260
 Efficient Time Series Matching by Wavelets	|	0.0244
 M-tree: An Efficient Access Method for Similarity Search in Metric Spaces	|	0.0202
 Database Mining: A Performance Perspective	|	0.0202
-The Dangers of Replication and a Solution	|	0.0185
 A New SQL-like Operator for Mining Association Rules	|	0.0178
 The SR-tree: An Index Structure for High-Dimensional Nearest Neighbor Queries	|	0.0178
 Fast Nearest Neighbor Search in Medical Image Databases	|	0.0175
@@ -29,53 +28,54 @@ The design & analysis of spatial data structures	|	0.0140
 Access methods for text	|	0.0139
 Efficient and Effective Querying by Image Content	|	0.0120
 Ranking in Spatial Databases	|	0.0118
+A cost model for nearest neighbor search in high-dimensional data space	|	0.0118
 Searching in high-dimensional spaces: Index structures for improving the performance of multimedia databases	|	0.0116
 On Finding the Maxima of a Set of Vectors	|	0.0114
 The TV-Tree: An Index Structure for High-Dimensional Data	|	0.0112
 The Grid File: An Adaptable, Symmetric Multi-Key File Structure	|	0.0112
-A cost model for nearest neighbor search in high-dimensional data space	|	0.0110
 Searching in metric spaces	|	0.0109
 ROCK: A Robust Clustering Algorithm for Categorical Attributes	|	0.0108
 Query Processing in Spatial Network Databases	|	0.0108
 MindReader: Querying Databases Through Multiple Examples	|	0.0108
 Balancing Push and Pull for Data Broadcast	|	0.0108
+The Dangers of Replication and a Solution	|	0.0108
 Data on Air: Organization and Access	|	0.0108
 Sleepers and Workaholics: Caching Strategies in Mobile Environments	|	0.0101
 On packing R-trees	|	0.0101
 Energy Efficient Indexing on Air	|	0.0101
 The Grid File: An Adaptable, Symmetric Multikey File Structure	|	0.0099
 Similarity Indexing with the SS-tree	|	0.0093
+LOF: Identifying Density-Based Local Outliers	|	0.0088
 The X-tree : An Index Structure for High-Dimensional Data	|	0.0088
 An effective way to represent quadtrees	|	0.0088
-Data Mining: An Overview from a Database Perspective	|	0.0087
 Efficient Processing of Spatial Joins Using R-Trees	|	0.0087
+The R*-tree: an efficient and robust access method for points and rectangles	|	0.0082
 Data caching issues in an information retrieval system	|	0.0081
 Broadcast disks: data management for asymmetric communication environments	|	0.0081
-LOF: Identifying Density-Based Local Outliers	|	0.0081
 Spatial Query Processing in an Object-Oriented Database System	|	0.0080
-The R*-tree: an efficient and robust access method for points and rectangles	|	0.0078
 Broadcast Disks: Data Management for Asymmetric Communications Environments	|	0.0075
 3D Shape Histograms for Similarity Search and Classification in Spatial Databases	|	0.0075
 Efficient Data Mining for Path Traversal Patterns	|	0.0075
 Quad Trees: A Data Structure for Retrieval on Composite Keys	|	0.0075
 Data Structures for Range Searching	|	0.0075
+Data Mining: An Overview from a Database Perspective	|	0.0074
+Wavelet-Based Histograms for Selectivity Estimation	|	0.0069
 Generalized Search Trees for Database Systems	|	0.0059
+Mining association rules between sets of items in large databases	|	0.0056
 CURE: An Efficient Clustering Algorithm for Large Databases	|	0.0055
+Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0055
 The Pyramid-Technique: Towards Breaking the Curse of Dimensionality	|	0.0055
-Wavelet-Based Histograms for Selectivity Estimation	|	0.0054
-Mining association rules between sets of items in large databases	|	0.0051
 Hilbert R-tree: An Improved R-tree using Fractals	|	0.0051
-Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0050
-An Effective Hash Based Algorithm for Mining Association Rules	|	0.0041
+An Effective Hash Based Algorithm for Mining Association Rules	|	0.0047
+Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0044
 Fast Algorithms for Mining Association Rules in Large Databases	|	0.0041
-Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0039
 Distance browsing in spatial databases	|	0.0035
+Mining Generalized Association Rules	|	0.0035
 Organization and Maintenance of Large Ordered Indices	|	0.0032
 The Ubiquitous B-Tree	|	0.0032
 Continuous queries over data streams	|	0.0032
-Mining Generalized Association Rules	|	0.0028
+Fast Algorithms for Mining Association Rules	|	0.0029
 Temporal and Real-Time Databases: A Survey	|	0.0028
-Fast Algorithms for Mining Association Rules	|	0.0026
 Principles of Database and Knowledge-Base Systems, Volume I	|	0.0025
 The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0022
 Models and issues in data stream systems	|	0.0019

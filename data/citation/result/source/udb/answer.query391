@@ -6,7 +6,7 @@ XWRAP: An XML-Enabled Wrapper Construction System for Web Information Sources	|	
 A brief survey of web data extraction tools	|	0.0256
 Extracting Semistructured Information from the Web	|	0.0256
 Generating Finite-State Transducers for Semi-Structured Data Extraction from the Web	|	0.0256
-Optimizing Queries Across Diverse Data Sources	|	0.0092
+Optimizing Queries Across Diverse Data Sources	|	0.0106
 Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.0064
 The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0036
 Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0026

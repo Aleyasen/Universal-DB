@@ -24,18 +24,18 @@ Storing Semistructured Data with STORED	|	0.0159
 On Supporting Containment Queries in Relational Database Management Systems	|	0.0141
 Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.0141
 Indexing and Querying XML Data for Regular Path Expressions	|	0.0139
+The Architecture Of An Active Data Base Management System	|	0.0139
 A Fast Index for Semistructured Data	|	0.0103
 Aurora: a new model and architecture for data stream management	|	0.0103
-The Architecture Of An Active Data Base Management System	|	0.0103
 From Structured Documents to Novel Query Facilities	|	0.0079
 A Query Language and Optimization Techniques for Unstructured Data	|	0.0077
 Multiple-query optimization	|	0.0063
 The Lorel Query Language for Semistructured Data	|	0.0052
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0046
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0042
 Continuous queries over data streams	|	0.0042
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0042
-Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0039
 NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0039
 Monitoring Streams - A New Class of Data Management Applications	|	0.0033
-Lore: a database management system for semistructured data	|	0.0028
+Lore: a database management system for semistructured data	|	0.0030
 Models and issues in data stream systems	|	0.0023
 Answering queries using views: A survey	|	0.0017

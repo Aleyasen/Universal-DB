@@ -1,5 +1,5 @@
 Aggregate-Query Processing in Data Warehousing Environments	|	0.1357
-View Maintenance in a Warehousing Environment	|	0.1346
+View Maintenance in a Warehousing Environment	|	0.1353
 Research problems in data warehousing	|	0.1285
 Incognito: efficient full-domain K-anonymity	|	0.1266
 Consistent query answers in inconsistent databases	|	0.1250
@@ -15,7 +15,7 @@ Building the Data Warehouse	|	0.1186
 Parallel Database Systems: The Future of High Performance Database Processing1	|	0.1134
 Building the data warehouse	|	0.1105
 Toward the Next Generation of Recommender Systems: A Survey of the State-of-the-Art and Possible Extensions	|	0.1105
-Optimizing Queries with Materialized Views	|	0.1021
+Optimizing Queries with Materialized Views	|	0.1050
 Change Detection in Hierarchically Structured Information	|	0.0151
 Maintaining Views Incrementally	|	0.0127
 Pig latin: a not-so-foreign language for data processing	|	0.0113
@@ -27,7 +27,7 @@ Data Preparation for Mining World Wide Web Browsing Patterns	|	0.0097
 Scalable Distributed Stream Processing	|	0.0097
 Understanding the New SQL: A Complete Guide	|	0.0097
 Pmnczples of database and knowledge- base systems	|	0.0097
-Bigtable: A Distributed Storage System for Structured Data	|	0.0093
+Bigtable: A Distributed Storage System for Structured Data	|	0.0097
 A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.0093
 The Case for Shared Nothing	|	0.0093
 Bottom-Up Computation of Sparse and Iceberg CUBEs	|	0.0084
@@ -36,48 +36,48 @@ Data Placement In Bubba	|	0.0084
 Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Total	|	0.0080
 Beyond Market Baskets: Generalizing Association Rules to Correlations	|	0.0065
 Principles of Database and Knowledge-Base Systems, Volume I	|	0.0060
+The Gamma Database Machine Project	|	0.0058
 The data warehouse lifecycle toolkit	|	0.0058
 The data webhouse toolkit	|	0.0057
 Duplicate Record Detection: A Survey	|	0.0057
 Deriving Production Rules for Incremental View Maintenance	|	0.0056
 Mediators in the Architecture of Future Information Systems	|	0.0055
-The Gamma Database Machine Project	|	0.0055
 Semantic Data Caching and Replacement	|	0.0055
 On the decidability of query containment under constraints	|	0.0054
+Modeling Multidimensional Databases	|	0.0054
 Mondrian Multidimensional K-Anonymity	|	0.0054
 The New Casper: Query Processing for Location Services without Compromising Privacy	|	0.0054
+Online Aggregation	|	0.0052
+An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.0052
+Mining Generalized Association Rules	|	0.0052
 Answering queries using views: A survey	|	0.0052
 Discovering Web Access Patterns and Trends by Applying OLAP and Data Mining Technology on Web Logs	|	0.0052
 Deriving Production Rules for Constraint Maintainance	|	0.0052
 Optimal implementation of conjunctive queries in relational databases	|	0.0052
-Modeling Multidimensional Databases	|	0.0052
 Index Selection for OLAP	|	0.0050
+Don't Scrap It, Wrap It! A Wrapper Architecture for Legacy Data Sources	|	0.0050
 Protecting Respondents' Identities in Microdata Release	|	0.0050
 Data Privacy through Optimal k-Anonymization	|	0.0050
 Answering Queries Using Templates with Binding Patterns	|	0.0048
 On the complexity of optimal K-anonymity	|	0.0048
 C-Store: A Column-oriented DBMS	|	0.0048
-Don't Scrap It, Wrap It! A Wrapper Architecture for Legacy Data Sources	|	0.0048
-Online Aggregation	|	0.0047
-An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.0047
-Data Mining: An Overview from a Database Perspective	|	0.0045
-Mining Generalized Association Rules	|	0.0045
+Data Mining: An Overview from a Database Perspective	|	0.0047
 COMA - A System for Flexible Combination of Schema Matching Approaches	|	0.0044
 l-Diversity: Privacy Beyond k-Anonymity	|	0.0042
+The Design of the Borealis Stream Processing Engine	|	0.0042
+Data integration: a theoretical perspective	|	0.0040
 Data Model and Query Evaluation in Global Information Systems	|	0.0040
 Semantic and Schematic Similarities Between Database Objects: A Context-Based Approach	|	0.0040
 Why and Where: A Characterization of Data Provenance	|	0.0040
 Principles of database and knowledge-base systems	|	0.0040
-The Design of the Borealis Stream Processing Engine	|	0.0040
 Access path selection in a relational database management system	|	0.0039
-Data integration: a theoretical perspective	|	0.0038
 A New SQL-like Operator for Mining Association Rules	|	0.0038
 Answering recursive queries using views	|	0.0038
 Aurora: a new model and architecture for data stream management	|	0.0038
 The CQL continuous query language: semantic foundations and query execution	|	0.0038
-Join processing in relational databases	|	0.0034
-Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0034
-Piazza: data management infrastructure for semantic web applications	|	0.0033
+Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0036
+Join processing in relational databases	|	0.0036
+Piazza: data management infrastructure for semantic web applications	|	0.0034
 Complexity of answering queries using materialized views	|	0.0033
 Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.0031
 Further Normalization of the Data Base Relational Model	|	0.0029
@@ -85,9 +85,9 @@ Query Caching and Optimization in Distributed Mediator Systems	|	0.0026
 Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.0026
 Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0026
 Relational Completeness of Data Base Sublanguages	|	0.0026
+Eddies: Continuously Adaptive Query Processing	|	0.0025
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0025
 Continuous queries over data streams	|	0.0025
-Eddies: Continuously Adaptive Query Processing	|	0.0024
-Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0024
 Optimal implementation of conjunctive queries in relational data bases	|	0.0024
 System R: A Relational Approach to Data Base Management	|	0.0024
 The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0022
@@ -98,6 +98,6 @@ Database techniques for the World-Wide Web: a survey	|	0.0018
 Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0018
 System R: relational approach to database management	|	0.0018
 The Theory of Relational Databases	|	0.0015
-Query Optimization in Database Systems	|	0.0013
+Query Optimization in Database Systems	|	0.0014
 Principles of Database and Knowledge-Base Systems, Volume II	|	0.0010
-Fast Algorithms for Mining Association Rules	|	0.0008
+Fast Algorithms for Mining Association Rules	|	0.0009

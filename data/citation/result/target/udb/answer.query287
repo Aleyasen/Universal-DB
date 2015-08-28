@@ -1,97 +1,97 @@
-Change Detection in Hierarchically Structured Information	|	0.2621
-Research problems in data warehousing	|	0.2041
-Maintaining Views Incrementally	|	0.1991
-Why and Where: A Characterization of Data Provenance	|	0.1714
-Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.1607
-An overview of data warehousing and OLAP technology	|	0.1346
-Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.1111
-Data Mining: An Overview from a Database Perspective	|	0.0757
-Aggregate-Query Processing in Data Warehousing Environments	|	0.0414
-Simple Fast Algorithms for the Editing Distance Between Trees and Related Problems	|	0.0396
-The CQL continuous query language: semantic foundations and query execution	|	0.0221
-Building the data warehouse	|	0.0220
-Toward the Next Generation of Recommender Systems: A Survey of the State-of-the-Art and Possible Extensions	|	0.0220
-A Survey of Data Provenance in e-Science	|	0.0220
-Introduction to Object-Oriented Databases	|	0.0211
-Duplicate Record Detection: A Survey	|	0.0211
-Incremental Maintenance of Views with Duplicates	|	0.0198
-Building the Data Warehouse	|	0.0198
-Data on the web: from relations to semistructured data and xml	|	0.0198
-On the Computation of Multidimensional Aggregates	|	0.0198
-Detecting Changes in XML Documents	|	0.0183
-The data warehousing toolkit	|	0.0183
-Selection of Views to Materialize in a Data Warehouse	|	0.0183
-On the decidability of query containment under constraints	|	0.0168
-Composite Events for Active Databases: Semantics, Contexts and Detection	|	0.0168
-Data on the Web: From Relations to Semistructured Data and XML	|	0.0168
-Towards a Theory of Declarative Knowledge	|	0.0168
-Data on the web	|	0.0168
-ULDBs: Databases with Uncertainty and Lineage	|	0.0168
-SLIQ: A Fast Scalable Classifier for Data Mining	|	0.0155
-Discovering Web Access Patterns and Trends by Applying OLAP and Data Mining Technology on Web Logs	|	0.0153
-STING: A Statistical Information Grid Approach to Spatial Data Mining	|	0.0153
-Consistent query answers in inconsistent databases	|	0.0153
-Deriving Production Rules for Constraint Maintainance	|	0.0153
-Trio: A System for Integrated Management of Data, Accuracy, and Lineage	|	0.0153
-SPRINT: A Scalable Parallel Classifier for Data Mining	|	0.0139
-XWRAP: An XML-Enabled Wrapper Construction System for Web Information Sources	|	0.0138
-Object Exchange Across Heterogeneous Information Sources	|	0.0138
-Efficient Mining of Association Rules Using Closed Itemset Lattices	|	0.0124
-Data-Driven Discovery of Quantitative Rules in Relational Databases	|	0.0124
-Data caching issues in an information retrieval system	|	0.0112
-Adaptive filters for continuous queries over distributed data streams	|	0.0110
-Optimizing Queries with Materialized Views	|	0.0109
-Discovering Frequent Closed Itemsets for Association Rules	|	0.0101
-Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals	|	0.0101
-3D Shape Histograms for Similarity Search and Classification in Spatial Databases	|	0.0101
-Discovery of Spatial Association Rules in Geographic Information Databases	|	0.0101
-Data Cleaning: Problems and Current Approaches	|	0.0101
-On optimizing an SQL-like nested query	|	0.0101
-Path sharing and predicate evaluation for high-performance XML filtering	|	0.0101
-Parallel database systems: the future of high performance database systems	|	0.0090
-Incognito: efficient full-domain K-anonymity	|	0.0090
-Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases	|	0.0085
-Maintenance of Discovered Association Rules in Large Databases: An Incremental Updating Technique	|	0.0082
-Finding interesting rules from large sets of discovered association rules	|	0.0082
-Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Total	|	0.0082
-The Design of the Borealis Stream Processing Engine	|	0.0081
-Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0079
-Aurora: a new model and architecture for data stream management	|	0.0074
-XML-QL: A Query Language for XML	|	0.0074
-The Architecture Of An Active Data Base Management System	|	0.0074
-Continuous queries over data streams	|	0.0073
-Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.0061
-Parallel Database Systems: The Future of High Performance Database Processing1	|	0.0061
-Database Mining: A Performance Perspective	|	0.0061
-Mining Sequential Patterns	|	0.0056
-Beyond Market Baskets: Generalizing Association Rules to Correlations	|	0.0055
-TinyDB: an acquisitional query processing system for sensor networks	|	0.0055
-Principles of Database and Knowledge-Base Systems, Volume I	|	0.0054
-Multiple-query optimization	|	0.0051
-Mediators in the Architecture of Future Information Systems	|	0.0043
-The design of an acquisitional query processor for sensor networks	|	0.0043
-Query Caching and Optimization in Distributed Mediator Systems	|	0.0039
-Issues in data stream management	|	0.0039
-Continuously adaptive continuous queries over streams	|	0.0036
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0036
-Discovery of Multiple-Level Association Rules from Large Databases	|	0.0034
-An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.0034
-NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0034
-A Query Language and Optimization Techniques for Unstructured Data	|	0.0034
-Mining Generalized Association Rules	|	0.0031
-The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0031
-Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0031
-Monitoring Streams - A New Class of Data Management Applications	|	0.0029
-FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets	|	0.0024
+Change Detection in Hierarchically Structured Information	|	0.2812
+Research problems in data warehousing	|	0.2105
+Maintaining Views Incrementally	|	0.2059
+Why and Where: A Characterization of Data Provenance	|	0.1754
+Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.1628
+An overview of data warehousing and OLAP technology	|	0.1353
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.1161
+Data Mining: An Overview from a Database Perspective	|	0.0778
+Simple Fast Algorithms for the Editing Distance Between Trees and Related Problems	|	0.0476
+Aggregate-Query Processing in Data Warehousing Environments	|	0.0469
+Building the data warehouse	|	0.0270
+Toward the Next Generation of Recommender Systems: A Survey of the State-of-the-Art and Possible Extensions	|	0.0270
+A Survey of Data Provenance in e-Science	|	0.0270
+Introduction to Object-Oriented Databases	|	0.0256
+Duplicate Record Detection: A Survey	|	0.0256
+Incremental Maintenance of Views with Duplicates	|	0.0238
+Building the Data Warehouse	|	0.0238
+Data on the web: from relations to semistructured data and xml	|	0.0238
+On the Computation of Multidimensional Aggregates	|	0.0238
+The CQL continuous query language: semantic foundations and query execution	|	0.0236
+SLIQ: A Fast Scalable Classifier for Data Mining	|	0.0217
+Detecting Changes in XML Documents	|	0.0217
+The data warehousing toolkit	|	0.0217
+Selection of Views to Materialize in a Data Warehouse	|	0.0217
+On the decidability of query containment under constraints	|	0.0196
+Composite Events for Active Databases: Semantics, Contexts and Detection	|	0.0196
+Data on the Web: From Relations to Semistructured Data and XML	|	0.0196
+Towards a Theory of Declarative Knowledge	|	0.0196
+Data on the web	|	0.0196
+ULDBs: Databases with Uncertainty and Lineage	|	0.0196
+Discovering Web Access Patterns and Trends by Applying OLAP and Data Mining Technology on Web Logs	|	0.0175
+STING: A Statistical Information Grid Approach to Spatial Data Mining	|	0.0175
+SPRINT: A Scalable Parallel Classifier for Data Mining	|	0.0175
+Consistent query answers in inconsistent databases	|	0.0175
+Deriving Production Rules for Constraint Maintainance	|	0.0175
+Trio: A System for Integrated Management of Data, Accuracy, and Lineage	|	0.0175
+XWRAP: An XML-Enabled Wrapper Construction System for Web Information Sources	|	0.0156
+Object Exchange Across Heterogeneous Information Sources	|	0.0156
+Adaptive filters for continuous queries over distributed data streams	|	0.0139
+Efficient Mining of Association Rules Using Closed Itemset Lattices	|	0.0139
+Data-Driven Discovery of Quantitative Rules in Relational Databases	|	0.0139
+Data caching issues in an information retrieval system	|	0.0123
+Optimizing Queries with Materialized Views	|	0.0122
+Discovering Frequent Closed Itemsets for Association Rules	|	0.0110
+Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals	|	0.0110
+3D Shape Histograms for Similarity Search and Classification in Spatial Databases	|	0.0110
+Discovery of Spatial Association Rules in Geographic Information Databases	|	0.0110
+Data Cleaning: Problems and Current Approaches	|	0.0110
+On optimizing an SQL-like nested query	|	0.0110
+Path sharing and predicate evaluation for high-performance XML filtering	|	0.0110
+Maintenance of Discovered Association Rules in Large Databases: An Incremental Updating Technique	|	0.0098
+Finding interesting rules from large sets of discovered association rules	|	0.0098
+The Architecture Of An Active Data Base Management System	|	0.0098
+Parallel database systems: the future of high performance database systems	|	0.0098
+Incognito: efficient full-domain K-anonymity	|	0.0098
+The Design of the Borealis Stream Processing Engine	|	0.0098
+Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Total	|	0.0088
+Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0081
+Aurora: a new model and architecture for data stream management	|	0.0079
+XML-QL: A Query Language for XML	|	0.0079
+Continuous queries over data streams	|	0.0075
+Mining Sequential Patterns	|	0.0064
+Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.0064
+Parallel Database Systems: The Future of High Performance Database Processing1	|	0.0064
+Database Mining: A Performance Perspective	|	0.0064
+Beyond Market Baskets: Generalizing Association Rules to Correlations	|	0.0058
+TinyDB: an acquisitional query processing system for sensor networks	|	0.0058
+Principles of Database and Knowledge-Base Systems, Volume I	|	0.0055
+Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases	|	0.0053
+Multiple-query optimization	|	0.0053
+Mediators in the Architecture of Future Information Systems	|	0.0044
+The design of an acquisitional query processor for sensor networks	|	0.0044
+Continuously adaptive continuous queries over streams	|	0.0041
+Query Caching and Optimization in Distributed Mediator Systems	|	0.0041
+Discovery of Multiple-Level Association Rules from Large Databases	|	0.0041
+An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.0041
+Mining Generalized Association Rules	|	0.0041
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0041
+Issues in data stream management	|	0.0041
+NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0035
+A Query Language and Optimization Techniques for Unstructured Data	|	0.0035
+The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0032
+Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0032
+Monitoring Streams - A New Class of Data Management Applications	|	0.0030
+FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets	|	0.0026
+An Effective Hash Based Algorithm for Mining Association Rules	|	0.0026
+Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0024
 The Lorel Query Language for Semistructured Data	|	0.0024
-An Effective Hash Based Algorithm for Mining Association Rules	|	0.0022
-Fast Algorithms for Mining Association Rules in Large Databases	|	0.0022
+Fast Algorithms for Mining Association Rules in Large Databases	|	0.0023
 Models and issues in data stream systems	|	0.0021
-Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0021
-Efficient Similarity Search In Sequence Databases	|	0.0017
-Fast Subsequence Matching in Time-Series Databases	|	0.0017
-Mining association rules between sets of items in large databases	|	0.0013
+Efficient Similarity Search In Sequence Databases	|	0.0018
+Fast Subsequence Matching in Time-Series Databases	|	0.0018
+Mining association rules between sets of items in large databases	|	0.0015
 The R*-tree: an efficient and robust access method for points and rectangles	|	0.0012
-Fast Algorithms for Mining Association Rules	|	0.0009
+Fast Algorithms for Mining Association Rules	|	0.0010
 Foundations of Databases	|	0.0008
 Principles of Database and Knowledge-Base Systems, Volume II	|	0.0007

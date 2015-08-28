@@ -7,7 +7,7 @@ On the Computation of Multidimensional Aggregates	|	0.0833
 The data warehousing toolkit	|	0.0625
 Consistent query answers in inconsistent databases	|	0.0370
 Aggregate-Query Processing in Data Warehousing Environments	|	0.0294
-View Maintenance in a Warehousing Environment	|	0.0198
+View Maintenance in a Warehousing Environment	|	0.0238
 Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals	|	0.0164
 Data Cleaning: Problems and Current Approaches	|	0.0164
 On optimizing an SQL-like nested query	|	0.0164
@@ -18,4 +18,4 @@ Research problems in data warehousing	|	0.0119
 Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.0079
 Parallel Database Systems: The Future of High Performance Database Processing1	|	0.0079
 Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.0070
-Optimizing Queries with Materialized Views	|	0.0042
+Optimizing Queries with Materialized Views	|	0.0046

@@ -1,44 +1,48 @@
-OIL in a Nutshell	|	0.5455
-Towards a Methodology for Building Ontologies	|	0.4000
-Formal Ontology and Information Systems	|	0.3750
-A Framework for Understanding and Classifying Ontology Applications	|	0.3636
-EDUTELLA: a P2P networking infrastructure based on RDF	|	0.2857
-EDUTELLA: A P2P Networking Infrastructure Based on RDF	|	0.2667
-Methodology for the Design and Evaluation of Ontologies	|	0.2000
-A Logical Language for Data and Knowledge Bases	|	0.2000
-PROMPT: Algorithm and Tool for Automated Ontology Merging and Alignment	|	0.1905
-Combining and relating ontologies: an analysis of problems and solutions	|	0.1818
-Ontology development 101: A guide to creating your first ontology	|	0.1818
-Semantic e-Workflow Composition	|	0.1739
-Using semantic values to facilitate interoperability among heterogeneous information systems	|	0.1667
-Toward principles for the design of ontologies used for knowledge sharing?	|	0.1667
-FCA-MERGE: Bottom-Up Merging of Ontologies	|	0.1538
-On the power of magic	|	0.1538
-Object Exchange Across Heterogeneous Information Sources	|	0.1333
-Generating Finite-State Transducers for Semi-Structured Data Extraction from the Web	|	0.1250
-An Environment for Merging and Testing Large Ontologies	|	0.1250
-The Ontolingua Server: a tool for collaborative ontology construction	|	0.1250
-A Translation Approach to Portable Ontology Specifications	|	0.1250
-Super-peer-based routing and clustering strategies for RDF-based peer-to-peer networks	|	0.1176
-Dynamic service matchmaking among agents in open information environments	|	0.1176
-Active database systems	|	0.1176
-Ontology mapping: the state of the art	|	0.1176
-Data Cleaning: Problems and Current Approaches	|	0.1111
-The PROMPT suite: interactive tools for ontology merging and mapping	|	0.1053
-Ontology Mapping: The State of the Art	|	0.1053
-Research problems in data warehousing	|	0.1000
-Semantic and Schematic Similarities Between Database Objects: A Context-Based Approach	|	0.1000
-Disjunctive datalog	|	0.1000
-Principles of database and knowledge-base systems	|	0.1000
-Data Management for Peer-to-Peer Computing : A Vision	|	0.0952
-A Data Model and Query Language for EXODUS	|	0.0909
-Querying Object-Oriented Databases	|	0.0870
-Object identity	|	0.0800
-Mediators in the Architecture of Future Information Systems	|	0.0741
-Query Caching and Optimization in Distributed Mediator Systems	|	0.0714
-The functional data model and the data languages DAPLEX	|	0.0667
-The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0645
-Database techniques for the World-Wide Web: a survey	|	0.0571
-Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0571
-Answering queries using views: A survey	|	0.0476
-Foundations of Databases	|	0.0263
+Toward principles for the design of ontologies used for knowledge sharing?	|	0.2826
+Infomaster: An Information Integration System	|	0.2564
+The Essential Distributed Objects Survival Guide	|	0.2564
+The Ontolingua Server: a tool for collaborative ontology construction	|	0.2361
+A Translation Approach to Portable Ontology Specifications	|	0.2361
+Ontologies: principles, methods and applications	|	0.2222
+Logical Foundations of Object-Oriented and Frame-Based Languages	|	0.1863
+Mediators in the Architecture of Future Information Systems	|	0.1239
+OIL in a Nutshell	|	0.0714
+Towards a Methodology for Building Ontologies	|	0.0513
+A Framework for Understanding and Classifying Ontology Applications	|	0.0476
+Formal Ontology and Information Systems	|	0.0417
+EDUTELLA: a P2P networking infrastructure based on RDF	|	0.0351
+EDUTELLA: A P2P Networking Infrastructure Based on RDF	|	0.0312
+Methodology for the Design and Evaluation of Ontologies	|	0.0256
+A Logical Language for Data and Knowledge Bases	|	0.0256
+Combining and relating ontologies: an analysis of problems and solutions	|	0.0238
+Ontology development 101: A guide to creating your first ontology	|	0.0238
+Using semantic values to facilitate interoperability among heterogeneous information systems	|	0.0217
+FCA-MERGE: Bottom-Up Merging of Ontologies	|	0.0196
+On the power of magic	|	0.0196
+PROMPT: Algorithm and Tool for Automated Ontology Merging and Alignment	|	0.0157
+Object Exchange Across Heterogeneous Information Sources	|	0.0156
+Generating Finite-State Transducers for Semi-Structured Data Extraction from the Web	|	0.0139
+An Environment for Merging and Testing Large Ontologies	|	0.0139
+Semantic e-Workflow Composition	|	0.0128
+Super-peer-based routing and clustering strategies for RDF-based peer-to-peer networks	|	0.0123
+Dynamic service matchmaking among agents in open information environments	|	0.0123
+Active database systems	|	0.0123
+Ontology mapping: the state of the art	|	0.0123
+Data Cleaning: Problems and Current Approaches	|	0.0110
+The PROMPT suite: interactive tools for ontology merging and mapping	|	0.0098
+Ontology Mapping: The State of the Art	|	0.0098
+Research problems in data warehousing	|	0.0088
+Semantic and Schematic Similarities Between Database Objects: A Context-Based Approach	|	0.0088
+Disjunctive datalog	|	0.0088
+Principles of database and knowledge-base systems	|	0.0088
+Data Management for Peer-to-Peer Computing : A Vision	|	0.0079
+A Data Model and Query Language for EXODUS	|	0.0071
+Querying Object-Oriented Databases	|	0.0064
+Object identity	|	0.0053
+Query Caching and Optimization in Distributed Mediator Systems	|	0.0041
+The functional data model and the data languages DAPLEX	|	0.0035
+The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0032
+Database techniques for the World-Wide Web: a survey	|	0.0024
+Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0024
+Answering queries using views: A survey	|	0.0016
+Foundations of Databases	|	0.0004

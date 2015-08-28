@@ -1,43 +1,41 @@
-Logic-based approach to semantic query optimization	|	0.1111
-An introduction to data base systems	|	0.1111
-The Design of Postgres	|	0.1088
-Negation as Failure	|	0.0769
-On closed world databases	|	0.0769
-Object and File Management in the EXODUS Extensible Database System	|	0.0769
-Logic and Databases: A Deductive Approach	|	0.0733
-Towards a Logical Reconstruction of Relational Database Theory	|	0.0556
-Pnnc:ples of database systems	|	0.0556
-The HiPAC project: combining active databases and timing constraints	|	0.0426
-On Closed World Data Bases	|	0.0417
-Optimal implementation of conjunctive queries in relational databases	|	0.0417
-Starburst Mid-Flight: As the Dust Clears	|	0.0323
-Data-Driven Discovery of Quantitative Rules in Relational Databases	|	0.0256
-Concurrency control performance modeling: alternatives and implications	|	0.0256
-Computable Queries for Relational Data Bases	|	0.0211
-Telos: representing knowledge about information systems	|	0.0208
-The EXODUS Optimizer Generator	|	0.0208
-The Implementation of Postgres	|	0.0172
-Operating system support for database management	|	0.0172
-Dependency Structures of Data Base Relationships	|	0.0123
-The Postgres Next Generation Database Management System	|	0.0123
-Making Smalltalk a Database System	|	0.0106
-Principles of Database Systems, 2nd Edition	|	0.0106
-An Introduction to Spatial Database Systems	|	0.0106
-Universality of data retrieval languages	|	0.0105
-An Introduction to Database Systems	|	0.0093
-Query-by-Example: A Data Base Language	|	0.0093
-Knowledge Discovery in Databases: An Attribute-Oriented Approach	|	0.0072
-Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.0072
-Multiple-query optimization	|	0.0064
-Types and persistence in database programming languages	|	0.0049
-Relational Completeness of Data Base Sublanguages	|	0.0047
-Optimal implementation of conjunctive queries in relational data bases	|	0.0039
-System R: A Relational Approach to Data Base Management	|	0.0039
-Extending the database relational model to capture more meaning	|	0.0028
-The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0026
-System R: relational approach to database management	|	0.0026
-Access path selection in a relational database management system	|	0.0023
-The Theory of Relational Databases	|	0.0020
-Foundations of Databases	|	0.0009
-Principles of Database and Knowledge-Base Systems, Volume II	|	0.0007
-Query evaluation techniques for large databases	|	0.0004
+Logic-based approach to semantic query optimization	|	0.4000
+An introduction to data base systems	|	0.4000
+Negation as Failure	|	0.3333
+On closed world databases	|	0.3333
+Object and File Management in the EXODUS Extensible Database System	|	0.3333
+Towards a Logical Reconstruction of Relational Database Theory	|	0.2857
+The HiPAC project: combining active databases and timing constraints	|	0.2857
+Pnnc:ples of database systems	|	0.2857
+On Closed World Data Bases	|	0.2500
+Optimal implementation of conjunctive queries in relational databases	|	0.2500
+Starburst Mid-Flight: As the Dust Clears	|	0.2222
+Computable Queries for Relational Data Bases	|	0.2000
+Data-Driven Discovery of Quantitative Rules in Relational Databases	|	0.2000
+Concurrency control performance modeling: alternatives and implications	|	0.2000
+Telos: representing knowledge about information systems	|	0.1818
+The EXODUS Optimizer Generator	|	0.1818
+The Implementation of Postgres	|	0.1667
+Operating system support for database management	|	0.1667
+Dependency Structures of Data Base Relationships	|	0.1429
+Universality of data retrieval languages	|	0.1429
+The Postgres Next Generation Database Management System	|	0.1429
+Types and persistence in database programming languages	|	0.1429
+Making Smalltalk a Database System	|	0.1333
+Principles of Database Systems, 2nd Edition	|	0.1333
+An Introduction to Spatial Database Systems	|	0.1333
+An Introduction to Database Systems	|	0.1250
+Query-by-Example: A Data Base Language	|	0.1250
+Knowledge Discovery in Databases: An Attribute-Oriented Approach	|	0.1111
+Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.1111
+Multiple-query optimization	|	0.1053
+Access path selection in a relational database management system	|	0.0930
+Relational Completeness of Data Base Sublanguages	|	0.0909
+Optimal implementation of conjunctive queries in relational data bases	|	0.0833
+System R: A Relational Approach to Data Base Management	|	0.0833
+Extending the database relational model to capture more meaning	|	0.0714
+The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0690
+System R: relational approach to database management	|	0.0690
+The Theory of Relational Databases	|	0.0606
+Foundations of Databases	|	0.0571
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0526
+Query evaluation techniques for large databases	|	0.0274

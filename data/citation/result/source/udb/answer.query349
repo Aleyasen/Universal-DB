@@ -19,9 +19,9 @@ Mariposa: A Wide-Area Distributed Database System	|	0.0294
 An Introduction to Database Systems	|	0.0270
 Selectivity Estimation Without the Attribute Value Independence Assumption	|	0.0238
 Dependency Structures of Data Base Relationships	|	0.0238
+Computable Queries for Relational Data Bases	|	0.0238
 Data-Driven Discovery of Quantitative Rules in Relational Databases	|	0.0238
 C-Store: A Column-oriented DBMS	|	0.0238
-Computable Queries for Relational Data Bases	|	0.0198
 Telos: representing knowledge about information systems	|	0.0196
 Improved Histograms for Selectivity Estimation of Range Predicates	|	0.0196
 A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.0196
@@ -29,38 +29,38 @@ The EXODUS Optimizer Generator	|	0.0196
 Query By Example	|	0.0164
 On optimizing an SQL-like nested query	|	0.0164
 Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.0141
+Wavelet-Based Histograms for Selectivity Estimation	|	0.0139
 Parallel database systems: the future of high performance database systems	|	0.0139
 Query Reformulation for Dynamic Information Integration	|	0.0119
+Universality of data retrieval languages	|	0.0119
+Optimizing Queries Across Diverse Data Sources	|	0.0103
 Principles of Database Systems, 2nd Edition	|	0.0103
 Synthesizing third normal form relations from functional dependencies	|	0.0103
-Universality of data retrieval languages	|	0.0102
+Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0090
 Organization and Maintenance of Large Ordered Indexes	|	0.0090
+Join processing in relational databases	|	0.0090
 Query-by-Example: A Data Base Language	|	0.0090
-Optimizing Queries Across Diverse Data Sources	|	0.0089
-Wavelet-Based Histograms for Selectivity Estimation	|	0.0088
-Join processing in relational databases	|	0.0080
 Parallel Database Systems: The Future of High Performance Database Processing1	|	0.0079
-Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0079
 Knowledge Discovery in Databases: An Attribute-Oriented Approach	|	0.0070
 The Theory of Relational Databases	|	0.0060
 Query Optimization for XML	|	0.0056
+The Gamma Database Machine Project	|	0.0056
 Further Normalization of the Data Base Relational Model	|	0.0056
 The Design of Postgres	|	0.0051
-The Gamma Database Machine Project	|	0.0051
+Online Aggregation	|	0.0046
+Continuously adaptive continuous queries over streams	|	0.0046
 Query Caching and Optimization in Distributed Mediator Systems	|	0.0046
+Optimizing Queries with Materialized Views	|	0.0046
 Distance browsing in spatial databases	|	0.0046
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0046
 Relational Completeness of Data Base Sublanguages	|	0.0046
-Optimizing Queries with Materialized Views	|	0.0042
 Organization and Maintenance of Large Ordered Indices	|	0.0042
-Continuously adaptive continuous queries over streams	|	0.0042
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0042
-Online Aggregation	|	0.0039
 Optimal implementation of conjunctive queries in relational data bases	|	0.0039
 System R: A Relational Approach to Data Base Management	|	0.0039
+Types and persistence in database programming languages	|	0.0028
 Extending the database relational model to capture more meaning	|	0.0028
 System R: relational approach to database management	|	0.0026
-Types and persistence in database programming languages	|	0.0024
-Query Optimization in Database Systems	|	0.0017
+Query Optimization in Database Systems	|	0.0018
 Foundations of Databases	|	0.0013
 Principles of Database and Knowledge-Base Systems, Volume II	|	0.0011
 Query evaluation techniques for large databases	|	0.0008

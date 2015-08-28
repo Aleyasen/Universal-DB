@@ -17,21 +17,21 @@ XML-QL: A Query Language for XML	|	0.0198
 Indexing and Querying XML Data for Regular Path Expressions	|	0.0132
 Storing and Querying XML Data using an RDBMS	|	0.0132
 Partition Based Spatial-Merge Join	|	0.0132
+The Architecture Of An Active Data Base Management System	|	0.0132
 Quilt: An XML Query Language for Heterogeneous Data Sources	|	0.0114
 Why and Where: A Characterization of Data Provenance	|	0.0114
 Efficiently Publishing Relational Data as XML Documents	|	0.0099
 Aurora: a new model and architecture for data stream management	|	0.0099
-The Architecture Of An Active Data Base Management System	|	0.0099
 On Supporting Containment Queries in Relational Database Management Systems	|	0.0068
 Query Optimization for XML	|	0.0055
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0045
 Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.0041
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0041
 Continuous queries over data streams	|	0.0041
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0041
-Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0038
 NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0038
 A Query Language and Optimization Techniques for Unstructured Data	|	0.0038
 Monitoring Streams - A New Class of Data Management Applications	|	0.0032
-Lore: a database management system for semistructured data	|	0.0028
+Lore: a database management system for semistructured data	|	0.0030
 The Lorel Query Language for Semistructured Data	|	0.0026
 Models and issues in data stream systems	|	0.0022
 Answering queries using views: A survey	|	0.0017

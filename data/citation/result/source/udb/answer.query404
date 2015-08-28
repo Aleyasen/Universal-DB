@@ -1,82 +1,82 @@
-Universality of data retrieval languages	|	0.2179
-F-Logic: A Higher-Order language for Reasoning about Objects, Inheritance, and Scheme	|	0.2169
-Modeling Multidimensional Databases	|	0.2149
-Database Security	|	0.2149
-The theory of joins in relational databases	|	0.2149
-Incomplete Information in Relational Databases	|	0.2149
-A logical design methodology for relational databases using the extended entity-relationship model	|	0.2086
-A language facility for designing database-intensive applications	|	0.2073
-The notions of consistency and predicate locks in a database system	|	0.1856
-Types and persistence in database programming languages	|	0.1596
-Development of an object-oriented DBMS	|	0.0202
-An Introduction to Database Systems	|	0.0185
-The entity-relationship model: toward a unified view of data	|	0.0156
-Database abstractions: aggregation and generalization	|	0.0140
-GALILEO: a strongly-typed, interactive conceptual language	|	0.0134
-Making Smalltalk a Database System	|	0.0129
-Synthesizing third normal form relations from functional dependencies	|	0.0129
-Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.0112
-Object identity	|	0.0107
-The entity-relationship model---toward a unified view of data	|	0.0102
-Semantic data models	|	0.0093
-Relational Completeness of Data Base Sublanguages	|	0.0093
-Conceptual Database Design: An Entity-Relationship Approach	|	0.0090
-Formal Models for Computer Security	|	0.0090
-On the ontological expressiveness of information systems analysis and design grammars	|	0.0090
-The Entity-Relationship Model-Towards a Uni ed View of Data	|	0.0090
-Object-Oriented Programming: Themes and Variations	|	0.0088
-Providing olap (on-line analytical processing) to user-analysts: an it mandate	|	0.0088
-On the Declarative Semantics of Deductive Databases and Logic Programs	|	0.0087
-On closed world databases	|	0.0087
-Real-Time Databases	|	0.0085
-Foundations of Logic Programming, 2nd Edition	|	0.0085
-A model of authorization for next-generation database systems	|	0.0085
-Optimal implementation of conjunctive queries in relational data bases	|	0.0085
-Scheduling Real-time Transactions: a Performance Evaluation	|	0.0083
-The serializability of concurrent database updates	|	0.0083
-Scheduling real-time transactions: a performance evaluation	|	0.0083
-Index Selection for OLAP	|	0.0081
-A Majority consensus approach to concurrency control for multiple copy databases	|	0.0081
-The complexity of relational query languages (Extended Abstract)	|	0.0078
-A Critique of ANSI SQL Isolation Levels	|	0.0078
-Concurrency control performance modeling: alternatives and implications	|	0.0078
-An Approach to Persistent Programming	|	0.0078
-Computable Queries for Relational Data Bases	|	0.0076
-Telos: representing knowledge about information systems	|	0.0075
-On Optimistic Methods for Concurrency Control	|	0.0075
-Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals	|	0.0073
-Principles of transaction-oriented database recovery	|	0.0073
-Using Semantic Knowledge for Transaction Processing in Distributed Database	|	0.0073
-Concurrency control in advanced database applications	|	0.0072
-A federated architecture for information management	|	0.0072
-The Recovery Manager of the System R Database Manager	|	0.0070
-Extending the database relational model to capture more meaning	|	0.0070
-Ode as an Active Database: Constraints and Triggers	|	0.0070
-Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Total	|	0.0067
-Dependency Structures of Data Base Relationships	|	0.0067
-Database Description with SDM: A Semantic Database Model	|	0.0067
-View Definition and Generalization for Database Integration in a Multidatabase System	|	0.0067
-Principles of Database Systems, 2nd Edition	|	0.0064
-The functional data model and the data language DAPLEX	|	0.0064
-Logic and Databases: A Deductive Approach	|	0.0064
-Concurrency Control in Distributed Database Systems	|	0.0062
-Query-by-Example: A Data Base Language	|	0.0062
-A Data Model and Query Language for EXODUS	|	0.0059
-Querying Object-Oriented Databases	|	0.0059
-IFO: a formal semantic database model	|	0.0056
-The Theory of Relational Databases	|	0.0056
-Database description with SDM: a semantic database model	|	0.0051
-Further Normalization of the Data Base Relational Model	|	0.0051
-Query Optimization in Database Systems	|	0.0049
-The Design of Postgres	|	0.0049
-System R: A Relational Approach to Data Base Management	|	0.0042
-The functional data model and the data languages DAPLEX	|	0.0042
-Temporal and Real-Time Databases: A Survey	|	0.0040
-Principles of Database and Knowledge-Base Systems, Volume I	|	0.0037
-A comparative analysis of methodologies for database schema integration	|	0.0035
-System R: relational approach to database management	|	0.0033
-Foundations of Databases	|	0.0031
-Concurrency Control and Recovery in Database Systems	|	0.0028
-Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0027
-Query evaluation techniques for large databases	|	0.0014
-Principles of Database and Knowledge-Base Systems, Volume II	|	0.0013
+Modeling Multidimensional Databases	|	0.2143
+Database Security	|	0.2143
+The theory of joins in relational databases	|	0.2143
+Incomplete Information in Relational Databases	|	0.2143
+F-Logic: A Higher-Order language for Reasoning about Objects, Inheritance, and Scheme	|	0.2105
+Universality of data retrieval languages	|	0.1729
+A logical design methodology for relational databases using the extended entity-relationship model	|	0.1575
+A language facility for designing database-intensive applications	|	0.1486
+The notions of consistency and predicate locks in a database system	|	0.1184
+Types and persistence in database programming languages	|	0.0936
+Development of an object-oriented DBMS	|	0.0248
+The entity-relationship model: toward a unified view of data	|	0.0220
+An Introduction to Database Systems	|	0.0187
+Conceptual Database Design: An Entity-Relationship Approach	|	0.0172
+Formal Models for Computer Security	|	0.0172
+On the ontological expressiveness of information systems analysis and design grammars	|	0.0172
+The Entity-Relationship Model-Towards a Uni ed View of Data	|	0.0172
+GALILEO: a strongly-typed, interactive conceptual language	|	0.0165
+Object-Oriented Programming: Themes and Variations	|	0.0164
+Providing olap (on-line analytical processing) to user-analysts: an it mandate	|	0.0164
+On the Declarative Semantics of Deductive Databases and Logic Programs	|	0.0154
+On closed world databases	|	0.0154
+Real-Time Databases	|	0.0143
+Foundations of Logic Programming, 2nd Edition	|	0.0143
+A model of authorization for next-generation database systems	|	0.0143
+Making Smalltalk a Database System	|	0.0137
+Synthesizing third normal form relations from functional dependencies	|	0.0137
+Scheduling Real-time Transactions: a Performance Evaluation	|	0.0132
+The serializability of concurrent database updates	|	0.0132
+Scheduling real-time transactions: a performance evaluation	|	0.0132
+Index Selection for OLAP	|	0.0120
+An Approach to Persistent Programming	|	0.0120
+A Majority consensus approach to concurrency control for multiple copy databases	|	0.0120
+Database abstractions: aggregation and generalization	|	0.0113
+The complexity of relational query languages (Extended Abstract)	|	0.0110
+A Critique of ANSI SQL Isolation Levels	|	0.0110
+Computable Queries for Relational Data Bases	|	0.0110
+Concurrency control performance modeling: alternatives and implications	|	0.0110
+Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.0105
+Telos: representing knowledge about information systems	|	0.0100
+On Optimistic Methods for Concurrency Control	|	0.0100
+Concurrency control in advanced database applications	|	0.0100
+A federated architecture for information management	|	0.0100
+Object identity	|	0.0096
+Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals	|	0.0091
+The Recovery Manager of the System R Database Manager	|	0.0091
+Principles of transaction-oriented database recovery	|	0.0091
+Using Semantic Knowledge for Transaction Processing in Distributed Database	|	0.0091
+The entity-relationship model---toward a unified view of data	|	0.0088
+Ode as an Active Database: Constraints and Triggers	|	0.0083
+Semantic data models	|	0.0075
+Relational Completeness of Data Base Sublanguages	|	0.0075
+Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Total	|	0.0075
+Dependency Structures of Data Base Relationships	|	0.0075
+Database Description with SDM: A Semantic Database Model	|	0.0075
+View Definition and Generalization for Database Integration in a Multidatabase System	|	0.0075
+Principles of Database Systems, 2nd Edition	|	0.0068
+The functional data model and the data language DAPLEX	|	0.0068
+Optimal implementation of conjunctive queries in relational data bases	|	0.0065
+A Data Model and Query Language for EXODUS	|	0.0063
+Concurrency Control in Distributed Database Systems	|	0.0063
+Query-by-Example: A Data Base Language	|	0.0063
+Querying Object-Oriented Databases	|	0.0057
+IFO: a formal semantic database model	|	0.0057
+Extending the database relational model to capture more meaning	|	0.0049
+Database description with SDM: a semantic database model	|	0.0044
+Further Normalization of the Data Base Relational Model	|	0.0044
+Logic and Databases: A Deductive Approach	|	0.0043
+The Design of Postgres	|	0.0041
+The Theory of Relational Databases	|	0.0036
+System R: A Relational Approach to Data Base Management	|	0.0032
+Query Optimization in Database Systems	|	0.0032
+The functional data model and the data languages DAPLEX	|	0.0032
+Temporal and Real-Time Databases: A Survey	|	0.0030
+Principles of Database and Knowledge-Base Systems, Volume I	|	0.0026
+A comparative analysis of methodologies for database schema integration	|	0.0025
+System R: relational approach to database management	|	0.0023
+Concurrency Control and Recovery in Database Systems	|	0.0018
+Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0017
+Foundations of Databases	|	0.0017
+Query evaluation techniques for large databases	|	0.0008
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0007

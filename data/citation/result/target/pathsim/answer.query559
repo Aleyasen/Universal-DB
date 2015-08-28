@@ -1,82 +1,82 @@
-Dimensionality Reduction for Fast Similarity Search in Large Time Series Databases	|	0.5000
-Efficient Time Series Matching by Wavelets	|	0.4706
-Efficient Retrieval of Similar Time Sequences Under Time Warping	|	0.4706
-Locally Adaptive Dimensionality Reduction for Indexing Large Time Series Databases	|	0.4000
-Discovering Similar Multidimensional Trajectories	|	0.4000
-Exact Indexing of Dynamic Time Warping	|	0.3529
-Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases	|	0.3200
-Maintaining Stream Statistics over Sliding Windows	|	0.3077
-Similarity-Based Queries for Time Series Data	|	0.2857
-Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.2727
-Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.2727
-Load Shedding in a Data Stream Manager	|	0.2667
-Database Mining: A Performance Perspective	|	0.2609
-Fast Nearest Neighbor Search in Medical Image Databases	|	0.2500
-Fast Subsequence Matching in Time-Series Databases	|	0.2500
-Adaptive filters for continuous queries over distributed data streams	|	0.2500
-Optimal Multi-Step k-Nearest Neighbor Search	|	0.2400
-Models and issues in data stream systems	|	0.2162
-Fast Time Sequence Indexing for Arbitrary Lp Norms	|	0.2143
-Efficient Similarity Search In Sequence Databases	|	0.2000
-A New SQL-like Operator for Mining Association Rules	|	0.1905
-Approximate Query Processing Using Wavelets	|	0.1818
-Query Processing in Sensor Networks	|	0.1818
-M-tree: An Efficient Access Method for Similarity Search in Metric Spaces	|	0.1739
-The X-tree : An Index Structure for High-Dimensional Data	|	0.1714
-The R*-tree: an efficient and robust access method for points and rectangles	|	0.1702
-Approximate Frequency Counts over Data Streams	|	0.1667
-On Finding the Maxima of a Set of Vectors	|	0.1667
-The design & analysis of spatial data structures	|	0.1667
-Query Processing in Spatial Network Databases	|	0.1538
-An Improved Data Stream Summary: The Count-Min Sketch and Its Applications	|	0.1538
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.1429
-Finding Frequent Items in Data Streams	|	0.1429
-Mining association rules between sets of items in large databases	|	0.1395
-Eddies: Continuously Adaptive Query Processing	|	0.1379
-Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.1379
-Continuous queries over data streams	|	0.1379
-NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.1333
-Towards Sensor Database Systems	|	0.1333
-The Design and Analysis of Spatial Data Structures	|	0.1290
-Scalable Distributed Stream Processing	|	0.1250
-Monitoring Streams - A New Class of Data Management Applications	|	0.1250
-The Grid File: An Adaptable, Symmetric Multikey File Structure	|	0.1212
-Similarity Search in High Dimensions via Hashing	|	0.1176
-FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets	|	0.1176
-An Effective Hash Based Algorithm for Mining Association Rules	|	0.1176
-Random sampling with a reservoir	|	0.1176
-Efficient Data Mining for Path Traversal Patterns	|	0.1111
-When Is ''Nearest Neighbor'' Meaningful?	|	0.1053
-Wavelet-Based Histograms for Selectivity Estimation	|	0.1053
-Data Mining: An Overview from a Database Perspective	|	0.1053
-Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.1053
-Access methods for text	|	0.1053
-Searching in high-dimensional spaces: Index structures for improving the performance of multimedia databases	|	0.1000
-Ranking in Spatial Databases	|	0.0952
-Distributed top-k monitoring	|	0.0952
-Aurora: a new model and architecture for data stream management	|	0.0952
-The CQL continuous query language: semantic foundations and query execution	|	0.0952
-CURE: An Efficient Clustering Algorithm for Large Databases	|	0.0909
-Mining Sequential Patterns	|	0.0870
-On packing R-trees	|	0.0870
-Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.0833
-Similarity Indexing with the SS-tree	|	0.0833
-New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.0800
-Multiple-query optimization	|	0.0800
-Fast Algorithms for Mining Association Rules	|	0.0784
-Efficient and Effective Querying by Image Content	|	0.0769
-Spatial Query Processing in an Object-Oriented Database System	|	0.0769
-The TV-Tree: An Index Structure for High-Dimensional Data	|	0.0741
-The Grid File: An Adaptable, Symmetric Multi-Key File Structure	|	0.0741
-The design of an acquisitional query processor for sensor networks	|	0.0741
-Online Aggregation	|	0.0714
-Continuously adaptive continuous queries over streams	|	0.0714
-Mining Generalized Association Rules	|	0.0714
-Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0714
-Issues in data stream management	|	0.0714
-An Adaptive Query Execution System for Data Integration	|	0.0690
-Temporal and Real-Time Databases: A Survey	|	0.0645
-Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0645
-Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0571
-Fast Algorithms for Mining Association Rules in Large Databases	|	0.0556
-Query evaluation techniques for large databases	|	0.0253
+Efficient Time Series Matching by Wavelets	|	0.2593
+Locally Adaptive Dimensionality Reduction for Indexing Large Time Series Databases	|	0.2105
+Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.1773
+Fast Time Sequence Indexing for Arbitrary Lp Norms	|	0.1260
+Issues in data stream management	|	0.1179
+Continuous queries over data streams	|	0.1161
+Fast Subsequence Matching in Time-Series Databases	|	0.0798
+Efficient Similarity Search In Sequence Databases	|	0.0780
+Dimensionality Reduction for Fast Similarity Search in Large Time Series Databases	|	0.0556
+Efficient Retrieval of Similar Time Sequences Under Time Warping	|	0.0494
+Maintaining Stream Statistics over Sliding Windows	|	0.0392
+Exact Indexing of Dynamic Time Warping	|	0.0370
+Discovering Similar Multidimensional Trajectories	|	0.0351
+Similarity-Based Queries for Time Series Data	|	0.0351
+Load Shedding in a Data Stream Manager	|	0.0312
+Fast Nearest Neighbor Search in Medical Image Databases	|	0.0278
+Adaptive filters for continuous queries over distributed data streams	|	0.0278
+Query Processing in Sensor Networks	|	0.0238
+On Finding the Maxima of a Set of Vectors	|	0.0217
+Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0213
+Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases	|	0.0212
+Query Processing in Spatial Network Databases	|	0.0196
+An Improved Data Stream Summary: The Count-Min Sketch and Its Applications	|	0.0196
+Database Mining: A Performance Perspective	|	0.0192
+Finding Frequent Items in Data Streams	|	0.0175
+Optimal Multi-Step k-Nearest Neighbor Search	|	0.0159
+A New SQL-like Operator for Mining Association Rules	|	0.0157
+Towards Sensor Database Systems	|	0.0156
+Approximate Query Processing Using Wavelets	|	0.0142
+Scalable Distributed Stream Processing	|	0.0139
+M-tree: An Efficient Access Method for Similarity Search in Metric Spaces	|	0.0128
+Similarity Search in High Dimensions via Hashing	|	0.0123
+Random sampling with a reservoir	|	0.0123
+Approximate Frequency Counts over Data Streams	|	0.0116
+The design & analysis of spatial data structures	|	0.0116
+Efficient Data Mining for Path Traversal Patterns	|	0.0110
+When Is ''Nearest Neighbor'' Meaningful?	|	0.0098
+Wavelet-Based Histograms for Selectivity Estimation	|	0.0098
+Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.0098
+Access methods for text	|	0.0098
+Models and issues in data stream systems	|	0.0085
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0081
+Ranking in Spatial Databases	|	0.0079
+Distributed top-k monitoring	|	0.0079
+Aurora: a new model and architecture for data stream management	|	0.0079
+The CQL continuous query language: semantic foundations and query execution	|	0.0079
+Eddies: Continuously Adaptive Query Processing	|	0.0075
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0075
+The X-tree : An Index Structure for High-Dimensional Data	|	0.0072
+CURE: An Efficient Clustering Algorithm for Large Databases	|	0.0071
+NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0069
+Mining Sequential Patterns	|	0.0064
+On packing R-trees	|	0.0064
+The Design and Analysis of Spatial Data Structures	|	0.0064
+Monitoring Streams - A New Class of Data Management Applications	|	0.0060
+Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.0058
+Similarity Indexing with the SS-tree	|	0.0058
+The Grid File: An Adaptable, Symmetric Multikey File Structure	|	0.0055
+New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.0053
+Multiple-query optimization	|	0.0053
+FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets	|	0.0052
+An Effective Hash Based Algorithm for Mining Association Rules	|	0.0052
+The R*-tree: an efficient and robust access method for points and rectangles	|	0.0049
+Efficient and Effective Querying by Image Content	|	0.0048
+Spatial Query Processing in an Object-Oriented Database System	|	0.0048
+Mining association rules between sets of items in large databases	|	0.0045
+The TV-Tree: An Index Structure for High-Dimensional Data	|	0.0044
+The Grid File: An Adaptable, Symmetric Multi-Key File Structure	|	0.0044
+The design of an acquisitional query processor for sensor networks	|	0.0044
+Online Aggregation	|	0.0041
+Continuously adaptive continuous queries over streams	|	0.0041
+Mining Generalized Association Rules	|	0.0041
+Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0041
+Data Mining: An Overview from a Database Perspective	|	0.0040
+An Adaptive Query Execution System for Data Integration	|	0.0037
+Searching in high-dimensional spaces: Index structures for improving the performance of multimedia databases	|	0.0035
+Temporal and Real-Time Databases: A Survey	|	0.0032
+Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0032
+Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0024
+Fast Algorithms for Mining Association Rules in Large Databases	|	0.0023
+Fast Algorithms for Mining Association Rules	|	0.0020
+Query evaluation techniques for large databases	|	0.0004

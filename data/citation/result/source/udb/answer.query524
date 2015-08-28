@@ -11,25 +11,25 @@ Linear Hashing: A New Tool for File and Table Addressing	|	0.0440
 Linear Clustering of Objects with Multiple Atributes	|	0.0392
 On Optimistic Methods for Concurrency Control	|	0.0370
 The Quadtree and Related Hierarchical Data Structures	|	0.0321
+An Approach to Persistent Programming	|	0.0312
 Partition Based Spatial-Merge Join	|	0.0294
 The Pyramid-Technique: Towards Breaking the Curse of Dimensionality	|	0.0284
 On indexing mobile objects	|	0.0278
-An Approach to Persistent Programming	|	0.0274
 SEQUEL 2: A Unified Approach to Data Definition, Manipulation, and Control	|	0.0256
 Trie memory	|	0.0238
 Generalized Search Trees for Database Systems	|	0.0236
 An Introduction to Spatial Database Systems	|	0.0236
 Direct Spatial Search on Pictorial Databases Using Packed R-Trees	|	0.0220
 Data Structures for Range Searching	|	0.0220
+Join indices	|	0.0213
 Organization and maintenance of large ordered indexes	|	0.0196
-Join indices	|	0.0193
 Ranking in Spatial Databases	|	0.0157
 Starburst Mid-Flight: As the Dust Clears	|	0.0156
 Spatial Query Processing in an Object-Oriented Database System	|	0.0145
 Multidimensional access methods	|	0.0142
 Searching in metric spaces	|	0.0142
 Fast Nearest Neighbor Search in Medical Image Databases	|	0.0139
-Bigtable: A Distributed Storage System for Structured Data	|	0.0124
+Bigtable: A Distributed Storage System for Structured Data	|	0.0139
 Similarity Indexing with the SS-tree	|	0.0116
 Quad Trees: A Data Structure for Retrieval on Composite Keys	|	0.0110
 Searching in high-dimensional spaces: Index structures for improving the performance of multimedia databases	|	0.0106
@@ -41,14 +41,14 @@ A Fast Index for Semistructured Data	|	0.0079
 The SR-tree: An Index Structure for High-Dimensional Nearest Neighbor Queries	|	0.0079
 The X-tree : An Index Structure for High-Dimensional Data	|	0.0072
 System R: relational approach to database management	|	0.0072
+Join processing in relational databases	|	0.0071
 System R: A Relational Approach to Data Base Management	|	0.0069
-Join processing in relational databases	|	0.0064
+Query Optimization in Database Systems	|	0.0067
 On packing R-trees	|	0.0064
 Hilbert R-tree: An Improved R-tree using Fractals	|	0.0064
-Query Optimization in Database Systems	|	0.0063
 Concurrency Control and Recovery in Database Systems	|	0.0056
 Efficient Processing of Spatial Joins Using R-Trees	|	0.0053
-FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets	|	0.0048
+FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets	|	0.0052
 The Design of Postgres	|	0.0044
 Efficient Similarity Search In Sequence Databases	|	0.0035
 Query evaluation techniques for large databases	|	0.0023

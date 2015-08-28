@@ -1,11 +1,11 @@
+Composing Web services on the Semantic Web	|	0.3061
+DAML-S: Web Service Description for the Semantic Web	|	0.3023
 Bringing Semantics to Web Services: The OWL-S Approach	|	0.2903
-DAML-S: Web Service Description for the Semantic Web	|	0.2887
-Composing Web services on the Semantic Web	|	0.2883
 Simlarity Search for Web Services	|	0.2791
 Dynamic service matchmaking among agents in open information environments	|	0.2603
 Semantic e-Workflow Composition	|	0.1622
 A Survey of Schema-Based Matching Approaches	|	0.1256
-DAML-S: Semantic Markup For Web Services	|	0.0619
+DAML-S: Semantic Markup For Web Services	|	0.0698
 Automating DAML-S Web Services Composition Using SHOP2	|	0.0345
 Automatic Composition of E-services That Export Their Behavior	|	0.0345
 Infomaster: An Information Integration System	|	0.0323
@@ -14,9 +14,9 @@ A Survey of Automated Web Service Composition Methods	|	0.0323
 Measuring Similarity between Ontologies	|	0.0294
 OntoSeek: Content-Based Access to the Web	|	0.0294
 Declarative Composition and Peer-to-Peer Provisioning of Dynamic Web Services	|	0.0294
+Trust Management for the Semantic Web	|	0.0294
 XLANG Web Services for Business Process Design	|	0.0294
 The TSIMMIS Approach to Mediation: Data Models and Languages	|	0.0294
-Trust Management for the Semantic Web	|	0.0267
 KQML as an agent communication language	|	0.0263
 Using Information Content to Evaluate Semantic Similarity in a Taxonomy	|	0.0263
 Adaptive and Dynamic Service Composition in eFlow	|	0.0263
@@ -36,8 +36,8 @@ Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomo
 Ontology Mapping: The State of the Art	|	0.0106
 Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.0101
 PROMPT: Algorithm and Tool for Automated Ontology Merging and Alignment	|	0.0084
-Learning to match ontologies on the Semantic Web	|	0.0068
+Learning to match ontologies on the Semantic Web	|	0.0075
 A survey of approaches to automatic schema matching	|	0.0049
 Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0036
+Data integration: a theoretical perspective	|	0.0028
 A comparative analysis of methodologies for database schema integration	|	0.0026
-Data integration: a theoretical perspective	|	0.0026

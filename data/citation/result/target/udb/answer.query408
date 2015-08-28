@@ -1,40 +1,40 @@
-A Relational Model for Large Shared Data Banks	|	0.2149
-Dependency Structures of Data Base Relationships	|	0.2000
-Synthesizing third normal form relations from functional dependencies	|	0.1947
-Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.1582
-Further Normalization of the Data Base Relational Model	|	0.1347
-Modeling Multidimensional Databases	|	0.0909
-Database Security	|	0.0909
-Incomplete Information in Relational Databases	|	0.0909
-F-Logic: A Higher-Order language for Reasoning about Objects, Inheritance, and Scheme	|	0.0784
-Algorithms for Acyclic Database Schemes	|	0.0714
-Testing implications of data dependencies	|	0.0714
-Computational problems related to the design of normal form relational schemas	|	0.0519
-A logical design methodology for relational databases using the extended entity-relationship model	|	0.0469
-SEQUEL: A structured English query language	|	0.0400
-Universality of data retrieval languages	|	0.0351
-On the Desirability of Acyclic Database Schemes	|	0.0270
-Update semantics of relational views	|	0.0270
-A language facility for designing database-intensive applications	|	0.0252
-Remarks on the algebra of non first normal form relations	|	0.0233
-The notions of consistency and predicate locks in a database system	|	0.0172
-Computable Queries for Relational Data Bases	|	0.0150
-Query By Example	|	0.0130
-On optimizing an SQL-like nested query	|	0.0130
-Database Description with SDM: A Semantic Database Model	|	0.0100
-Types and persistence in database programming languages	|	0.0093
-Efficiently Publishing Relational Data as XML Documents	|	0.0088
-Semantic data models	|	0.0086
-An Introduction to Database Systems	|	0.0079
-The Theory of Relational Databases	|	0.0077
-Object identity	|	0.0057
-Extending the database relational model to capture more meaning	|	0.0054
-Database description with SDM: a semantic database model	|	0.0052
-Logic and Databases: A Deductive Approach	|	0.0047
-Database abstractions: aggregation and generalization	|	0.0043
-Relational Completeness of Data Base Sublanguages	|	0.0043
-Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.0040
-Optimal implementation of conjunctive queries in relational data bases	|	0.0036
+A Relational Model for Large Shared Data Banks	|	0.2143
+Dependency Structures of Data Base Relationships	|	0.2043
+Synthesizing third normal form relations from functional dependencies	|	0.1981
+Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.1589
+Further Normalization of the Data Base Relational Model	|	0.1344
+Algorithms for Acyclic Database Schemes	|	0.0952
+Testing implications of data dependencies	|	0.0952
+Computational problems related to the design of normal form relational schemas	|	0.0571
+SEQUEL: A structured English query language	|	0.0556
+Modeling Multidimensional Databases	|	0.0333
+Database Security	|	0.0333
+On the Desirability of Acyclic Database Schemes	|	0.0333
+Update semantics of relational views	|	0.0333
+Incomplete Information in Relational Databases	|	0.0333
+A logical design methodology for relational databases using the extended entity-relationship model	|	0.0283
+Remarks on the algebra of non first normal form relations	|	0.0278
+F-Logic: A Higher-Order language for Reasoning about Objects, Inheritance, and Scheme	|	0.0278
+Computable Queries for Relational Data Bases	|	0.0196
+Query By Example	|	0.0143
+On optimizing an SQL-like nested query	|	0.0143
+Universality of data retrieval languages	|	0.0108
+Database Description with SDM: A Semantic Database Model	|	0.0108
+Efficiently Publishing Relational Data as XML Documents	|	0.0094
+Semantic data models	|	0.0089
+An Introduction to Database Systems	|	0.0083
+The Theory of Relational Databases	|	0.0078
+A language facility for designing database-intensive applications	|	0.0074
+Object identity	|	0.0060
+Extending the database relational model to capture more meaning	|	0.0055
+Database description with SDM: a semantic database model	|	0.0054
+The notions of consistency and predicate locks in a database system	|	0.0049
+Logic and Databases: A Deductive Approach	|	0.0048
+Database abstractions: aggregation and generalization	|	0.0044
+Relational Completeness of Data Base Sublanguages	|	0.0044
+Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.0041
+Optimal implementation of conjunctive queries in relational data bases	|	0.0037
+Types and persistence in database programming languages	|	0.0027
 A comparative analysis of methodologies for database schema integration	|	0.0027
 Foundations of Databases	|	0.0017
 Principles of Database and Knowledge-Base Systems, Volume II	|	0.0014

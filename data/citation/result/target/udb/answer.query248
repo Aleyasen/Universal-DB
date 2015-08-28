@@ -2,10 +2,10 @@ DBXplorer: A System for Keyword-Based Search over Relational Databases	|	0.2549
 Consistent query answers in inconsistent databases	|	0.2456
 Protecting Respondents' Identities in Microdata Release	|	0.2344
 Disjunctive datalog	|	0.1754
-Join processing in relational databases	|	0.1479
+Join processing in relational databases	|	0.1560
 Complexity of answering queries using materialized views	|	0.1453
 Knowledge Discovery in Databases: An Attribute-Oriented Approach	|	0.1395
-Optimizing Queries with Materialized Views	|	0.1126
+Optimizing Queries with Materialized Views	|	0.1179
 Principles of database and knowledge-base systems	|	0.0439
 The complexity of relational query languages (Extended Abstract)	|	0.0278
 The Object-Oriented Database System Manifesto	|	0.0270
@@ -30,40 +30,40 @@ Algorithms for Mining Distance-Based Outliers in Large Datasets	|	0.0139
 Answering Queries Using Templates with Binding Patterns	|	0.0139
 XRANK: ranked keyword search over XML documents	|	0.0139
 Data-Driven Discovery of Quantitative Rules in Relational Databases	|	0.0139
+Piazza: data management infrastructure for semantic web applications	|	0.0128
 A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.0123
 Using Semi-Joins to Solve Relational Queries	|	0.0123
-Piazza: data management infrastructure for semantic web applications	|	0.0117
 Efficient Data Mining for Path Traversal Patterns	|	0.0110
 Efficient Query Evaluation on Probabilistic Databases	|	0.0110
 Extended algebra and calculus for nested relational databases	|	0.0110
 Maintaining Views Incrementally	|	0.0098
 Logical Foundations of Object-Oriented and Frame-Based Languages	|	0.0098
+Finding interesting rules from large sets of discovered association rules	|	0.0098
 l-Diversity: Privacy Beyond k-Anonymity	|	0.0098
 Incognito: efficient full-domain K-anonymity	|	0.0098
 An overview of data warehousing and OLAP technology	|	0.0097
-Finding interesting rules from large sets of discovered association rules	|	0.0088
 Data Model and Query Evaluation in Global Information Systems	|	0.0088
-Data integration: a theoretical perspective	|	0.0077
+Data integration: a theoretical perspective	|	0.0083
+Schema Mediation in Peer Data Management Systems	|	0.0071
+Join indices	|	0.0071
 Optimal implementation of conjunctive queries in relational data bases	|	0.0069
-Schema Mediation in Peer Data Management Systems	|	0.0064
-Join indices	|	0.0064
 Parallel Database Systems: The Future of High Performance Database Processing1	|	0.0064
 Database Mining: A Performance Perspective	|	0.0064
 Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.0058
 Database techniques for the World-Wide Web: a survey	|	0.0048
 Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0048
 Query Caching and Optimization in Distributed Mediator Systems	|	0.0041
+An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.0041
 Relational Completeness of Data Base Sublanguages	|	0.0041
-An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.0035
 Answering queries using views: A survey	|	0.0032
+An Effective Hash Based Algorithm for Mining Association Rules	|	0.0026
 Extending the database relational model to capture more meaning	|	0.0026
+Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0024
 The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0024
-An Effective Hash Based Algorithm for Mining Association Rules	|	0.0023
 Logic and Databases: A Deductive Approach	|	0.0023
 Fast Algorithms for Mining Association Rules in Large Databases	|	0.0023
 Access path selection in a relational database management system	|	0.0022
-Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0021
 The Theory of Relational Databases	|	0.0019
 Principles of Database and Knowledge-Base Systems, Volume II	|	0.0018
-Fast Algorithms for Mining Association Rules	|	0.0009
+Fast Algorithms for Mining Association Rules	|	0.0010
 Foundations of Databases	|	0.0008

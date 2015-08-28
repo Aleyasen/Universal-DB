@@ -13,7 +13,7 @@ Efficient locking for concurrent operations on B-trees	|	0.0145
 Optimal Multi-Step k-Nearest Neighbor Search	|	0.0128
 Locally Adaptive Dimensionality Reduction for Indexing Large Time Series Databases	|	0.0123
 Generalized Search Trees for Database Systems	|	0.0106
-A cost model for nearest neighbor search in high-dimensional data space	|	0.0093
+A cost model for nearest neighbor search in high-dimensional data space	|	0.0106
 Organization and Maintenance of Large Ordered Indexes	|	0.0093
 The Pyramid-Technique: Towards Breaking the Curse of Dimensionality	|	0.0093
 The Ubiquitous B-Tree	|	0.0085
@@ -33,6 +33,6 @@ Organization and Maintenance of Large Ordered Indices	|	0.0043
 Searching in high-dimensional spaces: Index structures for improving the performance of multimedia databases	|	0.0038
 A Quantitative Analysis and Performance Study for Similarity-Search Methods in High-Dimensional Spaces	|	0.0036
 The Grid File: An Adaptable, Symmetric Multikey File Structure	|	0.0030
+Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0026
 The X-tree : An Index Structure for High-Dimensional Data	|	0.0026
-Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0023
-The R*-tree: an efficient and robust access method for points and rectangles	|	0.0012
+The R*-tree: an efficient and robust access method for points and rectangles	|	0.0013

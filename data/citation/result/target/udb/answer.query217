@@ -1,60 +1,60 @@
-Optimal aggregation algorithms for middleware	|	0.6061
-Optimal Aggregation Algorithms for Middleware	|	0.3243
-Distributed top-k monitoring	|	0.1641
-Combining Fuzzy Information from Multiple Systems	|	0.1200
-Eddies: Continuously Adaptive Query Processing	|	0.1020
-Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0825
-InfoSleuth: agent-based semantic integration of information in open and dynamic environments	|	0.0312
-Adaptive filters for continuous queries over distributed data streams	|	0.0294
-What's hot and what's not: tracking most frequent items dynamically	|	0.0270
-Principles of distributed database systems	|	0.0270
-The cougar approach to in-network query processing in sensor networks	|	0.0200
-Semantic integration of semistructured and structured data sources	|	0.0200
-Towards Sensor Database Systems	|	0.0200
-Towards Heterogeneous Multimedia Information Systems: The Garlic Approach	|	0.0200
-Query Processing, Resource Management, and Approximation in a Data Stream Management System	|	0.0200
-Finding Frequent Items in Data Streams	|	0.0196
-XRANK: ranked keyword search over XML documents	|	0.0172
-Don't Scrap It, Wrap It! A Wrapper Architecture for Legacy Data Sources	|	0.0169
-Optimizing Queries Across Diverse Data Sources	|	0.0156
-Retrieving and Integrating Data from Multiple Information Sources	|	0.0149
-W3QS: A Query System for the World-Wide Web	|	0.0130
-Efficient Query Evaluation on Probabilistic Databases	|	0.0130
-Extracting structured data from Web pages	|	0.0114
-Querying the Internet with PIER	|	0.0114
-Data Model and Query Evaluation in Global Information Systems	|	0.0100
-The Design of the Borealis Stream Processing Engine	|	0.0099
-Data Management for Peer-to-Peer Computing : A Vision	|	0.0088
-Answering recursive queries using views	|	0.0088
-Aurora: a new model and architecture for data stream management	|	0.0088
-Query Caching and Optimization in Distributed Mediator Systems	|	0.0086
-An Adaptive Query Execution System for Data Integration	|	0.0079
-Continuously adaptive continuous queries over streams	|	0.0079
-Schema Mediation in Peer Data Management Systems	|	0.0071
-Parallel Database Systems: The Future of High Performance Database Processing1	|	0.0070
-Interoperability of multiple autonomous databases	|	0.0070
-Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.0070
-Piazza: data management infrastructure for semantic web applications	|	0.0063
-Catching the boat with Strudel: experiences with a Web Site management system	|	0.0063
-TinyDB: an acquisitional query processing system for sensor networks	|	0.0063
-Complexity of answering queries using materialized views	|	0.0063
-Monitoring Streams - A New Class of Data Management Applications	|	0.0062
-Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.0057
-New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.0057
-Approximate Frequency Counts over Data Streams	|	0.0057
-Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.0052
-Mediators in the Architecture of Future Information Systems	|	0.0047
-The design of an acquisitional query processor for sensor networks	|	0.0047
-The Gamma Database Machine Project	|	0.0047
+Optimal aggregation algorithms for middleware	|	0.3810
+Optimal Aggregation Algorithms for Middleware	|	0.3667
+Distributed top-k monitoring	|	0.1792
+Combining Fuzzy Information from Multiple Systems	|	0.1111
+Eddies: Continuously Adaptive Query Processing	|	0.1057
+Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0814
+InfoSleuth: agent-based semantic integration of information in open and dynamic environments	|	0.0400
+What's hot and what's not: tracking most frequent items dynamically	|	0.0333
+Principles of distributed database systems	|	0.0333
+Finding Frequent Items in Data Streams	|	0.0278
+The cougar approach to in-network query processing in sensor networks	|	0.0233
+Semantic integration of semistructured and structured data sources	|	0.0233
+Towards Sensor Database Systems	|	0.0233
+Don't Scrap It, Wrap It! A Wrapper Architecture for Legacy Data Sources	|	0.0233
+Query Processing, Resource Management, and Approximation in a Data Stream Management System	|	0.0233
+XRANK: ranked keyword search over XML documents	|	0.0196
+Adaptive filters for continuous queries over distributed data streams	|	0.0196
+Optimizing Queries Across Diverse Data Sources	|	0.0189
+Retrieving and Integrating Data from Multiple Information Sources	|	0.0167
+W3QS: A Query System for the World-Wide Web	|	0.0143
+Efficient Query Evaluation on Probabilistic Databases	|	0.0143
+Extracting structured data from Web pages	|	0.0123
+Querying the Internet with PIER	|	0.0123
+The Design of the Borealis Stream Processing Engine	|	0.0123
+Data Model and Query Evaluation in Global Information Systems	|	0.0108
+Towards Heterogeneous Multimedia Information Systems: The Garlic Approach	|	0.0108
+Data Management for Peer-to-Peer Computing : A Vision	|	0.0094
+Answering recursive queries using views	|	0.0094
+Aurora: a new model and architecture for data stream management	|	0.0094
+Continuously adaptive continuous queries over streams	|	0.0089
+Query Caching and Optimization in Distributed Mediator Systems	|	0.0089
+Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.0083
+Schema Mediation in Peer Data Management Systems	|	0.0083
+An Adaptive Query Execution System for Data Integration	|	0.0081
+Parallel Database Systems: The Future of High Performance Database Processing1	|	0.0074
+Interoperability of multiple autonomous databases	|	0.0074
+Piazza: data management infrastructure for semantic web applications	|	0.0074
+Approximate Frequency Counts over Data Streams	|	0.0066
+Catching the boat with Strudel: experiences with a Web Site management system	|	0.0066
+TinyDB: an acquisitional query processing system for sensor networks	|	0.0066
+Complexity of answering queries using materialized views	|	0.0066
+Monitoring Streams - A New Class of Data Management Applications	|	0.0063
+Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.0060
+New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.0060
+Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.0054
+The Gamma Database Machine Project	|	0.0054
+Mediators in the Architecture of Future Information Systems	|	0.0049
+The design of an acquisitional query processor for sensor networks	|	0.0049
+Optimizing Queries with Materialized Views	|	0.0044
+Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.0044
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0044
 Models and issues in data stream systems	|	0.0044
-Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.0043
-Issues in data stream management	|	0.0043
-Optimizing Queries with Materialized Views	|	0.0040
-Continuous queries over data streams	|	0.0040
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0039
-NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0036
-Optimal implementation of conjunctive queries in relational data bases	|	0.0036
+Issues in data stream management	|	0.0044
+Continuous queries over data streams	|	0.0041
+NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0037
+Optimal implementation of conjunctive queries in relational data bases	|	0.0037
 The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0034
-Data integration: a theoretical perspective	|	0.0027
+Data integration: a theoretical perspective	|	0.0029
 Database techniques for the World-Wide Web: a survey	|	0.0025
 Answering queries using views: A survey	|	0.0016

@@ -12,14 +12,14 @@ Query Processing, Approximation, and Resource Management in a Data Stream Manage
 Approximate Aggregation Techniques for Sensor Databases	|	0.0263
 The Postgres Next Generation Database Management System	|	0.0227
 Super-peer-based routing and clustering strategies for RDF-based peer-to-peer networks	|	0.0182
-Approximate Query Processing Using Wavelets	|	0.0153
-The Design of the Borealis Stream Processing Engine	|	0.0112
+Approximate Query Processing Using Wavelets	|	0.0174
+The Design of the Borealis Stream Processing Engine	|	0.0132
+Continuously adaptive continuous queries over streams	|	0.0091
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0091
+Eddies: Continuously Adaptive Query Processing	|	0.0083
 An Adaptive Query Execution System for Data Integration	|	0.0083
-Continuously adaptive continuous queries over streams	|	0.0083
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0083
-Eddies: Continuously Adaptive Query Processing	|	0.0076
-Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0076
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0083
 NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0076
 Monitoring Streams - A New Class of Data Management Applications	|	0.0065
-The Gamma Database Machine Project	|	0.0050
+The Gamma Database Machine Project	|	0.0055
 Issues in data stream management	|	0.0045

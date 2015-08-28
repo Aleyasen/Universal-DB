@@ -7,23 +7,23 @@ Query Reformulation for Dynamic Information Integration	|	0.1870
 Semantic and Schematic Similarities Between Database Objects: A Context-Based Approach	|	0.1789
 Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0898
 InfoSleuth: agent-based semantic integration of information in open and dynamic environments	|	0.0727
-Query Optimization in Database Systems	|	0.0671
-Principles of database systems	|	0.0351
+Query Optimization in Database Systems	|	0.0693
 Classifying Schematic and Data Heterogeneity in Multidatabase Systems	|	0.0303
 Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases	|	0.0300
+Don't Scrap It, Wrap It! A Wrapper Architecture for Legacy Data Sources	|	0.0274
 WordNet: a lexical database for English	|	0.0274
-Don't Scrap It, Wrap It! A Wrapper Architecture for Legacy Data Sources	|	0.0244
+Principles of database systems	|	0.0208
 Logic-based approach to semantic query optimization	|	0.0196
 Implementation of integrity constraints and views by query modification	|	0.0196
 XIRQL: a query language for information retrieval in XML documents	|	0.0182
 Approximating block accesses in database organizations	|	0.0182
 Extracting structured data from Web pages	|	0.0180
+Evaluating Top-k Queries over Web-Accessible Databases	|	0.0167
 On the decidability of query containment under constraints	|	0.0167
 Randomized Algorithms for Optimizing Large Join Queries	|	0.0167
 Pnnc:ples of database systems	|	0.0167
 Organization and maintenance of large ordered indexes	|	0.0167
 GAMMA - A High Performance Dataflow Database Machine	|	0.0152
-Evaluating Top-k Queries over Web-Accessible Databases	|	0.0149
 A Theory of Attribute Equivalence in Databases with Application to Schema Integration	|	0.0137
 Starburst Mid-Flight: As the Dust Clears	|	0.0137
 A probabilistic relational algebra for the integration of information retrieval and database systems	|	0.0137
@@ -51,39 +51,39 @@ Wrapper induction: Efficiency and expressiveness	|	0.0081
 Disjunctive datalog	|	0.0081
 View Definition and Generalization for Database Integration in a Multidatabase System	|	0.0081
 Principles of database and knowledge-base systems	|	0.0081
+Optimizing Queries with Materialized Views	|	0.0078
 Data Management for Peer-to-Peer Computing : A Vision	|	0.0074
+Optimizing Queries Across Diverse Data Sources	|	0.0074
 Answering recursive queries using views	|	0.0074
 Principles of Database Systems, 2nd Edition	|	0.0074
-Optimizing Queries with Materialized Views	|	0.0073
 An Adaptive Query Execution System for Data Integration	|	0.0072
 Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0070
 Optimal implementation of conjunctive queries in relational data bases	|	0.0067
+Schema Mediation in Peer Data Management Systems	|	0.0067
 Organization and Maintenance of Large Ordered Indexes	|	0.0067
 Concurrency Control in Distributed Database Systems	|	0.0067
-Optimizing Queries Across Diverse Data Sources	|	0.0066
-Schema Mediation in Peer Data Management Systems	|	0.0061
 Querying Object-Oriented Databases	|	0.0061
-Piazza: data management infrastructure for semantic web applications	|	0.0055
+Piazza: data management infrastructure for semantic web applications	|	0.0061
 Catching the boat with Strudel: experiences with a Web Site management system	|	0.0055
 Semistructured data	|	0.0055
 Complexity of answering queries using materialized views	|	0.0055
+Data integration: a theoretical perspective	|	0.0054
 Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.0051
-Data integration: a theoretical perspective	|	0.0050
 Database techniques for the World-Wide Web: a survey	|	0.0047
 Answering queries using views: A survey	|	0.0047
 Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.0046
+The Gamma Database Machine Project	|	0.0046
 The Grid File: An Adaptable, Symmetric Multi-Key File Structure	|	0.0043
-The Gamma Database Machine Project	|	0.0042
+The notions of consistency and predicate locks in a database system	|	0.0043
 Query Caching and Optimization in Distributed Mediator Systems	|	0.0039
 Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.0039
 Semantic data models	|	0.0039
 Relational Completeness of Data Base Sublanguages	|	0.0039
-The notions of consistency and predicate locks in a database system	|	0.0039
 Organization and Maintenance of Large Ordered Indices	|	0.0036
 The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0031
 The Grid File: An Adaptable, Symmetric Multikey File Structure	|	0.0027
+Types and persistence in database programming languages	|	0.0025
 A survey of approaches to automatic schema matching	|	0.0024
-Types and persistence in database programming languages	|	0.0022
 Access path selection in a relational database management system	|	0.0022
 The Theory of Relational Databases	|	0.0018
 Foundations of Databases	|	0.0004

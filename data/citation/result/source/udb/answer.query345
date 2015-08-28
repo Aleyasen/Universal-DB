@@ -2,11 +2,11 @@ Pnnc:ples of database systems	|	0.3667
 Principles of Database Systems, 2nd Edition	|	0.1792
 Multiple-query optimization	|	0.1310
 Logic-based approach to semantic query optimization	|	0.0952
-Principles of database systems	|	0.0741
-Query Optimization in Database Systems	|	0.0687
+Query Optimization in Database Systems	|	0.0712
 The Volcano Optimizer Generator: Extensibility and Efficient Search	|	0.0625
 DISCOVER: Keyword Search in Relational Databases	|	0.0588
 GAMMA - A High Performance Dataflow Database Machine	|	0.0556
+Principles of database systems	|	0.0556
 Access path selection in a relational database management system	|	0.0537
 Accurate Estimation of the Number of Tuples Satisfying a Condition	|	0.0476
 An introduction to data base systems	|	0.0476
@@ -18,55 +18,55 @@ A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Mu
 Magic Sets and Other Strange Ways to Implement Logic Programs	|	0.0333
 The EXODUS Optimizer Generator	|	0.0333
 Probabilistic Counting Algorithms for Data Base Applications	|	0.0333
+A homogeneous relational model and query languages for temporal databases	|	0.0333
 Organization and maintenance of large ordered indexes	|	0.0333
 On optimizing an SQL-like nested query	|	0.0286
 Extended algebra and calculus for nested relational databases	|	0.0286
-A homogeneous relational model and query languages for temporal databases	|	0.0270
 Mariposa: A Wide-Area Distributed Database System	|	0.0233
 Starburst Mid-Flight: As the Dust Clears	|	0.0233
 A probabilistic relational algebra for the integration of information retrieval and database systems	|	0.0233
 Query Processing, Resource Management, and Approximation in a Data Stream Management System	|	0.0233
 Selectivity Estimation Without the Attribute Value Independence Assumption	|	0.0196
+The temporal query language TQuel	|	0.0196
 C-Store: A Column-oriented DBMS	|	0.0196
-The temporal query language TQuel	|	0.0168
 Improved Histograms for Selectivity Estimation of Range Predicates	|	0.0167
 Retrieving and Integrating Data from Multiple Information Sources	|	0.0167
 Organization and Maintenance of Large Ordered Indexes	|	0.0167
 Using Semi-Joins to Solve Relational Queries	|	0.0167
 Query By Example	|	0.0143
 Data Structures for Range Searching	|	0.0143
+Wavelet-Based Histograms for Selectivity Estimation	|	0.0123
 Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.0123
 Parallel database systems: the future of high performance database systems	|	0.0123
+The Gamma Database Machine Project	|	0.0108
 Query Reformulation for Dynamic Information Integration	|	0.0108
 The Design of Postgres	|	0.0098
-The Gamma Database Machine Project	|	0.0097
+Optimizing Queries Across Diverse Data Sources	|	0.0094
+Continuously adaptive continuous queries over streams	|	0.0089
+Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0083
 An Introduction to Database Systems	|	0.0083
 Concurrency Control in Distributed Database Systems	|	0.0083
-Optimizing Queries Across Diverse Data Sources	|	0.0083
-Wavelet-Based Histograms for Selectivity Estimation	|	0.0081
+Join processing in relational databases	|	0.0083
 Organization and Maintenance of Large Ordered Indices	|	0.0081
-Continuously adaptive continuous queries over streams	|	0.0081
 System R: A Relational Approach to Data Base Management	|	0.0075
-Join processing in relational databases	|	0.0074
 Parallel Database Systems: The Future of High Performance Database Processing1	|	0.0074
 Interoperability of multiple autonomous databases	|	0.0074
-Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0074
 Logic and Databases: A Deductive Approach	|	0.0071
+Types and persistence in database programming languages	|	0.0055
 Query Optimization for XML	|	0.0054
 System R: relational approach to database management	|	0.0051
 The Grid File: An Adaptable, Symmetric Multi-Key File Structure	|	0.0049
-Types and persistence in database programming languages	|	0.0047
+The notions of consistency and predicate locks in a database system	|	0.0049
+Online Aggregation	|	0.0044
 Query Caching and Optimization in Distributed Mediator Systems	|	0.0044
+Optimizing Queries with Materialized Views	|	0.0044
 Distance browsing in spatial databases	|	0.0044
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0044
 Relational Completeness of Data Base Sublanguages	|	0.0044
-The notions of consistency and predicate locks in a database system	|	0.0044
-Optimizing Queries with Materialized Views	|	0.0041
 Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.0041
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0041
 Continuous queries over data streams	|	0.0041
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0040
 The Theory of Relational Databases	|	0.0039
-Online Aggregation	|	0.0037
-Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0037
 NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0037
 Optimal implementation of conjunctive queries in relational data bases	|	0.0037
 Monitoring Streams - A New Class of Data Management Applications	|	0.0032

@@ -1,31 +1,30 @@
+GALILEO: a strongly-typed, interactive conceptual language	|	0.1875
 The functional data model and the data language DAPLEX	|	0.1834
-GALILEO: a strongly-typed, interactive conceptual language	|	0.1783
-A federated architecture for information management	|	0.1716
-IFO: a formal semantic database model	|	0.1546
+A federated architecture for information management	|	0.1789
+IFO: a formal semantic database model	|	0.1616
 The entity-relationship model---toward a unified view of data	|	0.1365
 Database abstractions: aggregation and generalization	|	0.1354
 Further Normalization of the Data Base Relational Model	|	0.1325
 Semantic data models	|	0.1285
+Types and persistence in database programming languages	|	0.1002
 A comparative analysis of methodologies for database schema integration	|	0.1002
 Extending the database relational model to capture more meaning	|	0.1002
 Temporal and Real-Time Databases: A Survey	|	0.0989
-Types and persistence in database programming languages	|	0.0929
 Database description with SDM: a semantic database model	|	0.0482
+A language facility for designing database-intensive applications	|	0.0354
 The entity-relationship model: toward a unified view of data	|	0.0351
-An Approach to Persistent Programming	|	0.0348
-A language facility for designing database-intensive applications	|	0.0326
 Data Models	|	0.0323
+An Approach to Persistent Programming	|	0.0283
 View Definition and Generalization for Database Integration in a Multidatabase System	|	0.0256
 The functional data model and the data languages DAPLEX	|	0.0242
 Making Smalltalk a Database System	|	0.0237
-Development of an object-oriented DBMS	|	0.0193
+Development of an object-oriented DBMS	|	0.0208
 A Theory of Attribute Equivalence in Databases with Application to Schema Integration	|	0.0189
-Nested Transactions: An Approach to Reliable Distributed Computing	|	0.0169
-The temporal query language TQuel	|	0.0163
-A logical design methodology for relational databases using the extended entity-relationship model	|	0.0163
+A logical design methodology for relational databases using the extended entity-relationship model	|	0.0178
+The temporal query language TQuel	|	0.0175
+A Data Model and Query Language for EXODUS	|	0.0164
 Telos: representing knowledge about information systems	|	0.0163
 A Taxonomy of Time in Databases	|	0.0163
-A Data Model and Query Language for EXODUS	|	0.0152
 Query By Example	|	0.0150
 Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.0140
 Object identity	|	0.0130
@@ -37,50 +36,51 @@ Implementation of integrity constraints and views by query modification	|	0.0119
 Principles of Database Systems, 2nd Edition	|	0.0118
 Synthesizing third normal form relations from functional dependencies	|	0.0118
 On closed world databases	|	0.0114
+Nested Transactions: An Approach to Reliable Distributed Computing	|	0.0114
 Design and natural science research on information technology	|	0.0114
 An Introduction to Database Systems	|	0.0109
 Query-by-Example: A Data Base Language	|	0.0109
 Real-Time Databases	|	0.0108
 Distributed Databases: Principles and Systems	|	0.0108
 A foundation for representing and querying moving objects	|	0.0108
-Ontology Evolution: Not the Same as Schema Evolution	|	0.0102
+The theory of joins in relational databases	|	0.0108
+Ontology Evolution: Not the Same as Schema Evolution	|	0.0108
+Incomplete Information in Relational Databases	|	0.0108
 On Closed World Data Bases	|	0.0101
 Scheduling Real-time Transactions: a Performance Evaluation	|	0.0101
 Scheduling real-time transactions: a performance evaluation	|	0.0101
 Classifying Schematic and Data Heterogeneity in Multidatabase Systems	|	0.0101
-The theory of joins in relational databases	|	0.0100
-Incomplete Information in Relational Databases	|	0.0100
 Understanding the New SQL: A Complete Guide	|	0.0088
 Determining Semantic Similarity among Entity Classes from Different Ontologies	|	0.0088
+Data model issues for object-oriented applications	|	0.0088
 The Theory of Relational Databases	|	0.0087
 Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0083
-Data model issues for object-oriented applications	|	0.0082
 On Optimistic Methods for Concurrency Control	|	0.0081
 The EXODUS Optimizer Generator	|	0.0081
+Active database systems	|	0.0081
 The Implementation of Postgres	|	0.0075
 Data Cleaning: Problems and Current Approaches	|	0.0075
 Principles of transaction-oriented database recovery	|	0.0075
 Computational problems related to the design of normal form relational schemas	|	0.0075
 On optimizing an SQL-like nested query	|	0.0075
 Extended algebra and calculus for nested relational databases	|	0.0075
-Active database systems	|	0.0075
+A Relational Model for Large Shared Data Banks	|	0.0075
 Relational Completeness of Data Base Sublanguages	|	0.0069
-A Relational Model for Large Shared Data Banks	|	0.0067
 Semantic and Schematic Similarities Between Database Objects: A Context-Based Approach	|	0.0064
+Universality of data retrieval languages	|	0.0064
 System R: A Relational Approach to Data Base Management	|	0.0060
 Aurora: a new model and architecture for data stream management	|	0.0059
 The CQL continuous query language: semantic foundations and query execution	|	0.0059
-Universality of data retrieval languages	|	0.0059
-Join processing in relational databases	|	0.0051
-Join indices	|	0.0051
+Join processing in relational databases	|	0.0055
+Join indices	|	0.0055
 Interoperability of multiple autonomous databases	|	0.0051
 Notes on Data Base Operating Systems	|	0.0047
 System R: relational approach to database management	|	0.0044
 Logic and Databases: A Deductive Approach	|	0.0041
 A Survey of Schema-Based Matching Approaches	|	0.0040
 The Design of Postgres	|	0.0037
+The notions of consistency and predicate locks in a database system	|	0.0037
 Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.0035
-The notions of consistency and predicate locks in a database system	|	0.0035
 Optimal implementation of conjunctive queries in relational data bases	|	0.0030
 Foundations of Databases	|	0.0029
 The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0028
@@ -90,5 +90,5 @@ A survey of approaches to automatic schema matching	|	0.0022
 Query evaluation techniques for large databases	|	0.0019
 Concurrency Control and Recovery in Database Systems	|	0.0017
 Fast Subsequence Matching in Time-Series Databases	|	0.0017
-Query Optimization in Database Systems	|	0.0015
+Query Optimization in Database Systems	|	0.0016
 Principles of Database and Knowledge-Base Systems, Volume II	|	0.0014

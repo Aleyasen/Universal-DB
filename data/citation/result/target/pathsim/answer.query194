@@ -1,22 +1,24 @@
-An Information-Theoretic Definition of Similarity	|	0.4615
-Using Information Content to Evaluate Semantic Similarity in a Taxonomy	|	0.4000
-An Approach for Measuring Semantic Similarity between Words Using Multiple Information Sources	|	0.4000
-Verb Semantics and Lexical Selection	|	0.2857
-A Survey of Schema-Based Matching Approaches	|	0.2500
-OntoSeek: Content-Based Access to the Web	|	0.2222
-Learning to match ontologies on the Semantic Web	|	0.2000
-Simlarity Search for Web Services	|	0.1818
-Classifying Schematic and Data Heterogeneity in Multidatabase Systems	|	0.1667
-Translating Web Data	|	0.1538
-WordNet: a lexical database for English	|	0.1538
-Formal Ontology and Information Systems	|	0.1429
-Determining Semantic Similarity among Entity Classes from Different Ontologies	|	0.1429
-Data Cleaning: Problems and Current Approaches	|	0.1250
-A survey of approaches to automatic schema matching	|	0.1212
-Generic Schema Matching with Cupid	|	0.1176
-OBSERVER: An Approach for Query Processing in Global Information Systems Based on Interoperation Across Pre-Existing Ontologies	|	0.1176
-Learning to map between ontologies on the semantic web	|	0.0952
-Object identity	|	0.0870
-Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.0833
-Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.0769
-Database abstractions: aggregation and generalization	|	0.0769
+Using Information Content to Evaluate Semantic Similarity in a Taxonomy	|	0.3871
+An Approach for Measuring Semantic Similarity between Words Using Multiple Information Sources	|	0.3871
+Measuring Similarity between Ontologies	|	0.3333
+An Information-Theoretic Definition of Similarity	|	0.3265
+Determining Semantic Similarity among Entity Classes from Different Ontologies	|	0.2632
+COMA - A System for Flexible Combination of Schema Matching Approaches	|	0.2105
+Verb Semantics and Lexical Selection	|	0.0455
+OntoSeek: Content-Based Access to the Web	|	0.0370
+Simlarity Search for Web Services	|	0.0278
+Classifying Schematic and Data Heterogeneity in Multidatabase Systems	|	0.0238
+Translating Web Data	|	0.0204
+WordNet: a lexical database for English	|	0.0204
+Formal Ontology and Information Systems	|	0.0175
+Learning to match ontologies on the Semantic Web	|	0.0159
+A Survey of Schema-Based Matching Approaches	|	0.0156
+Data Cleaning: Problems and Current Approaches	|	0.0132
+Generic Schema Matching with Cupid	|	0.0115
+OBSERVER: An Approach for Query Processing in Global Information Systems Based on Interoperation Across Pre-Existing Ontologies	|	0.0115
+Learning to map between ontologies on the semantic web	|	0.0071
+Object identity	|	0.0057
+Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.0052
+A survey of approaches to automatic schema matching	|	0.0050
+Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.0043
+Database abstractions: aggregation and generalization	|	0.0043

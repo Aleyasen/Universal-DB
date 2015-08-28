@@ -1,105 +1,98 @@
-Mariposa: A Wide-Area Distributed Database System	|	0.1887
-The Implementation of Postgres	|	0.1880
-Composite Event Specification in Active Databases: Model & Implementation	|	0.1828
-Benchmarking Database Systems A Systematic Approach	|	0.1736
-Temporal Databases	|	0.1728
-Active database systems	|	0.1642
-The Architecture Of An Active Data Base Management System	|	0.1475
-A Data Model and Query Language for EXODUS	|	0.1418
-TinyDB: an acquisitional query processing system for sensor networks	|	0.1308
-The Design of Postgres	|	0.1194
-The design of an acquisitional query processor for sensor networks	|	0.1157
-Lore: a database management system for semistructured data	|	0.0884
-Nested Transactions: An Approach to Reliable Distributed Computing	|	0.0339
-Composite Events for Active Databases: Semantics, Contexts and Detection	|	0.0323
-The state of the art in distributed query processing	|	0.0227
-Ode as an Active Database: Constraints and Triggers	|	0.0208
-The HiPAC project: combining active databases and timing constraints	|	0.0203
-Routing Indices For Peer-to-Peer Systems	|	0.0189
-The cougar approach to in-network query processing in sensor networks	|	0.0189
-Towards Sensor Database Systems	|	0.0189
-Starburst Mid-Flight: As the Dust Clears	|	0.0189
-Making Smalltalk a Database System	|	0.0178
-Operating system support for database management	|	0.0150
-Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.0139
-Set-Oriented Production Rules in Relational Database Systems	|	0.0123
-The TSQL2 Temporal Query Language	|	0.0123
-The Essential Distributed Objects Survival Guide	|	0.0123
-The Object Database Standard: ODMG-93	|	0.0123
-The design and implementation of INGRES	|	0.0123
-The oo7 Benchmark	|	0.0119
-Deriving Production Rules for Incremental View Maintenance	|	0.0119
-Logic Programming and Databases	|	0.0114
-Object and File Management in the EXODUS Extensible Database System	|	0.0114
-The relational model with relation-valued attributes	|	0.0108
-Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0104
-GAMMA - A High Performance Dataflow Database Machine	|	0.0101
-Deriving Production Rules for Constraint Maintainance	|	0.0101
-Model-Driven Data Acquisition in Sensor Networks	|	0.0101
-Semantics and Implementation of Schema Evolution in Object-Oriented Databases	|	0.0101
-Iris: An Object-Oriented Database Management System	|	0.0101
-Approximate Query Processing Using Wavelets	|	0.0101
-An Adaptive Query Execution System for Data Integration	|	0.0097
-Approximate Aggregation Techniques for Sensor Databases	|	0.0094
-Querying the World Wide Web	|	0.0094
-Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0091
-NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0091
-From Semistructured Data to XML: Migrating the Lore Data Model and Query Language	|	0.0088
-Scalable Distributed Stream Processing	|	0.0088
-Understanding the New SQL: A Complete Guide	|	0.0088
-Concurrency control performance modeling: alternatives and implications	|	0.0088
-Data model issues for object-oriented applications	|	0.0082
-A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.0081
-The EXODUS Optimizer Generator	|	0.0081
-Monitoring Streams - A New Class of Data Management Applications	|	0.0079
-TIMBER: A native XML database	|	0.0075
-W3QS: A Query System for the World-Wide Web	|	0.0075
-Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases	|	0.0075
-Linear Hashing: A New Tool for File and Table Addressing	|	0.0075
-The Gamma Database Machine Project	|	0.0074
-Logical Foundations of Object-Oriented and Frame-Based Languages	|	0.0069
-Querying the Internet with PIER	|	0.0069
-Data Placement In Bubba	|	0.0069
-Structural Joins: A Primitive for Efficient XML Query Pattern Matching	|	0.0069
-Continuously adaptive continuous queries over streams	|	0.0065
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0065
-Development of an object-oriented DBMS	|	0.0064
-An Evaluation of Buffer Management Strategies for Relational Database Systems	|	0.0064
-Holistic twig joins: optimal XML pattern matching	|	0.0064
-The Design of the Borealis Stream Processing Engine	|	0.0064
-Eddies: Continuously Adaptive Query Processing	|	0.0061
-DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0060
-A Fast Index for Semistructured Data	|	0.0059
-Aurora: a new model and architecture for data stream management	|	0.0059
-An Introduction to Spatial Database Systems	|	0.0059
-Temporal and Real-Time Databases: A Survey	|	0.0056
-Query-by-Example: A Data Base Language	|	0.0055
-Join indices	|	0.0051
-From Structured Documents to Novel Query Facilities	|	0.0051
-Querying Object-Oriented Databases	|	0.0051
-Interoperability of multiple autonomous databases	|	0.0051
-IFO: a formal semantic database model	|	0.0047
-On Supporting Containment Queries in Relational Database Management Systems	|	0.0047
-Semistructured data	|	0.0047
-A language facility for designing database-intensive applications	|	0.0047
-Object identity	|	0.0043
-Efficient Processing of Spatial Joins Using R-Trees	|	0.0043
-Multiple-query optimization	|	0.0043
-Query Optimization for XML	|	0.0040
-The entity-relationship model---toward a unified view of data	|	0.0040
-Issues in data stream management	|	0.0035
-Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.0032
-A Query Language and Optimization Techniques for Unstructured Data	|	0.0030
-System R: A Relational Approach to Data Base Management	|	0.0030
-The functional data model and the data languages DAPLEX	|	0.0030
-Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0028
-Extending the database relational model to capture more meaning	|	0.0023
-The Lorel Query Language for Semistructured Data	|	0.0022
-The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0022
-System R: relational approach to database management	|	0.0022
-Access path selection in a relational database management system	|	0.0021
-Types and persistence in database programming languages	|	0.0021
-Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0017
-Foundations of Databases	|	0.0012
-Query evaluation techniques for large databases	|	0.0008
-Principles of Database and Knowledge-Base Systems, Volume II	|	0.0004
+Composite Events for Active Databases: Semantics, Contexts and Detection	|	0.3529
+The Implementation of Postgres	|	0.2727
+Ode as an Active Database: Constraints and Triggers	|	0.2609
+The state of the art in distributed query processing	|	0.2500
+Nested Transactions: An Approach to Reliable Distributed Computing	|	0.2500
+Making Smalltalk a Database System	|	0.2400
+The HiPAC project: combining active databases and timing constraints	|	0.2353
+Routing Indices For Peer-to-Peer Systems	|	0.2105
+The cougar approach to in-network query processing in sensor networks	|	0.2105
+Towards Sensor Database Systems	|	0.2105
+Starburst Mid-Flight: As the Dust Clears	|	0.2105
+Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.1875
+An Adaptive Query Execution System for Data Integration	|	0.1818
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.1818
+Operating system support for database management	|	0.1818
+NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.1765
+Benchmarking Database Systems A Systematic Approach	|	0.1739
+Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.1739
+Monitoring Streams - A New Class of Data Management Applications	|	0.1667
+Approximate Query Processing Using Wavelets	|	0.1538
+Set-Oriented Production Rules in Relational Database Systems	|	0.1429
+The TSQL2 Temporal Query Language	|	0.1429
+The Essential Distributed Objects Survival Guide	|	0.1429
+The Object Database Standard: ODMG-93	|	0.1429
+The design and implementation of INGRES	|	0.1429
+The oo7 Benchmark	|	0.1333
+The Gamma Database Machine Project	|	0.1333
+Deriving Production Rules for Incremental View Maintenance	|	0.1333
+Continuously adaptive continuous queries over streams	|	0.1250
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.1250
+Logic Programming and Databases	|	0.1250
+The relational model with relation-valued attributes	|	0.1250
+Object and File Management in the EXODUS Extensible Database System	|	0.1250
+Eddies: Continuously Adaptive Query Processing	|	0.1212
+Temporal and Real-Time Databases: A Survey	|	0.1143
+GAMMA - A High Performance Dataflow Database Machine	|	0.1111
+Deriving Production Rules for Constraint Maintainance	|	0.1111
+Model-Driven Data Acquisition in Sensor Networks	|	0.1111
+Semantics and Implementation of Schema Evolution in Object-Oriented Databases	|	0.1111
+Iris: An Object-Oriented Database Management System	|	0.1111
+Mariposa: A Wide-Area Distributed Database System	|	0.1053
+Approximate Aggregation Techniques for Sensor Databases	|	0.1053
+Querying the World Wide Web	|	0.1053
+From Semistructured Data to XML: Migrating the Lore Data Model and Query Language	|	0.1000
+Scalable Distributed Stream Processing	|	0.1000
+Understanding the New SQL: A Complete Guide	|	0.1000
+Concurrency control performance modeling: alternatives and implications	|	0.1000
+Data model issues for object-oriented applications	|	0.1000
+A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.0952
+The EXODUS Optimizer Generator	|	0.0952
+TIMBER: A native XML database	|	0.0909
+W3QS: A Query System for the World-Wide Web	|	0.0909
+Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases	|	0.0909
+Linear Hashing: A New Tool for File and Table Addressing	|	0.0909
+Logical Foundations of Object-Oriented and Frame-Based Languages	|	0.0870
+Development of an object-oriented DBMS	|	0.0870
+Querying the Internet with PIER	|	0.0870
+Data Placement In Bubba	|	0.0870
+Structural Joins: A Primitive for Efficient XML Query Pattern Matching	|	0.0870
+The Design of the Borealis Stream Processing Engine	|	0.0870
+An Evaluation of Buffer Management Strategies for Relational Database Systems	|	0.0833
+Holistic twig joins: optimal XML pattern matching	|	0.0833
+A Fast Index for Semistructured Data	|	0.0800
+Aurora: a new model and architecture for data stream management	|	0.0800
+An Introduction to Spatial Database Systems	|	0.0800
+A Data Model and Query Language for EXODUS	|	0.0769
+Join indices	|	0.0769
+Query-by-Example: A Data Base Language	|	0.0769
+Access path selection in a relational database management system	|	0.0755
+Foundations of Databases	|	0.0750
+From Structured Documents to Novel Query Facilities	|	0.0741
+Querying Object-Oriented Databases	|	0.0741
+Interoperability of multiple autonomous databases	|	0.0741
+IFO: a formal semantic database model	|	0.0741
+A language facility for designing database-intensive applications	|	0.0741
+On Supporting Containment Queries in Relational Database Management Systems	|	0.0714
+Semistructured data	|	0.0714
+Object identity	|	0.0690
+Efficient Processing of Spatial Joins Using R-Trees	|	0.0690
+Multiple-query optimization	|	0.0690
+Query Optimization for XML	|	0.0667
+The entity-relationship model---toward a unified view of data	|	0.0667
+The Design of Postgres	|	0.0645
+Issues in data stream management	|	0.0625
+Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.0606
+DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0606
+A Query Language and Optimization Techniques for Unstructured Data	|	0.0588
+System R: A Relational Approach to Data Base Management	|	0.0588
+The functional data model and the data languages DAPLEX	|	0.0588
+Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0571
+Types and persistence in database programming languages	|	0.0526
+Extending the database relational model to capture more meaning	|	0.0526
+The Lorel Query Language for Semistructured Data	|	0.0513
+The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0513
+System R: relational approach to database management	|	0.0513
+Query evaluation techniques for large databases	|	0.0482
+Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0455
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0233

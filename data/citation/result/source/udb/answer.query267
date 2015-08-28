@@ -13,9 +13,9 @@ Structural Joins: A Primitive for Efficient XML Query Pattern Matching	|	0.0360
 Holistic twig joins: optimal XML pattern matching	|	0.0325
 Answering XML Queries over Heterogeneous Data Sources	|	0.0274
 extensible markup language (xml) 1	|	0.0274
+Accelerating XPath location steps	|	0.0247
 Quilt: An XML Query Language for Heterogeneous Data Sources	|	0.0244
 From Structured Documents to Novel Query Facilities	|	0.0242
-Accelerating XPath location steps	|	0.0220
 XSEarch: A Semantic Search Engine for XML	|	0.0217
 Keyword Searching and Browsing in Databases using BANKS	|	0.0208
 XML Path Language (XPath) Version 1.0	|	0.0182
@@ -23,34 +23,34 @@ Human behavior and the principle of least effort	|	0.0182
 Object and File Management in the EXODUS Extensible Database System	|	0.0182
 DBXplorer: A System for Keyword-Based Search over Relational Databases	|	0.0167
 Optimal Aggregation Algorithms for Middleware	|	0.0167
+A homogeneous relational model and query languages for temporal databases	|	0.0167
 Extensible Markup Language (XML) 1.0	|	0.0167
 Remarks on the algebra of non first normal form relations	|	0.0152
 Join processing in database systems with large main memories	|	0.0152
-A homogeneous relational model and query languages for temporal databases	|	0.0149
 A Query Language for XML	|	0.0147
 XML-QL: A Query Language for XML	|	0.0147
 DISCOVER: Keyword Search in Relational Databases	|	0.0123
+The temporal query language TQuel	|	0.0123
 Human Behaviour and the Principle of Least Effort: an Introduction to Human Ecology	|	0.0123
-The temporal query language TQuel	|	0.0112
 Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.0110
 A Query Language and Optimization Techniques for Unstructured Data	|	0.0101
 Efficient Query Evaluation on Probabilistic Databases	|	0.0100
 The Lorel Query Language for Semistructured Data	|	0.0095
 Indexing and Querying XML Data for Regular Path Expressions	|	0.0090
-Lore: a database management system for semistructured data	|	0.0076
+Lore: a database management system for semistructured data	|	0.0081
 Answering recursive queries using views	|	0.0074
 Making Smalltalk a Database System	|	0.0074
-Join indices	|	0.0061
+Join indices	|	0.0067
 Catching the boat with Strudel: experiences with a Web Site management system	|	0.0055
 Multiple-query optimization	|	0.0051
 Answering queries using views: A survey	|	0.0047
 Query Optimization for XML	|	0.0046
 Database description with SDM: a semantic database model	|	0.0046
 Semantic data models	|	0.0039
+DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0036
 The Ubiquitous B-Tree	|	0.0036
-DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0033
 Principles of Database and Knowledge-Base Systems, Volume I	|	0.0027
 Extending the database relational model to capture more meaning	|	0.0025
 Models and issues in data stream systems	|	0.0021
-Mining association rules between sets of items in large databases	|	0.0013
+Mining association rules between sets of items in large databases	|	0.0015
 Principles of Database and Knowledge-Base Systems, Volume II	|	0.0004

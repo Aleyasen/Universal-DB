@@ -3,14 +3,14 @@ An Approach for Measuring Semantic Similarity between Words Using Multiple Infor
 Development and application of a metric on semantic nets	|	0.3265
 Verb Semantics and Lexical Selection	|	0.2759
 Determining Semantic Similarity among Entity Classes from Different Ontologies	|	0.2500
-Learning to match ontologies on the Semantic Web	|	0.1559
-Learning to map between ontologies on the semantic web	|	0.1377
+Learning to match ontologies on the Semantic Web	|	0.1654
+Learning to map between ontologies on the semantic web	|	0.1554
 Ontologies - a silver bullet for knowledge management and electronic commerce	|	0.0645
-Ontology Learning for the Semantic Web	|	0.0571
 Enhanced hypertext categorization using hyperlinks	|	0.0465
+Ontology Learning for the Semantic Web	|	0.0323
 Measuring Similarity between Ontologies	|	0.0294
 OntoSeek: Content-Based Access to the Web	|	0.0294
-Trust Management for the Semantic Web	|	0.0267
+Trust Management for the Semantic Web	|	0.0294
 COMA - A System for Flexible Combination of Schema Matching Approaches	|	0.0241
 Generic Schema Matching with Cupid	|	0.0213
 Classifying Schematic and Data Heterogeneity in Multidatabase Systems	|	0.0204
@@ -28,7 +28,7 @@ Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.0
 A Survey of Schema-Based Matching Approaches	|	0.0101
 Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.0084
 Schema Mapping as Query Discovery	|	0.0084
-Piazza: data management infrastructure for semantic web applications	|	0.0061
+Piazza: data management infrastructure for semantic web applications	|	0.0068
 Object identity	|	0.0055
 Database abstractions: aggregation and generalization	|	0.0042
 A survey of approaches to automatic schema matching	|	0.0025

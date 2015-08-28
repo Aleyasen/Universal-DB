@@ -1,9 +1,8 @@
-OPTICS: Ordering Points To Identify the Clustering Structure	|	0.2174
-A framework for clustering evolving data streams	|	0.0909
-WaveCluster: A Multi-Resolution Clustering Approach for Very Large Spatial Databases	|	0.0909
-LOF: Identifying Density-Based Local Outliers	|	0.0213
-CURE: An Efficient Clustering Algorithm for Large Databases	|	0.0094
-M-tree: An Efficient Access Method for Similarity Search in Metric Spaces	|	0.0083
-The X-tree : An Index Structure for High-Dimensional Data	|	0.0026
-Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0023
-The R*-tree: an efficient and robust access method for points and rectangles	|	0.0012
+A framework for clustering evolving data streams	|	0.4000
+WaveCluster: A Multi-Resolution Clustering Approach for Very Large Spatial Databases	|	0.4000
+LOF: Identifying Density-Based Local Outliers	|	0.2222
+CURE: An Efficient Clustering Algorithm for Large Databases	|	0.1333
+M-tree: An Efficient Access Method for Similarity Search in Metric Spaces	|	0.1250
+Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0714
+The X-tree : An Index Structure for High-Dimensional Data	|	0.0714
+The R*-tree: an efficient and robust access method for points and rectangles	|	0.0500

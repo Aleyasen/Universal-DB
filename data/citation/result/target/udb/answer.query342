@@ -3,20 +3,20 @@ Direct Spatial Search on Pictorial Databases Using Packed R-Trees	|	0.1245
 M-tree: An Efficient Access Method for Similarity Search in Metric Spaces	|	0.1242
 On packing R-trees	|	0.1242
 Hilbert R-tree: An Improved R-tree using Fractals	|	0.1242
+A cost model for nearest neighbor search in high-dimensional data space	|	0.1229
 The SR-tree: An Index Structure for High-Dimensional Nearest Neighbor Queries	|	0.1229
 Near Neighbor Search in Large Metric Spaces	|	0.1218
 Similarity Indexing with the SS-tree	|	0.1214
 Optimal Multi-Step k-Nearest Neighbor Search	|	0.1212
 Satisfying General Proximity/Similarity Queries with Metric Trees	|	0.1212
-A cost model for nearest neighbor search in high-dimensional data space	|	0.1208
 Query Processing in Spatial Network Databases	|	0.1200
 An optimal and progressive algorithm for skyline queries	|	0.1169
 The Ubiquitous B-Tree	|	0.0975
 The Design and Analysis of Spatial Data Structures	|	0.0967
 The X-tree : An Index Structure for High-Dimensional Data	|	0.0935
+FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets	|	0.0909
 The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0901
-FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets	|	0.0885
-The R*-tree: an efficient and robust access method for points and rectangles	|	0.0690
+The R*-tree: an efficient and robust access method for points and rectangles	|	0.0707
 Access path selection in a relational database management system	|	0.0570
 The Pyramid-Technique: Towards Breaking the Curse of Dimensionality	|	0.0254
 3D Shape Histograms for Similarity Search and Classification in Spatial Databases	|	0.0226
@@ -45,24 +45,24 @@ Data structures and algorithms for nearest neighbor search in general metric spa
 The Skyline Operator	|	0.0089
 The design & analysis of spatial data structures	|	0.0087
 Distance-Based Outliers: Algorithms and Applications	|	0.0087
+Efficient Algorithms for Mining Outliers from Large Data Sets	|	0.0081
 Selectivity Estimation Without the Attribute Value Independence Assumption	|	0.0081
 Efficient Similarity Search In Sequence Databases	|	0.0081
+Accelerating XPath location steps	|	0.0081
 The hB-tree: a multiattribute indexing method with good guaranteed performance	|	0.0081
 Exact Indexing of Dynamic Time Warping	|	0.0078
 Similarity Search in High Dimensions via Hashing	|	0.0078
 Efficient Time Series Matching by Wavelets	|	0.0078
-Efficient Algorithms for Mining Outliers from Large Data Sets	|	0.0078
-Accelerating XPath location steps	|	0.0078
 Access methods for text	|	0.0072
 Fast Time Sequence Indexing for Arbitrary Lp Norms	|	0.0071
 Locally Adaptive Dimensionality Reduction for Indexing Large Time Series Databases	|	0.0069
 CURE: An Efficient Clustering Algorithm for Large Databases	|	0.0063
 Organization and Maintenance of Large Ordered Indexes	|	0.0063
-Join processing in relational databases	|	0.0061
+Join processing in relational databases	|	0.0063
 A class of data structures for associative searching	|	0.0061
 The Quadtree and Related Hierarchical Data Structures	|	0.0061
+Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases	|	0.0055
 The Design of Postgres	|	0.0050
-Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases	|	0.0050
 The Volcano Optimizer Generator: Extensibility and Efficient Search	|	0.0047
 Approximate String Joins in a Database (Almost) for Free	|	0.0047
 Efficient Progressive Skyline Computation	|	0.0047
@@ -82,15 +82,15 @@ STING: A Statistical Information Grid Approach to Spatial Data Mining	|	0.0043
 Mariposa: A Wide-Area Distributed Database System	|	0.0042
 Finding Generalized Projected Clusters In High Dimensional Spaces	|	0.0042
 Starburst Mid-Flight: As the Dust Clears	|	0.0042
+LOF: Identifying Density-Based Local Outliers	|	0.0041
 Algorithms for Mining Distance-Based Outliers in Large Datasets	|	0.0041
 Dimensionality Reduction for Fast Similarity Search in Large Time Series Databases	|	0.0041
 C-Store: A Column-oriented DBMS	|	0.0041
-Bigtable: A Distributed Storage System for Structured Data	|	0.0039
+Bigtable: A Distributed Storage System for Structured Data	|	0.0041
 Efficient Retrieval of Similar Time Sequences Under Time Warping	|	0.0039
 Improved Histograms for Selectivity Estimation of Range Predicates	|	0.0039
 A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.0039
 The EXODUS Optimizer Generator	|	0.0039
-LOF: Identifying Density-Based Local Outliers	|	0.0039
 Discovery of Spatial Association Rules in Geographic Information Databases	|	0.0038
 Linear Hashing: A New Tool for File and Table Addressing	|	0.0038
 Query By Example	|	0.0038
@@ -99,25 +99,25 @@ Data Structures for Range Searching	|	0.0038
 Spatial SQL: A Query and Presentation Language	|	0.0038
 On optimizing an SQL-like nested query	|	0.0038
 Partition Based Spatial-Merge Join	|	0.0036
+Wavelet-Based Histograms for Selectivity Estimation	|	0.0036
 Parallel database systems: the future of high performance database systems	|	0.0036
 Discovering Similar Multidimensional Trajectories	|	0.0035
 Query Reformulation for Dynamic Information Integration	|	0.0035
+Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0034
 A Fast Index for Semistructured Data	|	0.0033
+Optimizing Queries Across Diverse Data Sources	|	0.0033
+Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0032
 An Introduction to Database Systems	|	0.0032
-Optimizing Queries Across Diverse Data Sources	|	0.0032
-Wavelet-Based Histograms for Selectivity Estimation	|	0.0031
-Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0031
-Join indices	|	0.0030
+Join indices	|	0.0032
 Parallel Database Systems: The Future of High Performance Database Processing1	|	0.0030
-Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0030
-Data Mining: An Overview from a Database Perspective	|	0.0028
+Data Mining: An Overview from a Database Perspective	|	0.0030
 Query Optimization for XML	|	0.0026
-The Gamma Database Machine Project	|	0.0025
+The Gamma Database Machine Project	|	0.0026
+Online Aggregation	|	0.0024
+Continuously adaptive continuous queries over streams	|	0.0024
 Query Caching and Optimization in Distributed Mediator Systems	|	0.0024
-Optimizing Queries with Materialized Views	|	0.0023
-Continuously adaptive continuous queries over streams	|	0.0023
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0023
-Online Aggregation	|	0.0022
+Optimizing Queries with Materialized Views	|	0.0024
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0024
 System R: A Relational Approach to Data Base Management	|	0.0022
 System R: relational approach to database management	|	0.0017
 Logic and Databases: A Deductive Approach	|	0.0016
@@ -125,8 +125,8 @@ Fast Algorithms for Mining Association Rules in Large Databases	|	0.0016
 Query evaluation techniques for large databases	|	0.0014
 Concurrency Control and Recovery in Database Systems	|	0.0014
 The Theory of Relational Databases	|	0.0014
-Query Optimization in Database Systems	|	0.0012
-Mining association rules between sets of items in large databases	|	0.0011
+Query Optimization in Database Systems	|	0.0013
+Mining association rules between sets of items in large databases	|	0.0012
 Principles of Database and Knowledge-Base Systems, Volume II	|	0.0010
-Fast Algorithms for Mining Association Rules	|	0.0008
+Fast Algorithms for Mining Association Rules	|	0.0009
 Foundations of Databases	|	0.0004

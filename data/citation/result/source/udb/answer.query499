@@ -11,28 +11,28 @@ Maintaining Stream Statistics over Sliding Windows	|	0.0476
 Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.0417
 Random sampling with a reservoir	|	0.0392
 Scalable Distributed Stream Processing	|	0.0238
+Adaptive filters for continuous queries over distributed data streams	|	0.0238
+Distributed top-k monitoring	|	0.0206
 A Taxonomy of Time in Databases	|	0.0196
-Adaptive filters for continuous queries over distributed data streams	|	0.0192
-Distributed top-k monitoring	|	0.0179
-Active database systems	|	0.0161
+Active database systems	|	0.0196
 Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.0141
+Continuously adaptive continuous queries over streams	|	0.0139
 Maintaining Views Incrementally	|	0.0139
+Wavelet-Based Histograms for Selectivity Estimation	|	0.0139
 Querying the Internet with PIER	|	0.0139
 Issues in data stream management	|	0.0139
-Continuously adaptive continuous queries over streams	|	0.0126
+The Design of the Borealis Stream Processing Engine	|	0.0139
 Multiple-query optimization	|	0.0126
-The Design of the Borealis Stream Processing Engine	|	0.0118
 NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0116
-Wavelet-Based Histograms for Selectivity Estimation	|	0.0088
+Online Aggregation	|	0.0093
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0093
+Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.0090
+Approximate Query Processing Using Wavelets	|	0.0090
+Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0090
+Eddies: Continuously Adaptive Query Processing	|	0.0084
 An Adaptive Query Execution System for Data Integration	|	0.0084
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0084
 Continuous queries over data streams	|	0.0084
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0084
-Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.0079
-Approximate Query Processing Using Wavelets	|	0.0079
-Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0079
-Online Aggregation	|	0.0078
-Eddies: Continuously Adaptive Query Processing	|	0.0077
-Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0077
 Temporal and Real-Time Databases: A Survey	|	0.0071
 Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0071
 TinyDB: an acquisitional query processing system for sensor networks	|	0.0070

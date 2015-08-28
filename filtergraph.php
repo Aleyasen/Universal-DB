@@ -84,7 +84,7 @@ if (isset($_GET["nofilter"])) {
 //        $seed_node = "Implementation of integrity constraints and views by query modification";
 // locate query node from node type+value
         $v = idInFullGraph($seed_node, $graphData[2], $graphData[3]);
-        c_log(" >>>>>>>>>>>>>>>>>>>>> H-EG-MIN\n" );
+        c_log(" >>>>>>>>>>>>>>>>>>>>> H-EG-MIN\n");
         c_log(print_r($graphData[7], true));
         c_log("DONE DONE H-EG-MIN");
 // bfs search
@@ -226,7 +226,7 @@ if (isset($_GET["nofilter"])) {
                 for ($j = 0; $j < sizeof($vs1); $j++) {
                     if (isset($dist_query_node[$vs1[$j]]) && isset($dist_other_node[$i][$vs1[$j]])) {
                         $d = $dist_query_node[$vs1[$j]] + $dist_other_node[$i][$vs1[$j]];
-                        if ($d <= ($dis_other_query[$i] )) {
+                        if ($d <= ($dis_other_query[$i] + 1 )) {
                             array_push($vs, $vs1[$j]);
                         }
                     }

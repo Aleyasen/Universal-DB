@@ -1,11 +1,11 @@
 Similarity Flooding: A Versatile Graph Matching Algorithm and Its Application to Schema Matching	|	0.2234
 COMA - A System for Flexible Combination of Schema Matching Approaches	|	0.2149
 Semantic integration of semistructured and structured data sources	|	0.2128
+Learning to match ontologies on the Semantic Web	|	0.1930
 Schema Mapping as Query Discovery	|	0.1847
-Learning to match ontologies on the Semantic Web	|	0.1833
 Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.1561
+Learning to map between ontologies on the semantic web	|	0.1559
 A Survey of Schema-Based Matching Approaches	|	0.1435
-Learning to map between ontologies on the semantic web	|	0.1412
 Semantic e-Workflow Composition	|	0.1398
 Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.1341
 A survey of approaches to automatic schema matching	|	0.1014
@@ -14,22 +14,22 @@ Translating Web Data	|	0.0426
 The PROMPT suite: interactive tools for ontology merging and mapping	|	0.0303
 Ontologies - a silver bullet for knowledge management and electronic commerce	|	0.0290
 Measuring Similarity between Ontologies	|	0.0278
-Ontology Learning for the Semantic Web	|	0.0274
+Trust Management for the Semantic Web	|	0.0278
 Ontology mapping: the state of the art	|	0.0270
-Trust Management for the Semantic Web	|	0.0265
 Applying Model Management to Classical Meta Data Problems	|	0.0263
 PROMPT: Algorithm and Tool for Automated Ontology Merging and Alignment	|	0.0255
 Enhanced hypertext categorization using hyperlinks	|	0.0247
 Semantic integration: a survey of ontology-based approaches	|	0.0230
 Ontology Mapping: The State of the Art	|	0.0227
 An Information-Theoretic Definition of Similarity	|	0.0213
+Don't Scrap It, Wrap It! A Wrapper Architecture for Legacy Data Sources	|	0.0213
 A Theory of Attribute Equivalence in Databases with Application to Schema Integration	|	0.0213
 Semantic Matching of Web Services Capabilities	|	0.0213
-Don't Scrap It, Wrap It! A Wrapper Architecture for Legacy Data Sources	|	0.0194
 Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases	|	0.0165
 Data Cleaning: Problems and Current Approaches	|	0.0165
-Piazza: data management infrastructure for semantic web applications	|	0.0149
+Piazza: data management infrastructure for semantic web applications	|	0.0161
 SGML handbook	|	0.0145
+Ontology Learning for the Semantic Web	|	0.0145
 Quality of service for workflows and web service processes	|	0.0145
 OntoSeek: Content-Based Access to the Web	|	0.0139
 Semantic and Schematic Similarities Between Database Objects: A Context-Based Approach	|	0.0139
@@ -37,12 +37,12 @@ Towards Heterogeneous Multimedia Information Systems: The Garlic Approach	|	0.01
 XLANG Web Services for Business Process Design	|	0.0139
 Simple Fast Algorithms for the Editing Distance Between Trees and Related Problems	|	0.0139
 Using Information Content to Evaluate Semantic Similarity in a Taxonomy	|	0.0132
+DAML-S: Semantic Markup For Web Services	|	0.0123
 Resource description framework (rdf)	|	0.0123
-DAML-S: Semantic Markup For Web Services	|	0.0116
-Ontology Evolution: Not the Same as Schema Evolution	|	0.0116
+Ontology Evolution: Not the Same as Schema Evolution	|	0.0123
+Composing Web services on the Semantic Web	|	0.0115
 Development and application of a metric on semantic nets	|	0.0115
 Data exchange: semantics and query answering	|	0.0115
-Composing Web services on the Semantic Web	|	0.0107
 WordNet: a lexical database for English	|	0.0106
 Object Exchange Across Heterogeneous Information Sources	|	0.0106
 Your Mediators Need Data Conversion!	|	0.0099
@@ -58,13 +58,13 @@ A comparative analysis of methodologies for database schema integration	|	0.0072
 Wrapper induction: Efficiency and expressiveness	|	0.0069
 Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0068
 Data Management for Peer-to-Peer Computing : A Vision	|	0.0064
+Optimizing Queries Across Diverse Data Sources	|	0.0064
 The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0058
-Optimizing Queries Across Diverse Data Sources	|	0.0058
-Schema Mediation in Peer Data Management Systems	|	0.0054
+Schema Mediation in Peer Data Management Systems	|	0.0058
 From Structured Documents to Novel Query Facilities	|	0.0054
+Data integration: a theoretical perspective	|	0.0051
 Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0051
-Data integration: a theoretical perspective	|	0.0048
 An Adaptive Query Execution System for Data Integration	|	0.0034
+DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0034
 A Query Language and Optimization Techniques for Unstructured Data	|	0.0031
-DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0031
 Database techniques for the World-Wide Web: a survey	|	0.0023

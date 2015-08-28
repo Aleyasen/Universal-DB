@@ -30,8 +30,8 @@
                 "paper_citation"
             ],
             "param": {
-                "distance": 60,
-                "charge": -300
+                "distance": 50,
+                "charge": -100
             }
         },
         "target": {
@@ -43,7 +43,7 @@
                 "paper_paper"
             ],
             "param": {
-                "distance": 200,
+                "distance": 150,
                 "charge": -250
             }
         }

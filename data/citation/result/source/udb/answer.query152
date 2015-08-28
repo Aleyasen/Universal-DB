@@ -21,27 +21,27 @@ Query Optimization for XML	|	0.0153
 Path sharing and predicate evaluation for high-performance XML filtering	|	0.0137
 Indexing and Querying XML Data for Regular Path Expressions	|	0.0127
 Partition Based Spatial-Merge Join	|	0.0127
+RQL: a declarative query language for RDF	|	0.0110
 Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0109
 Algorithms for Acyclic Database Schemes	|	0.0103
-RQL: a declarative query language for RDF	|	0.0102
 XIRQL: a query language for information retrieval in XML documents	|	0.0099
 Efficient Algorithms for Processing XPath Queries	|	0.0099
 XML Path Language (XPath) Version 1.0	|	0.0099
 Human behavior and the principle of least effort	|	0.0099
+Lore: a database management system for semistructured data	|	0.0096
 From Structured Documents to Novel Query Facilities	|	0.0095
-Lore: a database management system for semistructured data	|	0.0090
+The theory of joins in relational databases	|	0.0094
 Workflow Mining: A Survey of Issues and Approaches	|	0.0089
-The theory of joins in relational databases	|	0.0088
 A brief survey of web data extraction tools	|	0.0079
 Typechecking for XML transformers	|	0.0079
 Shoring Up Persistent Applications	|	0.0079
 From Semistructured Data to XML: Migrating the Lore Data Model and Query Language	|	0.0079
 Data Preparation for Mining World Wide Web Browsing Patterns	|	0.0079
+Accelerating XPath location steps	|	0.0079
 XRANK: ranked keyword search over XML documents	|	0.0079
 Human Behaviour and the Principle of Least Effort: an Introduction to Human Ecology	|	0.0079
 A Taxonomy of Time in Databases	|	0.0074
 Principles of database buffer management	|	0.0074
-Accelerating XPath location steps	|	0.0073
 Operating system support for database management	|	0.0068
 Computational problems related to the design of normal form relational schemas	|	0.0068
 The Lorel Query Language for Semistructured Data	|	0.0064
@@ -50,9 +50,9 @@ Dependency Structures of Data Base Relationships	|	0.0059
 A Query Language and Optimization Techniques for Unstructured Data	|	0.0058
 Answering recursive queries using views	|	0.0055
 A Query Language for XML	|	0.0055
+A logical design methodology for relational databases using the extended entity-relationship model	|	0.0055
 Synthesizing third normal form relations from functional dependencies	|	0.0055
-A logical design methodology for relational databases using the extended entity-relationship model	|	0.0051
-Join processing in relational databases	|	0.0048
+Join processing in relational databases	|	0.0051
 Catching the boat with Strudel: experiences with a Web Site management system	|	0.0044
 Answering queries using views: A survey	|	0.0044
 Multiple-query optimization	|	0.0041
@@ -63,7 +63,7 @@ Principles of Database and Knowledge-Base Systems, Volume I	|	0.0024
 Extending the database relational model to capture more meaning	|	0.0023
 Logic and Databases: A Deductive Approach	|	0.0020
 The Theory of Relational Databases	|	0.0017
-Mining association rules between sets of items in large databases	|	0.0013
+Mining association rules between sets of items in large databases	|	0.0014
 Query evaluation techniques for large databases	|	0.0011
 Principles of Database and Knowledge-Base Systems, Volume II	|	0.0010
 Foundations of Databases	|	0.0004

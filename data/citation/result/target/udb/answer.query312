@@ -1,14 +1,14 @@
 Scheduling real-time transactions: a performance evaluation	|	0.2368
-The Recovery Manager of the System R Database Manager	|	0.2241
-ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging	|	0.2072
+The Recovery Manager of the System R Database Manager	|	0.2364
+ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging	|	0.2200
 Concurrency Control in Distributed Database Systems	|	0.1812
 Notes on Data Base Operating Systems	|	0.1623
-The notions of consistency and predicate locks in a database system	|	0.1353
+The notions of consistency and predicate locks in a database system	|	0.1429
 Temporal and Real-Time Databases: A Survey	|	0.1088
 Concurrency Control and Recovery in Database Systems	|	0.0889
 The serializability of concurrent database updates	|	0.0526
+Concurrency control in advanced database applications	|	0.0500
 Using Semantic Knowledge for Transaction Processing in Distributed Database	|	0.0455
-Concurrency control in advanced database applications	|	0.0450
 Real-Time Databases	|	0.0429
 Nonblocking commit protocols	|	0.0429
 On Optimistic Methods for Concurrency Control	|	0.0400
@@ -38,51 +38,52 @@ Data Placement In Bubba	|	0.0165
 Efficient locking for concurrent operations on B-trees	|	0.0165
 The oo7 Benchmark	|	0.0164
 On the Computation of Multidimensional Aggregates	|	0.0164
-The Gamma Database Machine Project	|	0.0163
 Negation as Failure	|	0.0154
 Unfounded sets and well-founded semantics for general logic programs	|	0.0154
 On the Declarative Semantics of Deductive Databases and Logic Programs	|	0.0154
-The relational model with relation-valued attributes	|	0.0144
+The relational model with relation-valued attributes	|	0.0154
 Complex Queries in DHT-based Peer-to-Peer Networks	|	0.0143
 On the power of magic	|	0.0143
 The Skyline Operator	|	0.0143
 Magic Sets and Other Strange Ways to Implement Logic Programs	|	0.0143
 Towards a Logical Reconstruction of Relational Database Theory	|	0.0143
+The Dangers of Replication and a Solution	|	0.0143
 Towards a Theory of Declarative Knowledge	|	0.0143
 Transaction Processing: Concepts and Techniques	|	0.0143
 Principles of Distributed Database Systems	|	0.0143
 On the Desirability of Acyclic Database Schemes	|	0.0143
 A foundation for representing and querying moving objects	|	0.0143
+The HiPAC project: combining active databases and timing constraints	|	0.0143
 Principles of distributed database systems	|	0.0143
 Data Models	|	0.0143
 Principles of Database Systems, 2nd Edition	|	0.0137
-The HiPAC project: combining active databases and timing constraints	|	0.0132
+The Gamma Database Machine Project	|	0.0133
 On Closed World Data Bases	|	0.0132
 Remarks on the algebra of non first normal form relations	|	0.0132
 Security-Control Methods for Statistical Databases: A Comparative Study	|	0.0132
 Iris: An Object-Oriented Database Management System	|	0.0132
+Join indices	|	0.0125
 An adaptive data replication algorithm	|	0.0120
 Aggregate-Query Processing in Data Warehousing Environments	|	0.0120
 Disk Striping	|	0.0120
+Don't Scrap It, Wrap It! A Wrapper Architecture for Legacy Data Sources	|	0.0120
 Protecting Respondents' Identities in Microdata Release	|	0.0120
 Starburst Mid-Flight: As the Dust Clears	|	0.0120
-The Dangers of Replication and a Solution	|	0.0118
-Join indices	|	0.0115
 The Quadtree and Related Hierarchical Data Structures	|	0.0114
 Shoring Up Persistent Applications	|	0.0110
 Answering Queries Using Templates with Binding Patterns	|	0.0110
+The temporal query language TQuel	|	0.0110
 The complexity of relational query languages (Extended Abstract)	|	0.0110
 Understanding the New SQL: A Complete Guide	|	0.0110
-Don't Scrap It, Wrap It! A Wrapper Architecture for Legacy Data Sources	|	0.0109
+Computable Queries for Relational Data Bases	|	0.0110
+Bigtable: A Distributed Storage System for Structured Data	|	0.0110
 Organization and Maintenance of Large Ordered Indices	|	0.0105
 The Ubiquitous B-Tree	|	0.0105
-The temporal query language TQuel	|	0.0101
-Computable Queries for Relational Data Bases	|	0.0101
-Bigtable: A Distributed Storage System for Structured Data	|	0.0101
 Telos: representing knowledge about information systems	|	0.0100
 A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.0100
 The Case for Shared Nothing	|	0.0100
 Using Semi-Joins to Solve Relational Queries	|	0.0100
+A federated architecture for information management	|	0.0100
 Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals	|	0.0091
 Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases	|	0.0091
 Query By Example	|	0.0091
@@ -90,38 +91,37 @@ Data Structures for Range Searching	|	0.0091
 Computational problems related to the design of normal form relational schemas	|	0.0091
 On optimizing an SQL-like nested query	|	0.0091
 Extended algebra and calculus for nested relational databases	|	0.0091
-A federated architecture for information management	|	0.0090
+A Relational Model for Large Shared Data Banks	|	0.0091
 The entity-relationship model---toward a unified view of data	|	0.0088
 Database description with SDM: a semantic database model	|	0.0088
 Ode as an Active Database: Constraints and Triggers	|	0.0083
 Maintaining Views Incrementally	|	0.0083
+Development of an object-oriented DBMS	|	0.0083
 Querying the Internet with PIER	|	0.0083
 Access methods for text	|	0.0083
 Parallel database systems: the future of high performance database systems	|	0.0083
 Notes on database operating systems	|	0.0083
 Structural Joins: A Primitive for Efficient XML Query Pattern Matching	|	0.0083
-Development of an object-oriented DBMS	|	0.0075
 Relational Completeness of Data Base Sublanguages	|	0.0075
 Disjunctive datalog	|	0.0075
 Dependency Structures of Data Base Relationships	|	0.0075
+Universality of data retrieval languages	|	0.0075
 An Evaluation of Buffer Management Strategies for Relational Database Systems	|	0.0075
 Holistic twig joins: optimal XML pattern matching	|	0.0075
 Database Description with SDM: A Semantic Database Model	|	0.0075
-A Relational Model for Large Shared Data Banks	|	0.0073
 System R: relational approach to database management	|	0.0069
 Answering recursive queries using views	|	0.0068
+A logical design methodology for relational databases using the extended entity-relationship model	|	0.0068
 Synthesizing third normal form relations from functional dependencies	|	0.0068
 Aurora: a new model and architecture for data stream management	|	0.0068
 The functional data model and the data language DAPLEX	|	0.0068
 The CQL continuous query language: semantic foundations and query execution	|	0.0068
-Universality of data retrieval languages	|	0.0068
 System R: A Relational Approach to Data Base Management	|	0.0065
+Query Optimization in Database Systems	|	0.0065
 The functional data model and the data languages DAPLEX	|	0.0065
+A Data Model and Query Language for EXODUS	|	0.0063
 Organization and Maintenance of Large Ordered Indexes	|	0.0063
 Query-by-Example: A Data Base Language	|	0.0063
-A logical design methodology for relational databases using the extended entity-relationship model	|	0.0062
-Query Optimization in Database Systems	|	0.0061
-A Data Model and Query Language for EXODUS	|	0.0057
 Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.0057
 Parallel Database Systems: The Future of High Performance Database Processing1	|	0.0057
 Storing Semistructured Data with STORED	|	0.0057
@@ -139,24 +139,24 @@ Logic and Databases: A Deductive Approach	|	0.0043
 The Design of Postgres	|	0.0041
 The Grid File: An Adaptable, Symmetric Multi-Key File Structure	|	0.0041
 Query Caching and Optimization in Distributed Mediator Systems	|	0.0038
+Optimizing Queries with Materialized Views	|	0.0038
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0038
 Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0038
 Semantic data models	|	0.0038
 Database abstractions: aggregation and generalization	|	0.0038
 The Theory of Relational Databases	|	0.0036
-Optimizing Queries with Materialized Views	|	0.0035
 An Adaptive Query Execution System for Data Integration	|	0.0035
 Continuous queries over data streams	|	0.0035
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0035
 Optimal implementation of conjunctive queries in relational data bases	|	0.0032
 Monitoring Streams - A New Class of Data Management Applications	|	0.0028
+Lore: a database management system for semistructured data	|	0.0026
 The Grid File: An Adaptable, Symmetric Multikey File Structure	|	0.0026
+Types and persistence in database programming languages	|	0.0025
 A comparative analysis of methodologies for database schema integration	|	0.0025
 Extending the database relational model to capture more meaning	|	0.0025
-Lore: a database management system for semistructured data	|	0.0025
 The Lorel Query Language for Semistructured Data	|	0.0023
 Access path selection in a relational database management system	|	0.0022
-Types and persistence in database programming languages	|	0.0022
 Fast Subsequence Matching in Time-Series Databases	|	0.0017
 Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0017
 Foundations of Databases	|	0.0012
-The R*-tree: an efficient and robust access method for points and rectangles	|	0.0011
+The R*-tree: an efficient and robust access method for points and rectangles	|	0.0012

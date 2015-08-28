@@ -24,29 +24,29 @@ Principles of Database and Knowledge-Base Systems, Volume II	|	0.0274
 Knowledge Engineering: Principles and Methods	|	0.0256
 Answering Queries Using Templates with Binding Patterns	|	0.0256
 The complexity of relational query languages (Extended Abstract)	|	0.0256
+Computable Queries for Relational Data Bases	|	0.0256
 Disjunctive datalog	|	0.0247
-Computable Queries for Relational Data Bases	|	0.0211
 Using Semi-Joins to Solve Relational Queries	|	0.0208
 Linear Hashing: A New Tool for File and Table Addressing	|	0.0172
 Quad Trees: A Data Structure for Retrieval on Composite Keys	|	0.0172
 Data Structures for Range Searching	|	0.0172
+The Recovery Manager of the System R Database Manager	|	0.0172
 Principles of transaction-oriented database recovery	|	0.0172
 Computational problems related to the design of normal form relational schemas	|	0.0172
 On optimizing an SQL-like nested query	|	0.0172
-The Recovery Manager of the System R Database Manager	|	0.0146
 Maintaining Views Incrementally	|	0.0145
+Development of an object-oriented DBMS	|	0.0145
 Efficient locking for concurrent operations on B-trees	|	0.0145
 Object identity	|	0.0128
-Development of an object-oriented DBMS	|	0.0124
 Dependency Structures of Data Base Relationships	|	0.0123
+Universality of data retrieval languages	|	0.0123
 Answering recursive queries using views	|	0.0106
 Principles of Database Systems, 2nd Edition	|	0.0106
 Synthesizing third normal form relations from functional dependencies	|	0.0106
-Universality of data retrieval languages	|	0.0105
+A Data Model and Query Language for EXODUS	|	0.0093
 Concurrency Control in Distributed Database Systems	|	0.0093
+Join indices	|	0.0093
 Query-by-Example: A Data Base Language	|	0.0093
-A Data Model and Query Language for EXODUS	|	0.0082
-Join indices	|	0.0082
 Storing Semistructured Data with STORED	|	0.0081
 Querying Object-Oriented Databases	|	0.0081
 A class of data structures for associative searching	|	0.0081
@@ -61,12 +61,12 @@ The entity-relationship model---toward a unified view of data	|	0.0057
 Database description with SDM: a semantic database model	|	0.0057
 Further Normalization of the Data Base Relational Model	|	0.0057
 The Design of Postgres	|	0.0052
+The notions of consistency and predicate locks in a database system	|	0.0052
 Query Caching and Optimization in Distributed Mediator Systems	|	0.0047
+Optimizing Queries with Materialized Views	|	0.0047
 Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0047
 Database abstractions: aggregation and generalization	|	0.0047
 Relational Completeness of Data Base Sublanguages	|	0.0047
-The notions of consistency and predicate locks in a database system	|	0.0047
-Optimizing Queries with Materialized Views	|	0.0043
 Organization and Maintenance of Large Ordered Indices	|	0.0043
 The Ubiquitous B-Tree	|	0.0043
 Optimal implementation of conjunctive queries in relational data bases	|	0.0039
@@ -77,6 +77,6 @@ System R: relational approach to database management	|	0.0026
 Logic and Databases: A Deductive Approach	|	0.0024
 Concurrency Control and Recovery in Database Systems	|	0.0020
 The Theory of Relational Databases	|	0.0020
-Query Optimization in Database Systems	|	0.0017
+Query Optimization in Database Systems	|	0.0018
 Access path selection in a relational database management system	|	0.0012
 Foundations of Databases	|	0.0004

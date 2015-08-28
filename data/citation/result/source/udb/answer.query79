@@ -8,7 +8,7 @@ Database techniques for the World-Wide Web: a survey	|	0.0966
 The Lorel Query Language for Semistructured Data	|	0.0942
 XWRAP: An XML-Enabled Wrapper Construction System for Web Information Sources	|	0.0625
 Adding Structure to Unstructured Data	|	0.0617
-Index Structures for Path Expressions	|	0.0342
+Index Structures for Path Expressions	|	0.0494
 The Harvest Information Discovery and Access System	|	0.0270
 SGML handbook	|	0.0256
 A Query Language for XML	|	0.0236
@@ -23,16 +23,16 @@ Classifying Schematic and Data Heterogeneity in Multidatabase Systems	|	0.0175
 Wrapper Induction for Information Extraction	|	0.0175
 XRel: a path-based approach to storage and retrieval of XML documents using relational databases	|	0.0175
 Your Mediators Need Data Conversion!	|	0.0174
+RQL: a declarative query language for RDF	|	0.0157
 A Fast Index for Semistructured Data	|	0.0157
-RQL: a declarative query language for RDF	|	0.0142
+DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0150
 A brief survey of web data extraction tools	|	0.0139
 Visual Web Information Extraction with Lixto	|	0.0139
 Typechecking for XML transformers	|	0.0139
 From Semistructured Data to XML: Migrating the Lore Data Model and Query Language	|	0.0139
 Generating Finite-State Transducers for Semi-Structured Data Extraction from the Web	|	0.0139
 XRANK: ranked keyword search over XML documents	|	0.0139
-DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0138
-Lore: a database management system for semistructured data	|	0.0129
+Lore: a database management system for semistructured data	|	0.0139
 Retrieving and Integrating Data from Multiple Information Sources	|	0.0123
 Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.0122
 Catching the boat with Strudel: experiences with a Web Site management system	|	0.0116
@@ -47,17 +47,17 @@ Query Optimization for XML	|	0.0097
 Quilt: An XML Query Language for Heterogeneous Data Sources	|	0.0088
 Data Model and Query Evaluation in Global Information Systems	|	0.0088
 Towards Heterogeneous Multimedia Information Systems: The Garlic Approach	|	0.0088
+Optimizing Queries Across Diverse Data Sources	|	0.0079
 Answering recursive queries using views	|	0.0079
-Optimizing Queries Across Diverse Data Sources	|	0.0070
 The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0064
 Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0064
 Answering queries using views: A survey	|	0.0063
 On Supporting Containment Queries in Relational Database Management Systems	|	0.0058
 Complexity of answering queries using materialized views	|	0.0058
-Data integration: a theoretical perspective	|	0.0052
+Data integration: a theoretical perspective	|	0.0055
 Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0048
 Query Caching and Optimization in Distributed Mediator Systems	|	0.0041
-Optimizing Queries with Materialized Views	|	0.0038
+Optimizing Queries with Materialized Views	|	0.0041
 An Adaptive Query Execution System for Data Integration	|	0.0037
 Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0018
 Access path selection in a relational database management system	|	0.0011

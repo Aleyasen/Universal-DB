@@ -1,56 +1,56 @@
 SPIRIT: Sequential Pattern Mining with Regular Expression Constraints	|	0.2424
 Mining Sequential Patterns by Pattern-Growth: The PrefixSpan Approach	|	0.2222
 Data Preparation for Mining World Wide Web Browsing Patterns	|	0.2099
+Scalable Parallel Data Mining for Association Rules	|	0.1892
 Bottom-Up Computation of Sparse and Iceberg CUBEs	|	0.1892
 Efficiently Mining Long Patterns from Databases	|	0.1870
-Scalable Parallel Data Mining for Association Rules	|	0.1796
-Mining Sequential Patterns	|	0.1551
-Approximate Frequency Counts over Data Streams	|	0.1357
-Mining Generalized Association Rules	|	0.1033
+Mining Sequential Patterns	|	0.1636
+Approximate Frequency Counts over Data Streams	|	0.1436
+Mining Generalized Association Rules	|	0.1176
 Efficient Mining of Partial Periodic Patterns in Time Series Database	|	0.0411
 Discovering Web Access Patterns and Trends by Applying OLAP and Data Mining Technology on Web Logs	|	0.0303
-Finding Frequent Items in Data Streams	|	0.0270
 Scalable Algorithms for Association Mining	|	0.0222
 MAFIA: A Maximal Frequent Itemset Algorithm for Transactional Databases	|	0.0222
 Discovering Conceptual Relations from Text	|	0.0217
 Exploratory Mining and Pruning Optimizations of Constrained Association Rules	|	0.0213
 The data webhouse toolkit	|	0.0208
 Discovering Frequent Closed Itemsets for Association Rules	|	0.0200
+Parallel Mining of Association Rules	|	0.0200
 Efficient Data Mining for Path Traversal Patterns	|	0.0200
 Constraint-Based Rule Mining in Large, Dense Databases	|	0.0200
 Mining Process Models from Workflow Logs	|	0.0196
 The data warehousing toolkit	|	0.0182
-Parallel Mining of Association Rules	|	0.0181
 ROCK: A Robust Clustering Algorithm for Categorical Attributes	|	0.0167
 An Improved Data Stream Summary: The Count-Min Sketch and Its Applications	|	0.0167
 What's hot and what's not: tracking most frequent items dynamically	|	0.0167
 Extensible Markup Language (XML) 1.0	|	0.0167
 Maintaining Stream Statistics over Sliding Windows	|	0.0167
 Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Total	|	0.0163
+Finding Frequent Items in Data Streams	|	0.0152
 A New SQL-like Operator for Mining Association Rules	|	0.0147
 Index Selection for OLAP	|	0.0137
+An Effective Hash Based Algorithm for Mining Association Rules	|	0.0126
 An Array-Based Algorithm for Simultaneous Multidimensional Aggregates	|	0.0123
 Maintaining Data Privacy in Association Rule Mining	|	0.0123
 Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.0121
+An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.0118
 Super-peer-based routing and clustering strategies for RDF-based peer-to-peer networks	|	0.0111
 Efficient Time Series Matching by Wavelets	|	0.0111
-An Effective Hash Based Algorithm for Mining Association Rules	|	0.0111
 Random sampling with a reservoir	|	0.0111
 Fast Algorithms for Mining Association Rules in Large Databases	|	0.0111
-An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.0101
+Sampling Large Databases for Association Rules	|	0.0110
 Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals	|	0.0100
 Data Cleaning: Problems and Current Approaches	|	0.0100
-Sampling Large Databases for Association Rules	|	0.0093
+Fast Algorithms for Mining Association Rules	|	0.0091
+Maintenance of Discovered Association Rules in Large Databases: An Incremental Updating Technique	|	0.0090
 Incognito: efficient full-domain K-anonymity	|	0.0090
-Maintenance of Discovered Association Rules in Large Databases: An Incremental Updating Technique	|	0.0082
-Fast Algorithms for Mining Association Rules	|	0.0080
-Discovery of Multiple-Level Association Rules from Large Databases	|	0.0067
-Distributed top-k monitoring	|	0.0066
-Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.0060
+Discovery of Multiple-Level Association Rules from Large Databases	|	0.0078
+Distributed top-k monitoring	|	0.0074
+Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.0067
+Mining association rules between sets of items in large databases	|	0.0059
 Beyond Market Baskets: Generalizing Association Rules to Correlations	|	0.0055
-Mining association rules between sets of items in large databases	|	0.0054
 New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.0051
 Fast Time Sequence Indexing for Arbitrary Lp Norms	|	0.0039
+Data Mining: An Overview from a Database Perspective	|	0.0039
 Issues in data stream management	|	0.0039
-Data Mining: An Overview from a Database Perspective	|	0.0037
-Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0021
+Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0024

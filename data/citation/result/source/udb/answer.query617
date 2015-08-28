@@ -1,4 +1,4 @@
-Database Security	|	0.3200
+Database Security	|	0.3889
 Database Transaction Models For Advanced Applications	|	0.2500
 Formal Models for Computer Security	|	0.1667
 The Entity-Relationship Model-Towards a Uni ed View of Data	|	0.1667
@@ -11,11 +11,11 @@ Deriving Production Rules for Constraint Maintainance	|	0.0417
 Change Detection in Hierarchically Structured Information	|	0.0323
 Understanding the New SQL: A Complete Guide	|	0.0256
 The Implementation of Postgres	|	0.0172
+A Relational Model for Large Shared Data Banks	|	0.0172
 Ode as an Active Database: Constraints and Triggers	|	0.0145
+The Architecture Of An Active Data Base Management System	|	0.0145
 Research problems in data warehousing	|	0.0123
-The Architecture Of An Active Data Base Management System	|	0.0106
 Query-by-Example: A Data Base Language	|	0.0093
-A Relational Model for Large Shared Data Banks	|	0.0090
 Object identity	|	0.0064
 Continuous queries over data streams	|	0.0043
 System R: A Relational Approach to Data Base Management	|	0.0039

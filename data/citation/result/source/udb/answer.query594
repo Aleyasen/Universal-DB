@@ -1,10 +1,10 @@
 Shoring Up Persistent Applications	|	0.2619
-The Recovery Manager of the System R Database Manager	|	0.1958
+The Recovery Manager of the System R Database Manager	|	0.2131
 Benchmarking Database Systems A Systematic Approach	|	0.1944
 The ObjectStore database system	|	0.1111
 Semantic Data Caching and Replacement	|	0.0625
+ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging	|	0.0392
 GAMMA - A High Performance Dataflow Database Machine	|	0.0370
-ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging	|	0.0323
 Mariposa: A Wide-Area Distributed Database System	|	0.0294
 Starburst Mid-Flight: As the Dust Clears	|	0.0294
 A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.0196
@@ -17,10 +17,10 @@ Structural Joins: A Primitive for Efficient XML Query Pattern Matching	|	0.0139
 An Evaluation of Buffer Management Strategies for Relational Database Systems	|	0.0119
 The Postgres Next Generation Database Management System	|	0.0119
 Generalized Search Trees for Database Systems	|	0.0103
-Join indices	|	0.0080
+Join indices	|	0.0090
 Notes on Data Base Operating Systems	|	0.0070
-The Gamma Database Machine Project	|	0.0051
-The notions of consistency and predicate locks in a database system	|	0.0046
+The Gamma Database Machine Project	|	0.0056
+The notions of consistency and predicate locks in a database system	|	0.0051
 System R: A Relational Approach to Data Base Management	|	0.0039
 System R: relational approach to database management	|	0.0026
 Concurrency Control and Recovery in Database Systems	|	0.0020

@@ -1,18 +1,18 @@
 Further Normalization of the Data Base Relational Model	|	0.1207
 Relational Completeness of Data Base Sublanguages	|	0.1080
-The theory of joins in relational databases	|	0.0400
-Incomplete Information in Relational Databases	|	0.0400
+The theory of joins in relational databases	|	0.0556
+Incomplete Information in Relational Databases	|	0.0556
 Query By Example	|	0.0345
 On optimizing an SQL-like nested query	|	0.0345
 The complexity of relational query languages (Extended Abstract)	|	0.0256
-Computable Queries for Relational Data Bases	|	0.0211
+Computable Queries for Relational Data Bases	|	0.0256
 Using Semi-Joins to Solve Relational Queries	|	0.0208
 Computational problems related to the design of normal form relational schemas	|	0.0172
 Extended algebra and calculus for nested relational databases	|	0.0172
+Universality of data retrieval languages	|	0.0123
 Database Description with SDM: A Semantic Database Model	|	0.0123
 Synthesizing third normal form relations from functional dependencies	|	0.0106
-Universality of data retrieval languages	|	0.0105
-Join processing in relational databases	|	0.0082
+Join processing in relational databases	|	0.0093
 Optimal implementation of conjunctive queries in relational data bases	|	0.0078
 Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.0072
 Object identity	|	0.0064
@@ -25,6 +25,6 @@ Temporal and Real-Time Databases: A Survey	|	0.0036
 Extending the database relational model to capture more meaning	|	0.0028
 System R: relational approach to database management	|	0.0026
 Logic and Databases: A Deductive Approach	|	0.0024
-Query Optimization in Database Systems	|	0.0017
+Query Optimization in Database Systems	|	0.0018
 Foundations of Databases	|	0.0009
 Principles of Database and Knowledge-Base Systems, Volume II	|	0.0007

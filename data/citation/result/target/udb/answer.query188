@@ -7,9 +7,9 @@ Snowball: extracting relations from large plain-text collections	|	0.1111
 The Merge/Purge Problem for Large Databases	|	0.1111
 Duplicate Record Detection: A Survey	|	0.1111
 KQML as an agent communication language	|	0.0625
-DAML-S: Semantic Markup For Web Services	|	0.0377
-DAML-S: Web Service Description for the Semantic Web	|	0.0377
-Composing Web services on the Semantic Web	|	0.0299
+DAML-S: Semantic Markup For Web Services	|	0.0476
+DAML-S: Web Service Description for the Semantic Web	|	0.0476
+Composing Web services on the Semantic Web	|	0.0370
 Similarity Flooding: A Versatile Graph Matching Algorithm and Its Application to Schema Matching	|	0.0294
 Querying the World Wide Web	|	0.0294
 The Management of Probabilistic Data	|	0.0294
@@ -26,13 +26,13 @@ Answering recursive queries using views	|	0.0103
 Querying Object-Oriented Databases	|	0.0079
 Semantic e-Workflow Composition	|	0.0079
 Catching the boat with Strudel: experiences with a Web Site management system	|	0.0070
+Data integration: a theoretical perspective	|	0.0060
 Query Optimization for XML	|	0.0056
-Data integration: a theoretical perspective	|	0.0056
 Database techniques for the World-Wide Web: a survey	|	0.0052
 An Adaptive Query Execution System for Data Integration	|	0.0042
+DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0042
 A Query Language and Optimization Techniques for Unstructured Data	|	0.0039
-DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0038
-Lore: a database management system for semistructured data	|	0.0028
+Lore: a database management system for semistructured data	|	0.0030
 A survey of approaches to automatic schema matching	|	0.0026
 Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0026
 The Lorel Query Language for Semistructured Data	|	0.0026

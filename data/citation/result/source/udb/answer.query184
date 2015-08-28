@@ -13,18 +13,18 @@ OntoSeek: Content-Based Access to the Web	|	0.0417
 Classifying Schematic and Data Heterogeneity in Multidatabase Systems	|	0.0345
 Formal Ontology and Information Systems	|	0.0294
 Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases	|	0.0248
-DAML-S: Semantic Markup For Web Services	|	0.0231
-Composing Web services on the Semantic Web	|	0.0214
+DAML-S: Semantic Markup For Web Services	|	0.0247
+Composing Web services on the Semantic Web	|	0.0230
 Semantic integration of semistructured and structured data sources	|	0.0213
 Semantic Matching of Web Services Capabilities	|	0.0213
 A Translation Approach to Portable Ontology Specifications	|	0.0196
 Evaluating ontological decisions with OntoClean	|	0.0145
 Infomaster: An Information Integration System	|	0.0145
+Ontology Learning for the Semantic Web	|	0.0145
 Quality of service for workflows and web service processes	|	0.0145
 The Ontolin-gua Server: A Tool for Collaborative Ontology Construction	|	0.0145
 XLANG Web Services for Business Process Design	|	0.0139
 The TSIMMIS Approach to Mediation: Data Models and Languages	|	0.0139
-Ontology Learning for the Semantic Web	|	0.0137
 KQML as an agent communication language	|	0.0132
 An Approach for Measuring Semantic Similarity between Words Using Multiple Information Sources	|	0.0132
 PROMPT: Algorithm and Tool for Automated Ontology Merging and Alignment	|	0.0127
@@ -32,7 +32,7 @@ FCA-MERGE: Bottom-Up Merging of Ontologies	|	0.0123
 On the decidability of query containment under constraints	|	0.0123
 A hierarchical approach to wrapper induction	|	0.0123
 Description Logics in Data Management	|	0.0123
-DAML-S: Web Service Description for the Semantic Web	|	0.0116
+DAML-S: Web Service Description for the Semantic Web	|	0.0123
 Semantic integration: a survey of ontology-based approaches	|	0.0115
 Development and application of a metric on semantic nets	|	0.0115
 Querying Object-Oriented Databases	|	0.0108
@@ -64,19 +64,19 @@ An Adaptive Query Execution System for Data Integration	|	0.0067
 Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0067
 Data Management for Peer-to-Peer Computing : A Vision	|	0.0064
 Schema Mapping as Query Discovery	|	0.0064
+Learning to map between ontologies on the semantic web	|	0.0054
 Catching the boat with Strudel: experiences with a Web Site management system	|	0.0050
 Object identity	|	0.0046
-Learning to map between ontologies on the semantic web	|	0.0046
 Database techniques for the World-Wide Web: a survey	|	0.0045
 A Survey of Schema-Based Matching Approaches	|	0.0042
 Mediators in the Architecture of Future Information Systems	|	0.0039
+Optimizing Queries with Materialized Views	|	0.0036
 Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.0036
 Semantic data models	|	0.0036
 Database abstractions: aggregation and generalization	|	0.0036
-Optimizing Queries with Materialized Views	|	0.0034
-Eddies: Continuously Adaptive Query Processing	|	0.0031
+Eddies: Continuously Adaptive Query Processing	|	0.0034
 A comparative analysis of methodologies for database schema integration	|	0.0024
 A survey of approaches to automatic schema matching	|	0.0023
+Query Optimization in Database Systems	|	0.0016
 Answering queries using views: A survey	|	0.0015
-Query Optimization in Database Systems	|	0.0015
 Access path selection in a relational database management system	|	0.0011

@@ -13,14 +13,14 @@ The Ontolin-gua Server: A Tool for Collaborative Ontology Construction	|	0.0513
 Using semantic values to facilitate interoperability among heterogeneous information systems	|	0.0435
 Ontologies: principles, methods and applications	|	0.0278
 Infomaster: An Information Integration System	|	0.0256
+Learning to map between ontologies on the semantic web	|	0.0256
 The Essential Distributed Objects Survival Guide	|	0.0256
 W3c resource description framework (rdf) model and syntax specification	|	0.0256
+A Framework for Understanding and Classifying Ontology Applications	|	0.0238
 Ontology development 101: A guide to creating your first ontology	|	0.0238
 Toward principles for the design of ontologies used for knowledge sharing?	|	0.0217
-A Framework for Understanding and Classifying Ontology Applications	|	0.0213
-Learning to map between ontologies on the semantic web	|	0.0211
 Resource description framework (rdf)	|	0.0196
-Ontology Evolution: Not the Same as Schema Evolution	|	0.0177
+Ontology Evolution: Not the Same as Schema Evolution	|	0.0196
 A Survey of Schema-Based Matching Approaches	|	0.0145
 Formal Ontology and Information Systems	|	0.0139
 Semantic e-Workflow Composition	|	0.0128
@@ -30,7 +30,7 @@ Mediators in the Architecture of Future Information Systems	|	0.0088
 Semantic and Schematic Similarities Between Database Objects: A Context-Based Approach	|	0.0088
 Schema Mapping as Query Discovery	|	0.0079
 A survey of approaches to automatic schema matching	|	0.0072
-Learning to match ontologies on the Semantic Web	|	0.0064
+Learning to match ontologies on the Semantic Web	|	0.0071
 Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.0048
 Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.0041
 Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0035

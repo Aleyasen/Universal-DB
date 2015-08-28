@@ -14,8 +14,8 @@ Query Reformulation for Dynamic Information Integration	|	0.0321
 Data Model and Query Evaluation in Global Information Systems	|	0.0256
 A Graph-Oriented Model for Articulation of Ontology Interdependencies	|	0.0247
 Description Logics in Data Management	|	0.0215
+Ontology Evolution: Not the Same as Schema Evolution	|	0.0215
 Data Models	|	0.0215
-Ontology Evolution: Not the Same as Schema Evolution	|	0.0203
 Semantic integration of semistructured and structured data sources	|	0.0189
 Semantic Matching of Web Services Capabilities	|	0.0189
 The functional data model and the data language DAPLEX	|	0.0178
@@ -32,24 +32,25 @@ Quality of service for workflows and web service processes	|	0.0123
 Measuring Similarity between Ontologies	|	0.0119
 Combining and relating ontologies: an analysis of problems and solutions	|	0.0119
 OntoSeek: Content-Based Access to the Web	|	0.0119
+A Framework for Understanding and Classifying Ontology Applications	|	0.0119
 OIL in a Nutshell	|	0.0119
 XLANG Web Services for Business Process Design	|	0.0119
+A logical design methodology for relational databases using the extended entity-relationship model	|	0.0118
 Using Information Content to Evaluate Semantic Similarity in a Taxonomy	|	0.0114
 Using semantic values to facilitate interoperability among heterogeneous information systems	|	0.0114
 Applying Model Management to Classical Meta Data Problems	|	0.0114
 InfoSleuth: agent-based semantic integration of information in open and dynamic environments	|	0.0114
-A Framework for Understanding and Classifying Ontology Applications	|	0.0112
 An Introduction to Database Systems	|	0.0109
-A logical design methodology for relational databases using the extended entity-relationship model	|	0.0109
+DAML-S: Semantic Markup For Web Services	|	0.0108
 Distributed Databases: Principles and Systems	|	0.0108
 Principles of Distributed Database Systems	|	0.0108
-DAML-S: Semantic Markup For Web Services	|	0.0102
 Interoperability of multiple autonomous databases	|	0.0101
-Composing Web services on the Semantic Web	|	0.0095
+A language facility for designing database-intensive applications	|	0.0101
+Composing Web services on the Semantic Web	|	0.0101
+Piazza: data management infrastructure for semantic web applications	|	0.0101
 Information sharing across private databases	|	0.0094
+Don't Scrap It, Wrap It! A Wrapper Architecture for Legacy Data Sources	|	0.0094
 WordNet: a lexical database for English	|	0.0094
-Piazza: data management infrastructure for semantic web applications	|	0.0094
-A language facility for designing database-intensive applications	|	0.0093
 The functional data model and the data languages DAPLEX	|	0.0091
 A survey of approaches to automatic schema matching	|	0.0088
 Knowledge Engineering: Principles and Methods	|	0.0088
@@ -57,22 +58,21 @@ Ontologies: principles, methods and applications	|	0.0088
 Generating Finite-State Transducers for Semi-Structured Data Extraction from the Web	|	0.0088
 An Environment for Merging and Testing Large Ontologies	|	0.0088
 The Ontolingua Server: a tool for collaborative ontology construction	|	0.0088
-Don't Scrap It, Wrap It! A Wrapper Architecture for Legacy Data Sources	|	0.0087
 A Taxonomy of Time in Databases	|	0.0081
+A federated architecture for information management	|	0.0081
 The entity-relationship model---toward a unified view of data	|	0.0080
-A federated architecture for information management	|	0.0075
 Query Caching and Optimization in Distributed Mediator Systems	|	0.0069
 Database abstractions: aggregation and generalization	|	0.0069
 The PROMPT suite: interactive tools for ontology merging and mapping	|	0.0069
 Database Description with SDM: A Semantic Database Model	|	0.0064
 Making Smalltalk a Database System	|	0.0059
 PROMPT: Algorithm and Tool for Automated Ontology Merging and Alignment	|	0.0059
-Learning to match ontologies on the Semantic Web	|	0.0051
-IFO: a formal semantic database model	|	0.0047
+Learning to match ontologies on the Semantic Web	|	0.0055
+IFO: a formal semantic database model	|	0.0051
+Lore: a database management system for semistructured data	|	0.0050
 Your Mediators Need Data Conversion!	|	0.0047
 Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.0047
 Extending the database relational model to capture more meaning	|	0.0047
-Lore: a database management system for semistructured data	|	0.0047
 Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.0043
 Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.0040
 Database description with SDM: a semantic database model	|	0.0040
@@ -80,11 +80,11 @@ An overview of data warehousing and OLAP technology	|	0.0040
 Further Normalization of the Data Base Relational Model	|	0.0040
 Mediators in the Architecture of Future Information Systems	|	0.0037
 Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.0035
-An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.0030
-Mining Generalized Association Rules	|	0.0028
+An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.0035
+Mining Generalized Association Rules	|	0.0035
 The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0028
-Data integration: a theoretical perspective	|	0.0023
+Data integration: a theoretical perspective	|	0.0025
 Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0022
-Query Optimization in Database Systems	|	0.0015
+Query Optimization in Database Systems	|	0.0016
 Query evaluation techniques for large databases	|	0.0011
 Foundations of Databases	|	0.0008

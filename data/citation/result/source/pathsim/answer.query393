@@ -1,56 +1,54 @@
-ULDBs: Databases with Uncertainty and Lineage	|	0.3256
-XIRQL: a query language for information retrieval in XML documents	|	0.3158
+ULDBs: Databases with Uncertainty and Lineage	|	0.3333
+Trio: A System for Integrated Management of Data, Accuracy, and Lineage	|	0.3077
 The Management of Probabilistic Data	|	0.2857
-Towards a Logical Reconstruction of Relational Database Theory	|	0.2791
-Data Models	|	0.2791
-Efficient Query Evaluation on Probabilistic Databases	|	0.2289
-Query Optimization in Database Systems	|	0.0673
-Principles of database systems	|	0.0500
-Trio: A System for Integrated Management of Data, Accuracy, and Lineage	|	0.0408
-Logic-based approach to semantic query optimization	|	0.0294
-Implementation of integrity constraints and views by query modification	|	0.0294
-Approximating block accesses in database organizations	|	0.0263
-DBXplorer: A System for Keyword-Based Search over Relational Databases	|	0.0233
-Evaluating probabilistic queries over imprecise data	|	0.0233
-Randomized Algorithms for Optimizing Large Join Queries	|	0.0233
-Optimal Aggregation Algorithms for Middleware	|	0.0233
-Pnnc:ples of database systems	|	0.0233
-Organization and maintenance of large ordered indexes	|	0.0233
-GAMMA - A High Performance Dataflow Database Machine	|	0.0204
-Starburst Mid-Flight: As the Dust Clears	|	0.0179
-DISCOVER: Keyword Search in Relational Databases	|	0.0156
-XRANK: ranked keyword search over XML documents	|	0.0156
-Telos: representing knowledge about information systems	|	0.0137
-A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.0137
-Retrieving and Integrating Data from Multiple Information Sources	|	0.0137
-The EXODUS Optimizer Generator	|	0.0137
-Using Semi-Joins to Solve Relational Queries	|	0.0137
-Data Structures for Range Searching	|	0.0120
-On optimizing an SQL-like nested query	|	0.0120
-Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.0110
-Quilt: An XML Query Language for Heterogeneous Data Sources	|	0.0094
-Why and Where: A Characterization of Data Provenance	|	0.0094
-Principles of Database Systems, 2nd Edition	|	0.0084
-XML-QL: A Query Language for XML	|	0.0084
-Organization and Maintenance of Large Ordered Indexes	|	0.0075
-An Introduction to Database Systems	|	0.0075
-Concurrency Control in Distributed Database Systems	|	0.0075
-IFO: a formal semantic database model	|	0.0061
-The Grid File: An Adaptable, Symmetric Multi-Key File Structure	|	0.0046
-The Gamma Database Machine Project	|	0.0046
-Semantic data models	|	0.0042
-Relational Completeness of Data Base Sublanguages	|	0.0042
-The notions of consistency and predicate locks in a database system	|	0.0042
-Organization and Maintenance of Large Ordered Indices	|	0.0039
-Optimal implementation of conjunctive queries in relational data bases	|	0.0036
-Temporal and Real-Time Databases: A Survey	|	0.0033
-Principles of Database and Knowledge-Base Systems, Volume I	|	0.0028
-The Grid File: An Adaptable, Symmetric Multikey File Structure	|	0.0028
-Logic and Databases: A Deductive Approach	|	0.0023
-Types and persistence in database programming languages	|	0.0023
-The Theory of Relational Databases	|	0.0019
-Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0018
-Foundations of Databases	|	0.0013
-Access path selection in a relational database management system	|	0.0011
-Principles of Database and Knowledge-Base Systems, Volume II	|	0.0007
-Query evaluation techniques for large databases	|	0.0004
+Efficient Query Evaluation on Probabilistic Databases	|	0.2353
+Principles of database systems	|	0.2222
+Logic-based approach to semantic query optimization	|	0.2000
+Implementation of integrity constraints and views by query modification	|	0.2000
+XIRQL: a query language for information retrieval in XML documents	|	0.1818
+Approximating block accesses in database organizations	|	0.1818
+Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.1667
+DBXplorer: A System for Keyword-Based Search over Relational Databases	|	0.1667
+Evaluating probabilistic queries over imprecise data	|	0.1667
+Randomized Algorithms for Optimizing Large Join Queries	|	0.1667
+Optimal Aggregation Algorithms for Middleware	|	0.1667
+Pnnc:ples of database systems	|	0.1667
+Organization and maintenance of large ordered indexes	|	0.1667
+GAMMA - A High Performance Dataflow Database Machine	|	0.1538
+Starburst Mid-Flight: As the Dust Clears	|	0.1429
+DISCOVER: Keyword Search in Relational Databases	|	0.1333
+XRANK: ranked keyword search over XML documents	|	0.1333
+Telos: representing knowledge about information systems	|	0.1250
+A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.1250
+Retrieving and Integrating Data from Multiple Information Sources	|	0.1250
+The EXODUS Optimizer Generator	|	0.1250
+Using Semi-Joins to Solve Relational Queries	|	0.1250
+Data Structures for Range Searching	|	0.1176
+On optimizing an SQL-like nested query	|	0.1176
+Quilt: An XML Query Language for Heterogeneous Data Sources	|	0.1053
+Why and Where: A Characterization of Data Provenance	|	0.1053
+Principles of Database Systems, 2nd Edition	|	0.1000
+XML-QL: A Query Language for XML	|	0.1000
+Organization and Maintenance of Large Ordered Indexes	|	0.0952
+An Introduction to Database Systems	|	0.0952
+Concurrency Control in Distributed Database Systems	|	0.0952
+IFO: a formal semantic database model	|	0.0909
+The Gamma Database Machine Project	|	0.0800
+Foundations of Databases	|	0.0800
+The Grid File: An Adaptable, Symmetric Multi-Key File Structure	|	0.0769
+The notions of consistency and predicate locks in a database system	|	0.0769
+Semantic data models	|	0.0741
+Relational Completeness of Data Base Sublanguages	|	0.0741
+Organization and Maintenance of Large Ordered Indices	|	0.0714
+Optimal implementation of conjunctive queries in relational data bases	|	0.0690
+Temporal and Real-Time Databases: A Survey	|	0.0667
+Principles of Database and Knowledge-Base Systems, Volume I	|	0.0625
+The Grid File: An Adaptable, Symmetric Multikey File Structure	|	0.0625
+Types and persistence in database programming languages	|	0.0606
+Logic and Databases: A Deductive Approach	|	0.0571
+The Theory of Relational Databases	|	0.0526
+Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0513
+Query Optimization in Database Systems	|	0.0500
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0494
+Access path selection in a relational database management system	|	0.0417
+Query evaluation techniques for large databases	|	0.0256

@@ -7,19 +7,19 @@ Measuring Similarity between Ontologies	|	0.0625
 Object-Oriented Programming: Themes and Variations	|	0.0625
 Simple Fast Algorithms for the Editing Distance Between Trees and Related Problems	|	0.0625
 Simlarity Search for Web Services	|	0.0400
-Ontology Evolution: Not the Same as Schema Evolution	|	0.0328
+Ontology Evolution: Not the Same as Schema Evolution	|	0.0400
 Semantic integration: a survey of ontology-based approaches	|	0.0323
 Data exchange: semantics and query answering	|	0.0323
 Generic Schema Matching with Cupid	|	0.0263
 Semantic integration of semistructured and structured data sources	|	0.0263
 Similarity Flooding: A Versatile Graph Matching Algorithm and Its Application to Schema Matching	|	0.0263
+Don't Scrap It, Wrap It! A Wrapper Architecture for Legacy Data Sources	|	0.0263
 Translating Web Data	|	0.0263
 Starburst Mid-Flight: As the Dust Clears	|	0.0263
 The PROMPT suite: interactive tools for ontology merging and mapping	|	0.0263
-Don't Scrap It, Wrap It! A Wrapper Architecture for Legacy Data Sources	|	0.0213
-Data model issues for object-oriented applications	|	0.0183
+Data model issues for object-oriented applications	|	0.0217
 Ontology mapping: the state of the art	|	0.0182
-Learning to match ontologies on the Semantic Web	|	0.0154
+Learning to match ontologies on the Semantic Web	|	0.0174
 The Implementation of Postgres	|	0.0154
 COMA - A System for Flexible Combination of Schema Matching Approaches	|	0.0154
 Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases	|	0.0154
@@ -31,11 +31,11 @@ A Survey of Schema-Based Matching Approaches	|	0.0110
 Data Management for Peer-to-Peer Computing : A Vision	|	0.0099
 The functional data model and the data language DAPLEX	|	0.0099
 Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.0091
-Schema Mediation in Peer Data Management Systems	|	0.0077
-Piazza: data management infrastructure for semantic web applications	|	0.0069
+Schema Mediation in Peer Data Management Systems	|	0.0087
+Piazza: data management infrastructure for semantic web applications	|	0.0077
 Your Mediators Need Data Conversion!	|	0.0068
 Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.0061
 A comparative analysis of methodologies for database schema integration	|	0.0055
-DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0038
+DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0041
 Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0037
-Data integration: a theoretical perspective	|	0.0028
+Data integration: a theoretical perspective	|	0.0030

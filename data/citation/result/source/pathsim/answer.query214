@@ -1,52 +1,51 @@
-Change Detection in Hierarchically Structured Information	|	0.3235
-Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.1006
-Measuring Similarity between Ontologies	|	0.0833
-A survey of approaches to automatic schema matching	|	0.0781
-Detecting Changes in XML Documents	|	0.0625
-Applying Model Management to Classical Meta Data Problems	|	0.0625
-Composite Events for Active Databases: Semantics, Contexts and Detection	|	0.0476
-Simlarity Search for Web Services	|	0.0476
-View Maintenance in a Warehousing Environment	|	0.0396
-Ontology Evolution: Not the Same as Schema Evolution	|	0.0377
-Semantic integration: a survey of ontology-based approaches	|	0.0370
-XWRAP: An XML-Enabled Wrapper Construction System for Web Information Sources	|	0.0294
-Semantic integration of semistructured and structured data sources	|	0.0294
-A Theory of Attribute Equivalence in Databases with Application to Schema Integration	|	0.0294
-Data caching issues in an information retrieval system	|	0.0196
-Ontology mapping: the state of the art	|	0.0196
-Adaptive filters for continuous queries over distributed data streams	|	0.0192
-COMA - A System for Flexible Combination of Schema Matching Approaches	|	0.0164
-Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases	|	0.0164
-Path sharing and predicate evaluation for high-performance XML filtering	|	0.0164
-Generic Schema Matching with Cupid	|	0.0139
-Maintaining Views Incrementally	|	0.0139
-The PROMPT suite: interactive tools for ontology merging and mapping	|	0.0139
-Ontology Mapping: The State of the Art	|	0.0139
-Research problems in data warehousing	|	0.0119
-Data Management for Peer-to-Peer Computing : A Vision	|	0.0103
-Schema Mapping as Query Discovery	|	0.0103
-The CQL continuous query language: semantic foundations and query execution	|	0.0103
-The Architecture Of An Active Data Base Management System	|	0.0103
-Schema Mediation in Peer Data Management Systems	|	0.0080
-Learning to match ontologies on the Semantic Web	|	0.0080
-Piazza: data management infrastructure for semantic web applications	|	0.0071
-Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.0070
-TinyDB: an acquisitional query processing system for sensor networks	|	0.0070
-Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.0063
-Multiple-query optimization	|	0.0063
-Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.0056
-A Survey of Schema-Based Matching Approaches	|	0.0056
-The design of an acquisitional query processor for sensor networks	|	0.0051
-Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.0046
-Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0046
-Issues in data stream management	|	0.0046
-Continuous queries over data streams	|	0.0042
-Continuously adaptive continuous queries over streams	|	0.0042
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0042
-NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0039
-DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0038
-Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0035
-A comparative analysis of methodologies for database schema integration	|	0.0028
-Data integration: a theoretical perspective	|	0.0028
-Models and issues in data stream systems	|	0.0023
-Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0019
+View Maintenance in a Warehousing Environment	|	0.3636
+Measuring Similarity between Ontologies	|	0.3333
+Detecting Changes in XML Documents	|	0.2857
+Applying Model Management to Classical Meta Data Problems	|	0.2857
+Composite Events for Active Databases: Semantics, Contexts and Detection	|	0.2500
+Simlarity Search for Web Services	|	0.2500
+Ontology Evolution: Not the Same as Schema Evolution	|	0.2500
+Semantic integration: a survey of ontology-based approaches	|	0.2222
+Change Detection in Hierarchically Structured Information	|	0.2000
+XWRAP: An XML-Enabled Wrapper Construction System for Web Information Sources	|	0.2000
+Semantic integration of semistructured and structured data sources	|	0.2000
+A Theory of Attribute Equivalence in Databases with Application to Schema Integration	|	0.2000
+Adaptive filters for continuous queries over distributed data streams	|	0.1818
+Data caching issues in an information retrieval system	|	0.1667
+Ontology mapping: the state of the art	|	0.1667
+COMA - A System for Flexible Combination of Schema Matching Approaches	|	0.1538
+Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases	|	0.1538
+Path sharing and predicate evaluation for high-performance XML filtering	|	0.1538
+Generic Schema Matching with Cupid	|	0.1429
+Maintaining Views Incrementally	|	0.1429
+The Architecture Of An Active Data Base Management System	|	0.1429
+The PROMPT suite: interactive tools for ontology merging and mapping	|	0.1429
+Ontology Mapping: The State of the Art	|	0.1429
+Research problems in data warehousing	|	0.1333
+Data Management for Peer-to-Peer Computing : A Vision	|	0.1250
+Schema Mapping as Query Discovery	|	0.1250
+The CQL continuous query language: semantic foundations and query execution	|	0.1250
+Schema Mediation in Peer Data Management Systems	|	0.1176
+Learning to match ontologies on the Semantic Web	|	0.1176
+Piazza: data management infrastructure for semantic web applications	|	0.1111
+Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.1053
+TinyDB: an acquisitional query processing system for sensor networks	|	0.1053
+Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.1000
+Multiple-query optimization	|	0.1000
+Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.0952
+A Survey of Schema-Based Matching Approaches	|	0.0952
+The design of an acquisitional query processor for sensor networks	|	0.0909
+Continuously adaptive continuous queries over streams	|	0.0870
+Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.0870
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0870
+Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0870
+Issues in data stream management	|	0.0870
+DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0833
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0833
+Continuous queries over data streams	|	0.0833
+NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0800
+Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0769
+Data integration: a theoretical perspective	|	0.0714
+A comparative analysis of methodologies for database schema integration	|	0.0690
+Models and issues in data stream systems	|	0.0625
+Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0571

@@ -15,18 +15,19 @@ Path sharing and predicate evaluation for high-performance XML filtering	|	0.022
 Detecting Changes in XML Documents	|	0.0217
 Approximating block accesses in database organizations	|	0.0217
 Indexing and Querying XML Data for Regular Path Expressions	|	0.0196
+Wavelet-Based Histograms for Selectivity Estimation	|	0.0196
 Probabilistic Counting Algorithms for Data Base Applications	|	0.0196
 Extensible Markup Language (XML) 1.0	|	0.0196
 Maintaining Stream Statistics over Sliding Windows	|	0.0196
 extensible markup language (xml) 1	|	0.0156
-Wavelet-Based Histograms for Selectivity Estimation	|	0.0139
-Approximate Query Processing Using Wavelets	|	0.0127
-Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0127
+Approximate Query Processing Using Wavelets	|	0.0142
+Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0142
+Accelerating XPath location steps	|	0.0139
 Storing and querying ordered XML using a relational database system	|	0.0123
 Random sampling with a reservoir	|	0.0123
-Accelerating XPath location steps	|	0.0122
 TIMBER: A native XML database	|	0.0110
 Storing and Querying XML Data using an RDBMS	|	0.0098
+The Architecture Of An Active Data Base Management System	|	0.0098
 Structural Joins: A Primitive for Efficient XML Query Pattern Matching	|	0.0098
 Quilt: An XML Query Language for Heterogeneous Data Sources	|	0.0088
 Holistic twig joins: optimal XML pattern matching	|	0.0088
@@ -34,23 +35,22 @@ Efficiently Publishing Relational Data as XML Documents	|	0.0079
 A Query Language for XML	|	0.0079
 Aurora: a new model and architecture for data stream management	|	0.0079
 XML-QL: A Query Language for XML	|	0.0079
-The Architecture Of An Active Data Base Management System	|	0.0078
 Hilbert R-tree: An Improved R-tree using Fractals	|	0.0064
 Beyond Market Baskets: Generalizing Association Rules to Correlations	|	0.0058
 New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.0053
 The Lorel Query Language for Semistructured Data	|	0.0048
 Models and issues in data stream systems	|	0.0042
+Online Aggregation	|	0.0041
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0041
 Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.0037
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0037
 Continuous queries over data streams	|	0.0037
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0037
-Online Aggregation	|	0.0035
-Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0035
 NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0035
 A Query Language and Optimization Techniques for Unstructured Data	|	0.0035
 Access path selection in a relational database management system	|	0.0033
 Monitoring Streams - A New Class of Data Management Applications	|	0.0030
+Lore: a database management system for semistructured data	|	0.0028
 Principles of Database and Knowledge-Base Systems, Volume I	|	0.0028
-Lore: a database management system for semistructured data	|	0.0026
-An Effective Hash Based Algorithm for Mining Association Rules	|	0.0023
+An Effective Hash Based Algorithm for Mining Association Rules	|	0.0026
 Fast Algorithms for Mining Association Rules in Large Databases	|	0.0023
-Fast Algorithms for Mining Association Rules	|	0.0009
+Fast Algorithms for Mining Association Rules	|	0.0010

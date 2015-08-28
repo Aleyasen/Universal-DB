@@ -10,8 +10,8 @@ A Quantitative Analysis and Performance Study for Similarity-Search Methods in H
 The X-tree : An Index Structure for High-Dimensional Data	|	0.1066
 The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0959
 Searching in high-dimensional spaces: Index structures for improving the performance of multimedia databases	|	0.0872
-The R*-tree: an efficient and robust access method for points and rectangles	|	0.0670
-A cost model for nearest neighbor search in high-dimensional data space	|	0.0358
+The R*-tree: an efficient and robust access method for points and rectangles	|	0.0689
+A cost model for nearest neighbor search in high-dimensional data space	|	0.0385
 Efficient and Effective Querying by Image Content	|	0.0344
 Ranking in Spatial Databases	|	0.0275
 Finding Generalized Projected Clusters In High Dimensional Spaces	|	0.0252
@@ -30,10 +30,10 @@ Near Neighbor Search in Large Metric Spaces	|	0.0168
 An Introduction to Spatial Database Systems	|	0.0165
 Optimal Multi-Step k-Nearest Neighbor Search	|	0.0164
 Fast Nearest Neighbor Search in Medical Image Databases	|	0.0157
+LOF: Identifying Density-Based Local Outliers	|	0.0157
 Searching in metric spaces	|	0.0153
 Efficient Time Series Matching by Wavelets	|	0.0147
 OPTICS: Ordering Points To Identify the Clustering Structure	|	0.0147
-LOF: Identifying Density-Based Local Outliers	|	0.0146
 Direct Spatial Search on Pictorial Databases Using Packed R-Trees	|	0.0137
 Quad Trees: A Data Structure for Retrieval on Composite Keys	|	0.0137
 Data Structures for Range Searching	|	0.0137
@@ -41,7 +41,7 @@ The Design and Analysis of Spatial Data Structures	|	0.0136
 The design & analysis of spatial data structures	|	0.0132
 Access methods for text	|	0.0127
 The Ubiquitous B-Tree	|	0.0124
-FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets	|	0.0107
+FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets	|	0.0113
 Organization and Maintenance of Large Ordered Indexes	|	0.0102
 Fast Time Sequence Indexing for Arbitrary Lp Norms	|	0.0100
 A class of data structures for associative searching	|	0.0095
@@ -50,24 +50,24 @@ Fast Algorithms for Projected Clustering	|	0.0094
 Linear Clustering of Objects with Multiple Atributes	|	0.0094
 Distance-Based Outliers: Algorithms and Applications	|	0.0089
 Similarity-Based Queries for Time Series Data	|	0.0089
+Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases	|	0.0082
 Efficient Processing of Spatial Joins Using R-Trees	|	0.0082
 Efficient Similarity Search In Sequence Databases	|	0.0081
 Multidimensional access methods	|	0.0081
+Efficient Algorithms for Mining Outliers from Large Data Sets	|	0.0079
 On indexing mobile objects	|	0.0079
 The hB-tree: a multiattribute indexing method with good guaranteed performance	|	0.0079
-Efficient Algorithms for Mining Outliers from Large Data Sets	|	0.0073
-Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases	|	0.0071
 Partition Based Spatial-Merge Join	|	0.0064
+Wavelet-Based Histograms for Selectivity Estimation	|	0.0064
 Organization and Maintenance of Large Ordered Indices	|	0.0062
 CURE: An Efficient Clustering Algorithm for Large Databases	|	0.0051
-Wavelet-Based Histograms for Selectivity Estimation	|	0.0050
+Join processing in relational databases	|	0.0051
 Fast Subsequence Matching in Time-Series Databases	|	0.0048
-Join processing in relational databases	|	0.0048
 The Quadtree and Related Hierarchical Data Structures	|	0.0047
 Spatial Query Processing in an Object-Oriented Database System	|	0.0038
 The Design of Postgres	|	0.0036
 Principles of Database and Knowledge-Base Systems, Volume I	|	0.0024
-Data Mining: An Overview from a Database Perspective	|	0.0017
+Data Mining: An Overview from a Database Perspective	|	0.0018
 Access path selection in a relational database management system	|	0.0011
 Query evaluation techniques for large databases	|	0.0008
 Principles of Database and Knowledge-Base Systems, Volume II	|	0.0003

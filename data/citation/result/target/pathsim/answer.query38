@@ -1,21 +1,21 @@
-Enhanced hypertext categorization using hyperlinks	|	0.5714
-Ontology Learning for the Semantic Web	|	0.5000
-An Information-Theoretic Definition of Similarity	|	0.4444
-Trust Management for the Semantic Web	|	0.4000
-Generic Schema Matching with Cupid	|	0.3077
-PROMPT: Algorithm and Tool for Automated Ontology Merging and Alignment	|	0.2667
-Semantic integration: a survey of ontology-based approaches	|	0.2500
-Similarity Flooding: A Versatile Graph Matching Algorithm and Its Application to Schema Matching	|	0.2222
-Translating Web Data	|	0.2222
-Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.2000
-Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.1818
-Ontology mapping: the state of the art	|	0.1818
-COMA - A System for Flexible Combination of Schema Matching Approaches	|	0.1667
-The PROMPT suite: interactive tools for ontology merging and mapping	|	0.1538
-Ontology Mapping: The State of the Art	|	0.1538
-Schema Mapping as Query Discovery	|	0.1333
-Learning to match ontologies on the Semantic Web	|	0.1250
-Learning to map between ontologies on the semantic web	|	0.1176
-Piazza: data management infrastructure for semantic web applications	|	0.1176
-A Survey of Schema-Based Matching Approaches	|	0.1000
-A survey of approaches to automatic schema matching	|	0.0690
+Ontology Learning for the Semantic Web	|	0.1667
+Learning to match ontologies on the Semantic Web	|	0.1574
+Learning to map between ontologies on the semantic web	|	0.1463
+Enhanced hypertext categorization using hyperlinks	|	0.1111
+Trust Management for the Semantic Web	|	0.1111
+An Information-Theoretic Definition of Similarity	|	0.0645
+Semantic integration: a survey of ontology-based approaches	|	0.0417
+Similarity Flooding: A Versatile Graph Matching Algorithm and Its Application to Schema Matching	|	0.0323
+Translating Web Data	|	0.0323
+Generic Schema Matching with Cupid	|	0.0290
+PROMPT: Algorithm and Tool for Automated Ontology Merging and Alignment	|	0.0213
+Ontology mapping: the state of the art	|	0.0208
+COMA - A System for Flexible Combination of Schema Matching Approaches	|	0.0172
+The PROMPT suite: interactive tools for ontology merging and mapping	|	0.0145
+Ontology Mapping: The State of the Art	|	0.0145
+Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.0115
+Schema Mapping as Query Discovery	|	0.0106
+Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.0094
+Piazza: data management infrastructure for semantic web applications	|	0.0081
+A Survey of Schema-Based Matching Approaches	|	0.0057
+A survey of approaches to automatic schema matching	|	0.0026

@@ -1,17 +1,17 @@
 Semantics and Implementation of Schema Evolution in Object-Oriented Databases	|	0.2653
-ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging	|	0.2024
+ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging	|	0.2192
 Benchmarking Database Systems A Systematic Approach	|	0.2021
 An Evaluation of Buffer Management Strategies for Relational Database Systems	|	0.1887
 The Design of Postgres	|	0.1193
 The Ubiquitous B-Tree	|	0.1081
-Query Optimization in Database Systems	|	0.0657
+Query Optimization in Database Systems	|	0.0679
 Approximating block accesses in database organizations	|	0.0526
 Object and File Management in the EXODUS Extensible Database System	|	0.0526
-Principles of database systems	|	0.0500
 GAMMA - A High Performance Dataflow Database Machine	|	0.0408
 The Implementation of Postgres	|	0.0361
 Operating system support for database management	|	0.0361
 Extending object-oriented systems with roles	|	0.0323
+Principles of database systems	|	0.0323
 The design and implementation of INGRES	|	0.0323
 The oo7 Benchmark	|	0.0294
 Object-Oriented Programming: Themes and Variations	|	0.0294
@@ -23,12 +23,11 @@ Principles of database buffer management	|	0.0274
 XIRQL: a query language for information retrieval in XML documents	|	0.0263
 Applying Model Management to Classical Meta Data Problems	|	0.0263
 Randomized Algorithms for Optimizing Large Join Queries	|	0.0233
+The HiPAC project: combining active databases and timing constraints	|	0.0233
 Pnnc:ples of database systems	|	0.0233
 Organization and maintenance of large ordered indexes	|	0.0233
-The HiPAC project: combining active databases and timing constraints	|	0.0206
 The LRU-K page replacement algorithm for database disk buffering	|	0.0204
 The Postgres Next Generation Database Management System	|	0.0189
-The Gamma Database Machine Project	|	0.0183
 Mariposa: A Wide-Area Distributed Database System	|	0.0179
 A probabilistic relational algebra for the integration of information retrieval and database systems	|	0.0179
 The LRU-K Page Replacement Algorithm For Database Disk Buffering	|	0.0179
@@ -37,17 +36,18 @@ Shoring Up Persistent Applications	|	0.0156
 On indexing mobile objects	|	0.0156
 Concurrency control performance modeling: alternatives and implications	|	0.0156
 The hB-tree: a multiattribute indexing method with good guaranteed performance	|	0.0156
+Data model issues for object-oriented applications	|	0.0156
 C-Store: A Column-oriented DBMS	|	0.0156
-Data model issues for object-oriented applications	|	0.0138
-Bigtable: A Distributed Storage System for Structured Data	|	0.0138
+Bigtable: A Distributed Storage System for Structured Data	|	0.0156
+The Gamma Database Machine Project	|	0.0151
+Join indices	|	0.0150
 Retrieving and Integrating Data from Multiple Information Sources	|	0.0137
 Using Semi-Joins to Solve Relational Queries	|	0.0137
-Join indices	|	0.0136
 Linear Hashing: A New Tool for File and Table Addressing	|	0.0120
 Data Structures for Range Searching	|	0.0120
+The Recovery Manager of the System R Database Manager	|	0.0120
 Principles of transaction-oriented database recovery	|	0.0120
 On optimizing an SQL-like nested query	|	0.0120
-The Recovery Manager of the System R Database Manager	|	0.0107
 Access methods for text	|	0.0106
 A Fast Index for Semistructured Data	|	0.0084
 Generalized Search Trees for Database Systems	|	0.0084
@@ -64,13 +64,13 @@ A class of data structures for associative searching	|	0.0068
 The Quadtree and Related Hierarchical Data Structures	|	0.0068
 Notes on Data Base Operating Systems	|	0.0061
 Multiple-query optimization	|	0.0055
+Types and persistence in database programming languages	|	0.0053
 The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0049
 System R: relational approach to database management	|	0.0049
-Types and persistence in database programming languages	|	0.0046
 The Grid File: An Adaptable, Symmetric Multi-Key File Structure	|	0.0046
+The notions of consistency and predicate locks in a database system	|	0.0046
 Distance browsing in spatial databases	|	0.0042
 Relational Completeness of Data Base Sublanguages	|	0.0042
-The notions of consistency and predicate locks in a database system	|	0.0042
 Concurrency Control and Recovery in Database Systems	|	0.0038
 Optimal implementation of conjunctive queries in relational data bases	|	0.0036
 The Grid File: An Adaptable, Symmetric Multikey File Structure	|	0.0028

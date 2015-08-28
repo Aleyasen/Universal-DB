@@ -3,39 +3,39 @@ The entity-relationship model---toward a unified view of data	|	0.1186
 Principles of database systems	|	0.1111
 Logic-based approach to semantic query optimization	|	0.0833
 Extending and Formalizing the Framework for Information Systems Architecture	|	0.0833
+Query Optimization in Database Systems	|	0.0635
 XIRQL: a query language for information retrieval in XML documents	|	0.0625
 Approximating block accesses in database organizations	|	0.0625
 Design and natural science research on information technology	|	0.0625
-Query Optimization in Database Systems	|	0.0615
 Randomized Algorithms for Optimizing Large Join Queries	|	0.0476
 Pnnc:ples of database systems	|	0.0476
 Organization and maintenance of large ordered indexes	|	0.0476
 GAMMA - A High Performance Dataflow Database Machine	|	0.0370
 Starburst Mid-Flight: As the Dust Clears	|	0.0294
 A probabilistic relational algebra for the integration of information retrieval and database systems	|	0.0294
+A logical design methodology for relational databases using the extended entity-relationship model	|	0.0206
 Telos: representing knowledge about information systems	|	0.0196
 A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.0196
 Retrieving and Integrating Data from Multiple Information Sources	|	0.0196
 The EXODUS Optimizer Generator	|	0.0196
 Using Semi-Joins to Solve Relational Queries	|	0.0196
-A logical design methodology for relational databases using the extended entity-relationship model	|	0.0179
 Data Structures for Range Searching	|	0.0164
 On optimizing an SQL-like nested query	|	0.0164
-IFO: a formal semantic database model	|	0.0141
+IFO: a formal semantic database model	|	0.0159
 Database Description with SDM: A Semantic Database Model	|	0.0119
 Principles of Database Systems, 2nd Edition	|	0.0103
 Semantic data models	|	0.0093
+A Data Model and Query Language for EXODUS	|	0.0090
 Organization and Maintenance of Large Ordered Indexes	|	0.0090
 Concurrency Control in Distributed Database Systems	|	0.0090
-A Data Model and Query Language for EXODUS	|	0.0080
+Types and persistence in database programming languages	|	0.0084
 The functional data model and the data languages DAPLEX	|	0.0077
-Types and persistence in database programming languages	|	0.0073
+The Gamma Database Machine Project	|	0.0056
 Database description with SDM: a semantic database model	|	0.0056
 A comparative analysis of methodologies for database schema integration	|	0.0056
 The Grid File: An Adaptable, Symmetric Multi-Key File Structure	|	0.0051
-The Gamma Database Machine Project	|	0.0051
+The notions of consistency and predicate locks in a database system	|	0.0051
 Relational Completeness of Data Base Sublanguages	|	0.0046
-The notions of consistency and predicate locks in a database system	|	0.0046
 Organization and Maintenance of Large Ordered Indices	|	0.0042
 The Theory of Relational Databases	|	0.0040
 Optimal implementation of conjunctive queries in relational data bases	|	0.0039

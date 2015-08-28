@@ -132,12 +132,12 @@ function generateModalContent(result_node, query_node, src_ranking_list, target_
         $.get(src_url, function(file_loc) {
             console.log("get " + file_loc);
 //        alert(file_loc);
-            generateGraphForRanking("#modal-content-src", file_loc, result_node, query_node, src_ranking_list, entityNodes, other_nodes);
+            generateGraphForRanking("#modal-content-src", file_loc, result_node, query_node, src_ranking_list, entityNodes, other_nodes, "source");
         });
         $.get(target_url, function(file_loc) {
             console.log("get " + file_loc);
 //        alert(file_loc);
-            generateGraphForRanking("#modal-content-target", file_loc, result_node, query_node, target_ranking_list, entityNodes, other_nodes);
+            generateGraphForRanking("#modal-content-target", file_loc, result_node, query_node, target_ranking_list, entityNodes, other_nodes, "target");
 
         });
     });
@@ -480,9 +480,10 @@ function generateGraph(container, inputdata, entityNodes, schema) {
 
 
 
-function generateGraphForRanking(container, inputdata, result_node, query_node, ranking_list, entityNodes, other_nodes) {
+function generateGraphForRanking(container, inputdata, result_node, query_node, ranking_list, entityNodes, other_nodes, schema) {
     console.log("result_node: " + result_node);
     console.log("query_node: " + query_node);
+    var dataset = $(".datasetpicker").select().val();
 //    console.log("ranking list:");
 //    console.log(ranking_list);
     d3.select(container).html("");
@@ -493,8 +494,8 @@ function generateGraphForRanking(container, inputdata, result_node, query_node, 
     var color = d3.scale.category10();
     var force = d3.layout.force()
             .gravity(.04)
-            .distance(90)
-            .charge(-200)
+            .distance(dbs[dataset]["schema"][schema]["param"]["distance"])
+            .charge(dbs[dataset]["schema"][schema]["param"]["charge"])
             .friction(.8)
             .size([width, height]);
     safety = 0;

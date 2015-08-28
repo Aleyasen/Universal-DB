@@ -2,7 +2,7 @@ Semantic Web	|	0.3889
 Detecting Changes in XML Documents	|	0.3600
 Visual Web Information Extraction with Lixto	|	0.2549
 Why and Where: A Characterization of Data Provenance	|	0.1828
-RQL: a declarative query language for RDF	|	0.1590
+RQL: a declarative query language for RDF	|	0.1698
 Data on the web: from relations to semistructured data and xml	|	0.1429
 The Object Database Standard: ODMG 2.0	|	0.0625
 The Tree-to-Tree Correction Problem	|	0.0625
@@ -18,10 +18,10 @@ extensible markup language (xml) 1	|	0.0233
 Object Exchange Across Heterogeneous Information Sources	|	0.0233
 A brief survey of web data extraction tools	|	0.0196
 Extracting Semistructured Information from the Web	|	0.0196
+View Maintenance in a Warehousing Environment	|	0.0196
 Generating Finite-State Transducers for Semi-Structured Data Extraction from the Web	|	0.0196
 A Query Language for XML	|	0.0189
 XML-QL: A Query Language for XML	|	0.0189
-View Maintenance in a Warehousing Environment	|	0.0168
 Telos: representing knowledge about information systems	|	0.0167
 Quilt: An XML Query Language for Heterogeneous Data Sources	|	0.0108
 From Structured Documents to Novel Query Facilities	|	0.0074

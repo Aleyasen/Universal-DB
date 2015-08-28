@@ -1,50 +1,53 @@
-Notes on Data Base Operating Systems	|	0.6667
-The serializability of concurrent database updates	|	0.3529
-The notions of consistency and predicate locks in a database system	|	0.3333
-The Case for Shared Nothing	|	0.3000
-Parallel database systems: the future of high performance database systems	|	0.2727
-A principle for resilient sharing of distributed resources	|	0.2667
-Concurrency Control in Distributed Database Systems	|	0.2400
-Parallel Database Systems: The Future of High Performance Database Processing1	|	0.2308
-A Majority consensus approach to concurrency control for multiple copy databases	|	0.2222
-Concurrency control performance modeling: alternatives and implications	|	0.2105
-A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.2000
-The Design of Postgres	|	0.2000
-Concurrency control in advanced database applications	|	0.2000
-Concurrency Control and Recovery in Database Systems	|	0.1905
-Using Semantic Knowledge for Transaction Processing in Distributed Database	|	0.1905
+Concurrency control performance modeling: alternatives and implications	|	0.2059
+Concurrency control in advanced database applications	|	0.1982
+Nonblocking commit protocols	|	0.1975
+Object and File Management in the EXODUS Extensible Database System	|	0.1974
+Bigtable: A Distributed Storage System for Structured Data	|	0.1961
+Using Semantic Knowledge for Transaction Processing in Distributed Database	|	0.1901
+On Optimistic Methods for Concurrency Control	|	0.1892
 Data Placement In Bubba	|	0.1818
-Staggered Striping in Multimedia Information Systems	|	0.1429
-Pig latin: a not-so-foreign language for data processing	|	0.1429
-Query Optimization in Database Systems	|	0.1364
-Nested Transactions: An Approach to Reliable Distributed Computing	|	0.1333
-The Theory of Database Concurrency Control	|	0.1250
-Query evaluation techniques for large databases	|	0.1220
-System R: A Relational Approach to Data Base Management	|	0.1212
-SPRINT: A Scalable Parallel Classifier for Data Mining	|	0.1176
-Scheduling Real-time Transactions: a Performance Evaluation	|	0.1176
-Scheduling real-time transactions: a performance evaluation	|	0.1176
-Mariposa: A Wide-Area Distributed Database System	|	0.1111
-C-Store: A Column-oriented DBMS	|	0.1053
-Bigtable: A Distributed Storage System for Structured Data	|	0.1053
-System R: relational approach to database management	|	0.1053
-On Optimistic Methods for Concurrency Control	|	0.1000
-A Taxonomy of Time in Databases	|	0.1000
-The Interdisciplinary Study of Coordination	|	0.1000
-ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging	|	0.1000
-Principles of transaction-oriented database recovery	|	0.0952
-Benchmarking Database Systems A Systematic Approach	|	0.0909
-Efficient locking for concurrent operations on B-trees	|	0.0909
-An Evaluation of Buffer Management Strategies for Relational Database Systems	|	0.0870
-Making Smalltalk a Database System	|	0.0833
-The functional data model and the data language DAPLEX	|	0.0833
-Organization and Maintenance of Large Ordered Indexes	|	0.0800
-Access path selection in a relational database management system	|	0.0769
-TinyDB: an acquisitional query processing system for sensor networks	|	0.0741
-The Gamma Database Machine Project	|	0.0690
-Eddies: Continuously Adaptive Query Processing	|	0.0625
-Organization and Maintenance of Large Ordered Indices	|	0.0625
-The Ubiquitous B-Tree	|	0.0625
-The functional data model and the data languages DAPLEX	|	0.0606
-Temporal and Real-Time Databases: A Survey	|	0.0588
-Principles of Database and Knowledge-Base Systems, Volume II	|	0.0471
+The EXODUS Optimizer Generator	|	0.1802
+Concurrency Control in Distributed Database Systems	|	0.1637
+The Gamma Database Machine Project	|	0.1266
+Notes on Data Base Operating Systems	|	0.0446
+The serializability of concurrent database updates	|	0.0345
+The Case for Shared Nothing	|	0.0270
+A principle for resilient sharing of distributed resources	|	0.0263
+Parallel database systems: the future of high performance database systems	|	0.0227
+A Majority consensus approach to concurrency control for multiple copy databases	|	0.0213
+The notions of consistency and predicate locks in a database system	|	0.0195
+A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.0180
+Parallel Database Systems: The Future of High Performance Database Processing1	|	0.0161
+Staggered Striping in Multimedia Information Systems	|	0.0139
+Pig latin: a not-so-foreign language for data processing	|	0.0139
+Nested Transactions: An Approach to Reliable Distributed Computing	|	0.0132
+The Theory of Database Concurrency Control	|	0.0123
+The Design of Postgres	|	0.0117
+SPRINT: A Scalable Parallel Classifier for Data Mining	|	0.0115
+Scheduling Real-time Transactions: a Performance Evaluation	|	0.0115
+Scheduling real-time transactions: a performance evaluation	|	0.0115
+Mariposa: A Wide-Area Distributed Database System	|	0.0106
+C-Store: A Column-oriented DBMS	|	0.0098
+A Taxonomy of Time in Databases	|	0.0090
+The Interdisciplinary Study of Coordination	|	0.0090
+ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging	|	0.0090
+Principles of transaction-oriented database recovery	|	0.0083
+Benchmarking Database Systems A Systematic Approach	|	0.0076
+Efficient locking for concurrent operations on B-trees	|	0.0076
+Concurrency Control and Recovery in Database Systems	|	0.0071
+An Evaluation of Buffer Management Strategies for Relational Database Systems	|	0.0069
+Making Smalltalk a Database System	|	0.0064
+The functional data model and the data language DAPLEX	|	0.0064
+System R: A Relational Approach to Data Base Management	|	0.0063
+Organization and Maintenance of Large Ordered Indexes	|	0.0058
+TinyDB: an acquisitional query processing system for sensor networks	|	0.0050
+Query Optimization in Database Systems	|	0.0048
+System R: relational approach to database management	|	0.0045
+Eddies: Continuously Adaptive Query Processing	|	0.0034
+Organization and Maintenance of Large Ordered Indices	|	0.0034
+The Ubiquitous B-Tree	|	0.0034
+The functional data model and the data languages DAPLEX	|	0.0031
+Temporal and Real-Time Databases: A Survey	|	0.0029
+Access path selection in a relational database management system	|	0.0022
+Query evaluation techniques for large databases	|	0.0019
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0007

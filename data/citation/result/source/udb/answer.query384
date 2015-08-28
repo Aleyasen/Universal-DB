@@ -3,18 +3,18 @@ DISCOVER: Keyword Search in Relational Databases	|	0.2549
 Extended algebra and calculus for nested relational databases	|	0.2143
 Logic-based approach to semantic query optimization	|	0.0952
 Logic and Databases: A Deductive Approach	|	0.0784
-Principles of database systems	|	0.0741
-Query Optimization in Database Systems	|	0.0655
+Query Optimization in Database Systems	|	0.0677
 Keyword Searching and Browsing in Databases using BANKS	|	0.0556
+Principles of database systems	|	0.0556
 The design and implementation of INGRES	|	0.0556
 An introduction to data base systems	|	0.0476
 Implementation of integrity constraints and views by query modification	|	0.0476
 Principles of Database Systems, 2nd Edition	|	0.0472
 XIRQL: a query language for information retrieval in XML documents	|	0.0400
 Negation as Failure	|	0.0400
+The relational model with relation-valued attributes	|	0.0400
 Approximating block accesses in database organizations	|	0.0400
 On closed world databases	|	0.0400
-The relational model with relation-valued attributes	|	0.0339
 DBXplorer: A System for Keyword-Based Search over Relational Databases	|	0.0333
 Towards a Logical Reconstruction of Relational Database Theory	|	0.0333
 Organization and maintenance of large ordered indexes	|	0.0333
@@ -26,8 +26,8 @@ Starburst Mid-Flight: As the Dust Clears	|	0.0233
 A probabilistic relational algebra for the integration of information retrieval and database systems	|	0.0233
 Object Exchange Across Heterogeneous Information Sources	|	0.0233
 XRANK: ranked keyword search over XML documents	|	0.0196
+Computable Queries for Relational Data Bases	|	0.0196
 Data-Driven Discovery of Quantitative Rules in Relational Databases	|	0.0196
-Computable Queries for Relational Data Bases	|	0.0168
 Telos: representing knowledge about information systems	|	0.0167
 A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.0167
 Retrieving and Integrating Data from Multiple Information Sources	|	0.0167
@@ -40,18 +40,18 @@ Relational Completeness of Data Base Sublanguages	|	0.0133
 Knowledge Discovery in Databases: An Attribute-Oriented Approach	|	0.0132
 Multiple-query optimization	|	0.0119
 Dependency Structures of Data Base Relationships	|	0.0108
-Universality of data retrieval languages	|	0.0093
+Universality of data retrieval languages	|	0.0108
 Organization and Maintenance of Large Ordered Indexes	|	0.0083
 An Introduction to Database Systems	|	0.0083
 Concurrency Control in Distributed Database Systems	|	0.0083
 Query-by-Example: A Data Base Language	|	0.0083
 Optimal implementation of conjunctive queries in relational data bases	|	0.0075
 Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.0066
+Types and persistence in database programming languages	|	0.0055
+The Gamma Database Machine Project	|	0.0054
 The Grid File: An Adaptable, Symmetric Multi-Key File Structure	|	0.0049
-The Gamma Database Machine Project	|	0.0049
-Types and persistence in database programming languages	|	0.0047
+The notions of consistency and predicate locks in a database system	|	0.0049
 Database abstractions: aggregation and generalization	|	0.0044
-The notions of consistency and predicate locks in a database system	|	0.0044
 Organization and Maintenance of Large Ordered Indices	|	0.0041
 The Theory of Relational Databases	|	0.0039
 The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0034

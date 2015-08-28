@@ -1,135 +1,135 @@
-Data model issues for object-oriented applications	|	0.1885
-F-Logic: A Higher-Order language for Reasoning about Objects, Inheritance, and Scheme	|	0.1784
-Making Smalltalk a Database System	|	0.1780
-GALILEO: a strongly-typed, interactive conceptual language	|	0.1661
-A Data Model and Query Language for EXODUS	|	0.1574
-A language facility for designing database-intensive applications	|	0.1492
-An Introduction to Database Systems	|	0.1479
-Query Optimization for XML	|	0.1207
-Extending the database relational model to capture more meaning	|	0.0980
-Types and persistence in database programming languages	|	0.0930
-Principles of Database and Knowledge-Base Systems, Volume II	|	0.0305
-An Approach to Persistent Programming	|	0.0262
-Object identity	|	0.0260
-Database abstractions: aggregation and generalization	|	0.0243
-Object-Oriented Programming: Themes and Variations	|	0.0240
-On the Declarative Semantics of Deductive Databases and Logic Programs	|	0.0229
-On Closed World Data Bases	|	0.0203
-Iris: An Object-Oriented Database Management System	|	0.0203
-A Relational Model for Large Shared Data Banks	|	0.0202
-Database Description with SDM: A Semantic Database Model	|	0.0193
-Universality of data retrieval languages	|	0.0177
-A Taxonomy of Time in Databases	|	0.0163
-Database description with SDM: a semantic database model	|	0.0161
-The Implementation of Postgres	|	0.0151
-Computational problems related to the design of normal form relational schemas	|	0.0151
-Semantic data models	|	0.0139
-View Definition and Generalization for Database Integration in a Multidatabase System	|	0.0129
-A Logical Language for Data and Knowledge Bases	|	0.0124
-The functional data model and the data languages DAPLEX	|	0.0121
-The entity-relationship model---toward a unified view of data	|	0.0121
-Principles of Database Systems, 2nd Edition	|	0.0119
-Synthesizing third normal form relations from functional dependencies	|	0.0119
-The functional data model and the data language DAPLEX	|	0.0119
-Negation as Failure	|	0.0114
-Unfounded sets and well-founded semantics for general logic programs	|	0.0114
-On closed world databases	|	0.0114
-The Design of Postgres	|	0.0112
-Query-by-Example: A Data Base Language	|	0.0110
-The relational model with relation-valued attributes	|	0.0109
-On the power of magic	|	0.0108
-Magic Sets and Other Strange Ways to Implement Logic Programs	|	0.0108
-Towards a Logical Reconstruction of Relational Database Theory	|	0.0108
-Nonblocking commit protocols	|	0.0108
-The Theory of Database Concurrency Control	|	0.0108
-Distributed Databases: Principles and Systems	|	0.0108
-Towards a Theory of Declarative Knowledge	|	0.0108
-Foundations of Logic Programming, 2nd Edition	|	0.0108
-On the Desirability of Acyclic Database Schemes	|	0.0108
-A model of authorization for next-generation database systems	|	0.0108
-Extensible Markup Language (XML) 1.0	|	0.0108
-Objects and Views	|	0.0102
-Remarks on the algebra of non first normal form relations	|	0.0102
-Semantics and Implementation of Schema Evolution in Object-Oriented Databases	|	0.0102
-The serializability of concurrent database updates	|	0.0102
-Join processing in database systems with large main memories	|	0.0102
-Join indices	|	0.0102
-Incomplete Information in Relational Databases	|	0.0101
-The Management of Probabilistic Data	|	0.0095
-Protecting Respondents' Identities in Microdata Release	|	0.0095
-A Majority consensus approach to concurrency control for multiple copy databases	|	0.0095
-IFO: a formal semantic database model	|	0.0094
-Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.0094
-Typechecking for XML transformers	|	0.0088
-From Semistructured Data to XML: Migrating the Lore Data Model and Query Language	|	0.0088
-Answering Queries Using Templates with Binding Patterns	|	0.0088
-The complexity of relational query languages (Extended Abstract)	|	0.0088
-The entity-relationship model: toward a unified view of data	|	0.0088
-A Critique of ANSI SQL Isolation Levels	|	0.0088
-Logic and Databases: A Deductive Approach	|	0.0083
-The temporal query language TQuel	|	0.0082
-Computable Queries for Relational Data Bases	|	0.0082
-Telos: representing knowledge about information systems	|	0.0082
-The EXODUS Optimizer Generator	|	0.0082
-Using Semi-Joins to Solve Relational Queries	|	0.0082
-Data caching issues in an information retrieval system	|	0.0082
-Further Normalization of the Data Base Relational Model	|	0.0080
-TIMBER: A native XML database	|	0.0075
-Linear Hashing: A New Tool for File and Table Addressing	|	0.0075
-Quad Trees: A Data Structure for Retrieval on Composite Keys	|	0.0075
-Data Structures for Range Searching	|	0.0075
-Principles of transaction-oriented database recovery	|	0.0075
-On optimizing an SQL-like nested query	|	0.0075
-A federated architecture for information management	|	0.0075
-The Recovery Manager of the System R Database Manager	|	0.0070
-Indexing and Querying XML Data for Regular Path Expressions	|	0.0070
-Maintaining Views Incrementally	|	0.0070
-Logical Foundations of Object-Oriented and Frame-Based Languages	|	0.0070
-Efficient locking for concurrent operations on B-trees	|	0.0070
-Structural Joins: A Primitive for Efficient XML Query Pattern Matching	|	0.0070
-System R: relational approach to database management	|	0.0066
-Disjunctive datalog	|	0.0064
-Dependency Structures of Data Base Relationships	|	0.0064
-Holistic twig joins: optimal XML pattern matching	|	0.0064
-The Postgres Next Generation Database Management System	|	0.0064
-System R: A Relational Approach to Data Base Management	|	0.0061
-A Fast Index for Semistructured Data	|	0.0059
-Answering recursive queries using views	|	0.0059
-XML-QL: A Query Language for XML	|	0.0059
-Concurrency Control in Distributed Database Systems	|	0.0055
-A logical design methodology for relational databases using the extended entity-relationship model	|	0.0054
-Join processing in relational databases	|	0.0051
-Storing Semistructured Data with STORED	|	0.0051
-Querying Object-Oriented Databases	|	0.0051
-A class of data structures for associative searching	|	0.0051
-Interoperability of multiple autonomous databases	|	0.0051
-The Quadtree and Related Hierarchical Data Structures	|	0.0051
-Knowledge Discovery in Databases: An Attribute-Oriented Approach	|	0.0047
-Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.0047
-Catching the boat with Strudel: experiences with a Web Site management system	|	0.0047
-Semistructured data	|	0.0047
-Notes on Data Base Operating Systems	|	0.0047
-Complexity of answering queries using materialized views	|	0.0047
-A comparative analysis of methodologies for database schema integration	|	0.0047
-The Theory of Relational Databases	|	0.0035
-Query Caching and Optimization in Distributed Mediator Systems	|	0.0035
-Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0035
-Relational Completeness of Data Base Sublanguages	|	0.0035
-The notions of consistency and predicate locks in a database system	|	0.0035
-Optimizing Queries with Materialized Views	|	0.0032
-Organization and Maintenance of Large Ordered Indices	|	0.0032
-The Ubiquitous B-Tree	|	0.0032
+Data model issues for object-oriented applications	|	0.2059
+F-Logic: A Higher-Order language for Reasoning about Objects, Inheritance, and Scheme	|	0.1954
+Making Smalltalk a Database System	|	0.1847
+GALILEO: a strongly-typed, interactive conceptual language	|	0.1818
+A Data Model and Query Language for EXODUS	|	0.1696
+A language facility for designing database-intensive applications	|	0.1613
+An Introduction to Database Systems	|	0.1520
+Query Optimization for XML	|	0.1224
+Types and persistence in database programming languages	|	0.1007
+Extending the database relational model to capture more meaning	|	0.0983
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0303
+Object-Oriented Programming: Themes and Variations	|	0.0278
+Object identity	|	0.0274
+On the Declarative Semantics of Deductive Databases and Logic Programs	|	0.0263
+Database abstractions: aggregation and generalization	|	0.0254
+A Relational Model for Large Shared Data Banks	|	0.0248
+On Closed World Data Bases	|	0.0230
+Iris: An Object-Oriented Database Management System	|	0.0230
+An Approach to Persistent Programming	|	0.0213
+Universality of data retrieval languages	|	0.0208
+Database Description with SDM: A Semantic Database Model	|	0.0208
+A Taxonomy of Time in Databases	|	0.0180
+Database description with SDM: a semantic database model	|	0.0169
+The Implementation of Postgres	|	0.0165
+Computational problems related to the design of normal form relational schemas	|	0.0165
+A Logical Language for Data and Knowledge Bases	|	0.0145
+Semantic data models	|	0.0145
+View Definition and Generalization for Database Integration in a Multidatabase System	|	0.0139
+Negation as Failure	|	0.0132
+Unfounded sets and well-founded semantics for general logic programs	|	0.0132
+The relational model with relation-valued attributes	|	0.0132
+On closed world databases	|	0.0132
+Principles of Database Systems, 2nd Edition	|	0.0127
+Synthesizing third normal form relations from functional dependencies	|	0.0127
+The functional data model and the data language DAPLEX	|	0.0127
+The entity-relationship model---toward a unified view of data	|	0.0127
+The functional data model and the data languages DAPLEX	|	0.0125
+On the power of magic	|	0.0123
+Magic Sets and Other Strange Ways to Implement Logic Programs	|	0.0123
+Towards a Logical Reconstruction of Relational Database Theory	|	0.0123
+Nonblocking commit protocols	|	0.0123
+The Theory of Database Concurrency Control	|	0.0123
+Distributed Databases: Principles and Systems	|	0.0123
+Towards a Theory of Declarative Knowledge	|	0.0123
+Foundations of Logic Programming, 2nd Edition	|	0.0123
+On the Desirability of Acyclic Database Schemes	|	0.0123
+A model of authorization for next-generation database systems	|	0.0123
+Extensible Markup Language (XML) 1.0	|	0.0123
+Incomplete Information in Relational Databases	|	0.0123
+The Design of Postgres	|	0.0117
+Join indices	|	0.0117
+Query-by-Example: A Data Base Language	|	0.0117
+Objects and Views	|	0.0115
+Remarks on the algebra of non first normal form relations	|	0.0115
+Semantics and Implementation of Schema Evolution in Object-Oriented Databases	|	0.0115
+The serializability of concurrent database updates	|	0.0115
+Join processing in database systems with large main memories	|	0.0115
+IFO: a formal semantic database model	|	0.0108
+The Management of Probabilistic Data	|	0.0106
+Protecting Respondents' Identities in Microdata Release	|	0.0106
+A Majority consensus approach to concurrency control for multiple copy databases	|	0.0106
+Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.0099
+Typechecking for XML transformers	|	0.0098
+From Semistructured Data to XML: Migrating the Lore Data Model and Query Language	|	0.0098
+Answering Queries Using Templates with Binding Patterns	|	0.0098
+The temporal query language TQuel	|	0.0098
+The complexity of relational query languages (Extended Abstract)	|	0.0098
+The entity-relationship model: toward a unified view of data	|	0.0098
+A Critique of ANSI SQL Isolation Levels	|	0.0098
+Computable Queries for Relational Data Bases	|	0.0098
+Telos: representing knowledge about information systems	|	0.0090
+The EXODUS Optimizer Generator	|	0.0090
+Using Semi-Joins to Solve Relational Queries	|	0.0090
+Data caching issues in an information retrieval system	|	0.0090
+A federated architecture for information management	|	0.0090
+Logic and Databases: A Deductive Approach	|	0.0085
+Further Normalization of the Data Base Relational Model	|	0.0084
+TIMBER: A native XML database	|	0.0083
+Linear Hashing: A New Tool for File and Table Addressing	|	0.0083
+Quad Trees: A Data Structure for Retrieval on Composite Keys	|	0.0083
+Data Structures for Range Searching	|	0.0083
+The Recovery Manager of the System R Database Manager	|	0.0083
+Principles of transaction-oriented database recovery	|	0.0083
+On optimizing an SQL-like nested query	|	0.0083
+Indexing and Querying XML Data for Regular Path Expressions	|	0.0076
+Maintaining Views Incrementally	|	0.0076
+Logical Foundations of Object-Oriented and Frame-Based Languages	|	0.0076
+Efficient locking for concurrent operations on B-trees	|	0.0076
+Structural Joins: A Primitive for Efficient XML Query Pattern Matching	|	0.0076
+Disjunctive datalog	|	0.0069
+Dependency Structures of Data Base Relationships	|	0.0069
+Holistic twig joins: optimal XML pattern matching	|	0.0069
+The Postgres Next Generation Database Management System	|	0.0069
+System R: relational approach to database management	|	0.0068
+A Fast Index for Semistructured Data	|	0.0064
+Answering recursive queries using views	|	0.0064
+A logical design methodology for relational databases using the extended entity-relationship model	|	0.0064
+XML-QL: A Query Language for XML	|	0.0064
+System R: A Relational Approach to Data Base Management	|	0.0063
+Concurrency Control in Distributed Database Systems	|	0.0058
+Join processing in relational databases	|	0.0058
+Storing Semistructured Data with STORED	|	0.0054
+Querying Object-Oriented Databases	|	0.0054
+A class of data structures for associative searching	|	0.0054
+Interoperability of multiple autonomous databases	|	0.0054
+The Quadtree and Related Hierarchical Data Structures	|	0.0054
+Knowledge Discovery in Databases: An Attribute-Oriented Approach	|	0.0050
+Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.0050
+Catching the boat with Strudel: experiences with a Web Site management system	|	0.0050
+Semistructured data	|	0.0050
+Notes on Data Base Operating Systems	|	0.0050
+Complexity of answering queries using materialized views	|	0.0050
+A comparative analysis of methodologies for database schema integration	|	0.0048
+The notions of consistency and predicate locks in a database system	|	0.0039
+Query Caching and Optimization in Distributed Mediator Systems	|	0.0036
+Optimizing Queries with Materialized Views	|	0.0036
+Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0036
+Relational Completeness of Data Base Sublanguages	|	0.0036
+The Theory of Relational Databases	|	0.0036
+DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0034
+Organization and Maintenance of Large Ordered Indices	|	0.0034
+The Ubiquitous B-Tree	|	0.0034
 Access path selection in a relational database management system	|	0.0032
-A Query Language and Optimization Techniques for Unstructured Data	|	0.0030
-Optimal implementation of conjunctive queries in relational data bases	|	0.0030
-DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0030
-Query Optimization in Database Systems	|	0.0030
-Temporal and Real-Time Databases: A Survey	|	0.0028
-Principles of Database and Knowledge-Base Systems, Volume I	|	0.0025
-Lore: a database management system for semistructured data	|	0.0023
-The Lorel Query Language for Semistructured Data	|	0.0022
-The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0022
-Concurrency Control and Recovery in Database Systems	|	0.0017
+Query Optimization in Database Systems	|	0.0032
+A Query Language and Optimization Techniques for Unstructured Data	|	0.0031
+Optimal implementation of conjunctive queries in relational data bases	|	0.0031
+Temporal and Real-Time Databases: A Survey	|	0.0029
+Lore: a database management system for semistructured data	|	0.0026
+Principles of Database and Knowledge-Base Systems, Volume I	|	0.0026
+The Lorel Query Language for Semistructured Data	|	0.0023
+The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0023
+Concurrency Control and Recovery in Database Systems	|	0.0018
 Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0017
 Foundations of Databases	|	0.0017
 Query evaluation techniques for large databases	|	0.0008

@@ -35,34 +35,34 @@ W3QS: A Query System for the World-Wide Web	|	0.0120
 Data Cleaning: Problems and Current Approaches	|	0.0120
 Computational problems related to the design of normal form relational schemas	|	0.0120
 Maintaining Views Incrementally	|	0.0106
-Development of an object-oriented DBMS	|	0.0095
+Development of an object-oriented DBMS	|	0.0106
 Wrapper induction: Efficiency and expressiveness	|	0.0094
 Disjunctive datalog	|	0.0094
+Universality of data retrieval languages	|	0.0094
 A New SQL-like Operator for Mining Association Rules	|	0.0084
+A logical design methodology for relational databases using the extended entity-relationship model	|	0.0084
 Synthesizing third normal form relations from functional dependencies	|	0.0084
-Universality of data retrieval languages	|	0.0083
-A logical design methodology for relational databases using the extended entity-relationship model	|	0.0075
-Join processing in relational databases	|	0.0068
+Join processing in relational databases	|	0.0075
 Storing Semistructured Data with STORED	|	0.0068
 Database Mining: A Performance Perspective	|	0.0068
 Interoperability of multiple autonomous databases	|	0.0068
 Knowledge Discovery in Databases: An Attribute-Oriented Approach	|	0.0061
 Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.0061
 Complexity of answering queries using materialized views	|	0.0061
-Types and persistence in database programming languages	|	0.0046
+Types and persistence in database programming languages	|	0.0053
 Query Caching and Optimization in Distributed Mediator Systems	|	0.0042
+Optimizing Queries with Materialized Views	|	0.0042
 Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0042
 Semantic data models	|	0.0042
-Optimizing Queries with Materialized Views	|	0.0039
 An Adaptive Query Execution System for Data Integration	|	0.0039
 A Quantitative Analysis and Performance Study for Similarity-Search Methods in High-Dimensional Spaces	|	0.0033
-Data integration: a theoretical perspective	|	0.0026
+Data integration: a theoretical perspective	|	0.0028
 A survey of approaches to automatic schema matching	|	0.0025
 Database techniques for the World-Wide Web: a survey	|	0.0025
 Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0025
 Logic and Databases: A Deductive Approach	|	0.0023
 Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0018
+Query Optimization in Database Systems	|	0.0017
 Answering queries using views: A survey	|	0.0016
-Query Optimization in Database Systems	|	0.0016
 Access path selection in a relational database management system	|	0.0011
 Foundations of Databases	|	0.0008

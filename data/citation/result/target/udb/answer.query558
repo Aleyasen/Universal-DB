@@ -1,21 +1,22 @@
 Scalable Distributed Stream Processing	|	0.2812
-The Design of the Borealis Stream Processing Engine	|	0.2056
+The Design of the Borealis Stream Processing Engine	|	0.2234
 The CQL continuous query language: semantic foundations and query execution	|	0.1849
-Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.1544
+Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.1654
 Issues in data stream management	|	0.1303
-Online Aggregation	|	0.1107
+Online Aggregation	|	0.1218
 Monitoring Streams - A New Class of Data Management Applications	|	0.1098
 Gigascope: a stream database for network applications	|	0.0588
 Maintaining Stream Statistics over Sliding Windows	|	0.0465
 Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.0426
-The Dangers of Replication and a Solution	|	0.0345
 StatStream: Statistical Monitoring of Thousands of Data Streams in Real Time	|	0.0312
+Adaptive filters for continuous queries over distributed data streams	|	0.0312
 Query Processing in Sensor Networks	|	0.0294
 Providing olap (on-line analytical processing) to user-analysts: an it mandate	|	0.0294
-Adaptive filters for continuous queries over distributed data streams	|	0.0270
 Complex Queries in DHT-based Peer-to-Peer Networks	|	0.0233
 An Improved Data Stream Summary: The Count-Min Sketch and Its Applications	|	0.0233
+The Dangers of Replication and a Solution	|	0.0233
 Model-Driven Data Acquisition in Sensor Networks	|	0.0204
+Finding Frequent Items in Data Streams	|	0.0204
 Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.0183
 Mariposa: A Wide-Area Distributed Database System	|	0.0179
 The cougar approach to in-network query processing in sensor networks	|	0.0179
@@ -23,29 +24,28 @@ An adaptive data replication algorithm	|	0.0179
 Aggregate-Query Processing in Data Warehousing Environments	|	0.0179
 Towards Sensor Database Systems	|	0.0179
 Query Processing, Resource Management, and Approximation in a Data Stream Management System	|	0.0179
-Finding Frequent Items in Data Streams	|	0.0175
+Distributed top-k monitoring	|	0.0168
 Aurora: a new model and architecture for data stream management	|	0.0168
-Distributed top-k monitoring	|	0.0149
-Wavelet-Based Histograms for Selectivity Estimation	|	0.0147
+Approximate Query Processing Using Wavelets	|	0.0150
+Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0150
 NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0142
 The design of an acquisitional query processor for sensor networks	|	0.0138
 Efficient Time Series Matching by Wavelets	|	0.0137
 Computing Iceberg Queries Efficiently	|	0.0137
+Active database systems	|	0.0137
 Random sampling with a reservoir	|	0.0137
-Approximate Query Processing Using Wavelets	|	0.0134
-Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0134
-Active database systems	|	0.0119
+Continuously adaptive continuous queries over streams	|	0.0126
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0126
+Approximate Frequency Counts over Data Streams	|	0.0122
+Eddies: Continuously Adaptive Query Processing	|	0.0116
 Continuous queries over data streams	|	0.0116
-Continuously adaptive continuous queries over streams	|	0.0115
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0115
 New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.0110
-Approximate Frequency Counts over Data Streams	|	0.0110
-Eddies: Continuously Adaptive Query Processing	|	0.0107
 Maintaining Views Incrementally	|	0.0106
+Wavelet-Based Histograms for Selectivity Estimation	|	0.0106
 Parallel database systems: the future of high performance database systems	|	0.0106
 Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Total	|	0.0094
 Models and issues in data stream systems	|	0.0086
-Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0071
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0077
 Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.0068
 Parallel Database Systems: The Future of High Performance Database Processing1	|	0.0068
 Temporal and Real-Time Databases: A Survey	|	0.0066

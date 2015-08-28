@@ -7,45 +7,46 @@ Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomo
 Principles of database and knowledge-base systems	|	0.1538
 Interoperability of multiple autonomous databases	|	0.1465
 Querying Object-Oriented Databases	|	0.1364
-Optimizing Queries with Materialized Views	|	0.1102
+Optimizing Queries with Materialized Views	|	0.1146
 Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0943
 Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0759
 Semantic and Schematic Similarities Between Database Objects: A Context-Based Approach	|	0.0256
 A Graph-Oriented Model for Articulation of Ontology Interdependencies	|	0.0247
 Description Logics in Data Management	|	0.0215
-Ontology Evolution: Not the Same as Schema Evolution	|	0.0203
+Ontology Evolution: Not the Same as Schema Evolution	|	0.0215
 Classifying Schematic and Data Heterogeneity in Multidatabase Systems	|	0.0202
 Semantic integration of semistructured and structured data sources	|	0.0189
 Object Exchange Across Heterogeneous Information Sources	|	0.0189
 Answering Queries Using Templates with Binding Patterns	|	0.0175
-A federated architecture for information management	|	0.0149
-Piazza: data management infrastructure for semantic web applications	|	0.0141
+A federated architecture for information management	|	0.0163
+Piazza: data management infrastructure for semantic web applications	|	0.0152
 Complexity of answering queries using materialized views	|	0.0140
 Incremental Maintenance of Views with Duplicates	|	0.0119
 Data Management for Peer-to-Peer Computing : A Vision	|	0.0118
 Answering recursive queries using views	|	0.0118
 What Makes Patterns Interesting in Knowledge Discovery Systems	|	0.0114
 Semantic Data Caching and Replacement	|	0.0114
+The relational model with relation-valued attributes	|	0.0114
 Using semantic values to facilitate interoperability among heterogeneous information systems	|	0.0114
+Schema Mediation in Peer Data Management Systems	|	0.0109
 An Introduction to Database Systems	|	0.0109
-The relational model with relation-valued attributes	|	0.0108
+Evaluating Top-k Queries over Web-Accessible Databases	|	0.0108
 Distributed Databases: Principles and Systems	|	0.0108
 Principles of Distributed Database Systems	|	0.0108
 Data Models	|	0.0108
 Query Caching and Optimization in Distributed Mediator Systems	|	0.0104
-Schema Mediation in Peer Data Management Systems	|	0.0101
 Objects and Views	|	0.0101
 Consistent query answers in inconsistent databases	|	0.0101
 Semantic e-Workflow Composition	|	0.0101
 Iris: An Object-Oriented Database Management System	|	0.0101
 Optimal implementation of conjunctive queries in relational databases	|	0.0101
-Evaluating Top-k Queries over Web-Accessible Databases	|	0.0100
+Lore: a database management system for semistructured data	|	0.0099
 Aggregate-Query Processing in Data Warehousing Environments	|	0.0094
+Don't Scrap It, Wrap It! A Wrapper Architecture for Legacy Data Sources	|	0.0094
 A Theory of Attribute Equivalence in Databases with Application to Schema Integration	|	0.0094
 WordNet: a lexical database for English	|	0.0094
 Your Mediators Need Data Conversion!	|	0.0093
 Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.0093
-Lore: a database management system for semistructured data	|	0.0093
 Optimal implementation of conjunctive queries in relational data bases	|	0.0091
 Wrapper generation for semi-structured Internet sources	|	0.0088
 Generating Finite-State Transducers for Semi-Structured Data Extraction from the Web	|	0.0088
@@ -53,14 +54,13 @@ The entity-relationship model: toward a unified view of data	|	0.0088
 Determining Semantic Similarity among Entity Classes from Different Ontologies	|	0.0088
 Data-Driven Discovery of Quantitative Rules in Relational Databases	|	0.0088
 Pmnczples of database and knowledge- base systems	|	0.0088
-Don't Scrap It, Wrap It! A Wrapper Architecture for Legacy Data Sources	|	0.0087
 The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0085
 Dynamic service matchmaking among agents in open information environments	|	0.0081
 Ontology mapping: the state of the art	|	0.0081
 A Survey of Schema-Based Matching Approaches	|	0.0080
 W3QS: A Query System for the World-Wide Web	|	0.0075
 Mediators in the Architecture of Future Information Systems	|	0.0075
-Data integration: a theoretical perspective	|	0.0070
+Data integration: a theoretical perspective	|	0.0074
 Maintaining Views Incrementally	|	0.0069
 Logical Foundations of Object-Oriented and Frame-Based Languages	|	0.0069
 Extracting structured data from Web pages	|	0.0069
@@ -70,17 +70,17 @@ Database techniques for the World-Wide Web: a survey	|	0.0066
 An Adaptive Query Execution System for Data Integration	|	0.0065
 Disjunctive datalog	|	0.0064
 View Definition and Generalization for Database Integration in a Multidatabase System	|	0.0064
+RQL: a declarative query language for RDF	|	0.0059
+Optimizing Queries Across Diverse Data Sources	|	0.0059
+A logical design methodology for relational databases using the extended entity-relationship model	|	0.0059
 The functional data model and the data language DAPLEX	|	0.0059
-RQL: a declarative query language for RDF	|	0.0055
-Optimizing Queries Across Diverse Data Sources	|	0.0054
-A logical design methodology for relational databases using the extended entity-relationship model	|	0.0054
-Join processing in relational databases	|	0.0051
+Join processing in relational databases	|	0.0055
 From Structured Documents to Novel Query Facilities	|	0.0051
 Database Mining: A Performance Perspective	|	0.0051
+A language facility for designing database-intensive applications	|	0.0051
 Knowledge Discovery in Databases: An Attribute-Oriented Approach	|	0.0047
 Catching the boat with Strudel: experiences with a Web Site management system	|	0.0047
 Semistructured data	|	0.0047
-A language facility for designing database-intensive applications	|	0.0047
 Answering queries using views: A survey	|	0.0045
 A survey of approaches to automatic schema matching	|	0.0044
 Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.0043
@@ -96,7 +96,7 @@ Principles of Database and Knowledge-Base Systems, Volume I	|	0.0025
 A comparative analysis of methodologies for database schema integration	|	0.0023
 The Lorel Query Language for Semistructured Data	|	0.0022
 Access path selection in a relational database management system	|	0.0021
-Query Optimization in Database Systems	|	0.0015
+Query Optimization in Database Systems	|	0.0016
 Foundations of Databases	|	0.0012
 Query evaluation techniques for large databases	|	0.0011
 Principles of Database and Knowledge-Base Systems, Volume II	|	0.0004

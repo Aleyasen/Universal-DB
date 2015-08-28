@@ -1,54 +1,54 @@
 Querying the Internet with PIER	|	0.2021
 TinyDB: an acquisitional query processing system for sensor networks	|	0.1585
 The design of an acquisitional query processor for sensor networks	|	0.1376
-Continuously adaptive continuous queries over streams	|	0.1308
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.1308
+Continuously adaptive continuous queries over streams	|	0.1345
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.1345
+Eddies: Continuously Adaptive Query Processing	|	0.1313
 Issues in data stream management	|	0.1303
-Eddies: Continuously Adaptive Query Processing	|	0.1248
 The cougar approach to in-network query processing in sensor networks	|	0.0714
 TelegraphCQ: Continuous Dataflow Processing for an Uncertain World	|	0.0588
 The state of the art in distributed query processing	|	0.0526
+Adaptive filters for continuous queries over distributed data streams	|	0.0469
 Composite Events for Active Databases: Semantics, Contexts and Detection	|	0.0465
-Adaptive filters for continuous queries over distributed data streams	|	0.0405
 Routing Indices For Peer-to-Peer Systems	|	0.0357
 Query Processing, Resource Management, and Approximation in a Data Stream Management System	|	0.0357
 Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.0319
 Query Processing in Sensor Networks	|	0.0294
 Aurora: a new model and architecture for data stream management	|	0.0252
 Complex Queries in DHT-based Peer-to-Peer Networks	|	0.0233
+Evaluating Top-k Queries over Web-Accessible Databases	|	0.0233
 Principles of distributed database systems	|	0.0233
 Maintaining Stream Statistics over Sliding Windows	|	0.0233
+The Design of the Borealis Stream Processing Engine	|	0.0213
 Model-Driven Data Acquisition in Sensor Networks	|	0.0204
-Evaluating Top-k Queries over Web-Accessible Databases	|	0.0200
+Finding Frequent Items in Data Streams	|	0.0204
 An Adaptive Query Execution System for Data Integration	|	0.0193
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0193
 The Postgres Next Generation Database Management System	|	0.0189
-The Design of the Borealis Stream Processing Engine	|	0.0187
 Monitoring Streams - A New Class of Data Management Applications	|	0.0183
 Mariposa: A Wide-Area Distributed Database System	|	0.0179
 Approximate Aggregation Techniques for Sensor Databases	|	0.0179
 Load Shedding in a Data Stream Manager	|	0.0179
-Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0178
 NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0178
-Finding Frequent Items in Data Streams	|	0.0175
 The CQL continuous query language: semantic foundations and query execution	|	0.0168
 Scalable Distributed Stream Processing	|	0.0156
 StatStream: Statistical Monitoring of Thousands of Data Streams in Real Time	|	0.0156
+Approximate Query Processing Using Wavelets	|	0.0150
 Parallel Database Systems: The Future of High Performance Database Processing1	|	0.0135
-Approximate Query Processing Using Wavelets	|	0.0134
 Path sharing and predicate evaluation for high-performance XML filtering	|	0.0120
 Models and issues in data stream systems	|	0.0108
 Parallel database systems: the future of high performance database systems	|	0.0106
-The Gamma Database Machine Project	|	0.0091
+The Gamma Database Machine Project	|	0.0101
 Data Management for Peer-to-Peer Computing : A Vision	|	0.0084
+Optimizing Queries Across Diverse Data Sources	|	0.0084
+Distributed top-k monitoring	|	0.0084
 Continuous queries over data streams	|	0.0077
-Optimizing Queries Across Diverse Data Sources	|	0.0075
-Distributed top-k monitoring	|	0.0075
-Schema Mediation in Peer Data Management Systems	|	0.0068
-Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.0067
+Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.0075
+Schema Mediation in Peer Data Management Systems	|	0.0075
+Approximate Frequency Counts over Data Streams	|	0.0061
 Multiple-query optimization	|	0.0055
-Approximate Frequency Counts over Data Streams	|	0.0055
+Online Aggregation	|	0.0042
 Query Caching and Optimization in Distributed Mediator Systems	|	0.0042
-Online Aggregation	|	0.0036
 The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0033
 Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0033
 Access path selection in a relational database management system	|	0.0022

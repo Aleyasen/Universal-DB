@@ -1,14 +1,14 @@
 Discovery of Spatial Association Rules in Geographic Information Databases	|	0.2198
-Maintenance of Discovered Association Rules in Large Databases: An Incremental Updating Technique	|	0.1938
+Maintenance of Discovered Association Rules in Large Databases: An Incremental Updating Technique	|	0.2059
 Principles of database and knowledge-base systems	|	0.1842
 Knowledge Discovery in Databases: An Attribute-Oriented Approach	|	0.1570
-Discovery of Multiple-Level Association Rules from Large Databases	|	0.1146
+Discovery of Multiple-Level Association Rules from Large Databases	|	0.1260
 Principles of Database and Knowledge-Base Systems, Volume I	|	0.0942
 Logic and Databases: A Deductive Approach	|	0.0837
-Data Mining: An Overview from a Database Perspective	|	0.0788
+Data Mining: An Overview from a Database Perspective	|	0.0818
 Incremental Maintenance of Views with Duplicates	|	0.0476
 What Makes Patterns Interesting in Knowledge Discovery Systems	|	0.0435
-Finding interesting rules from large sets of discovered association rules	|	0.0352
+Finding interesting rules from large sets of discovered association rules	|	0.0392
 Discovering Web Access Patterns and Trends by Applying OLAP and Data Mining Technology on Web Logs	|	0.0351
 Consistent query answers in inconsistent databases	|	0.0351
 Database Mining: A Performance Perspective	|	0.0321
@@ -19,72 +19,72 @@ The design and implementation of INGRES	|	0.0256
 Logic-based approach to semantic query optimization	|	0.0238
 An introduction to data base systems	|	0.0238
 Efficient Data Mining for Path Traversal Patterns	|	0.0220
+SLIQ: A Fast Scalable Classifier for Data Mining	|	0.0217
 Negation as Failure	|	0.0217
 On closed world databases	|	0.0217
 Towards a Logical Reconstruction of Relational Database Theory	|	0.0196
 Pnnc:ples of database systems	|	0.0196
-SLIQ: A Fast Scalable Classifier for Data Mining	|	0.0179
 STING: A Statistical Information Grid Approach to Spatial Data Mining	|	0.0175
+SPRINT: A Scalable Parallel Classifier for Data Mining	|	0.0175
 Disjunctive datalog	|	0.0175
 On Closed World Data Bases	|	0.0175
 Optimal implementation of conjunctive queries in relational databases	|	0.0175
 A New SQL-like Operator for Mining Association Rules	|	0.0157
-SPRINT: A Scalable Parallel Classifier for Data Mining	|	0.0157
 Aggregate-Query Processing in Data Warehousing Environments	|	0.0156
 The Management of Probabilistic Data	|	0.0156
 Efficient Mining of Partial Periodic Patterns in Time Series Database	|	0.0156
+Join processing in relational databases	|	0.0142
+View Maintenance in a Warehousing Environment	|	0.0139
 Algorithms for Mining Distance-Based Outliers in Large Datasets	|	0.0139
 Efficient Mining of Association Rules Using Closed Itemset Lattices	|	0.0139
+Computable Queries for Relational Data Bases	|	0.0139
 Pmnczples of database and knowledge- base systems	|	0.0139
-Join processing in relational databases	|	0.0129
-View Maintenance in a Warehousing Environment	|	0.0124
-Computable Queries for Relational Data Bases	|	0.0124
+Mining Sequential Patterns	|	0.0128
 Hippocratic Databases	|	0.0123
 Telos: representing knowledge about information systems	|	0.0123
 Computing Iceberg Queries Efficiently	|	0.0123
-Mining Sequential Patterns	|	0.0117
 Complexity of answering queries using materialized views	|	0.0116
 Discovering Frequent Closed Itemsets for Association Rules	|	0.0110
 3D Shape Histograms for Similarity Search and Classification in Spatial Databases	|	0.0110
+Parallel Mining of Association Rules	|	0.0110
 Spatial SQL: A Query and Presentation Language	|	0.0110
 Extended algebra and calculus for nested relational databases	|	0.0110
-Parallel Mining of Association Rules	|	0.0099
+An Effective Hash Based Algorithm for Mining Association Rules	|	0.0103
+Scalable Parallel Data Mining for Association Rules	|	0.0098
 Maintaining Views Incrementally	|	0.0098
-An Effective Hash Based Algorithm for Mining Association Rules	|	0.0091
+Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0097
 Fast Algorithms for Mining Association Rules in Large Databases	|	0.0090
 Exploratory Mining and Pruning Optimizations of Constrained Association Rules	|	0.0088
-Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases	|	0.0088
-Scalable Parallel Data Mining for Association Rules	|	0.0088
 Research problems in data warehousing	|	0.0088
 Data Model and Query Evaluation in Global Information Systems	|	0.0088
 Dependency Structures of Data Base Relationships	|	0.0088
-Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0085
+Universality of data retrieval languages	|	0.0088
+An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.0081
+Mining Generalized Association Rules	|	0.0081
 Answering recursive queries using views	|	0.0079
 Principles of Database Systems, 2nd Edition	|	0.0079
-Universality of data retrieval languages	|	0.0078
 An Introduction to Database Systems	|	0.0071
 Query-by-Example: A Data Base Language	|	0.0071
-An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.0069
-Mining Generalized Association Rules	|	0.0064
 Storing Semistructured Data with STORED	|	0.0064
+Mining association rules between sets of items in large databases	|	0.0060
 Beyond Market Baskets: Generalizing Association Rules to Correlations	|	0.0058
 Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.0058
+Sampling Large Databases for Association Rules	|	0.0058
 Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.0058
-Mining association rules between sets of items in large databases	|	0.0054
+Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases	|	0.0053
 Efficient Processing of Spatial Joins Using R-Trees	|	0.0053
-Sampling Large Databases for Association Rules	|	0.0049
-Types and persistence in database programming languages	|	0.0045
-Fast Algorithms for Mining Association Rules	|	0.0045
+Types and persistence in database programming languages	|	0.0052
+Fast Algorithms for Mining Association Rules	|	0.0051
 Mediators in the Architecture of Future Information Systems	|	0.0044
 Query Caching and Optimization in Distributed Mediator Systems	|	0.0041
+Optimizing Queries with Materialized Views	|	0.0041
 Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0041
 Relational Completeness of Data Base Sublanguages	|	0.0041
-Optimizing Queries with Materialized Views	|	0.0038
 Optimal implementation of conjunctive queries in relational data bases	|	0.0035
 A Quantitative Analysis and Performance Study for Similarity-Search Methods in High-Dimensional Spaces	|	0.0032
 The Design and Analysis of Spatial Data Structures	|	0.0032
+FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets	|	0.0026
 Extending the database relational model to capture more meaning	|	0.0026
-FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets	|	0.0024
 The Theory of Relational Databases	|	0.0019
 Efficient Similarity Search In Sequence Databases	|	0.0018
 Fast Subsequence Matching in Time-Series Databases	|	0.0018

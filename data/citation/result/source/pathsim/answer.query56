@@ -1,49 +1,47 @@
-Simlarity Search for Web Services	|	0.3023
-Resource description framework (rdf)	|	0.2791
-Generic Schema Matching with Cupid	|	0.2234
-Schema Mapping as Query Discovery	|	0.1933
-Learning to match ontologies on the Semantic Web	|	0.1695
-Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.1457
-Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.1326
-COMA - A System for Flexible Combination of Schema Matching Approaches	|	0.0482
-Translating Web Data	|	0.0357
-Approximate String Joins in a Database (Almost) for Free	|	0.0323
-Snowball: extracting relations from large plain-text collections	|	0.0323
-Reducing OWL Entailment to Description Logic Satisfability	|	0.0323
-The Merge/Purge Problem for Large Databases	|	0.0323
-Ontologies - a silver bullet for knowledge management and electronic commerce	|	0.0323
-Duplicate Record Detection: A Survey	|	0.0323
-The TSIMMIS Approach to Mediation: Data Models and Languages	|	0.0294
-Trust Management for the Semantic Web	|	0.0267
-Sesame: A Generic Architecture for Storing and Querying RDF and RDF Schema	|	0.0263
-Applying Model Management to Classical Meta Data Problems	|	0.0263
-Enhanced hypertext categorization using hyperlinks	|	0.0233
-The PROMPT suite: interactive tools for ontology merging and mapping	|	0.0213
-Data exchange: semantics and query answering	|	0.0204
-Wrapper induction: Efficiency and expressiveness	|	0.0189
-EDUTELLA: A P2P Networking Infrastructure Based on RDF	|	0.0179
-An Information-Theoretic Definition of Similarity	|	0.0179
-Semantic integration of semistructured and structured data sources	|	0.0179
-The Management of Probabilistic Data	|	0.0179
-Semantic Matching of Web Services Capabilities	|	0.0179
-Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.0168
-Learning to map between ontologies on the semantic web	|	0.0165
-Don't Scrap It, Wrap It! A Wrapper Architecture for Legacy Data Sources	|	0.0154
-A Survey of Schema-Based Matching Approaches	|	0.0151
-A survey of approaches to automatic schema matching	|	0.0148
-W3QS: A Query System for the World-Wide Web	|	0.0120
-Efficient Query Evaluation on Probabilistic Databases	|	0.0120
-Data Cleaning: Problems and Current Approaches	|	0.0120
-Ontology Mapping: The State of the Art	|	0.0106
-Towards Heterogeneous Multimedia Information Systems: The Garlic Approach	|	0.0094
-Answering recursive queries using views	|	0.0084
-PROMPT: Algorithm and Tool for Automated Ontology Merging and Alignment	|	0.0084
-An Adaptive Query Execution System for Data Integration	|	0.0077
-Optimizing Queries Across Diverse Data Sources	|	0.0075
-Semantic e-Workflow Composition	|	0.0068
-Piazza: data management infrastructure for semantic web applications	|	0.0061
-Your Mediators Need Data Conversion!	|	0.0061
-Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0049
-The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0033
-Data integration: a theoretical perspective	|	0.0026
-Database techniques for the World-Wide Web: a survey	|	0.0025
+COMA - A System for Flexible Combination of Schema Matching Approaches	|	0.4706
+A survey of approaches to automatic schema matching	|	0.3529
+Generic Schema Matching with Cupid	|	0.3333
+Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.3200
+Schema Mapping as Query Discovery	|	0.3000
+Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.2963
+Translating Web Data	|	0.2857
+Learning to match ontologies on the Semantic Web	|	0.2857
+Learning to map between ontologies on the semantic web	|	0.2727
+A Survey of Schema-Based Matching Approaches	|	0.2400
+Approximate String Joins in a Database (Almost) for Free	|	0.2222
+Snowball: extracting relations from large plain-text collections	|	0.2222
+Reducing OWL Entailment to Description Logic Satisfability	|	0.2222
+The Merge/Purge Problem for Large Databases	|	0.2222
+The PROMPT suite: interactive tools for ontology merging and mapping	|	0.2222
+Ontologies - a silver bullet for knowledge management and electronic commerce	|	0.2222
+Duplicate Record Detection: A Survey	|	0.2222
+Wrapper induction: Efficiency and expressiveness	|	0.2105
+Trust Management for the Semantic Web	|	0.2000
+The TSIMMIS Approach to Mediation: Data Models and Languages	|	0.2000
+Sesame: A Generic Architecture for Storing and Querying RDF and RDF Schema	|	0.1818
+Applying Model Management to Classical Meta Data Problems	|	0.1818
+Enhanced hypertext categorization using hyperlinks	|	0.1667
+Simlarity Search for Web Services	|	0.1667
+Data exchange: semantics and query answering	|	0.1538
+EDUTELLA: A P2P Networking Infrastructure Based on RDF	|	0.1429
+An Adaptive Query Execution System for Data Integration	|	0.1429
+An Information-Theoretic Definition of Similarity	|	0.1429
+Semantic integration of semistructured and structured data sources	|	0.1429
+Don't Scrap It, Wrap It! A Wrapper Architecture for Legacy Data Sources	|	0.1429
+The Management of Probabilistic Data	|	0.1429
+Semantic Matching of Web Services Capabilities	|	0.1429
+W3QS: A Query System for the World-Wide Web	|	0.1176
+Querying Heterogeneous Information Sources Using Source Descriptions	|	0.1176
+Efficient Query Evaluation on Probabilistic Databases	|	0.1176
+Data Cleaning: Problems and Current Approaches	|	0.1176
+Ontology Mapping: The State of the Art	|	0.1111
+Towards Heterogeneous Multimedia Information Systems: The Garlic Approach	|	0.1053
+Optimizing Queries Across Diverse Data Sources	|	0.1000
+Answering recursive queries using views	|	0.1000
+PROMPT: Algorithm and Tool for Automated Ontology Merging and Alignment	|	0.1000
+Semantic e-Workflow Composition	|	0.0909
+Piazza: data management infrastructure for semantic web applications	|	0.0909
+Your Mediators Need Data Conversion!	|	0.0870
+The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0667
+Data integration: a theoretical perspective	|	0.0625
+Database techniques for the World-Wide Web: a survey	|	0.0588

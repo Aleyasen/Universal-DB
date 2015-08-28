@@ -1,41 +1,40 @@
-Accurate Estimation of the Number of Tuples Satisfying a Condition	|	0.1429
-An introduction to data base systems	|	0.1429
-Randomized Algorithms for Optimizing Large Join Queries	|	0.0625
-Probabilistic Counting Algorithms for Data Base Applications	|	0.0625
-Access path selection in a relational database management system	|	0.0487
-GAMMA - A High Performance Dataflow Database Machine	|	0.0455
-Mariposa: A Wide-Area Distributed Database System	|	0.0345
-Selectivity Estimation Without the Attribute Value Independence Assumption	|	0.0270
-C-Store: A Column-oriented DBMS	|	0.0270
-Improved Histograms for Selectivity Estimation of Range Predicates	|	0.0217
-A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.0217
-The EXODUS Optimizer Generator	|	0.0217
-Query By Example	|	0.0179
-On optimizing an SQL-like nested query	|	0.0179
-Parallel database systems: the future of high performance database systems	|	0.0149
-Query Reformulation for Dynamic Information Integration	|	0.0127
-Organization and Maintenance of Large Ordered Indexes	|	0.0094
-An Introduction to Database Systems	|	0.0094
-Optimizing Queries Across Diverse Data Sources	|	0.0093
-Wavelet-Based Histograms for Selectivity Estimation	|	0.0092
-Join processing in relational databases	|	0.0083
-Parallel Database Systems: The Future of High Performance Database Processing1	|	0.0083
-Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0082
-Query Optimization for XML	|	0.0058
-The Design of Postgres	|	0.0052
-The Gamma Database Machine Project	|	0.0052
-Query Caching and Optimization in Distributed Mediator Systems	|	0.0047
-Distance browsing in spatial databases	|	0.0047
-Optimizing Queries with Materialized Views	|	0.0043
-Organization and Maintenance of Large Ordered Indices	|	0.0043
-Continuously adaptive continuous queries over streams	|	0.0043
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0043
-Online Aggregation	|	0.0040
-System R: A Relational Approach to Data Base Management	|	0.0039
-System R: relational approach to database management	|	0.0026
-Logic and Databases: A Deductive Approach	|	0.0025
-The Theory of Relational Databases	|	0.0020
-Query Optimization in Database Systems	|	0.0017
-Foundations of Databases	|	0.0004
-Query evaluation techniques for large databases	|	0.0004
-Principles of Database and Knowledge-Base Systems, Volume II	|	0.0004
+Accurate Estimation of the Number of Tuples Satisfying a Condition	|	0.5000
+An introduction to data base systems	|	0.5000
+Randomized Algorithms for Optimizing Large Join Queries	|	0.3333
+Probabilistic Counting Algorithms for Data Base Applications	|	0.3333
+GAMMA - A High Performance Dataflow Database Machine	|	0.2857
+Mariposa: A Wide-Area Distributed Database System	|	0.2500
+Selectivity Estimation Without the Attribute Value Independence Assumption	|	0.2222
+C-Store: A Column-oriented DBMS	|	0.2222
+Improved Histograms for Selectivity Estimation of Range Predicates	|	0.2000
+A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.2000
+The EXODUS Optimizer Generator	|	0.2000
+Query By Example	|	0.1818
+On optimizing an SQL-like nested query	|	0.1818
+Wavelet-Based Histograms for Selectivity Estimation	|	0.1667
+Parallel database systems: the future of high performance database systems	|	0.1667
+Query Reformulation for Dynamic Information Integration	|	0.1538
+Optimizing Queries Across Diverse Data Sources	|	0.1429
+Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.1333
+Organization and Maintenance of Large Ordered Indexes	|	0.1333
+An Introduction to Database Systems	|	0.1333
+Join processing in relational databases	|	0.1333
+Parallel Database Systems: The Future of High Performance Database Processing1	|	0.1250
+Query Optimization for XML	|	0.1053
+The Gamma Database Machine Project	|	0.1053
+The Design of Postgres	|	0.1000
+Online Aggregation	|	0.0952
+Continuously adaptive continuous queries over streams	|	0.0952
+Query Caching and Optimization in Distributed Mediator Systems	|	0.0952
+Optimizing Queries with Materialized Views	|	0.0952
+Distance browsing in spatial databases	|	0.0952
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0952
+Organization and Maintenance of Large Ordered Indices	|	0.0909
+System R: A Relational Approach to Data Base Management	|	0.0870
+System R: relational approach to database management	|	0.0714
+Logic and Databases: A Deductive Approach	|	0.0690
+The Theory of Relational Databases	|	0.0625
+Query Optimization in Database Systems	|	0.0588
+Foundations of Databases	|	0.0290
+Query evaluation techniques for large databases	|	0.0278
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0267

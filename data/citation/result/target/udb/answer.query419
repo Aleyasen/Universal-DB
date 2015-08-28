@@ -1,9 +1,9 @@
 Accurate Estimation of the Number of Tuples Satisfying a Condition	|	0.4375
 An Evaluation of Buffer Management Strategies for Relational Database Systems	|	0.1818
-Join indices	|	0.1467
-Principles of database systems	|	0.0909
+Join indices	|	0.1565
 Organization and maintenance of large ordered indexes	|	0.0800
-Query Optimization in Database Systems	|	0.0627
+Principles of database systems	|	0.0769
+Query Optimization in Database Systems	|	0.0648
 Logic-based approach to semantic query optimization	|	0.0625
 Implementation of integrity constraints and views by query modification	|	0.0625
 Starburst Mid-Flight: As the Dust Clears	|	0.0526
@@ -32,19 +32,19 @@ A Fast Index for Semistructured Data	|	0.0099
 Principles of Database Systems, 2nd Edition	|	0.0099
 An Introduction to Spatial Database Systems	|	0.0099
 Concurrency Control in Distributed Database Systems	|	0.0087
+Join processing in relational databases	|	0.0087
 Organization and Maintenance of Large Ordered Indices	|	0.0083
-Join processing in relational databases	|	0.0077
+The Gamma Database Machine Project	|	0.0055
 The Grid File: An Adaptable, Symmetric Multi-Key File Structure	|	0.0050
-The Gamma Database Machine Project	|	0.0050
+The notions of consistency and predicate locks in a database system	|	0.0050
 Relational Completeness of Data Base Sublanguages	|	0.0045
-The notions of consistency and predicate locks in a database system	|	0.0045
 The Ubiquitous B-Tree	|	0.0041
 Optimal implementation of conjunctive queries in relational data bases	|	0.0038
 System R: A Relational Approach to Data Base Management	|	0.0038
 The Grid File: An Adaptable, Symmetric Multikey File Structure	|	0.0030
+Types and persistence in database programming languages	|	0.0028
 Extending the database relational model to capture more meaning	|	0.0028
 System R: relational approach to database management	|	0.0026
-Types and persistence in database programming languages	|	0.0024
 Access path selection in a relational database management system	|	0.0023
 The Theory of Relational Databases	|	0.0020
 Answering queries using views: A survey	|	0.0017

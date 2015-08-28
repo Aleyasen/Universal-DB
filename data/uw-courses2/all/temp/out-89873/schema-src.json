@@ -1,0 +1,112 @@
+{
+    "nodes": [
+        {
+            "index": 0,
+            "dataId": "course-137",
+            "name": "AGRIC WASTE",
+            "type": "course",
+            "group": 1
+        },
+        {
+            "index": 1,
+            "dataId": "course-3594",
+            "name": "OPER MGT",
+            "type": "course",
+            "group": 1
+        },
+        {
+            "index": 2,
+            "dataId": "course-3586",
+            "name": "[M] STAT METH",
+            "type": "course",
+            "group": 1
+        },
+        {
+            "index": 3,
+            "dataId": "inst-139",
+            "name": "CHEN",
+            "type": "inst",
+            "group": 2
+        },
+        {
+            "index": 4,
+            "dataId": "offer-138",
+            "name": "1124",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 5,
+            "dataId": "offer-3585",
+            "name": "4908",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 6,
+            "dataId": "offer-3584",
+            "name": "4907",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 7,
+            "dataId": "offer-3595",
+            "name": "4918",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 8,
+            "dataId": "subject-11",
+            "name": "AGTM",
+            "type": "subject",
+            "group": 4
+        },
+        {
+            "index": 9,
+            "dataId": "subject-3578",
+            "name": "DEC S",
+            "type": "subject",
+            "group": 4
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 4
+        },
+        {
+            "source": 1,
+            "target": 7
+        },
+        {
+            "source": 4,
+            "target": 3
+        },
+        {
+            "source": 5,
+            "target": 3
+        },
+        {
+            "source": 6,
+            "target": 3
+        },
+        {
+            "source": 4,
+            "target": 8
+        },
+        {
+            "source": 5,
+            "target": 9
+        },
+        {
+            "source": 6,
+            "target": 9
+        },
+        {
+            "source": 7,
+            "target": 9
+        }
+    ]
+}

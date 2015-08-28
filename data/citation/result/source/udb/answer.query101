@@ -33,35 +33,35 @@ On Closed World Data Bases	|	0.0278
 Remarks on the algebra of non first normal form relations	|	0.0278
 Deriving Production Rules for Constraint Maintainance	|	0.0278
 Object Exchange Across Heterogeneous Information Sources	|	0.0233
+View Maintenance in a Warehousing Environment	|	0.0196
 The complexity of relational query languages (Extended Abstract)	|	0.0196
 XRANK: ranked keyword search over XML documents	|	0.0196
-View Maintenance in a Warehousing Environment	|	0.0168
-Computable Queries for Relational Data Bases	|	0.0168
+Computable Queries for Relational Data Bases	|	0.0196
 Using Semi-Joins to Solve Relational Queries	|	0.0167
 Operating system support for database management	|	0.0143
 Computational problems related to the design of normal form relational schemas	|	0.0143
+GALILEO: a strongly-typed, interactive conceptual language	|	0.0123
 Ode as an Active Database: Constraints and Triggers	|	0.0123
 Maintaining Views Incrementally	|	0.0123
 Extracting structured data from Web pages	|	0.0123
+The Architecture Of An Active Data Base Management System	|	0.0123
 Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.0119
 Disjunctive datalog	|	0.0108
 Dependency Structures of Data Base Relationships	|	0.0108
-GALILEO: a strongly-typed, interactive conceptual language	|	0.0106
+Universality of data retrieval languages	|	0.0108
+RQL: a declarative query language for RDF	|	0.0094
 Principles of Database Systems, 2nd Edition	|	0.0094
+A logical design methodology for relational databases using the extended entity-relationship model	|	0.0094
 Synthesizing third normal form relations from functional dependencies	|	0.0094
 XML-QL: A Query Language for XML	|	0.0094
-The Architecture Of An Active Data Base Management System	|	0.0094
-Universality of data retrieval languages	|	0.0093
-RQL: a declarative query language for RDF	|	0.0084
+Schema Mediation in Peer Data Management Systems	|	0.0083
 An Introduction to Database Systems	|	0.0083
 Query-by-Example: A Data Base Language	|	0.0083
-A logical design methodology for relational databases using the extended entity-relationship model	|	0.0083
-Schema Mediation in Peer Data Management Systems	|	0.0074
 Querying Object-Oriented Databases	|	0.0074
-IFO: a formal semantic database model	|	0.0066
+IFO: a formal semantic database model	|	0.0074
+A language facility for designing database-intensive applications	|	0.0074
 Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.0066
 Complexity of answering queries using materialized views	|	0.0066
-A language facility for designing database-intensive applications	|	0.0066
 Object identity	|	0.0060
 Principles of Database and Knowledge-Base Systems, Volume I	|	0.0059
 The entity-relationship model---toward a unified view of data	|	0.0054
@@ -74,12 +74,12 @@ Relational Completeness of Data Base Sublanguages	|	0.0044
 A Query Language and Optimization Techniques for Unstructured Data	|	0.0037
 Optimal implementation of conjunctive queries in relational data bases	|	0.0037
 The functional data model and the data languages DAPLEX	|	0.0037
-Query Optimization in Database Systems	|	0.0033
+Query Optimization in Database Systems	|	0.0035
+Types and persistence in database programming languages	|	0.0027
 A comparative analysis of methodologies for database schema integration	|	0.0027
 The Lorel Query Language for Semistructured Data	|	0.0025
 System R: relational approach to database management	|	0.0025
 Logic and Databases: A Deductive Approach	|	0.0024
-Types and persistence in database programming languages	|	0.0024
 Concurrency Control and Recovery in Database Systems	|	0.0020
 The Theory of Relational Databases	|	0.0020
 Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0018

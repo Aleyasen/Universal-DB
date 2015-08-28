@@ -27,29 +27,29 @@ Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, a
 Path sharing and predicate evaluation for high-performance XML filtering	|	0.0143
 Semistructured data	|	0.0132
 Storing and Querying XML Data using an RDBMS	|	0.0123
-Development of an object-oriented DBMS	|	0.0108
+Development of an object-oriented DBMS	|	0.0123
+The Architecture Of An Active Data Base Management System	|	0.0123
 Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Total	|	0.0108
 A Fast Index for Semistructured Data	|	0.0094
 Aurora: a new model and architecture for data stream management	|	0.0094
-The Architecture Of An Active Data Base Management System	|	0.0094
+DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0081
 The Lorel Query Language for Semistructured Data	|	0.0076
 A Query Language and Optimization Techniques for Unstructured Data	|	0.0075
-DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0074
 Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.0074
 Storing Semistructured Data with STORED	|	0.0074
 On Supporting Containment Queries in Relational Database Management Systems	|	0.0066
 Your Mediators Need Data Conversion!	|	0.0066
 Catching the boat with Strudel: experiences with a Web Site management system	|	0.0066
 Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.0066
-Lore: a database management system for semistructured data	|	0.0054
+Lore: a database management system for semistructured data	|	0.0059
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0044
 Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.0041
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0041
 Continuous queries over data streams	|	0.0041
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0040
-Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0037
 NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0037
 Monitoring Streams - A New Class of Data Management Applications	|	0.0032
+Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0025
 Models and issues in data stream systems	|	0.0022
-Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0022
 Access path selection in a relational database management system	|	0.0011
-Fast Algorithms for Mining Association Rules	|	0.0009
+Fast Algorithms for Mining Association Rules	|	0.0010
 Query evaluation techniques for large databases	|	0.0004

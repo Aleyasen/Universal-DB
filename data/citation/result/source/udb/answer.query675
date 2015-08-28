@@ -2,12 +2,12 @@ Efficient Mining of Association Rules Using Closed Itemset Lattices	|	0.2564
 Discovering Frequent Closed Itemsets for Association Rules	|	0.2069
 MAFIA: A Maximal Frequent Itemset Algorithm for Transactional Databases	|	0.0208
 Mining Sequential Patterns by Pattern-Growth: The PrefixSpan Approach	|	0.0208
+Sampling Large Databases for Association Rules	|	0.0144
 Efficiently Mining Long Patterns from Databases	|	0.0123
-Sampling Large Databases for Association Rules	|	0.0116
-An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.0078
+An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.0094
 Beyond Market Baskets: Generalizing Association Rules to Correlations	|	0.0072
-Data Mining: An Overview from a Database Perspective	|	0.0040
-Mining association rules between sets of items in large databases	|	0.0028
-An Effective Hash Based Algorithm for Mining Association Rules	|	0.0025
+Data Mining: An Overview from a Database Perspective	|	0.0043
+Mining association rules between sets of items in large databases	|	0.0032
+An Effective Hash Based Algorithm for Mining Association Rules	|	0.0028
 Fast Algorithms for Mining Association Rules in Large Databases	|	0.0024
-Fast Algorithms for Mining Association Rules	|	0.0018
+Fast Algorithms for Mining Association Rules	|	0.0021

@@ -1,124 +1,124 @@
-Data Management for Peer-to-Peer Computing : A Vision	|	0.1457
-Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases	|	0.1417
-Schema Mediation in Peer Data Management Systems	|	0.1412
-EDUTELLA: A P2P Networking Infrastructure Based on RDF	|	0.1407
-EDUTELLA: a P2P networking infrastructure based on RDF	|	0.1406
-Consistent query answers in inconsistent databases	|	0.1406
-Sesame: A Generic Architecture for Storing and Querying RDF and RDF Schema	|	0.1375
-A Query Language for XML	|	0.1325
-Complexity of answering queries using materialized views	|	0.1289
-Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.1207
-Learning to map between ontologies on the semantic web	|	0.1176
-A survey of approaches to automatic schema matching	|	0.0935
-Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0935
-Answering queries using views: A survey	|	0.0753
-Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0739
-Data on the web	|	0.0199
-Ontology Evolution: Not the Same as Schema Evolution	|	0.0192
-Answering recursive queries using views	|	0.0177
-Super-peer-based routing and clustering strategies for RDF-based peer-to-peer networks	|	0.0166
-Ontology mapping: the state of the art	|	0.0166
-Interoperability of multiple autonomous databases	|	0.0157
-Mediators in the Architecture of Future Information Systems	|	0.0154
-Generic Schema Matching with Cupid	|	0.0149
-The PROMPT suite: interactive tools for ontology merging and mapping	|	0.0149
-Ontology Mapping: The State of the Art	|	0.0149
-A Graph-Oriented Model for Articulation of Ontology Interdependencies	|	0.0144
-Query Reformulation for Dynamic Information Integration	|	0.0141
-Data Model and Query Evaluation in Global Information Systems	|	0.0141
-Ontology Learning for the Semantic Web	|	0.0140
-Trust Management for the Semantic Web	|	0.0138
-Description Logics in Data Management	|	0.0133
-Simlarity Search for Web Services	|	0.0133
-Principles of Distributed Database Systems	|	0.0133
-Resource description framework (rdf)	|	0.0133
-A Survey of Schema-Based Matching Approaches	|	0.0131
-Semantic integration: a survey of ontology-based approaches	|	0.0128
-Data exchange: semantics and query answering	|	0.0128
-Optimizing Queries Across Diverse Data Sources	|	0.0124
-Semantic integration of semistructured and structured data sources	|	0.0122
-A Theory of Attribute Equivalence in Databases with Application to Schema Integration	|	0.0122
-Learning to match ontologies on the Semantic Web	|	0.0118
-Pmnczples of database and knowledge- base systems	|	0.0117
-Query Caching and Optimization in Distributed Mediator Systems	|	0.0116
-Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.0116
-COMA - A System for Flexible Combination of Schema Matching Approaches	|	0.0105
-Data integration: a theoretical perspective	|	0.0103
-Logical Foundations of Object-Oriented and Frame-Based Languages	|	0.0099
-Querying the Internet with PIER	|	0.0099
-Quilt: An XML Query Language for Heterogeneous Data Sources	|	0.0094
-Semantic and Schematic Similarities Between Database Objects: A Context-Based Approach	|	0.0094
-Principles of database and knowledge-base systems	|	0.0094
-Schema Mapping as Query Discovery	|	0.0088
-Optimizing Queries with Materialized Views	|	0.0082
-An Adaptive Query Execution System for Data Integration	|	0.0082
-Database techniques for the World-Wide Web: a survey	|	0.0078
-Optimal implementation of conjunctive queries in relational data bases	|	0.0077
-Resource Description Framework (RDF) Model and Syntax Specification	|	0.0073
-DBpedia: A Nucleus for a Web of Open Data	|	0.0073
-Ontobroker: Ontology Based Access to Distributed and Semi-Structured Information	|	0.0072
-Ontologies - a silver bullet for knowledge management and electronic commerce	|	0.0072
-W3c resource description framework (rdf) model and syntax specification	|	0.0072
-Measuring Similarity between Ontologies	|	0.0071
-Simple Fast Algorithms for the Editing Distance Between Trees and Related Problems	|	0.0071
-Ontologies Are Us: A Unified Model of Social Networks and Semantics	|	0.0071
-Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.0069
-Semantic Data Caching and Replacement	|	0.0069
-Using semantic values to facilitate interoperability among heterogeneous information systems	|	0.0069
-Applying Model Management to Classical Meta Data Problems	|	0.0069
-InfoSleuth: agent-based semantic integration of information in open and dynamic environments	|	0.0069
-Enhanced hypertext categorization using hyperlinks	|	0.0066
-Distributed Databases: Principles and Systems	|	0.0066
-Principles of distributed database systems	|	0.0066
-Data Models	|	0.0066
-Principles of Database and Knowledge-Base Systems, Volume I	|	0.0065
-Optimal implementation of conjunctive queries in relational databases	|	0.0064
-XRel: a path-based approach to storage and retrieval of XML documents using relational databases	|	0.0064
-Evaluating Top-k Queries over Web-Accessible Databases	|	0.0063
-Answering XML Queries over Heterogeneous Data Sources	|	0.0061
-An Information-Theoretic Definition of Similarity	|	0.0061
-Aggregate-Query Processing in Data Warehousing Environments	|	0.0061
-Index Selection for OLAP	|	0.0061
-Similarity Flooding: A Versatile Graph Matching Algorithm and Its Application to Schema Matching	|	0.0061
-Translating Web Data	|	0.0061
-Visual Web Information Extraction with Lixto	|	0.0058
-Typechecking for XML transformers	|	0.0058
-The complexity of relational query languages (Extended Abstract)	|	0.0058
-The entity-relationship model: toward a unified view of data	|	0.0058
-Don't Scrap It, Wrap It! A Wrapper Architecture for Legacy Data Sources	|	0.0058
-Retrieving and Integrating Data from Multiple Information Sources	|	0.0055
-W3QS: A Query System for the World-Wide Web	|	0.0052
-Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals	|	0.0052
-A federated architecture for information management	|	0.0052
-A Query Language and Optimization Techniques for Unstructured Data	|	0.0051
-Indexing and Querying XML Data for Regular Path Expressions	|	0.0050
-Storing and Querying XML Data using an RDBMS	|	0.0050
-Extracting structured data from Web pages	|	0.0050
-The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0049
-Wrapper induction: Efficiency and expressiveness	|	0.0047
-Towards Heterogeneous Multimedia Information Systems: The Garlic Approach	|	0.0047
-View Definition and Generalization for Database Integration in a Multidatabase System	|	0.0047
-The functional data model and the data language DAPLEX	|	0.0044
-PROMPT: Algorithm and Tool for Automated Ontology Merging and Alignment	|	0.0044
-RQL: a declarative query language for RDF	|	0.0042
-An Introduction to Database Systems	|	0.0042
-A logical design methodology for relational databases using the extended entity-relationship model	|	0.0041
-A comparative analysis of methodologies for database schema integration	|	0.0041
-Lore: a database management system for semistructured data	|	0.0041
-Join indices	|	0.0039
-Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.0039
-Storing Semistructured Data with STORED	|	0.0039
-Semantic e-Workflow Composition	|	0.0039
-The Lorel Query Language for Semistructured Data	|	0.0039
-On Supporting Containment Queries in Relational Database Management Systems	|	0.0037
-Catching the boat with Strudel: experiences with a Web Site management system	|	0.0037
-Semistructured data	|	0.0037
-The entity-relationship model---toward a unified view of data	|	0.0033
-An overview of data warehousing and OLAP technology	|	0.0033
-Semantic data models	|	0.0029
-Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.0027
-The functional data model and the data languages DAPLEX	|	0.0026
-DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0026
+Data Management for Peer-to-Peer Computing : A Vision	|	0.1517
+Schema Mediation in Peer Data Management Systems	|	0.1511
+EDUTELLA: a P2P networking infrastructure based on RDF	|	0.1489
+Consistent query answers in inconsistent databases	|	0.1489
+EDUTELLA: A P2P Networking Infrastructure Based on RDF	|	0.1486
+Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases	|	0.1486
+Sesame: A Generic Architecture for Storing and Querying RDF and RDF Schema	|	0.1462
+A Query Language for XML	|	0.1374
+Complexity of answering queries using materialized views	|	0.1328
+Learning to map between ontologies on the semantic web	|	0.1292
+Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.1237
+A survey of approaches to automatic schema matching	|	0.0944
+Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0944
+Answering queries using views: A survey	|	0.0755
+Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0741
+Data on the web	|	0.0222
+Ontology Evolution: Not the Same as Schema Evolution	|	0.0222
+Answering recursive queries using views	|	0.0190
+Super-peer-based routing and clustering strategies for RDF-based peer-to-peer networks	|	0.0182
+Ontology mapping: the state of the art	|	0.0182
+Interoperability of multiple autonomous databases	|	0.0167
+A Graph-Oriented Model for Articulation of Ontology Interdependencies	|	0.0163
+Mediators in the Architecture of Future Information Systems	|	0.0161
+Generic Schema Matching with Cupid	|	0.0161
+The PROMPT suite: interactive tools for ontology merging and mapping	|	0.0161
+Ontology Mapping: The State of the Art	|	0.0161
+Trust Management for the Semantic Web	|	0.0159
+Query Reformulation for Dynamic Information Integration	|	0.0152
+Data Model and Query Evaluation in Global Information Systems	|	0.0152
+Description Logics in Data Management	|	0.0148
+Simlarity Search for Web Services	|	0.0148
+Principles of Distributed Database Systems	|	0.0148
+Resource description framework (rdf)	|	0.0148
+Optimizing Queries Across Diverse Data Sources	|	0.0142
+Semantic integration: a survey of ontology-based approaches	|	0.0142
+Data exchange: semantics and query answering	|	0.0142
+A Survey of Schema-Based Matching Approaches	|	0.0137
+Semantic integration of semistructured and structured data sources	|	0.0135
+A Theory of Attribute Equivalence in Databases with Application to Schema Integration	|	0.0135
+Learning to match ontologies on the Semantic Web	|	0.0133
+Pmnczples of database and knowledge- base systems	|	0.0128
+Query Caching and Optimization in Distributed Mediator Systems	|	0.0121
+Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.0121
+COMA - A System for Flexible Combination of Schema Matching Approaches	|	0.0114
+Data integration: a theoretical perspective	|	0.0112
+Logical Foundations of Object-Oriented and Frame-Based Languages	|	0.0108
+Querying the Internet with PIER	|	0.0108
+Quilt: An XML Query Language for Heterogeneous Data Sources	|	0.0101
+Semantic and Schematic Similarities Between Database Objects: A Context-Based Approach	|	0.0101
+Principles of database and knowledge-base systems	|	0.0101
+Schema Mapping as Query Discovery	|	0.0095
+Optimizing Queries with Materialized Views	|	0.0091
+An Adaptive Query Execution System for Data Integration	|	0.0085
+Resource Description Framework (RDF) Model and Syntax Specification	|	0.0083
+DBpedia: A Nucleus for a Web of Open Data	|	0.0083
+Ontobroker: Ontology Based Access to Distributed and Semi-Structured Information	|	0.0081
+Ontologies - a silver bullet for knowledge management and electronic commerce	|	0.0081
+Ontology Learning for the Semantic Web	|	0.0081
+W3c resource description framework (rdf) model and syntax specification	|	0.0081
+Optimal implementation of conjunctive queries in relational data bases	|	0.0080
+Database techniques for the World-Wide Web: a survey	|	0.0080
+Measuring Similarity between Ontologies	|	0.0079
+Simple Fast Algorithms for the Editing Distance Between Trees and Related Problems	|	0.0079
+Ontologies Are Us: A Unified Model of Social Networks and Semantics	|	0.0079
+Semantic Data Caching and Replacement	|	0.0077
+Using semantic values to facilitate interoperability among heterogeneous information systems	|	0.0077
+Applying Model Management to Classical Meta Data Problems	|	0.0077
+InfoSleuth: agent-based semantic integration of information in open and dynamic environments	|	0.0077
+Evaluating Top-k Queries over Web-Accessible Databases	|	0.0074
+Enhanced hypertext categorization using hyperlinks	|	0.0074
+Distributed Databases: Principles and Systems	|	0.0074
+Principles of distributed database systems	|	0.0074
+Data Models	|	0.0074
+Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.0073
+Optimal implementation of conjunctive queries in relational databases	|	0.0071
+XRel: a path-based approach to storage and retrieval of XML documents using relational databases	|	0.0071
+Answering XML Queries over Heterogeneous Data Sources	|	0.0068
+An Information-Theoretic Definition of Similarity	|	0.0068
+Aggregate-Query Processing in Data Warehousing Environments	|	0.0068
+Index Selection for OLAP	|	0.0068
+Similarity Flooding: A Versatile Graph Matching Algorithm and Its Application to Schema Matching	|	0.0068
+Don't Scrap It, Wrap It! A Wrapper Architecture for Legacy Data Sources	|	0.0068
+Translating Web Data	|	0.0068
+Principles of Database and Knowledge-Base Systems, Volume I	|	0.0067
+Visual Web Information Extraction with Lixto	|	0.0064
+Typechecking for XML transformers	|	0.0064
+The complexity of relational query languages (Extended Abstract)	|	0.0064
+The entity-relationship model: toward a unified view of data	|	0.0064
+Retrieving and Integrating Data from Multiple Information Sources	|	0.0061
+A federated architecture for information management	|	0.0061
+W3QS: A Query System for the World-Wide Web	|	0.0057
+Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals	|	0.0057
+Indexing and Querying XML Data for Regular Path Expressions	|	0.0054
+Storing and Querying XML Data using an RDBMS	|	0.0054
+Extracting structured data from Web pages	|	0.0054
+A Query Language and Optimization Techniques for Unstructured Data	|	0.0054
+Wrapper induction: Efficiency and expressiveness	|	0.0051
+The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0051
+Towards Heterogeneous Multimedia Information Systems: The Garlic Approach	|	0.0051
+View Definition and Generalization for Database Integration in a Multidatabase System	|	0.0051
+RQL: a declarative query language for RDF	|	0.0047
+A logical design methodology for relational databases using the extended entity-relationship model	|	0.0047
+The functional data model and the data language DAPLEX	|	0.0047
+PROMPT: Algorithm and Tool for Automated Ontology Merging and Alignment	|	0.0047
+Lore: a database management system for semistructured data	|	0.0045
+An Introduction to Database Systems	|	0.0044
+Join indices	|	0.0044
+A comparative analysis of methodologies for database schema integration	|	0.0042
+Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.0042
+Storing Semistructured Data with STORED	|	0.0042
+Semantic e-Workflow Composition	|	0.0042
+The Lorel Query Language for Semistructured Data	|	0.0040
+On Supporting Containment Queries in Relational Database Management Systems	|	0.0039
+Catching the boat with Strudel: experiences with a Web Site management system	|	0.0039
+Semistructured data	|	0.0039
+The entity-relationship model---toward a unified view of data	|	0.0034
+An overview of data warehousing and OLAP technology	|	0.0034
+Semantic data models	|	0.0030
+Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.0028
+DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0028
+The functional data model and the data languages DAPLEX	|	0.0027
 Foundations of Databases	|	0.0016
 Query evaluation techniques for large databases	|	0.0007
 Principles of Database and Knowledge-Base Systems, Volume II	|	0.0003

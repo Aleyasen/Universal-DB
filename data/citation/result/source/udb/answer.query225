@@ -1,6 +1,6 @@
 Transaction Processing: Concepts and Techniques	|	0.3600
 Shoring Up Persistent Applications	|	0.2609
-Optimizing Queries with Materialized Views	|	0.1081
+Optimizing Queries with Materialized Views	|	0.1136
 The ObjectStore database system	|	0.0769
 Main Memory Database Systems: An Overview	|	0.0769
 Optimal implementation of conjunctive queries in relational databases	|	0.0645
@@ -8,17 +8,17 @@ Answering queries using views: A survey	|	0.0645
 The oo7 Benchmark	|	0.0625
 Aggregate-Query Processing in Data Warehousing Environments	|	0.0526
 Description Logics in Data Management	|	0.0400
+The Dangers of Replication and a Solution	|	0.0400
 Data on the web	|	0.0400
 Data exchange: semantics and query answering	|	0.0323
 Index Selection for OLAP	|	0.0263
-The Dangers of Replication and a Solution	|	0.0250
 Answering Queries Using Templates with Binding Patterns	|	0.0217
 A Critique of ANSI SQL Isolation Levels	|	0.0217
 Pmnczples of database and knowledge- base systems	|	0.0217
 Answering recursive queries using views	|	0.0198
+ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging	|	0.0182
 TIMBER: A native XML database	|	0.0154
 Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals	|	0.0154
-ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging	|	0.0152
 Complexity of answering queries using materialized views	|	0.0137
 Storing and Querying XML Data using an RDBMS	|	0.0132
 Maintaining Views Incrementally	|	0.0132
@@ -31,16 +31,16 @@ Data Management for Peer-to-Peer Computing : A Vision	|	0.0099
 Generalized Search Trees for Database Systems	|	0.0099
 A Query Language for XML	|	0.0099
 Query Caching and Optimization in Distributed Mediator Systems	|	0.0091
-Schema Mediation in Peer Data Management Systems	|	0.0077
-Join indices	|	0.0077
+Schema Mediation in Peer Data Management Systems	|	0.0087
+Join indices	|	0.0087
 Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.0077
 Storing Semistructured Data with STORED	|	0.0077
+Piazza: data management infrastructure for semantic web applications	|	0.0077
 Optimal implementation of conjunctive queries in relational data bases	|	0.0076
-Piazza: data management infrastructure for semantic web applications	|	0.0069
 Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.0068
 Semistructured data	|	0.0068
+Data integration: a theoretical perspective	|	0.0060
 Principles of Database and Knowledge-Base Systems, Volume I	|	0.0060
-Data integration: a theoretical perspective	|	0.0055
 An overview of data warehousing and OLAP technology	|	0.0055
 Database techniques for the World-Wide Web: a survey	|	0.0052
 Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0052

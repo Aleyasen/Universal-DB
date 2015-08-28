@@ -1,41 +1,41 @@
-On Supporting Containment Queries in Relational Database Management Systems	|	0.4545
-Storing Semistructured Data with STORED	|	0.3810
-TIMBER: A native XML database	|	0.3750
-Structural Joins: A Primitive for Efficient XML Query Pattern Matching	|	0.3529
-Holistic twig joins: optimal XML pattern matching	|	0.3333
-RQL: a declarative query language for RDF	|	0.3158
-A Fast Index for Semistructured Data	|	0.3158
-Efficiently Publishing Relational Data as XML Documents	|	0.3158
-XRANK: ranked keyword search over XML documents	|	0.2857
-Storing and querying ordered XML using a relational database system	|	0.2667
-SGML handbook	|	0.2500
-The Lorel Query Language for Semistructured Data	|	0.2424
-Indexing and Querying XML Data for Regular Path Expressions	|	0.2353
-Storing and Querying XML Data using an RDBMS	|	0.2353
-Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.2222
-Extensible Markup Language (XML)	|	0.2222
-XIRQL: a query language for information retrieval in XML documents	|	0.2000
-Answering queries using views: A survey	|	0.2000
-Remarks on the algebra of non first normal form relations	|	0.1667
-Answering XML Queries over Heterogeneous Data Sources	|	0.1538
-Querying the World Wide Web	|	0.1538
-Translating Web Data	|	0.1538
-extensible markup language (xml) 1	|	0.1538
-Visual Web Information Extraction with Lixto	|	0.1429
-Typechecking for XML transformers	|	0.1429
-Wrapper generation for semi-structured Internet sources	|	0.1429
-A Query Language and Optimization Techniques for Unstructured Data	|	0.1429
-Adding Structure to Unstructured Data	|	0.1333
-Index Structures for Path Expressions	|	0.1333
-A Taxonomy of Time in Databases	|	0.1333
-Lore: a database management system for semistructured data	|	0.1290
-Database techniques for the World-Wide Web: a survey	|	0.1212
-Quilt: An XML Query Language for Heterogeneous Data Sources	|	0.1111
-A Query Language for XML	|	0.1053
-XML-QL: A Query Language for XML	|	0.1053
-From Structured Documents to Novel Query Facilities	|	0.0952
-Querying Object-Oriented Databases	|	0.0952
-Piazza: data management infrastructure for semantic web applications	|	0.0952
-Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.0909
-Multiple-query optimization	|	0.0870
-Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.0769
+Storing and querying ordered XML using a relational database system	|	0.2576
+Storing and Querying XML Data using an RDBMS	|	0.2184
+Quilt: An XML Query Language for Heterogeneous Data Sources	|	0.1919
+A Query Language for XML	|	0.1786
+From Structured Documents to Novel Query Facilities	|	0.1560
+Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.1190
+SGML handbook	|	0.0417
+TIMBER: A native XML database	|	0.0395
+Extensible Markup Language (XML)	|	0.0370
+XRANK: ranked keyword search over XML documents	|	0.0351
+Structural Joins: A Primitive for Efficient XML Query Pattern Matching	|	0.0345
+XIRQL: a query language for information retrieval in XML documents	|	0.0323
+On Supporting Containment Queries in Relational Database Management Systems	|	0.0318
+Holistic twig joins: optimal XML pattern matching	|	0.0303
+Storing Semistructured Data with STORED	|	0.0284
+RQL: a declarative query language for RDF	|	0.0268
+A Fast Index for Semistructured Data	|	0.0268
+Efficiently Publishing Relational Data as XML Documents	|	0.0268
+Remarks on the algebra of non first normal form relations	|	0.0238
+Indexing and Querying XML Data for Regular Path Expressions	|	0.0230
+Answering XML Queries over Heterogeneous Data Sources	|	0.0204
+Querying the World Wide Web	|	0.0204
+Translating Web Data	|	0.0204
+extensible markup language (xml) 1	|	0.0204
+Visual Web Information Extraction with Lixto	|	0.0175
+Typechecking for XML transformers	|	0.0175
+Wrapper generation for semi-structured Internet sources	|	0.0175
+Adding Structure to Unstructured Data	|	0.0152
+Index Structures for Path Expressions	|	0.0152
+A Taxonomy of Time in Databases	|	0.0152
+The Lorel Query Language for Semistructured Data	|	0.0100
+XML-QL: A Query Language for XML	|	0.0089
+A Query Language and Optimization Techniques for Unstructured Data	|	0.0073
+Querying Object-Oriented Databases	|	0.0071
+Piazza: data management infrastructure for semantic web applications	|	0.0071
+Answering queries using views: A survey	|	0.0065
+Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.0064
+Lore: a database management system for semistructured data	|	0.0058
+Multiple-query optimization	|	0.0057
+Database techniques for the World-Wide Web: a survey	|	0.0050
+Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.0043

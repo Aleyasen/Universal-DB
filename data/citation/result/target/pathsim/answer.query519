@@ -1,83 +1,84 @@
-A cost model for nearest neighbor search in high-dimensional data space	|	0.4615
-The X-tree : An Index Structure for High-Dimensional Data	|	0.4500
-Efficient and Effective Querying by Image Content	|	0.3871
-The SR-tree: An Index Structure for High-Dimensional Nearest Neighbor Queries	|	0.3846
-M-tree: An Efficient Access Method for Similarity Search in Metric Spaces	|	0.3571
-Multidimensional access methods	|	0.3556
-3D Shape Histograms for Similarity Search and Classification in Spatial Databases	|	0.3478
-Similarity Indexing with the SS-tree	|	0.3448
-A Quantitative Analysis and Performance Study for Similarity-Search Methods in High-Dimensional Spaces	|	0.3333
-Satisfying General Proximity/Similarity Queries with Metric Trees	|	0.3158
-Distance browsing in spatial databases	|	0.3030
-Near Neighbor Search in Large Metric Spaces	|	0.3000
-The Pyramid-Technique: Towards Breaking the Curse of Dimensionality	|	0.2963
-On packing R-trees	|	0.2857
-Hilbert R-tree: An Improved R-tree using Fractals	|	0.2857
-Similarity Search in High Dimensions via Hashing	|	0.2727
-Optimal Multi-Step k-Nearest Neighbor Search	|	0.2667
-Searching in high-dimensional spaces: Index structures for improving the performance of multimedia databases	|	0.2667
-When Is ''Nearest Neighbor'' Meaningful?	|	0.2500
-The TV-Tree: An Index Structure for High-Dimensional Data	|	0.2500
-The Grid File: An Adaptable, Symmetric Multi-Key File Structure	|	0.2500
-The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.2500
-Access methods for text	|	0.2500
-The Ubiquitous B-Tree	|	0.2353
-Generalized Search Trees for Database Systems	|	0.2308
-The R*-tree: an efficient and robust access method for points and rectangles	|	0.2308
-Query Processing in Spatial Network Databases	|	0.2222
-Data structures and algorithms for nearest neighbor search in general metric spaces	|	0.2222
-A class of data structures for associative searching	|	0.2143
-The Quadtree and Related Hierarchical Data Structures	|	0.2143
-The Grid File: An Adaptable, Symmetric Multikey File Structure	|	0.2105
-FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets	|	0.2051
-Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases	|	0.2000
-On indexing mobile objects	|	0.1905
-The hB-tree: a multiattribute indexing method with good guaranteed performance	|	0.1905
-Exact Indexing of Dynamic Time Warping	|	0.1818
-What Is the Nearest Neighbor in High Dimensional Spaces?	|	0.1818
-Efficient Similarity Search In Sequence Databases	|	0.1778
-Fast Subsequence Matching in Time-Series Databases	|	0.1778
-Organization and Maintenance of Large Ordered Indices	|	0.1765
-Quad Trees: A Data Structure for Retrieval on Composite Keys	|	0.1739
-Data Structures for Range Searching	|	0.1739
-The Design and Analysis of Spatial Data Structures	|	0.1667
-Discovering Similar Multidimensional Trajectories	|	0.1600
-An Introduction to Spatial Database Systems	|	0.1538
-Organization and Maintenance of Large Ordered Indexes	|	0.1481
-Searching in metric spaces	|	0.1481
-Modeling and Querying Moving Objects	|	0.1333
-The Skyline Operator	|	0.1111
-Fast Algorithms for Projected Clustering	|	0.1111
-Distance-Based Outliers: Algorithms and Applications	|	0.1053
-STING: A Statistical Information Grid Approach to Spatial Data Mining	|	0.1053
-An optimal and progressive algorithm for skyline queries	|	0.1053
-Starburst Mid-Flight: As the Dust Clears	|	0.1000
-Fast Nearest Neighbor Search in Medical Image Databases	|	0.0952
-LOF: Identifying Density-Based Local Outliers	|	0.0952
-Efficient Algorithms for Mining Outliers from Large Data Sets	|	0.0952
-Algorithms for Mining Distance-Based Outliers in Large Datasets	|	0.0952
-StatStream: Statistical Monitoring of Thousands of Data Streams in Real Time	|	0.0952
-Dimensionality Reduction for Fast Similarity Search in Large Time Series Databases	|	0.0952
-Bigtable: A Distributed Storage System for Structured Data	|	0.0952
-Efficient Time Series Matching by Wavelets	|	0.0909
-Efficient Retrieval of Similar Time Sequences Under Time Warping	|	0.0909
-Discovery of Spatial Association Rules in Geographic Information Databases	|	0.0870
-Linear Hashing: A New Tool for File and Table Addressing	|	0.0870
-Direct Spatial Search on Pictorial Databases Using Packed R-Trees	|	0.0870
-Locally Adaptive Dimensionality Reduction for Indexing Large Time Series Databases	|	0.0800
-A Fast Index for Semistructured Data	|	0.0769
-CURE: An Efficient Clustering Algorithm for Large Databases	|	0.0741
-Join processing in relational databases	|	0.0741
-Join indices	|	0.0741
-The design & analysis of spatial data structures	|	0.0690
-Efficient Processing of Spatial Joins Using R-Trees	|	0.0667
-Spatial Query Processing in an Object-Oriented Database System	|	0.0645
-The Design of Postgres	|	0.0625
-Fast Time Sequence Indexing for Arbitrary Lp Norms	|	0.0606
-Principles of Database and Knowledge-Base Systems, Volume I	|	0.0526
-Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0500
-Query evaluation techniques for large databases	|	0.0476
-Data Mining: An Overview from a Database Perspective	|	0.0465
-Principles of Database and Knowledge-Base Systems, Volume II	|	0.0460
-Concurrency Control and Recovery in Database Systems	|	0.0455
-Access path selection in a relational database management system	|	0.0370
+3D Shape Histograms for Similarity Search and Classification in Spatial Databases	|	0.1849
+A cost model for nearest neighbor search in high-dimensional data space	|	0.1758
+Applications of spatial data structures: computer graphics	|	0.1596
+The Pyramid-Technique: Towards Breaking the Curse of Dimensionality	|	0.1582
+Locally Adaptive Dimensionality Reduction for Indexing Large Time Series Databases	|	0.1538
+Searching in metric spaces	|	0.1480
+Optimal Multi-Step k-Nearest Neighbor Search	|	0.1393
+Distance browsing in spatial databases	|	0.1262
+The Ubiquitous B-Tree	|	0.1180
+A Quantitative Analysis and Performance Study for Similarity-Search Methods in High-Dimensional Spaces	|	0.1144
+The Design and Analysis of Spatial Data Structures	|	0.1063
+The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0959
+Searching in high-dimensional spaces: Index structures for improving the performance of multimedia databases	|	0.0824
+The SR-tree: An Index Structure for High-Dimensional Nearest Neighbor Queries	|	0.0275
+Satisfying General Proximity/Similarity Queries with Metric Trees	|	0.0268
+Near Neighbor Search in Large Metric Spaces	|	0.0252
+M-tree: An Efficient Access Method for Similarity Search in Metric Spaces	|	0.0237
+Efficient and Effective Querying by Image Content	|	0.0229
+Similarity Search in High Dimensions via Hashing	|	0.0221
+Similarity Indexing with the SS-tree	|	0.0220
+The X-tree : An Index Structure for High-Dimensional Data	|	0.0192
+When Is ''Nearest Neighbor'' Meaningful?	|	0.0191
+Access methods for text	|	0.0191
+On packing R-trees	|	0.0190
+Hilbert R-tree: An Improved R-tree using Fractals	|	0.0190
+Query Processing in Spatial Network Databases	|	0.0189
+Data structures and algorithms for nearest neighbor search in general metric spaces	|	0.0189
+Generalized Search Trees for Database Systems	|	0.0165
+On indexing mobile objects	|	0.0157
+The hB-tree: a multiattribute indexing method with good guaranteed performance	|	0.0157
+Exact Indexing of Dynamic Time Warping	|	0.0147
+What Is the Nearest Neighbor in High Dimensional Spaces?	|	0.0147
+The TV-Tree: An Index Structure for High-Dimensional Data	|	0.0142
+The Grid File: An Adaptable, Symmetric Multi-Key File Structure	|	0.0142
+A class of data structures for associative searching	|	0.0142
+The Quadtree and Related Hierarchical Data Structures	|	0.0142
+Quad Trees: A Data Structure for Retrieval on Composite Keys	|	0.0137
+Data Structures for Range Searching	|	0.0137
+Multidimensional access methods	|	0.0129
+Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases	|	0.0123
+Discovering Similar Multidimensional Trajectories	|	0.0118
+An Introduction to Spatial Database Systems	|	0.0110
+Modeling and Querying Moving Objects	|	0.0106
+Organization and Maintenance of Large Ordered Indexes	|	0.0102
+The Grid File: An Adaptable, Symmetric Multikey File Structure	|	0.0096
+The Skyline Operator	|	0.0094
+Fast Algorithms for Projected Clustering	|	0.0094
+Organization and Maintenance of Large Ordered Indices	|	0.0093
+FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets	|	0.0090
+Distance-Based Outliers: Algorithms and Applications	|	0.0089
+STING: A Statistical Information Grid Approach to Spatial Data Mining	|	0.0089
+An optimal and progressive algorithm for skyline queries	|	0.0089
+Starburst Mid-Flight: As the Dust Clears	|	0.0084
+Fast Nearest Neighbor Search in Medical Image Databases	|	0.0079
+LOF: Identifying Density-Based Local Outliers	|	0.0079
+Efficient Algorithms for Mining Outliers from Large Data Sets	|	0.0079
+Algorithms for Mining Distance-Based Outliers in Large Datasets	|	0.0079
+StatStream: Statistical Monitoring of Thousands of Data Streams in Real Time	|	0.0079
+Dimensionality Reduction for Fast Similarity Search in Large Time Series Databases	|	0.0079
+Bigtable: A Distributed Storage System for Structured Data	|	0.0079
+Efficient Time Series Matching by Wavelets	|	0.0074
+Efficient Retrieval of Similar Time Sequences Under Time Warping	|	0.0074
+The R*-tree: an efficient and robust access method for points and rectangles	|	0.0069
+Discovery of Spatial Association Rules in Geographic Information Databases	|	0.0068
+Linear Hashing: A New Tool for File and Table Addressing	|	0.0068
+Direct Spatial Search on Pictorial Databases Using Packed R-Trees	|	0.0068
+Efficient Similarity Search In Sequence Databases	|	0.0065
+Fast Subsequence Matching in Time-Series Databases	|	0.0065
+A Fast Index for Semistructured Data	|	0.0055
+CURE: An Efficient Clustering Algorithm for Large Databases	|	0.0051
+Join processing in relational databases	|	0.0051
+Join indices	|	0.0051
+The design & analysis of spatial data structures	|	0.0044
+Efficient Processing of Spatial Joins Using R-Trees	|	0.0041
+Spatial Query Processing in an Object-Oriented Database System	|	0.0038
+The Design of Postgres	|	0.0036
+Fast Time Sequence Indexing for Arbitrary Lp Norms	|	0.0033
+Principles of Database and Knowledge-Base Systems, Volume I	|	0.0024
+Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0021
+Data Mining: An Overview from a Database Perspective	|	0.0018
+Concurrency Control and Recovery in Database Systems	|	0.0017
+Access path selection in a relational database management system	|	0.0011
+Query evaluation techniques for large databases	|	0.0008
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0007

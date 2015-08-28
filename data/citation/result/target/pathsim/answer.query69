@@ -1,99 +1,99 @@
-On Supporting Containment Queries in Relational Database Management Systems	|	0.4828
-TIMBER: A native XML database	|	0.4348
-Indexing and Querying XML Data for Regular Path Expressions	|	0.4167
-From Semistructured Data to XML: Migrating the Lore Data Model and Query Language	|	0.3810
-Index Structures for Path Expressions	|	0.3636
-Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.3529
-DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.3529
-Semistructured data	|	0.3448
-Storing and Querying XML Data using an RDBMS	|	0.3333
-Structural Joins: A Primitive for Efficient XML Query Pattern Matching	|	0.3333
-Query Optimization for XML	|	0.3226
-Holistic twig joins: optimal XML pattern matching	|	0.3200
-Lore: a database management system for semistructured data	|	0.3158
-XRel: a path-based approach to storage and retrieval of XML documents using relational databases	|	0.3158
-The Lorel Query Language for Semistructured Data	|	0.3000
-From Structured Documents to Novel Query Facilities	|	0.2857
-Storing Semistructured Data with STORED	|	0.2857
-A Query Language and Optimization Techniques for Unstructured Data	|	0.2857
-The Object Database Standard: ODMG-93	|	0.2667
-W3QS: A Query System for the World-Wide Web	|	0.2609
-Answering queries using views: A survey	|	0.2553
-Efficiently Publishing Relational Data as XML Documents	|	0.2308
-A Query Language for XML	|	0.2308
-XML-QL: A Query Language for XML	|	0.2308
-Querying Object-Oriented Databases	|	0.2143
-Your Mediators Need Data Conversion!	|	0.2069
-Catching the boat with Strudel: experiences with a Web Site management system	|	0.2069
-XWRAP: An XML-Enabled Wrapper Construction System for Web Information Sources	|	0.2000
-Typechecking for XML transformers	|	0.1905
-Wrapper generation for semi-structured Internet sources	|	0.1905
-Adding Structure to Unstructured Data	|	0.1818
-Storing and querying ordered XML using a relational database system	|	0.1818
-Linear Hashing: A New Tool for File and Table Addressing	|	0.1739
-Quilt: An XML Query Language for Heterogeneous Data Sources	|	0.1600
-Why and Where: A Characterization of Data Provenance	|	0.1600
-RQL: a declarative query language for RDF	|	0.1538
-Generalized Search Trees for Database Systems	|	0.1538
-Database techniques for the World-Wide Web: a survey	|	0.1500
-Query-by-Example: A Data Base Language	|	0.1481
-XMILL: An Efficient Compressor for XML Data	|	0.1429
-Extensible Markup Language (XML)	|	0.1250
-Query evaluation techniques for large databases	|	0.1190
-XIRQL: a query language for information retrieval in XML documents	|	0.1176
-Organization and Maintenance of Large Ordered Indices	|	0.1176
-Approximating block accesses in database organizations	|	0.1176
-Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.1111
-Extensible Markup Language (XML) 1.0	|	0.1111
-Organization and maintenance of large ordered indexes	|	0.1111
-Data integration: a theoretical perspective	|	0.1053
-Remarks on the algebra of non first normal form relations	|	0.1053
-Answering XML Queries over Heterogeneous Data Sources	|	0.1000
-Querying the World Wide Web	|	0.1000
-Starburst Mid-Flight: As the Dust Clears	|	0.1000
-extensible markup language (xml) 1	|	0.1000
-Shoring Up Persistent Applications	|	0.0952
-Extracting Semistructured Information from the Web	|	0.0952
-On indexing mobile objects	|	0.0952
-Accelerating XPath location steps	|	0.0952
-XRANK: ranked keyword search over XML documents	|	0.0952
-Understanding the New SQL: A Complete Guide	|	0.0952
-The hB-tree: a multiattribute indexing method with good guaranteed performance	|	0.0952
-Bigtable: A Distributed Storage System for Structured Data	|	0.0952
-A Taxonomy of Time in Databases	|	0.0909
-Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases	|	0.0870
-Query By Example	|	0.0870
-Direct Spatial Search on Pictorial Databases Using Packed R-Trees	|	0.0870
-Path sharing and predicate evaluation for high-performance XML filtering	|	0.0870
-Benchmarking Database Systems A Systematic Approach	|	0.0833
-Partition Based Spatial-Merge Join	|	0.0833
-Development of an object-oriented DBMS	|	0.0833
-Access methods for text	|	0.0833
-The Postgres Next Generation Database Management System	|	0.0800
-Ranking in Spatial Databases	|	0.0769
-Answering recursive queries using views	|	0.0769
-An Introduction to Spatial Database Systems	|	0.0769
-Organization and Maintenance of Large Ordered Indexes	|	0.0741
-The Pyramid-Technique: Towards Breaking the Curse of Dimensionality	|	0.0741
-Join processing in relational databases	|	0.0741
-Join indices	|	0.0741
-On packing R-trees	|	0.0714
-A class of data structures for associative searching	|	0.0714
-Interoperability of multiple autonomous databases	|	0.0714
-The Quadtree and Related Hierarchical Data Structures	|	0.0714
-Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.0690
-Principles of Database and Knowledge-Base Systems, Volume II	|	0.0690
-Multiple-query optimization	|	0.0667
-Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.0606
-Distance browsing in spatial databases	|	0.0606
-The Ubiquitous B-Tree	|	0.0588
-Principles of Database and Knowledge-Base Systems, Volume I	|	0.0526
-Extending the database relational model to capture more meaning	|	0.0513
-A survey of approaches to automatic schema matching	|	0.0500
-The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0500
-Concurrency Control and Recovery in Database Systems	|	0.0455
-Multidimensional access methods	|	0.0444
-Searching in high-dimensional spaces: Index structures for improving the performance of multimedia databases	|	0.0444
-Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0444
-Mining association rules between sets of items in large databases	|	0.0417
-Access path selection in a relational database management system	|	0.0370
+TIMBER: A native XML database	|	0.1918
+Storing and querying ordered XML using a relational database system	|	0.1765
+Accelerating XPath location steps	|	0.1732
+Quilt: An XML Query Language for Heterogeneous Data Sources	|	0.1598
+Storing Semistructured Data with STORED	|	0.1517
+Join indices	|	0.1429
+Query Optimization for XML	|	0.1374
+Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.1242
+DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.1242
+A Query Language and Optimization Techniques for Unstructured Data	|	0.1163
+The Ubiquitous B-Tree	|	0.1087
+Lore: a database management system for semistructured data	|	0.1058
+The Lorel Query Language for Semistructured Data	|	0.0981
+Indexing and Querying XML Data for Regular Path Expressions	|	0.0318
+From Semistructured Data to XML: Migrating the Lore Data Model and Query Language	|	0.0315
+On Supporting Containment Queries in Relational Database Management Systems	|	0.0308
+Index Structures for Path Expressions	|	0.0294
+XRel: a path-based approach to storage and retrieval of XML documents using relational databases	|	0.0268
+Storing and Querying XML Data using an RDBMS	|	0.0255
+Structural Joins: A Primitive for Efficient XML Query Pattern Matching	|	0.0255
+Holistic twig joins: optimal XML pattern matching	|	0.0237
+Semistructured data	|	0.0220
+The Object Database Standard: ODMG-93	|	0.0213
+W3QS: A Query System for the World-Wide Web	|	0.0205
+From Structured Documents to Novel Query Facilities	|	0.0190
+XWRAP: An XML-Enabled Wrapper Construction System for Web Information Sources	|	0.0168
+Efficiently Publishing Relational Data as XML Documents	|	0.0165
+A Query Language for XML	|	0.0165
+XML-QL: A Query Language for XML	|	0.0165
+Typechecking for XML transformers	|	0.0157
+Wrapper generation for semi-structured Internet sources	|	0.0157
+Adding Structure to Unstructured Data	|	0.0147
+Querying Object-Oriented Databases	|	0.0142
+Linear Hashing: A New Tool for File and Table Addressing	|	0.0137
+Your Mediators Need Data Conversion!	|	0.0132
+Catching the boat with Strudel: experiences with a Web Site management system	|	0.0132
+Why and Where: A Characterization of Data Provenance	|	0.0118
+RQL: a declarative query language for RDF	|	0.0110
+Generalized Search Trees for Database Systems	|	0.0110
+XMILL: An Efficient Compressor for XML Data	|	0.0109
+Extensible Markup Language (XML)	|	0.0103
+Query-by-Example: A Data Base Language	|	0.0102
+XIRQL: a query language for information retrieval in XML documents	|	0.0099
+Approximating block accesses in database organizations	|	0.0099
+Extensible Markup Language (XML) 1.0	|	0.0094
+Organization and maintenance of large ordered indexes	|	0.0094
+Remarks on the algebra of non first normal form relations	|	0.0089
+Answering queries using views: A survey	|	0.0087
+Answering XML Queries over Heterogeneous Data Sources	|	0.0084
+Querying the World Wide Web	|	0.0084
+Starburst Mid-Flight: As the Dust Clears	|	0.0084
+extensible markup language (xml) 1	|	0.0084
+Shoring Up Persistent Applications	|	0.0079
+Extracting Semistructured Information from the Web	|	0.0079
+On indexing mobile objects	|	0.0079
+XRANK: ranked keyword search over XML documents	|	0.0079
+Understanding the New SQL: A Complete Guide	|	0.0079
+The hB-tree: a multiattribute indexing method with good guaranteed performance	|	0.0079
+Bigtable: A Distributed Storage System for Structured Data	|	0.0079
+A Taxonomy of Time in Databases	|	0.0074
+Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases	|	0.0068
+Query By Example	|	0.0068
+Direct Spatial Search on Pictorial Databases Using Packed R-Trees	|	0.0068
+Path sharing and predicate evaluation for high-performance XML filtering	|	0.0068
+Database techniques for the World-Wide Web: a survey	|	0.0064
+Benchmarking Database Systems A Systematic Approach	|	0.0064
+Partition Based Spatial-Merge Join	|	0.0064
+Development of an object-oriented DBMS	|	0.0064
+Access methods for text	|	0.0064
+Organization and Maintenance of Large Ordered Indices	|	0.0062
+The Postgres Next Generation Database Management System	|	0.0059
+Ranking in Spatial Databases	|	0.0055
+Answering recursive queries using views	|	0.0055
+An Introduction to Spatial Database Systems	|	0.0055
+Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0054
+Organization and Maintenance of Large Ordered Indexes	|	0.0051
+The Pyramid-Technique: Towards Breaking the Curse of Dimensionality	|	0.0051
+Join processing in relational databases	|	0.0051
+Data integration: a theoretical perspective	|	0.0048
+On packing R-trees	|	0.0047
+A class of data structures for associative searching	|	0.0047
+Interoperability of multiple autonomous databases	|	0.0047
+The Quadtree and Related Hierarchical Data Structures	|	0.0047
+Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.0044
+Multiple-query optimization	|	0.0041
+Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.0033
+Distance browsing in spatial databases	|	0.0033
+Principles of Database and Knowledge-Base Systems, Volume I	|	0.0024
+Extending the database relational model to capture more meaning	|	0.0023
+A survey of approaches to automatic schema matching	|	0.0021
+The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0021
+Query evaluation techniques for large databases	|	0.0019
+Concurrency Control and Recovery in Database Systems	|	0.0017
+Multidimensional access methods	|	0.0016
+Searching in high-dimensional spaces: Index structures for improving the performance of multimedia databases	|	0.0016
+Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0016
+Mining association rules between sets of items in large databases	|	0.0014
+Access path selection in a relational database management system	|	0.0011
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0010

@@ -2,9 +2,9 @@ Dimensionality Reduction for Fast Similarity Search in Large Time Series Databas
 Similarity-Based Queries for Time Series Data	|	0.2727
 Exact Indexing of Dynamic Time Warping	|	0.2667
 Locally Adaptive Dimensionality Reduction for Indexing Large Time Series Databases	|	0.2195
-Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases	|	0.1486
+Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases	|	0.1667
 Fast Time Sequence Indexing for Arbitrary Lp Norms	|	0.1373
-FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets	|	0.0947
+FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets	|	0.0985
 Efficient Similarity Search In Sequence Databases	|	0.0838
 Fast Subsequence Matching in Time-Series Databases	|	0.0838
 Discovering Similar Multidimensional Trajectories	|	0.0569
@@ -27,30 +27,30 @@ The design & analysis of spatial data structures	|	0.0110
 Efficient Processing of Spatial Joins Using R-Trees	|	0.0101
 Efficient Data Mining for Path Traversal Patterns	|	0.0100
 Spatial Query Processing in an Object-Oriented Database System	|	0.0093
-Data Mining: An Overview from a Database Perspective	|	0.0092
 When Is ''Nearest Neighbor'' Meaningful?	|	0.0090
 Access methods for text	|	0.0090
 The Grid File: An Adaptable, Symmetric Multi-Key File Structure	|	0.0085
 The Grid File: An Adaptable, Symmetric Multikey File Structure	|	0.0081
+Data Mining: An Overview from a Database Perspective	|	0.0078
 Ranking in Spatial Databases	|	0.0074
+The R*-tree: an efficient and robust access method for points and rectangles	|	0.0073
 The X-tree : An Index Structure for High-Dimensional Data	|	0.0071
 Searching in high-dimensional spaces: Index structures for improving the performance of multimedia databases	|	0.0070
-The R*-tree: an efficient and robust access method for points and rectangles	|	0.0069
+Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0067
 Searching in metric spaces	|	0.0067
 The Design and Analysis of Spatial Data Structures	|	0.0062
 On packing R-trees	|	0.0061
 Hilbert R-tree: An Improved R-tree using Fractals	|	0.0061
-Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0060
+Mining association rules between sets of items in large databases	|	0.0059
 Similarity Indexing with the SS-tree	|	0.0055
-Mining association rules between sets of items in large databases	|	0.0054
+An Effective Hash Based Algorithm for Mining Association Rules	|	0.0051
+Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0047
 Efficient and Effective Querying by Image Content	|	0.0046
-An Effective Hash Based Algorithm for Mining Association Rules	|	0.0044
 Fast Algorithms for Mining Association Rules in Large Databases	|	0.0044
 The TV-Tree: An Index Structure for High-Dimensional Data	|	0.0043
-Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0042
 Distance browsing in spatial databases	|	0.0039
+Mining Generalized Association Rules	|	0.0039
 Continuous queries over data streams	|	0.0036
-Mining Generalized Association Rules	|	0.0031
 Temporal and Real-Time Databases: A Survey	|	0.0031
-Fast Algorithms for Mining Association Rules	|	0.0027
+Fast Algorithms for Mining Association Rules	|	0.0030
 Models and issues in data stream systems	|	0.0021

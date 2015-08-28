@@ -7,7 +7,7 @@ Moving Objects Databases: Issues and Solutions	|	0.0625
 Introduction to Object-Oriented Databases	|	0.0556
 Point-set topological spatial relations	|	0.0556
 Temporal Databases	|	0.0556
-The temporal query language TQuel	|	0.0336
+The temporal query language TQuel	|	0.0392
 Real-Time Databases	|	0.0333
 Data Models	|	0.0333
 Scheduling Real-time Transactions: a Performance Evaluation	|	0.0278
@@ -27,16 +27,16 @@ Database Description with SDM: A Semantic Database Model	|	0.0108
 Aurora: a new model and architecture for data stream management	|	0.0094
 The CQL continuous query language: semantic foundations and query execution	|	0.0094
 An Introduction to Spatial Database Systems	|	0.0094
+A Data Model and Query Language for EXODUS	|	0.0083
 Query-by-Example: A Data Base Language	|	0.0083
-A Data Model and Query Language for EXODUS	|	0.0074
 Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.0074
 Efficient Processing of Spatial Joins Using R-Trees	|	0.0060
 Database description with SDM: a semantic database model	|	0.0054
+The notions of consistency and predicate locks in a database system	|	0.0049
 Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0044
 Relational Completeness of Data Base Sublanguages	|	0.0044
-The notions of consistency and predicate locks in a database system	|	0.0044
 Monitoring Streams - A New Class of Data Management Applications	|	0.0032
-Lore: a database management system for semistructured data	|	0.0027
+Lore: a database management system for semistructured data	|	0.0029
 Concurrency Control and Recovery in Database Systems	|	0.0020
 Fast Subsequence Matching in Time-Series Databases	|	0.0018
 Multidimensional access methods	|	0.0018

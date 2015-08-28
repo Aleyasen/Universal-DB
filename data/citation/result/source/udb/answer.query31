@@ -2,12 +2,12 @@ The Ontolingua Server: a tool for collaborative ontology construction	|	0.1890
 FCA-MERGE: Bottom-Up Merging of Ontologies	|	0.1792
 The PROMPT suite: interactive tools for ontology merging and mapping	|	0.1783
 Ontology mapping: the state of the art	|	0.1765
-Ontology Evolution: Not the Same as Schema Evolution	|	0.1704
 The Ontolin-gua Server: A Tool for Collaborative Ontology Construction	|	0.1702
+Ontology Evolution: Not the Same as Schema Evolution	|	0.1698
 Ontology Mapping: The State of the Art	|	0.1656
 Combining and relating ontologies: an analysis of problems and solutions	|	0.1649
-Learning to map between ontologies on the semantic web	|	0.1431
-Learning to match ontologies on the Semantic Web	|	0.1425
+Learning to map between ontologies on the semantic web	|	0.1564
+Learning to match ontologies on the Semantic Web	|	0.1480
 Semantic e-Workflow Composition	|	0.1327
 Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.1163
 Mediators in the Architecture of Future Information Systems	|	0.1139
@@ -17,7 +17,6 @@ Using semantic values to facilitate interoperability among heterogeneous informa
 Generic Schema Matching with Cupid	|	0.0255
 A Translation Approach to Portable Ontology Specifications	|	0.0236
 Ontologies - a silver bullet for knowledge management and electronic commerce	|	0.0213
-Ontology Learning for the Semantic Web	|	0.0204
 Enhanced hypertext categorization using hyperlinks	|	0.0189
 An Information-Theoretic Definition of Similarity	|	0.0168
 Translating Web Data	|	0.0168
@@ -31,18 +30,19 @@ A survey of approaches to automatic schema matching	|	0.0128
 OBSERVER: An Approach for Query Processing in Global Information Systems Based on Interoperation Across Pre-Existing Ontologies	|	0.0127
 A Survey of Schema-Based Matching Approaches	|	0.0115
 SGML handbook	|	0.0106
+Ontology Learning for the Semantic Web	|	0.0106
 Quality of service for workflows and web service processes	|	0.0106
 W3c resource description framework (rdf) model and syntax specification	|	0.0106
 OntoSeek: Content-Based Access to the Web	|	0.0103
 OIL in a Nutshell	|	0.0103
+Trust Management for the Semantic Web	|	0.0103
 XLANG Web Services for Business Process Design	|	0.0103
-Trust Management for the Semantic Web	|	0.0100
 Toward principles for the design of ontologies used for knowledge sharing?	|	0.0099
+DAML-S: Semantic Markup For Web Services	|	0.0094
 On the power of magic	|	0.0094
 Resource description framework (rdf)	|	0.0094
-DAML-S: Semantic Markup For Web Services	|	0.0090
 EDUTELLA: a P2P networking infrastructure based on RDF	|	0.0089
-Composing Web services on the Semantic Web	|	0.0084
+Composing Web services on the Semantic Web	|	0.0089
 EDUTELLA: A P2P Networking Infrastructure Based on RDF	|	0.0084
 Similarity Flooding: A Versatile Graph Matching Algorithm and Its Application to Schema Matching	|	0.0084
 Semantic Matching of Web Services Capabilities	|	0.0084
@@ -61,8 +61,8 @@ Principles of database and knowledge-base systems	|	0.0059
 Data Management for Peer-to-Peer Computing : A Vision	|	0.0055
 The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0054
 From Structured Documents to Novel Query Facilities	|	0.0047
+Piazza: data management infrastructure for semantic web applications	|	0.0047
 A comparative analysis of methodologies for database schema integration	|	0.0045
-Piazza: data management infrastructure for semantic web applications	|	0.0044
 Your Mediators Need Data Conversion!	|	0.0044
 Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0043
 Query Caching and Optimization in Distributed Mediator Systems	|	0.0033

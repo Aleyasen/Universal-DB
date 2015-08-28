@@ -1,137 +1,137 @@
-Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.1180
-The Design of the Borealis Stream Processing Engine	|	0.1118
-Aurora: a new model and architecture for data stream management	|	0.1108
-Load Shedding in a Data Stream Manager	|	0.1107
-Approximate Query Processing Using Wavelets	|	0.1099
-The cougar approach to in-network query processing in sensor networks	|	0.1071
-Model-Driven Data Acquisition in Sensor Networks	|	0.1062
-Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Total	|	0.1061
-Computing Iceberg Queries Efficiently	|	0.1044
-New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.1037
-Aggregate-Query Processing in Data Warehousing Environments	|	0.1036
-Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.1022
-Continuous queries over data streams	|	0.1014
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.1012
-Complex Queries in DHT-based Peer-to-Peer Networks	|	0.1011
-Providing olap (on-line analytical processing) to user-analysts: an it mandate	|	0.0969
-Exploratory Mining and Pruning Optimizations of Constrained Association Rules	|	0.0928
-Monitoring Streams - A New Class of Data Management Applications	|	0.0906
-Models and issues in data stream systems	|	0.0801
-Access path selection in a relational database management system	|	0.0584
-Wavelet-Based Histograms for Selectivity Estimation	|	0.0194
-Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.0161
-Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.0157
-An Array-Based Algorithm for Simultaneous Multidimensional Aggregates	|	0.0139
-Eddies: Continuously Adaptive Query Processing	|	0.0139
-The design of an acquisitional query processor for sensor networks	|	0.0136
-Improved Histograms for Selectivity Estimation of Range Predicates	|	0.0135
-Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.0129
-Continuously adaptive continuous queries over streams	|	0.0124
-Probabilistic Counting Algorithms for Data Base Applications	|	0.0112
-Approximate Aggregation Techniques for Sensor Databases	|	0.0107
-Query Processing, Resource Management, and Approximation in a Data Stream Management System	|	0.0107
-Selectivity Estimation Without the Attribute Value Independence Assumption	|	0.0104
-Scalable Distributed Stream Processing	|	0.0104
-An Adaptive Query Execution System for Data Integration	|	0.0104
-TinyDB: an acquisitional query processing system for sensor networks	|	0.0103
-Random sampling with a reservoir	|	0.0101
-Adaptive filters for continuous queries over distributed data streams	|	0.0101
-NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0099
-Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0095
-Bottom-Up Computation of Sparse and Iceberg CUBEs	|	0.0094
-The CQL continuous query language: semantic foundations and query execution	|	0.0087
-Issues in data stream management	|	0.0087
-Distributed top-k monitoring	|	0.0084
-Gigascope: a stream database for network applications	|	0.0078
-TelegraphCQ: Continuous Dataflow Processing for an Uncertain World	|	0.0078
-Beyond Market Baskets: Generalizing Association Rules to Correlations	|	0.0077
-Evaluating probabilistic queries over imprecise data	|	0.0075
-Multiple-query optimization	|	0.0074
-Modeling Multidimensional Databases	|	0.0073
-Index Selection for OLAP	|	0.0071
-The Dangers of Replication and a Solution	|	0.0071
-Data Preparation for Mining World Wide Web Browsing Patterns	|	0.0069
-Understanding the New SQL: A Complete Guide	|	0.0069
-Active database systems	|	0.0065
-Querying the Internet with PIER	|	0.0063
-Incognito: efficient full-domain K-anonymity	|	0.0063
-Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0059
-A New SQL-like Operator for Mining Association Rules	|	0.0058
-An overview of data warehousing and OLAP technology	|	0.0047
-Fast Algorithms for Mining Association Rules in Large Databases	|	0.0046
-Optimizing Queries with Materialized Views	|	0.0041
-The Volcano Optimizer Generator: Extensibility and Efficient Search	|	0.0040
-Query Processing in Sensor Networks	|	0.0039
-Accurate Estimation of the Number of Tuples Satisfying a Condition	|	0.0039
-An introduction to data base systems	|	0.0039
-On the Computation of Multidimensional Aggregates	|	0.0039
-Pig latin: a not-so-foreign language for data processing	|	0.0039
-A framework for clustering evolving data streams	|	0.0038
-Human behavior and the principle of least effort	|	0.0038
-Temporal and Real-Time Databases: A Survey	|	0.0038
-Optimal Histograms with Quality Guarantees	|	0.0037
-An Improved Data Stream Summary: The Count-Min Sketch and Its Applications	|	0.0037
-Randomized Algorithms for Optimizing Large Join Queries	|	0.0037
-Principles of Distributed Database Systems	|	0.0037
-What's hot and what's not: tracking most frequent items dynamically	|	0.0037
-Maintaining Stream Statistics over Sliding Windows	|	0.0037
-GAMMA - A High Performance Dataflow Database Machine	|	0.0037
-SPIRIT: Sequential Pattern Mining with Regular Expression Constraints	|	0.0037
-Mariposa: A Wide-Area Distributed Database System	|	0.0036
-An adaptive data replication algorithm	|	0.0036
-Towards Sensor Database Systems	|	0.0036
-Efficient Mining of Partial Periodic Patterns in Time Series Database	|	0.0036
-Finding Frequent Items in Data Streams	|	0.0036
-StatStream: Statistical Monitoring of Thousands of Data Streams in Real Time	|	0.0035
-Human Behaviour and the Principle of Least Effort: an Introduction to Human Ecology	|	0.0035
-C-Store: A Column-oriented DBMS	|	0.0035
-Super-peer-based routing and clustering strategies for RDF-based peer-to-peer networks	|	0.0034
-A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.0034
-The EXODUS Optimizer Generator	|	0.0034
-A Taxonomy of Time in Databases	|	0.0034
-Mining Sequential Patterns by Pattern-Growth: The PrefixSpan Approach	|	0.0034
-Efficient Algorithms for Mining Outliers from Large Data Sets	|	0.0034
-Constraint-Based Rule Mining in Large, Dense Databases	|	0.0033
-Query By Example	|	0.0033
-On optimizing an SQL-like nested query	|	0.0033
-System R: relational approach to database management	|	0.0032
-Parallel Mining of Association Rules	|	0.0031
-Parallel database systems: the future of high performance database systems	|	0.0031
-An Effective Hash Based Algorithm for Mining Association Rules	|	0.0030
-Scalable Parallel Data Mining for Association Rules	|	0.0030
-Maintenance of Discovered Association Rules in Large Databases: An Incremental Updating Technique	|	0.0030
-Finding interesting rules from large sets of discovered association rules	|	0.0030
-Research problems in data warehousing	|	0.0030
-Query Reformulation for Dynamic Information Integration	|	0.0030
-Organization and Maintenance of Large Ordered Indexes	|	0.0028
-An Introduction to Database Systems	|	0.0028
-Optimizing Queries Across Diverse Data Sources	|	0.0028
-Join processing in relational databases	|	0.0027
-Parallel Database Systems: The Future of High Performance Database Processing1	|	0.0027
-Fast Subsequence Matching in Time-Series Databases	|	0.0026
-Approximate Frequency Counts over Data Streams	|	0.0025
-Sampling Large Databases for Association Rules	|	0.0024
-Query Optimization for XML	|	0.0024
-Spatial Query Processing in an Object-Oriented Database System	|	0.0024
-Answering queries using views: A survey	|	0.0024
-The Design of Postgres	|	0.0023
-The Gamma Database Machine Project	|	0.0023
-Fast Algorithms for Mining Association Rules	|	0.0023
-Query Caching and Optimization in Distributed Mediator Systems	|	0.0022
-Fast Time Sequence Indexing for Arbitrary Lp Norms	|	0.0022
-Distance browsing in spatial databases	|	0.0022
-Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0022
-Query evaluation techniques for large databases	|	0.0021
-Organization and Maintenance of Large Ordered Indices	|	0.0021
-Discovery of Multiple-Level Association Rules from Large Databases	|	0.0020
-An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.0020
-System R: A Relational Approach to Data Base Management	|	0.0020
-Mining Generalized Association Rules	|	0.0019
-Principles of Database and Knowledge-Base Systems, Volume I	|	0.0017
-Logic and Databases: A Deductive Approach	|	0.0015
-The Theory of Relational Databases	|	0.0013
-Data Mining: An Overview from a Database Perspective	|	0.0013
-Query Optimization in Database Systems	|	0.0012
-Mining association rules between sets of items in large databases	|	0.0010
+Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.1302
+The Design of the Borealis Stream Processing Engine	|	0.1232
+Load Shedding in a Data Stream Manager	|	0.1218
+Approximate Query Processing Using Wavelets	|	0.1206
+Aurora: a new model and architecture for data stream management	|	0.1196
+The cougar approach to in-network query processing in sensor networks	|	0.1176
+Model-Driven Data Acquisition in Sensor Networks	|	0.1169
+Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Total	|	0.1146
+Computing Iceberg Queries Efficiently	|	0.1137
+Aggregate-Query Processing in Data Warehousing Environments	|	0.1134
+Complex Queries in DHT-based Peer-to-Peer Networks	|	0.1111
+New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.1102
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.1095
+Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.1091
+Continuous queries over data streams	|	0.1066
+Providing olap (on-line analytical processing) to user-analysts: an it mandate	|	0.1065
+Exploratory Mining and Pruning Optimizations of Constrained Association Rules	|	0.0975
+Monitoring Streams - A New Class of Data Management Applications	|	0.0941
+Models and issues in data stream systems	|	0.0822
+Access path selection in a relational database management system	|	0.0588
+Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.0190
+Wavelet-Based Histograms for Selectivity Estimation	|	0.0181
+Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.0181
+An Array-Based Algorithm for Simultaneous Multidimensional Aggregates	|	0.0163
+Eddies: Continuously Adaptive Query Processing	|	0.0159
+Improved Histograms for Selectivity Estimation of Range Predicates	|	0.0157
+The design of an acquisitional query processor for sensor networks	|	0.0150
+Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.0145
+Probabilistic Counting Algorithms for Data Base Applications	|	0.0133
+Approximate Aggregation Techniques for Sensor Databases	|	0.0126
+Query Processing, Resource Management, and Approximation in a Data Stream Management System	|	0.0126
+Selectivity Estimation Without the Attribute Value Independence Assumption	|	0.0122
+Scalable Distributed Stream Processing	|	0.0122
+Adaptive filters for continuous queries over distributed data streams	|	0.0122
+Continuously adaptive continuous queries over streams	|	0.0119
+Random sampling with a reservoir	|	0.0118
+TinyDB: an acquisitional query processing system for sensor networks	|	0.0116
+An Adaptive Query Execution System for Data Integration	|	0.0113
+Bottom-Up Computation of Sparse and Iceberg CUBEs	|	0.0109
+NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0108
+Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0103
+Distributed top-k monitoring	|	0.0100
+The CQL continuous query language: semantic foundations and query execution	|	0.0100
+Issues in data stream management	|	0.0095
+Gigascope: a stream database for network applications	|	0.0093
+TelegraphCQ: Continuous Dataflow Processing for an Uncertain World	|	0.0093
+Modeling Multidimensional Databases	|	0.0089
+Evaluating probabilistic queries over imprecise data	|	0.0089
+Beyond Market Baskets: Generalizing Association Rules to Correlations	|	0.0087
+Index Selection for OLAP	|	0.0084
+Multiple-query optimization	|	0.0083
+Data Preparation for Mining World Wide Web Browsing Patterns	|	0.0081
+Understanding the New SQL: A Complete Guide	|	0.0081
+Active database systems	|	0.0078
+Querying the Internet with PIER	|	0.0072
+Incognito: efficient full-domain K-anonymity	|	0.0072
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0068
+A New SQL-like Operator for Mining Association Rules	|	0.0066
+An overview of data warehousing and OLAP technology	|	0.0052
+Fast Algorithms for Mining Association Rules in Large Databases	|	0.0049
+Optimizing Queries with Materialized Views	|	0.0048
+The Volcano Optimizer Generator: Extensibility and Efficient Search	|	0.0047
+Query Processing in Sensor Networks	|	0.0046
+Accurate Estimation of the Number of Tuples Satisfying a Condition	|	0.0046
+An introduction to data base systems	|	0.0046
+On the Computation of Multidimensional Aggregates	|	0.0046
+Pig latin: a not-so-foreign language for data processing	|	0.0046
+A framework for clustering evolving data streams	|	0.0045
+Human behavior and the principle of least effort	|	0.0045
+Optimal Histograms with Quality Guarantees	|	0.0044
+An Improved Data Stream Summary: The Count-Min Sketch and Its Applications	|	0.0044
+The Dangers of Replication and a Solution	|	0.0044
+Randomized Algorithms for Optimizing Large Join Queries	|	0.0044
+Principles of Distributed Database Systems	|	0.0044
+What's hot and what's not: tracking most frequent items dynamically	|	0.0044
+Maintaining Stream Statistics over Sliding Windows	|	0.0044
+GAMMA - A High Performance Dataflow Database Machine	|	0.0043
+SPIRIT: Sequential Pattern Mining with Regular Expression Constraints	|	0.0043
+Finding Frequent Items in Data Streams	|	0.0043
+Mariposa: A Wide-Area Distributed Database System	|	0.0042
+An adaptive data replication algorithm	|	0.0042
+Towards Sensor Database Systems	|	0.0042
+Efficient Mining of Partial Periodic Patterns in Time Series Database	|	0.0042
+Temporal and Real-Time Databases: A Survey	|	0.0041
+Efficient Algorithms for Mining Outliers from Large Data Sets	|	0.0041
+StatStream: Statistical Monitoring of Thousands of Data Streams in Real Time	|	0.0041
+Human Behaviour and the Principle of Least Effort: an Introduction to Human Ecology	|	0.0041
+C-Store: A Column-oriented DBMS	|	0.0041
+Super-peer-based routing and clustering strategies for RDF-based peer-to-peer networks	|	0.0039
+A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.0039
+The EXODUS Optimizer Generator	|	0.0039
+A Taxonomy of Time in Databases	|	0.0039
+Mining Sequential Patterns by Pattern-Growth: The PrefixSpan Approach	|	0.0039
+Parallel Mining of Association Rules	|	0.0038
+Constraint-Based Rule Mining in Large, Dense Databases	|	0.0038
+Query By Example	|	0.0038
+On optimizing an SQL-like nested query	|	0.0038
+Scalable Parallel Data Mining for Association Rules	|	0.0036
+Maintenance of Discovered Association Rules in Large Databases: An Incremental Updating Technique	|	0.0036
+Finding interesting rules from large sets of discovered association rules	|	0.0036
+Parallel database systems: the future of high performance database systems	|	0.0036
+An Effective Hash Based Algorithm for Mining Association Rules	|	0.0036
+Research problems in data warehousing	|	0.0035
+Query Reformulation for Dynamic Information Integration	|	0.0035
+System R: relational approach to database management	|	0.0034
+Optimizing Queries Across Diverse Data Sources	|	0.0033
+Organization and Maintenance of Large Ordered Indexes	|	0.0032
+An Introduction to Database Systems	|	0.0032
+Join processing in relational databases	|	0.0032
+Parallel Database Systems: The Future of High Performance Database Processing1	|	0.0030
+Approximate Frequency Counts over Data Streams	|	0.0029
+Sampling Large Databases for Association Rules	|	0.0029
+Fast Subsequence Matching in Time-Series Databases	|	0.0027
+Query Optimization for XML	|	0.0026
+The Gamma Database Machine Project	|	0.0026
+Spatial Query Processing in an Object-Oriented Database System	|	0.0026
+Fast Algorithms for Mining Association Rules	|	0.0026
+The Design of Postgres	|	0.0025
+Answering queries using views: A survey	|	0.0025
+Query Caching and Optimization in Distributed Mediator Systems	|	0.0024
+Fast Time Sequence Indexing for Arbitrary Lp Norms	|	0.0024
+Discovery of Multiple-Level Association Rules from Large Databases	|	0.0024
+An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.0024
+Distance browsing in spatial databases	|	0.0024
+Mining Generalized Association Rules	|	0.0024
+Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0024
+Organization and Maintenance of Large Ordered Indices	|	0.0023
+Query evaluation techniques for large databases	|	0.0022
+System R: A Relational Approach to Data Base Management	|	0.0022
+Principles of Database and Knowledge-Base Systems, Volume I	|	0.0019
+Logic and Databases: A Deductive Approach	|	0.0016
+Data Mining: An Overview from a Database Perspective	|	0.0015
+The Theory of Relational Databases	|	0.0014
+Query Optimization in Database Systems	|	0.0013
+Mining association rules between sets of items in large databases	|	0.0012
 Foundations of Databases	|	0.0004
 Principles of Database and Knowledge-Base Systems, Volume II	|	0.0003

@@ -1,21 +1,21 @@
-Conceptual Database Design: An Entity-Relationship Approach	|	0.3200
-Formal Models for Computer Security	|	0.3200
-The Entity-Relationship Model-Towards a Uni ed View of Data	|	0.3200
-A model of authorization for next-generation database systems	|	0.2973
-A Relational Model for Large Shared Data Banks	|	0.2149
-Modeling Multidimensional Databases	|	0.0909
-The theory of joins in relational databases	|	0.0909
-Incomplete Information in Relational Databases	|	0.0909
-F-Logic: A Higher-Order language for Reasoning about Objects, Inheritance, and Scheme	|	0.0784
-Universality of data retrieval languages	|	0.0351
-A logical design methodology for relational databases using the extended entity-relationship model	|	0.0312
-A fine-grained access control system for XML documents	|	0.0312
-A language facility for designing database-intensive applications	|	0.0252
-Objects and Views	|	0.0233
-Flexible support for multiple access control policies	|	0.0200
-The notions of consistency and predicate locks in a database system	|	0.0172
-Data model issues for object-oriented applications	|	0.0150
-Hippocratic Databases	|	0.0149
-Telos: representing knowledge about information systems	|	0.0149
-Types and persistence in database programming languages	|	0.0093
-Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0043
+Conceptual Database Design: An Entity-Relationship Approach	|	0.3889
+Formal Models for Computer Security	|	0.3889
+The Entity-Relationship Model-Towards a Uni ed View of Data	|	0.3889
+A model of authorization for next-generation database systems	|	0.3333
+A Relational Model for Large Shared Data Banks	|	0.2143
+A fine-grained access control system for XML documents	|	0.0400
+Modeling Multidimensional Databases	|	0.0333
+The theory of joins in relational databases	|	0.0333
+Incomplete Information in Relational Databases	|	0.0333
+Objects and Views	|	0.0278
+F-Logic: A Higher-Order language for Reasoning about Objects, Inheritance, and Scheme	|	0.0278
+Flexible support for multiple access control policies	|	0.0233
+Data model issues for object-oriented applications	|	0.0196
+Hippocratic Databases	|	0.0167
+Telos: representing knowledge about information systems	|	0.0167
+Universality of data retrieval languages	|	0.0108
+A logical design methodology for relational databases using the extended entity-relationship model	|	0.0094
+A language facility for designing database-intensive applications	|	0.0074
+The notions of consistency and predicate locks in a database system	|	0.0049
+Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0044
+Types and persistence in database programming languages	|	0.0027

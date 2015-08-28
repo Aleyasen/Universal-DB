@@ -20,36 +20,36 @@ Semantic e-Workflow Composition	|	0.0192
 Query Reformulation for Dynamic Information Integration	|	0.0175
 Semantic and Schematic Similarities Between Database Objects: A Context-Based Approach	|	0.0175
 Remarks on the algebra of non first normal form relations	|	0.0175
+F-Logic: A Higher-Order language for Reasoning about Objects, Inheritance, and Scheme	|	0.0175
 View Definition and Generalization for Database Integration in a Multidatabase System	|	0.0175
 Making Smalltalk a Database System	|	0.0157
-F-Logic: A Higher-Order language for Reasoning about Objects, Inheritance, and Scheme	|	0.0154
+An Approach to Persistent Programming	|	0.0156
 Ontologies: principles, methods and applications	|	0.0139
+Data model issues for object-oriented applications	|	0.0139
 A Translation Approach to Portable Ontology Specifications	|	0.0139
-An Approach to Persistent Programming	|	0.0137
-Data model issues for object-oriented applications	|	0.0124
 Dynamic service matchmaking among agents in open information environments	|	0.0123
 Retrieving and Integrating Data from Multiple Information Sources	|	0.0123
 COMA - A System for Flexible Combination of Schema Matching Approaches	|	0.0110
 Query By Example	|	0.0110
 Extended algebra and calculus for nested relational databases	|	0.0110
+GALILEO: a strongly-typed, interactive conceptual language	|	0.0098
 Ode as an Active Database: Constraints and Triggers	|	0.0098
 Logical Foundations of Object-Oriented and Frame-Based Languages	|	0.0098
 The PROMPT suite: interactive tools for ontology merging and mapping	|	0.0098
 Further Normalization of the Data Base Relational Model	|	0.0097
 Data Model and Query Evaluation in Global Information Systems	|	0.0088
 Database Description with SDM: A Semantic Database Model	|	0.0088
-GALILEO: a strongly-typed, interactive conceptual language	|	0.0087
-A logical design methodology for relational databases using the extended entity-relationship model	|	0.0070
-A Data Model and Query Language for EXODUS	|	0.0064
-Learning to match ontologies on the Semantic Web	|	0.0064
+A logical design methodology for relational databases using the extended entity-relationship model	|	0.0079
+A Data Model and Query Language for EXODUS	|	0.0071
+Learning to match ontologies on the Semantic Web	|	0.0071
+Learning to map between ontologies on the semantic web	|	0.0064
 Interoperability of multiple autonomous databases	|	0.0064
-IFO: a formal semantic database model	|	0.0058
-A language facility for designing database-intensive applications	|	0.0058
-Learning to map between ontologies on the semantic web	|	0.0053
+IFO: a formal semantic database model	|	0.0064
+A language facility for designing database-intensive applications	|	0.0064
+Types and persistence in database programming languages	|	0.0052
 A comparative analysis of methodologies for database schema integration	|	0.0052
 Extending the database relational model to capture more meaning	|	0.0052
 Database description with SDM: a semantic database model	|	0.0048
-Types and persistence in database programming languages	|	0.0045
 Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0041
 Semantic data models	|	0.0041
 System R: A Relational Approach to Data Base Management	|	0.0035

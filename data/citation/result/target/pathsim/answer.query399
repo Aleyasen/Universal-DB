@@ -1,30 +1,33 @@
-Scheduling Real-time Transactions: a Performance Evaluation	|	0.5455
-The design and implementation of INGRES	|	0.2857
-The notions of consistency and predicate locks in a database system	|	0.2500
-The Postgres Next Generation Database Management System	|	0.2353
-Object and File Management in the EXODUS Extensible Database System	|	0.2222
-Composite Event Specification in Active Databases: Model & Implementation	|	0.2000
-Starburst Mid-Flight: As the Dust Clears	|	0.1667
-Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.1600
-Concurrency control performance modeling: alternatives and implications	|	0.1538
-System R: A Relational Approach to Data Base Management	|	0.1481
-Temporal and Real-Time Databases: A Survey	|	0.1429
-The EXODUS Optimizer Generator	|	0.1429
-Active database systems	|	0.1429
-The Implementation of Postgres	|	0.1333
-Operating system support for database management	|	0.1333
-Principles of transaction-oriented database recovery	|	0.1333
-Using Semantic Knowledge for Transaction Processing in Distributed Database	|	0.1333
-Ode as an Active Database: Constraints and Triggers	|	0.1250
-The Architecture Of An Active Data Base Management System	|	0.1250
-System R: relational approach to database management	|	0.1250
-Making Smalltalk a Database System	|	0.1111
-An Introduction to Spatial Database Systems	|	0.1111
-Object identity	|	0.0909
-Multiple-query optimization	|	0.0909
-Foundations of Databases	|	0.0822
-Types and persistence in database programming languages	|	0.0645
-The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0625
-Concurrency Control and Recovery in Database Systems	|	0.0556
-Access path selection in a relational database management system	|	0.0435
-Principles of Database and Knowledge-Base Systems, Volume II	|	0.0253
+Composite Event Specification in Active Databases: Model & Implementation	|	0.3667
+Real-Time Databases	|	0.3333
+Scheduling real-time transactions: a performance evaluation	|	0.3056
+Ode as an Active Database: Constraints and Triggers	|	0.2099
+The Design of Postgres	|	0.1171
+Scheduling Real-time Transactions: a Performance Evaluation	|	0.0833
+The design and implementation of INGRES	|	0.0556
+Object and File Management in the EXODUS Extensible Database System	|	0.0400
+Starburst Mid-Flight: As the Dust Clears	|	0.0233
+The Postgres Next Generation Database Management System	|	0.0215
+Concurrency control performance modeling: alternatives and implications	|	0.0196
+The EXODUS Optimizer Generator	|	0.0167
+Active database systems	|	0.0167
+The notions of consistency and predicate locks in a database system	|	0.0146
+The Implementation of Postgres	|	0.0143
+Operating system support for database management	|	0.0143
+Principles of transaction-oriented database recovery	|	0.0143
+Using Semantic Knowledge for Transaction Processing in Distributed Database	|	0.0143
+The Architecture Of An Active Data Base Management System	|	0.0123
+Making Smalltalk a Database System	|	0.0094
+An Introduction to Spatial Database Systems	|	0.0094
+Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0089
+System R: A Relational Approach to Data Base Management	|	0.0075
+Temporal and Real-Time Databases: A Survey	|	0.0069
+Object identity	|	0.0060
+Multiple-query optimization	|	0.0060
+System R: relational approach to database management	|	0.0051
+Types and persistence in database programming languages	|	0.0027
+The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0025
+Concurrency Control and Recovery in Database Systems	|	0.0020
+Foundations of Databases	|	0.0013
+Access path selection in a relational database management system	|	0.0011
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0004

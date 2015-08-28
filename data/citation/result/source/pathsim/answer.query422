@@ -1,26 +1,25 @@
-A fine-grained access control system for XML documents	|	0.4000
-Objects and Views	|	0.3333
-Flexible support for multiple access control policies	|	0.3023
-Database Security	|	0.2973
-Data model issues for object-oriented applications	|	0.2521
-The alternating fixpoint of logic programs with negation	|	0.0625
-Conceptual Database Design: An Entity-Relationship Approach	|	0.0556
-Formal Models for Computer Security	|	0.0556
-The Entity-Relationship Model-Towards a Uni ed View of Data	|	0.0556
-Object-Oriented Programming: Themes and Variations	|	0.0476
-Xml schema part 2: datatypes	|	0.0476
-On the Declarative Semantics of Deductive Databases and Logic Programs	|	0.0400
-Towards a Theory of Declarative Knowledge	|	0.0333
-Foundations of Logic Programming, 2nd Edition	|	0.0333
-Semantics and Implementation of Schema Evolution in Object-Oriented Databases	|	0.0278
-Iris: An Object-Oriented Database Management System	|	0.0278
-From Semistructured Data to XML: Migrating the Lore Data Model and Query Language	|	0.0196
-Hippocratic Databases	|	0.0167
-Development of an object-oriented DBMS	|	0.0108
-Making Smalltalk a Database System	|	0.0094
-A Relational Model for Large Shared Data Banks	|	0.0085
-A Data Model and Query Language for EXODUS	|	0.0074
-Querying Object-Oriented Databases	|	0.0074
-Query Caching and Optimization in Distributed Mediator Systems	|	0.0044
-Database abstractions: aggregation and generalization	|	0.0044
-Foundations of Databases	|	0.0004
+The alternating fixpoint of logic programs with negation	|	0.3333
+Conceptual Database Design: An Entity-Relationship Approach	|	0.2857
+Formal Models for Computer Security	|	0.2857
+The Entity-Relationship Model-Towards a Uni ed View of Data	|	0.2857
+Object-Oriented Programming: Themes and Variations	|	0.2500
+Xml schema part 2: datatypes	|	0.2500
+On the Declarative Semantics of Deductive Databases and Logic Programs	|	0.2222
+A fine-grained access control system for XML documents	|	0.2222
+Towards a Theory of Declarative Knowledge	|	0.2000
+Foundations of Logic Programming, 2nd Edition	|	0.2000
+Objects and Views	|	0.1818
+Semantics and Implementation of Schema Evolution in Object-Oriented Databases	|	0.1818
+Iris: An Object-Oriented Database Management System	|	0.1818
+Flexible support for multiple access control policies	|	0.1667
+From Semistructured Data to XML: Migrating the Lore Data Model and Query Language	|	0.1538
+Data model issues for object-oriented applications	|	0.1538
+Hippocratic Databases	|	0.1429
+A Relational Model for Large Shared Data Banks	|	0.1333
+Development of an object-oriented DBMS	|	0.1250
+Making Smalltalk a Database System	|	0.1111
+A Data Model and Query Language for EXODUS	|	0.1053
+Querying Object-Oriented Databases	|	0.1000
+Query Caching and Optimization in Distributed Mediator Systems	|	0.0800
+Database abstractions: aggregation and generalization	|	0.0800
+Foundations of Databases	|	0.0274

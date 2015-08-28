@@ -1,26 +1,26 @@
 ROCK: A Robust Clustering Algorithm for Categorical Attributes	|	0.2500
 Improved Histograms for Selectivity Estimation of Range Predicates	|	0.2222
-Wavelet-Based Histograms for Selectivity Estimation	|	0.1699
+Wavelet-Based Histograms for Selectivity Estimation	|	0.2072
 The CQL continuous query language: semantic foundations and query execution	|	0.1691
 CURE: An Efficient Clustering Algorithm for Large Databases	|	0.1600
 New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.1465
-Approximate Frequency Counts over Data Streams	|	0.1357
+Approximate Frequency Counts over Data Streams	|	0.1436
 Continuous queries over data streams	|	0.1123
 Models and issues in data stream systems	|	0.0854
-Finding Frequent Items in Data Streams	|	0.0405
 Gigascope: a stream database for network applications	|	0.0392
 A framework for clustering evolving data streams	|	0.0364
-Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.0361
-Approximate Query Processing Using Wavelets	|	0.0361
-Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0361
+Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.0333
+Approximate Query Processing Using Wavelets	|	0.0333
 Optimal Histograms with Quality Guarantees	|	0.0333
+Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0333
 An Improved Data Stream Summary: The Count-Min Sketch and Its Applications	|	0.0333
 Probabilistic Counting Algorithms for Data Base Applications	|	0.0333
 What's hot and what's not: tracking most frequent items dynamically	|	0.0333
 Maintaining Stream Statistics over Sliding Windows	|	0.0333
+Finding Frequent Items in Data Streams	|	0.0303
+Efficient Algorithms for Mining Outliers from Large Data Sets	|	0.0247
 Selectivity Estimation Without the Attribute Value Independence Assumption	|	0.0247
-Efficient Algorithms for Mining Outliers from Large Data Sets	|	0.0220
-Distributed top-k monitoring	|	0.0199
+Distributed top-k monitoring	|	0.0221
 TelegraphCQ: Continuous Dataflow Processing for an Uncertain World	|	0.0196
 Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.0180
 Fast Algorithms for Projected Clustering	|	0.0167
@@ -31,7 +31,9 @@ Finding Generalized Projected Clusters In High Dimensional Spaces	|	0.0137
 Load Shedding in a Data Stream Manager	|	0.0137
 Query Processing, Resource Management, and Approximation in a Data Stream Management System	|	0.0137
 StatStream: Statistical Monitoring of Thousands of Data Streams in Real Time	|	0.0123
+Adaptive filters for continuous queries over distributed data streams	|	0.0123
 Human Behaviour and the Principle of Least Effort: an Introduction to Human Ecology	|	0.0123
+Online Aggregation	|	0.0118
 Issues in data stream management	|	0.0118
 Super-peer-based routing and clustering strategies for RDF-based peer-to-peer networks	|	0.0111
 Similarity Search in High Dimensions via Hashing	|	0.0111
@@ -40,34 +42,32 @@ OPTICS: Ordering Points To Identify the Clustering Structure	|	0.0111
 Srikant: "fast algorithms for mining association rules	|	0.0111
 Mining Sequential Patterns by Pattern-Growth: The PrefixSpan Approach	|	0.0111
 Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.0110
-Adaptive filters for continuous queries over distributed data streams	|	0.0110
-Online Aggregation	|	0.0101
+Sampling Large Databases for Association Rules	|	0.0110
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0109
 Multiple-query optimization	|	0.0101
-Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0101
 NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0101
-Sampling Large Databases for Association Rules	|	0.0093
 Maintaining Views Incrementally	|	0.0090
 Bottom-Up Computation of Sparse and Iceberg CUBEs	|	0.0090
 Querying the Internet with PIER	|	0.0090
+Continuously adaptive continuous queries over streams	|	0.0078
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0078
 Aurora: a new model and architecture for data stream management	|	0.0074
+Eddies: Continuously Adaptive Query Processing	|	0.0072
 An Adaptive Query Execution System for Data Integration	|	0.0072
-Continuously adaptive continuous queries over streams	|	0.0072
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0072
-Eddies: Continuously Adaptive Query Processing	|	0.0067
 Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0062
 Monitoring Streams - A New Class of Data Management Applications	|	0.0058
 The design & analysis of spatial data structures	|	0.0055
-Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases	|	0.0042
-Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0042
+Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases	|	0.0051
+Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0047
 Fast Time Sequence Indexing for Arbitrary Lp Norms	|	0.0039
+An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.0039
 Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0039
 Fast Subsequence Matching in Time-Series Databases	|	0.0035
-An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.0034
 Temporal and Real-Time Databases: A Survey	|	0.0031
 The Design and Analysis of Spatial Data Structures	|	0.0031
-An Effective Hash Based Algorithm for Mining Association Rules	|	0.0022
+An Effective Hash Based Algorithm for Mining Association Rules	|	0.0025
 Fast Algorithms for Mining Association Rules in Large Databases	|	0.0022
 Access path selection in a relational database management system	|	0.0022
-Fast Algorithms for Mining Association Rules	|	0.0018
+Fast Algorithms for Mining Association Rules	|	0.0020
 The R*-tree: an efficient and robust access method for points and rectangles	|	0.0012
 Query evaluation techniques for large databases	|	0.0004

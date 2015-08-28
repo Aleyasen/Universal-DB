@@ -21,8 +21,8 @@ Logical Foundations of Object-Oriented and Frame-Based Languages	|	0.0247
 Aggregate-Query Processing in Data Warehousing Environments	|	0.0233
 Index Selection for OLAP	|	0.0233
 Object Exchange Across Heterogeneous Information Sources	|	0.0233
-Piazza: data management infrastructure for semantic web applications	|	0.0199
-View Maintenance in a Warehousing Environment	|	0.0168
+Piazza: data management infrastructure for semantic web applications	|	0.0222
+View Maintenance in a Warehousing Environment	|	0.0196
 Mediators in the Architecture of Future Information Systems	|	0.0146
 Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals	|	0.0143
 Storing and Querying XML Data using an RDBMS	|	0.0123
@@ -33,22 +33,22 @@ Data Management for Peer-to-Peer Computing : A Vision	|	0.0094
 Answering recursive queries using views	|	0.0094
 A Query Language for XML	|	0.0094
 XML-QL: A Query Language for XML	|	0.0094
+Schema Mediation in Peer Data Management Systems	|	0.0083
+Join indices	|	0.0083
 A Query Language and Optimization Techniques for Unstructured Data	|	0.0075
-Schema Mediation in Peer Data Management Systems	|	0.0074
-Join indices	|	0.0074
 Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.0074
 Storing Semistructured Data with STORED	|	0.0074
 Semistructured data	|	0.0066
 Complexity of answering queries using materialized views	|	0.0066
 The Lorel Query Language for Semistructured Data	|	0.0051
 Query Caching and Optimization in Distributed Mediator Systems	|	0.0044
-Optimizing Queries with Materialized Views	|	0.0041
+Optimizing Queries with Materialized Views	|	0.0044
 Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.0041
 An Adaptive Query Execution System for Data Integration	|	0.0041
 Optimal implementation of conjunctive queries in relational data bases	|	0.0037
 Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0034
+Data integration: a theoretical perspective	|	0.0029
 Principles of Database and Knowledge-Base Systems, Volume I	|	0.0029
-Data integration: a theoretical perspective	|	0.0027
 Database techniques for the World-Wide Web: a survey	|	0.0025
 Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0025
 Foundations of Databases	|	0.0008

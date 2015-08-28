@@ -1,19 +1,21 @@
-The alternating fixpoint of logic programs with negation	|	0.4000
-On the Declarative Semantics of Deductive Databases and Logic Programs	|	0.2500
-Towards a Theory of Declarative Knowledge	|	0.2222
-Foundations of Logic Programming, 2nd Edition	|	0.2222
-Database Security	|	0.2222
-A model of authorization for next-generation database systems	|	0.2222
-Extensible Markup Language (XML) 1.0	|	0.2222
-Objects and Views	|	0.2000
-Flexible support for multiple access control policies	|	0.1818
-Typechecking for XML transformers	|	0.1667
-Data model issues for object-oriented applications	|	0.1667
-Hippocratic Databases	|	0.1538
-RQL: a declarative query language for RDF	|	0.1176
-Your Mediators Need Data Conversion!	|	0.1000
-Semistructured data	|	0.1000
-Query Optimization for XML	|	0.0909
-DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0800
-Lore: a database management system for semistructured data	|	0.0690
-The Lorel Query Language for Semistructured Data	|	0.0645
+Xml schema part 2: datatypes	|	0.4375
+A model of authorization for next-generation database systems	|	0.4000
+Flexible support for multiple access control policies	|	0.3158
+From Semistructured Data to XML: Migrating the Lore Data Model and Query Language	|	0.2609
+The alternating fixpoint of logic programs with negation	|	0.0909
+On the Declarative Semantics of Deductive Databases and Logic Programs	|	0.0500
+Towards a Theory of Declarative Knowledge	|	0.0400
+Foundations of Logic Programming, 2nd Edition	|	0.0400
+Database Security	|	0.0400
+Extensible Markup Language (XML) 1.0	|	0.0400
+Objects and Views	|	0.0323
+Typechecking for XML transformers	|	0.0217
+Data model issues for object-oriented applications	|	0.0217
+Hippocratic Databases	|	0.0182
+RQL: a declarative query language for RDF	|	0.0099
+Your Mediators Need Data Conversion!	|	0.0068
+Semistructured data	|	0.0068
+Query Optimization for XML	|	0.0055
+DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0041
+Lore: a database management system for semistructured data	|	0.0030
+The Lorel Query Language for Semistructured Data	|	0.0026

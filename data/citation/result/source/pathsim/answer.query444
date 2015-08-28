@@ -1,42 +1,39 @@
-The TSQL2 Temporal Query Language	|	0.3889
-Capturing the Uncertainty of Moving-Object Representations	|	0.3889
-Understanding the New SQL: A Complete Guide	|	0.2745
-Spatial SQL: A Query and Presentation Language	|	0.2143
-Temporal and Real-Time Databases: A Survey	|	0.0997
-Moving Objects Databases: Issues and Solutions	|	0.0625
-Introduction to Object-Oriented Databases	|	0.0556
-Point-set topological spatial relations	|	0.0556
-Temporal Databases	|	0.0556
-The temporal query language TQuel	|	0.0336
-Real-Time Databases	|	0.0333
-Data Models	|	0.0333
-Scheduling Real-time Transactions: a Performance Evaluation	|	0.0278
-Scheduling real-time transactions: a performance evaluation	|	0.0278
-Iris: An Object-Oriented Database Management System	|	0.0278
-A Critique of ANSI SQL Isolation Levels	|	0.0196
-Telos: representing knowledge about information systems	|	0.0167
-On Optimistic Methods for Concurrency Control	|	0.0167
-The Implementation of Postgres	|	0.0143
-Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals	|	0.0143
-Discovery of Spatial Association Rules in Geographic Information Databases	|	0.0143
-Query By Example	|	0.0143
-Direct Spatial Search on Pictorial Databases Using Packed R-Trees	|	0.0143
-Principles of transaction-oriented database recovery	|	0.0143
-Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Total	|	0.0108
-Database Description with SDM: A Semantic Database Model	|	0.0108
-Aurora: a new model and architecture for data stream management	|	0.0094
-The CQL continuous query language: semantic foundations and query execution	|	0.0094
-An Introduction to Spatial Database Systems	|	0.0094
-Query-by-Example: A Data Base Language	|	0.0083
-A Data Model and Query Language for EXODUS	|	0.0074
-Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.0074
-Efficient Processing of Spatial Joins Using R-Trees	|	0.0060
-Database description with SDM: a semantic database model	|	0.0054
-Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0044
-Relational Completeness of Data Base Sublanguages	|	0.0044
-The notions of consistency and predicate locks in a database system	|	0.0044
-Monitoring Streams - A New Class of Data Management Applications	|	0.0032
-Lore: a database management system for semistructured data	|	0.0027
-Concurrency Control and Recovery in Database Systems	|	0.0020
-Fast Subsequence Matching in Time-Series Databases	|	0.0018
-Multidimensional access methods	|	0.0018
+Moving Objects Databases: Issues and Solutions	|	0.3333
+The temporal query language TQuel	|	0.3077
+Introduction to Object-Oriented Databases	|	0.2857
+Point-set topological spatial relations	|	0.2857
+Temporal Databases	|	0.2857
+Real-Time Databases	|	0.2000
+Data Models	|	0.2000
+Scheduling Real-time Transactions: a Performance Evaluation	|	0.1818
+Scheduling real-time transactions: a performance evaluation	|	0.1818
+Iris: An Object-Oriented Database Management System	|	0.1818
+A Critique of ANSI SQL Isolation Levels	|	0.1538
+Understanding the New SQL: A Complete Guide	|	0.1538
+Telos: representing knowledge about information systems	|	0.1429
+On Optimistic Methods for Concurrency Control	|	0.1429
+The Implementation of Postgres	|	0.1333
+Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals	|	0.1333
+Discovery of Spatial Association Rules in Geographic Information Databases	|	0.1333
+Query By Example	|	0.1333
+Direct Spatial Search on Pictorial Databases Using Packed R-Trees	|	0.1333
+Principles of transaction-oriented database recovery	|	0.1333
+Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Total	|	0.1176
+Database Description with SDM: A Semantic Database Model	|	0.1176
+Aurora: a new model and architecture for data stream management	|	0.1111
+The CQL continuous query language: semantic foundations and query execution	|	0.1111
+An Introduction to Spatial Database Systems	|	0.1111
+A Data Model and Query Language for EXODUS	|	0.1053
+Query-by-Example: A Data Base Language	|	0.1053
+Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.1000
+Efficient Processing of Spatial Joins Using R-Trees	|	0.0909
+Database description with SDM: a semantic database model	|	0.0870
+The notions of consistency and predicate locks in a database system	|	0.0833
+Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0800
+Relational Completeness of Data Base Sublanguages	|	0.0800
+Temporal and Real-Time Databases: A Survey	|	0.0714
+Monitoring Streams - A New Class of Data Management Applications	|	0.0690
+Lore: a database management system for semistructured data	|	0.0667
+Concurrency Control and Recovery in Database Systems	|	0.0556
+Fast Subsequence Matching in Time-Series Databases	|	0.0541
+Multidimensional access methods	|	0.0541

@@ -4,9 +4,9 @@ The Management of Probabilistic Data	|	0.2857
 Towards a Logical Reconstruction of Relational Database Theory	|	0.2791
 Data Models	|	0.2791
 Efficient Query Evaluation on Probabilistic Databases	|	0.2289
-Query Optimization in Database Systems	|	0.0673
-Principles of database systems	|	0.0500
+Query Optimization in Database Systems	|	0.0696
 Trio: A System for Integrated Management of Data, Accuracy, and Lineage	|	0.0408
+Principles of database systems	|	0.0323
 Logic-based approach to semantic query optimization	|	0.0294
 Implementation of integrity constraints and views by query modification	|	0.0294
 Approximating block accesses in database organizations	|	0.0263
@@ -35,19 +35,19 @@ XML-QL: A Query Language for XML	|	0.0084
 Organization and Maintenance of Large Ordered Indexes	|	0.0075
 An Introduction to Database Systems	|	0.0075
 Concurrency Control in Distributed Database Systems	|	0.0075
-IFO: a formal semantic database model	|	0.0061
+IFO: a formal semantic database model	|	0.0068
+The Gamma Database Machine Project	|	0.0050
 The Grid File: An Adaptable, Symmetric Multi-Key File Structure	|	0.0046
-The Gamma Database Machine Project	|	0.0046
+The notions of consistency and predicate locks in a database system	|	0.0046
 Semantic data models	|	0.0042
 Relational Completeness of Data Base Sublanguages	|	0.0042
-The notions of consistency and predicate locks in a database system	|	0.0042
 Organization and Maintenance of Large Ordered Indices	|	0.0039
 Optimal implementation of conjunctive queries in relational data bases	|	0.0036
 Temporal and Real-Time Databases: A Survey	|	0.0033
 Principles of Database and Knowledge-Base Systems, Volume I	|	0.0028
 The Grid File: An Adaptable, Symmetric Multikey File Structure	|	0.0028
+Types and persistence in database programming languages	|	0.0026
 Logic and Databases: A Deductive Approach	|	0.0023
-Types and persistence in database programming languages	|	0.0023
 The Theory of Relational Databases	|	0.0019
 Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0018
 Foundations of Databases	|	0.0013

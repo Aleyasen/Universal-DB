@@ -1,30 +1,31 @@
-Optimal aggregation algorithms for middleware	|	0.5000
-DBXplorer: A System for Keyword-Based Search over Relational Databases	|	0.4000
-XSEarch: A Semantic Search Engine for XML	|	0.3333
-DISCOVER: Keyword Search in Relational Databases	|	0.3077
-Keyword Searching and Browsing in Databases using BANKS	|	0.2857
-Evaluating Top-k Queries over Web-Accessible Databases	|	0.2000
-Evaluating probabilistic queries over imprecise data	|	0.2000
-What's hot and what's not: tracking most frequent items dynamically	|	0.2000
-Principles of distributed database systems	|	0.2000
-ULDBs: Databases with Uncertainty and Lineage	|	0.2000
-Finding Frequent Items in Data Streams	|	0.1818
-Trio: A System for Integrated Management of Data, Accuracy, and Lineage	|	0.1818
-The Management of Probabilistic Data	|	0.1667
-A probabilistic relational algebra for the integration of information retrieval and database systems	|	0.1667
-XRANK: ranked keyword search over XML documents	|	0.1538
-Adaptive filters for continuous queries over distributed data streams	|	0.1538
-Storing and querying ordered XML using a relational database system	|	0.1429
-Efficient Query Evaluation on Probabilistic Databases	|	0.1333
-Distributed top-k monitoring	|	0.1111
-Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.1053
-From Structured Documents to Novel Query Facilities	|	0.1000
-Approximate Frequency Counts over Data Streams	|	0.0952
-Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.0909
-New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.0909
-Continuously adaptive continuous queries over streams	|	0.0800
-Eddies: Continuously Adaptive Query Processing	|	0.0769
-NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0741
-Monitoring Streams - A New Class of Data Management Applications	|	0.0690
-Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0625
-Models and issues in data stream systems	|	0.0588
+Combining Fuzzy Information from Multiple Systems	|	0.3889
+Evaluating Top-k Queries over Web-Accessible Databases	|	0.3667
+XRANK: ranked keyword search over XML documents	|	0.2745
+Efficient Query Evaluation on Probabilistic Databases	|	0.2286
+Distributed top-k monitoring	|	0.1792
+Optimal aggregation algorithms for middleware	|	0.0952
+DBXplorer: A System for Keyword-Based Search over Relational Databases	|	0.0667
+XSEarch: A Semantic Search Engine for XML	|	0.0625
+Keyword Searching and Browsing in Databases using BANKS	|	0.0556
+DISCOVER: Keyword Search in Relational Databases	|	0.0392
+Evaluating probabilistic queries over imprecise data	|	0.0333
+What's hot and what's not: tracking most frequent items dynamically	|	0.0333
+Principles of distributed database systems	|	0.0333
+ULDBs: Databases with Uncertainty and Lineage	|	0.0333
+Finding Frequent Items in Data Streams	|	0.0278
+Trio: A System for Integrated Management of Data, Accuracy, and Lineage	|	0.0278
+The Management of Probabilistic Data	|	0.0233
+A probabilistic relational algebra for the integration of information retrieval and database systems	|	0.0233
+Adaptive filters for continuous queries over distributed data streams	|	0.0196
+Storing and querying ordered XML using a relational database system	|	0.0167
+Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.0083
+From Structured Documents to Novel Query Facilities	|	0.0074
+Approximate Frequency Counts over Data Streams	|	0.0066
+Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.0060
+New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.0060
+Continuously adaptive continuous queries over streams	|	0.0044
+Eddies: Continuously Adaptive Query Processing	|	0.0041
+NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0037
+Monitoring Streams - A New Class of Data Management Applications	|	0.0032
+Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0025
+Models and issues in data stream systems	|	0.0022

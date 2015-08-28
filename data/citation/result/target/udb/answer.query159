@@ -6,8 +6,8 @@ Your Mediators Need Data Conversion!	|	0.1512
 Query Optimization for XML	|	0.1401
 A Query Language and Optimization Techniques for Unstructured Data	|	0.1176
 The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.1026
+RQL: a declarative query language for RDF	|	0.0315
 Answering XML Queries over Heterogeneous Data Sources	|	0.0312
-RQL: a declarative query language for RDF	|	0.0285
 From Semistructured Data to XML: Migrating the Lore Data Model and Query Language	|	0.0278
 Adding Structure to Unstructured Data	|	0.0247
 TIMBER: A native XML database	|	0.0220
@@ -34,38 +34,38 @@ Answering Queries Using Templates with Binding Patterns	|	0.0139
 Storing Semistructured Data with STORED	|	0.0128
 Interoperability of multiple autonomous databases	|	0.0128
 Super-peer-based routing and clustering strategies for RDF-based peer-to-peer networks	|	0.0123
+Index Structures for Path Expressions	|	0.0123
 Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.0122
 Database techniques for the World-Wide Web: a survey	|	0.0121
+DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0112
 Extended algebra and calculus for nested relational databases	|	0.0110
 Path sharing and predicate evaluation for high-performance XML filtering	|	0.0110
-DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0103
 OBSERVER: An Approach for Query Processing in Global Information Systems Based on Interoperation Across Pre-Existing Ontologies	|	0.0098
+Development of an object-oriented DBMS	|	0.0098
 Extracting structured data from Web pages	|	0.0098
-Development of an object-oriented DBMS	|	0.0088
 Research problems in data warehousing	|	0.0088
 Quilt: An XML Query Language for Heterogeneous Data Sources	|	0.0088
 Wrapper induction: Efficiency and expressiveness	|	0.0088
 Towards Heterogeneous Multimedia Information Systems: The Garlic Approach	|	0.0088
 View Definition and Generalization for Database Integration in a Multidatabase System	|	0.0088
-Index Structures for Path Expressions	|	0.0085
 Query Caching and Optimization in Distributed Mediator Systems	|	0.0081
 Data Management for Peer-to-Peer Computing : A Vision	|	0.0079
 Efficiently Publishing Relational Data as XML Documents	|	0.0079
+Optimizing Queries Across Diverse Data Sources	|	0.0079
 Answering recursive queries using views	|	0.0079
 Schema Mapping as Query Discovery	|	0.0079
 Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.0075
 The Lorel Query Language for Semistructured Data	|	0.0072
 Query-by-Example: A Data Base Language	|	0.0071
-Optimizing Queries Across Diverse Data Sources	|	0.0070
 Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0064
-Piazza: data management infrastructure for semantic web applications	|	0.0058
+Piazza: data management infrastructure for semantic web applications	|	0.0064
 On Supporting Containment Queries in Relational Database Management Systems	|	0.0058
-Lore: a database management system for semistructured data	|	0.0052
-Data integration: a theoretical perspective	|	0.0052
+Lore: a database management system for semistructured data	|	0.0055
+Data integration: a theoretical perspective	|	0.0055
 Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.0048
 Mediators in the Architecture of Future Information Systems	|	0.0044
+Eddies: Continuously Adaptive Query Processing	|	0.0037
 An Adaptive Query Execution System for Data Integration	|	0.0037
-Eddies: Continuously Adaptive Query Processing	|	0.0035
 NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0035
 Answering queries using views: A survey	|	0.0032
 A comparative analysis of methodologies for database schema integration	|	0.0026

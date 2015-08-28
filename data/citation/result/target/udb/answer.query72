@@ -6,13 +6,13 @@ TIMBER: A native XML database	|	0.1571
 Storing and querying ordered XML using a relational database system	|	0.1547
 Holistic twig joins: optimal XML pattern matching	|	0.1542
 Efficiently Publishing Relational Data as XML Documents	|	0.1498
+Accelerating XPath location steps	|	0.1453
 XML Path Language (XPath) Version 1.0	|	0.1438
-Accelerating XPath location steps	|	0.1429
 A Query Language for XML	|	0.1410
 Human Behaviour and the Principle of Least Effort: an Introduction to Human Ecology	|	0.1395
 Human behavior and the principle of least effort	|	0.1370
 Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.1226
-Lore: a database management system for semistructured data	|	0.0963
+Lore: a database management system for semistructured data	|	0.0998
 The Lorel Query Language for Semistructured Data	|	0.0934
 XRel: a path-based approach to storage and retrieval of XML documents using relational databases	|	0.0318
 A Fast Index for Semistructured Data	|	0.0308
@@ -20,15 +20,15 @@ XML-QL: A Query Language for XML	|	0.0220
 Query Optimization for XML	|	0.0195
 Storing Semistructured Data with STORED	|	0.0195
 extensible markup language (xml) 1	|	0.0183
-DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0154
 Extensible Markup Language (XML)	|	0.0141
-Index Structures for Path Expressions	|	0.0138
-RQL: a declarative query language for RDF	|	0.0125
+DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0136
+RQL: a declarative query language for RDF	|	0.0132
 Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0121
 From Structured Documents to Novel Query Facilities	|	0.0117
 Shoring Up Persistent Applications	|	0.0116
 From Semistructured Data to XML: Migrating the Lore Data Model and Query Language	|	0.0116
 Computing Iceberg Queries Efficiently	|	0.0110
+Index Structures for Path Expressions	|	0.0110
 W3QS: A Query System for the World-Wide Web	|	0.0105
 Path sharing and predicate evaluation for high-performance XML filtering	|	0.0105
 Partition Based Spatial-Merge Join	|	0.0099
@@ -69,10 +69,10 @@ The Postgres Next Generation Database Management System	|	0.0047
 Query-by-Example: A Data Base Language	|	0.0041
 On packing R-trees	|	0.0039
 Interoperability of multiple autonomous databases	|	0.0039
+Piazza: data management infrastructure for semantic web applications	|	0.0039
 Database techniques for the World-Wide Web: a survey	|	0.0039
-Piazza: data management infrastructure for semantic web applications	|	0.0037
 Your Mediators Need Data Conversion!	|	0.0037
 Multiple-query optimization	|	0.0035
-Data integration: a theoretical perspective	|	0.0020
+Data integration: a theoretical perspective	|	0.0022
 Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0015
 Query evaluation techniques for large databases	|	0.0015
