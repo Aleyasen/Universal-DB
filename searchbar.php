@@ -6,10 +6,10 @@
             <!--<span style="font-size: 90%;"><a>&nbsp;options</a></span>-->
             <span class="text-right" style="padding-left:40px;">
                 <div class="btn-group" data-toggle="buttons" id="topk">
-                    <label class="btn btn-default active">
+                    <label class="btn btn-default">
                         <input type="radio"  value="5" />5
                     </label>
-                    <label class="btn btn-default">
+                    <label class="btn btn-default active">
                         <input type="radio" value="10" />10
                     </label>
                     <label class="btn btn-default">
