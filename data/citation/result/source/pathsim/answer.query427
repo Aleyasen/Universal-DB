@@ -1,31 +1,35 @@
-Set-Oriented Production Rules in Relational Database Systems	|	0.3333
-The Essential Distributed Objects Survival Guide	|	0.3333
-Deriving Production Rules for Incremental View Maintenance	|	0.2857
-Ode as an Active Database: Constraints and Triggers	|	0.2667
-Logic Programming and Databases	|	0.2500
-The Postgres Next Generation Database Management System	|	0.2500
-Composite Events for Active Databases: Semantics, Contexts and Detection	|	0.2222
-The Theory of Database Concurrency Control	|	0.2222
-Notes on Data Base Operating Systems	|	0.2000
-Deriving Production Rules for Constraint Maintainance	|	0.2000
-Using Semantic Knowledge for Transaction Processing in Distributed Database	|	0.1429
-Notes on database operating systems	|	0.1333
-Database Description with SDM: A Semantic Database Model	|	0.1250
-Aurora: a new model and architecture for data stream management	|	0.1176
-The functional data model and the data language DAPLEX	|	0.1176
-Concurrency Control in Distributed Database Systems	|	0.1111
-Interoperability of multiple autonomous databases	|	0.1053
-IFO: a formal semantic database model	|	0.1053
-A language facility for designing database-intensive applications	|	0.1053
-Database description with SDM: a semantic database model	|	0.0909
-The notions of consistency and predicate locks in a database system	|	0.0870
-Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0833
-Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0800
-NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0769
-The functional data model and the data languages DAPLEX	|	0.0769
-Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0741
-Monitoring Streams - A New Class of Data Management Applications	|	0.0714
-Concurrency Control and Recovery in Database Systems	|	0.0571
-Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0556
-Foundations of Databases	|	0.0278
-Query evaluation techniques for large databases	|	0.0267
+Active database systems	|	0.3750
+Concurrency control in advanced database applications	|	0.3750
+A federated architecture for information management	|	0.3750
+The Architecture Of An Active Data Base Management System	|	0.3194
+Set-Oriented Production Rules in Relational Database Systems	|	0.0465
+The Essential Distributed Objects Survival Guide	|	0.0465
+Deriving Production Rules for Incremental View Maintenance	|	0.0435
+Logic Programming and Databases	|	0.0400
+Ode as an Active Database: Constraints and Triggers	|	0.0377
+Composite Events for Active Databases: Semantics, Contexts and Detection	|	0.0364
+The Theory of Database Concurrency Control	|	0.0364
+The Postgres Next Generation Database Management System	|	0.0339
+Deriving Production Rules for Constraint Maintainance	|	0.0328
+Notes on Data Base Operating Systems	|	0.0227
+Using Semantic Knowledge for Transaction Processing in Distributed Database	|	0.0211
+Notes on database operating systems	|	0.0189
+Database Description with SDM: A Semantic Database Model	|	0.0169
+Aurora: a new model and architecture for data stream management	|	0.0153
+The functional data model and the data language DAPLEX	|	0.0153
+Concurrency Control in Distributed Database Systems	|	0.0138
+Interoperability of multiple autonomous databases	|	0.0125
+IFO: a formal semantic database model	|	0.0114
+A language facility for designing database-intensive applications	|	0.0113
+Database description with SDM: a semantic database model	|	0.0095
+Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0080
+The notions of consistency and predicate locks in a database system	|	0.0080
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0068
+NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0068
+The functional data model and the data languages DAPLEX	|	0.0068
+Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0063
+Monitoring Streams - A New Class of Data Management Applications	|	0.0059
+Concurrency Control and Recovery in Database Systems	|	0.0037
+Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0035
+Foundations of Databases	|	0.0008
+Query evaluation techniques for large databases	|	0.0008

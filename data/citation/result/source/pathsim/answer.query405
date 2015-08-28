@@ -1,60 +1,62 @@
-GALILEO: a strongly-typed, interactive conceptual language	|	0.3333
-Database description with SDM: a semantic database model	|	0.3200
-Database Description with SDM: A Semantic Database Model	|	0.3158
-System R: relational approach to database management	|	0.2941
-System R: A Relational Approach to Data Base Management	|	0.2759
-The entity-relationship model: toward a unified view of data	|	0.2667
-The hB-tree: a multiattribute indexing method with good guaranteed performance	|	0.2667
-On Optimistic Methods for Concurrency Control	|	0.2500
-The EXODUS Optimizer Generator	|	0.2500
-A federated architecture for information management	|	0.2500
-Types and persistence in database programming languages	|	0.2424
-Direct Spatial Search on Pictorial Databases Using Packed R-Trees	|	0.2353
-Logical Foundations of Object-Oriented and Frame-Based Languages	|	0.2222
-Development of an object-oriented DBMS	|	0.2222
-Access methods for text	|	0.2222
-Efficient locking for concurrent operations on B-trees	|	0.2222
-Database abstractions: aggregation and generalization	|	0.2222
-SEQUEL 2: A Unified Approach to Data Definition, Manipulation, and Control	|	0.2222
-Making Smalltalk a Database System	|	0.2000
-The functional data model and the data language DAPLEX	|	0.2000
-A Data Model and Query Language for EXODUS	|	0.1905
-The Pyramid-Technique: Towards Breaking the Curse of Dimensionality	|	0.1905
-Join indices	|	0.1905
-A comparative analysis of methodologies for database schema integration	|	0.1818
-IFO: a formal semantic database model	|	0.1818
-A language facility for designing database-intensive applications	|	0.1818
-The entity-relationship model---toward a unified view of data	|	0.1600
-Remarks on the algebra of non first normal form relations	|	0.1538
-F-Logic: A Higher-Order language for Reasoning about Objects, Inheritance, and Scheme	|	0.1538
-Query Optimization in Database Systems	|	0.1500
-Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.1481
-Semantic data models	|	0.1481
-A Theory of Attribute Equivalence in Databases with Application to Schema Integration	|	0.1429
-The functional data model and the data languages DAPLEX	|	0.1379
-On indexing mobile objects	|	0.1333
-Determining Semantic Similarity among Entity Classes from Different Ontologies	|	0.1333
-Query evaluation techniques for large databases	|	0.1282
-Extending the database relational model to capture more meaning	|	0.1212
-Query By Example	|	0.1176
-A Relational Model for Large Shared Data Banks	|	0.1176
-Ode as an Active Database: Constraints and Triggers	|	0.1111
-Foundations of Databases	|	0.1067
-Universality of data retrieval languages	|	0.1053
-View Definition and Generalization for Database Integration in a Multidatabase System	|	0.1053
-Multidimensional access methods	|	0.1026
-Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.1026
-Principles of Database Systems, 2nd Edition	|	0.1000
-An Introduction to Database Systems	|	0.0952
-A class of data structures for associative searching	|	0.0909
-Object identity	|	0.0833
-Access path selection in a relational database management system	|	0.0833
-Further Normalization of the Data Base Relational Model	|	0.0800
-The Design of Postgres	|	0.0769
-Principles of Database and Knowledge-Base Systems, Volume II	|	0.0741
-The Ubiquitous B-Tree	|	0.0714
-Principles of Database and Knowledge-Base Systems, Volume I	|	0.0625
-The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0588
-Logic and Databases: A Deductive Approach	|	0.0571
-Concurrency Control and Recovery in Database Systems	|	0.0526
-Searching in high-dimensional spaces: Index structures for improving the performance of multimedia databases	|	0.0513
+GALILEO: a strongly-typed, interactive conceptual language	|	0.3707
+The functional data model and the data language DAPLEX	|	0.1875
+Organization and Maintenance of Large Ordered Indexes	|	0.1549
+Object identity	|	0.1368
+The functional data model and the data languages DAPLEX	|	0.1138
+Organization and Maintenance of Large Ordered Indices	|	0.1082
+Types and persistence in database programming languages	|	0.0924
+Database Description with SDM: A Semantic Database Model	|	0.0348
+The entity-relationship model: toward a unified view of data	|	0.0274
+The hB-tree: a multiattribute indexing method with good guaranteed performance	|	0.0274
+Development of an object-oriented DBMS	|	0.0262
+SEQUEL 2: A Unified Approach to Data Definition, Manipulation, and Control	|	0.0250
+On Optimistic Methods for Concurrency Control	|	0.0244
+The EXODUS Optimizer Generator	|	0.0244
+Database description with SDM: a semantic database model	|	0.0240
+Direct Spatial Search on Pictorial Databases Using Packed R-Trees	|	0.0217
+A federated architecture for information management	|	0.0215
+Logical Foundations of Object-Oriented and Frame-Based Languages	|	0.0194
+Access methods for text	|	0.0194
+Efficient locking for concurrent operations on B-trees	|	0.0194
+Remarks on the algebra of non first normal form relations	|	0.0172
+A language facility for designing database-intensive applications	|	0.0172
+Database abstractions: aggregation and generalization	|	0.0162
+Making Smalltalk a Database System	|	0.0156
+A Theory of Attribute Equivalence in Databases with Application to Schema Integration	|	0.0154
+F-Logic: A Higher-Order language for Reasoning about Objects, Inheritance, and Scheme	|	0.0152
+The Pyramid-Technique: Towards Breaking the Curse of Dimensionality	|	0.0141
+System R: A Relational Approach to Data Base Management	|	0.0138
+On indexing mobile objects	|	0.0137
+Determining Semantic Similarity among Entity Classes from Different Ontologies	|	0.0137
+A Data Model and Query Language for EXODUS	|	0.0128
+Join indices	|	0.0128
+System R: relational approach to database management	|	0.0120
+IFO: a formal semantic database model	|	0.0116
+Query By Example	|	0.0109
+A comparative analysis of methodologies for database schema integration	|	0.0103
+Ode as an Active Database: Constraints and Triggers	|	0.0097
+The entity-relationship model---toward a unified view of data	|	0.0096
+View Definition and Generalization for Database Integration in a Multidatabase System	|	0.0087
+Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0081
+Semantic data models	|	0.0081
+Principles of Database Systems, 2nd Edition	|	0.0078
+A Relational Model for Large Shared Data Banks	|	0.0078
+Universality of data retrieval languages	|	0.0078
+An Introduction to Database Systems	|	0.0070
+A class of data structures for associative searching	|	0.0064
+Extending the database relational model to capture more meaning	|	0.0052
+Further Normalization of the Data Base Relational Model	|	0.0048
+Query Optimization in Database Systems	|	0.0047
+The Design of Postgres	|	0.0044
+The Ubiquitous B-Tree	|	0.0037
+Multidimensional access methods	|	0.0035
+Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0035
+Principles of Database and Knowledge-Base Systems, Volume I	|	0.0028
+The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0024
+Logic and Databases: A Deductive Approach	|	0.0023
+Access path selection in a relational database management system	|	0.0022
+Foundations of Databases	|	0.0021
+Query evaluation techniques for large databases	|	0.0019
+Concurrency Control and Recovery in Database Systems	|	0.0019
+Searching in high-dimensional spaces: Index structures for improving the performance of multimedia databases	|	0.0018
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0011

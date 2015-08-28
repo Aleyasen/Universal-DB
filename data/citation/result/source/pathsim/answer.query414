@@ -1,92 +1,92 @@
-Adaptive filters for continuous queries over distributed data streams	|	0.4762
-Monitoring Streams - A New Class of Data Management Applications	|	0.4324
-Issues in data stream management	|	0.4242
-Multiple-query optimization	|	0.4000
-Query Processing, Resource Management, and Approximation in a Data Stream Management System	|	0.4000
-Aurora: a new model and architecture for data stream management	|	0.3846
-Scalable Distributed Stream Processing	|	0.3810
-The design of an acquisitional query processor for sensor networks	|	0.3750
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.3636
-Continuous queries over data streams	|	0.3529
-TinyDB: an acquisitional query processing system for sensor networks	|	0.3448
-NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.3429
-Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.3333
-Models and issues in data stream systems	|	0.3333
-The Design of the Borealis Stream Processing Engine	|	0.3333
-Distributed top-k monitoring	|	0.3077
-Continuously adaptive continuous queries over streams	|	0.3030
-Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.2941
-View Maintenance in a Warehousing Environment	|	0.2857
-Path sharing and predicate evaluation for high-performance XML filtering	|	0.2609
-Gigascope: a stream database for network applications	|	0.2500
-TelegraphCQ: Continuous Dataflow Processing for an Uncertain World	|	0.2500
-Eddies: Continuously Adaptive Query Processing	|	0.2353
-Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.2222
-Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.2222
-Maintaining Stream Statistics over Sliding Windows	|	0.2222
-Change Detection in Hierarchically Structured Information	|	0.2000
-Towards Sensor Database Systems	|	0.2000
-Load Shedding in a Data Stream Manager	|	0.2000
-Online Aggregation	|	0.1818
-An Adaptive Query Execution System for Data Integration	|	0.1765
-Maintaining Views Incrementally	|	0.1667
-Wavelet-Based Histograms for Selectivity Estimation	|	0.1667
-The Architecture Of An Active Data Base Management System	|	0.1667
-Approximate Query Processing Using Wavelets	|	0.1481
-Approximate Frequency Counts over Data Streams	|	0.1379
-Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.1379
-Introduction to Object-Oriented Databases	|	0.1333
-Incremental Maintenance of Views with Duplicates	|	0.1250
-Query Processing in Sensor Networks	|	0.1250
-Simple Fast Algorithms for the Editing Distance Between Trees and Related Problems	|	0.1250
-Optimizing Queries with Materialized Views	|	0.1212
-A framework for clustering evolving data streams	|	0.1176
-Filtering algorithms and implementation for very fast publish/subscribe systems	|	0.1176
-ROCK: A Robust Clustering Algorithm for Categorical Attributes	|	0.1111
-Optimal Histograms with Quality Guarantees	|	0.1111
-On the decidability of query containment under constraints	|	0.1111
-Real-Time Databases	|	0.1111
-Composite Events for Active Databases: Semantics, Contexts and Detection	|	0.1111
-An Improved Data Stream Summary: The Count-Min Sketch and Its Applications	|	0.1111
-Towards a Theory of Declarative Knowledge	|	0.1111
-A foundation for representing and querying moving objects	|	0.1111
-Data Models	|	0.1111
-Deriving Production Rules for Constraint Maintainance	|	0.1053
-Scheduling Real-time Transactions: a Performance Evaluation	|	0.1053
-Finding Frequent Items in Data Streams	|	0.1053
-Principles of Database and Knowledge-Base Systems, Volume I	|	0.1053
-Scheduling real-time transactions: a performance evaluation	|	0.1053
-XWRAP: An XML-Enabled Wrapper Construction System for Web Information Sources	|	0.1000
-Aggregate-Query Processing in Data Warehousing Environments	|	0.1000
-The temporal query language TQuel	|	0.0952
-StatStream: Statistical Monitoring of Thousands of Data Streams in Real Time	|	0.0952
-Understanding the New SQL: A Complete Guide	|	0.0952
-Telos: representing knowledge about information systems	|	0.0909
-Improved Histograms for Selectivity Estimation of Range Predicates	|	0.0909
-On Optimistic Methods for Concurrency Control	|	0.0909
-A Taxonomy of Time in Databases	|	0.0909
-Active database systems	|	0.0909
-Data caching issues in an information retrieval system	|	0.0909
-Random sampling with a reservoir	|	0.0909
-Fast Subsequence Matching in Time-Series Databases	|	0.0889
-The Implementation of Postgres	|	0.0870
-Query By Example	|	0.0870
-Principles of transaction-oriented database recovery	|	0.0870
-Querying the Internet with PIER	|	0.0833
-Research problems in data warehousing	|	0.0800
-Database Description with SDM: A Semantic Database Model	|	0.0800
-XML-QL: A Query Language for XML	|	0.0769
-CURE: An Efficient Clustering Algorithm for Large Databases	|	0.0741
-Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0741
-A Data Model and Query Language for EXODUS	|	0.0741
-New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.0667
-Database description with SDM: a semantic database model	|	0.0645
-An overview of data warehousing and OLAP technology	|	0.0645
-The notions of consistency and predicate locks in a database system	|	0.0625
-Query Caching and Optimization in Distributed Mediator Systems	|	0.0606
-Relational Completeness of Data Base Sublanguages	|	0.0606
-Temporal and Real-Time Databases: A Survey	|	0.0556
-Principles of Database and Knowledge-Base Systems, Volume II	|	0.0460
-Concurrency Control and Recovery in Database Systems	|	0.0455
-Access path selection in a relational database management system	|	0.0370
-Foundations of Databases	|	0.0247
+Gigascope: a stream database for network applications	|	0.1856
+Load Shedding in a Data Stream Manager	|	0.1849
+Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.1783
+Random sampling with a reservoir	|	0.1691
+Maintaining Views Incrementally	|	0.1656
+Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.1366
+Issues in data stream management	|	0.1329
+Continuously adaptive continuous queries over streams	|	0.1207
+NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.1192
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.1164
+Monitoring Streams - A New Class of Data Management Applications	|	0.1151
+Temporal and Real-Time Databases: A Survey	|	0.1008
+Models and issues in data stream systems	|	0.0932
+Adaptive filters for continuous queries over distributed data streams	|	0.0365
+Query Processing, Resource Management, and Approximation in a Data Stream Management System	|	0.0336
+Scalable Distributed Stream Processing	|	0.0315
+Aurora: a new model and architecture for data stream management	|	0.0275
+Multiple-query optimization	|	0.0246
+The Design of the Borealis Stream Processing Engine	|	0.0235
+View Maintenance in a Warehousing Environment	|	0.0221
+TinyDB: an acquisitional query processing system for sensor networks	|	0.0220
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0217
+The design of an acquisitional query processor for sensor networks	|	0.0214
+TelegraphCQ: Continuous Dataflow Processing for an Uncertain World	|	0.0206
+Path sharing and predicate evaluation for high-performance XML filtering	|	0.0205
+Distributed top-k monitoring	|	0.0203
+Maintaining Stream Statistics over Sliding Windows	|	0.0189
+Continuous queries over data streams	|	0.0186
+Change Detection in Hierarchically Structured Information	|	0.0168
+Towards Sensor Database Systems	|	0.0168
+Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.0142
+Eddies: Continuously Adaptive Query Processing	|	0.0116
+The Architecture Of An Active Data Base Management System	|	0.0110
+Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0109
+Introduction to Object-Oriented Databases	|	0.0106
+Incremental Maintenance of Views with Duplicates	|	0.0103
+Query Processing in Sensor Networks	|	0.0103
+Simple Fast Algorithms for the Editing Distance Between Trees and Related Problems	|	0.0103
+Wavelet-Based Histograms for Selectivity Estimation	|	0.0101
+A framework for clustering evolving data streams	|	0.0099
+Filtering algorithms and implementation for very fast publish/subscribe systems	|	0.0099
+ROCK: A Robust Clustering Algorithm for Categorical Attributes	|	0.0094
+Approximate Query Processing Using Wavelets	|	0.0094
+Optimal Histograms with Quality Guarantees	|	0.0094
+On the decidability of query containment under constraints	|	0.0094
+Real-Time Databases	|	0.0094
+Composite Events for Active Databases: Semantics, Contexts and Detection	|	0.0094
+An Improved Data Stream Summary: The Count-Min Sketch and Its Applications	|	0.0094
+Towards a Theory of Declarative Knowledge	|	0.0094
+A foundation for representing and querying moving objects	|	0.0094
+Data Models	|	0.0094
+An Adaptive Query Execution System for Data Integration	|	0.0093
+Deriving Production Rules for Constraint Maintainance	|	0.0089
+Scheduling Real-time Transactions: a Performance Evaluation	|	0.0089
+Scheduling real-time transactions: a performance evaluation	|	0.0089
+Online Aggregation	|	0.0087
+XWRAP: An XML-Enabled Wrapper Construction System for Web Information Sources	|	0.0084
+Aggregate-Query Processing in Data Warehousing Environments	|	0.0084
+Finding Frequent Items in Data Streams	|	0.0083
+Approximate Frequency Counts over Data Streams	|	0.0082
+StatStream: Statistical Monitoring of Thousands of Data Streams in Real Time	|	0.0079
+Understanding the New SQL: A Complete Guide	|	0.0079
+The temporal query language TQuel	|	0.0074
+Telos: representing knowledge about information systems	|	0.0074
+Improved Histograms for Selectivity Estimation of Range Predicates	|	0.0074
+On Optimistic Methods for Concurrency Control	|	0.0074
+A Taxonomy of Time in Databases	|	0.0074
+Data caching issues in an information retrieval system	|	0.0074
+The Implementation of Postgres	|	0.0068
+Query By Example	|	0.0068
+Principles of transaction-oriented database recovery	|	0.0068
+Active database systems	|	0.0068
+Querying the Internet with PIER	|	0.0064
+Optimizing Queries with Materialized Views	|	0.0062
+Research problems in data warehousing	|	0.0059
+Database Description with SDM: A Semantic Database Model	|	0.0059
+XML-QL: A Query Language for XML	|	0.0055
+CURE: An Efficient Clustering Algorithm for Large Databases	|	0.0051
+Principles of Database and Knowledge-Base Systems, Volume I	|	0.0048
+A Data Model and Query Language for EXODUS	|	0.0048
+Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0047
+New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.0041
+Database description with SDM: a semantic database model	|	0.0038
+An overview of data warehousing and OLAP technology	|	0.0038
+Query Caching and Optimization in Distributed Mediator Systems	|	0.0033
+Relational Completeness of Data Base Sublanguages	|	0.0033
+The notions of consistency and predicate locks in a database system	|	0.0033
+Fast Subsequence Matching in Time-Series Databases	|	0.0032
+Concurrency Control and Recovery in Database Systems	|	0.0017
+Access path selection in a relational database management system	|	0.0011
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0007
+Foundations of Databases	|	0.0004

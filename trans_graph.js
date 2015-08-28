@@ -11,6 +11,16 @@ var default_max_nodes_fr = 1000;
 var default_icon_size = 20;
 var focus_icon_size = 25;
 
+
+function findInArray1D(arr, element) {
+    for (var i = 0; i < arr.length; i++) {
+        if (arr[i] == element) {
+            return i;
+        }
+    }
+    return -1;
+}
+
 function findInArray(arr, element) {
     for (var i = 0; i < arr.length; i++) {
         if (arr[i][0] == element) {
@@ -20,6 +30,7 @@ function findInArray(arr, element) {
     return -1;
 }
 
+var dbs;
 $(document).ready(function() {
 
     $("#choose-dataset").css("background-color", "#E0E0E0");
@@ -28,7 +39,12 @@ $(document).ready(function() {
         $(".menu-header").css("background-color", "#f5f5f5");
         $(this).css("background-color", "#E0E0E0");
     });
-    generateNetworks();
+    var url = "./getattr.php?attr=all";
+    return $.getJSON(url, function(data) {
+        dbs = data;
+        generateNetworks();
+
+    });
 
     $('.refresh-graph').click(function() {
         generateNetworks();
@@ -52,7 +68,6 @@ getEntityNodes = function(dataset) {
 //        alert("salam" + data);
         return data;
     });
-
 }
 
 function findNodes(nodes, name) {
@@ -83,12 +98,12 @@ function filterGraph(seed, radius, max_nodes) {
         $.get(src_url, function(file_loc) {
             console.log("get " + file_loc);
 //        alert(file_loc);
-            generateGraph("#trans-src", file_loc, entityNodes);
+            generateGraph("#trans-src", file_loc, entityNodes, "source");
         });
         $.get(target_url, function(file_loc) {
             console.log("get " + file_loc);
 //        alert(file_loc);
-            generateGraph("#trans-target", file_loc, entityNodes);
+            generateGraph("#trans-target", file_loc, entityNodes, "target");
         });
         $(".refresh-graph").css('visibility', 'visible');
     });
@@ -160,19 +175,25 @@ function generateNetworks() {
         $.get(src_url, function(file_loc) {
             console.log("get no filter: " + file_loc);
 //        alert(file_loc);
-            generateGraph("#trans-src", file_loc, entityNodes);
+            generateGraph("#trans-src", file_loc, entityNodes, "source");
         });
         $.get(target_url, function(file_loc) {
             console.log("get no filter: " + file_loc);
 //        alert(file_loc);
-            generateGraph("#trans-target", file_loc, entityNodes);
+            generateGraph("#trans-target", file_loc, entityNodes, "target");
         });
         $(".refresh-graph").css('visibility', 'visible');
     });
 }
 
-function generateGraph(container, inputdata, entityNodes) {
+function generateGraph(container, inputdata, entityNodes, schema) {
 //    alert(entityNodes);
+
+    var dataset = $(".datasetpicker").select().val();
+    console.log(dbs);
+    console.log(schema);
+    console.log(dataset);
+//    alert(dbs[dataset]["schema"][schema]["param"]["distance"]);
     d3.select(container).html("");
     var width = $(container).width();
 //        alert(width);
@@ -185,8 +206,8 @@ function generateGraph(container, inputdata, entityNodes) {
     var color = d3.scale.category10();
     var force = d3.layout.force()
 //            .gravity(.1)
-            .distance(100)
-            .charge(-250)
+            .distance(dbs[dataset]["schema"][schema]["param"]["distance"])
+            .charge(dbs[dataset]["schema"][schema]["param"]["charge"])
 //            .friction(.4)
             .size([width, height]);
     safety = 0;
@@ -412,15 +433,15 @@ function generateGraph(container, inputdata, entityNodes) {
                 .attr("y", d.y)
                 .attr("px", d.x)
                 .attr("py", d.y);
-        ;
+
         console.log(selected_nodes);
 //        d3.selectAll(".trans-graph > svg").selectAll(selector)
 //                .classed("fixed", d.fixed = true);
-        selected_nodes.attr("transform", function(dd) {
-            console.log("translate(" + d.x + "," + d.y + ")");
-            return "translate(" + d.x + "," + d.y + ")";
-        });
-//        tick();
+//        selected_nodes.attr("transform", function(dd) {
+//            console.log("translate(" + d.x + "," + d.y + ")");
+//            return "translate(" + d.x + "," + d.y + ")";
+//        });
+        force.tick();
 //        var link = svg.selectAll(selector + " .link");
 //        link.attr("x1", function(d) {
 //            return d.source.x;
@@ -499,14 +520,15 @@ function generateGraphForRanking(container, inputdata, result_node, query_node, 
         query_node_obj.fixed = true;
 
         var r = 200;
-//        other_nodes.push(result_node);
+        other_nodes.push(result_node);
+        other_nodes = jQuery.unique(other_nodes);
         var count = other_nodes.length;
         console.log("other nodes");
         console.log(other_nodes);
         for (var i = 0; i < count; i++) {
             var oth_node = findNodes(graph.nodes, other_nodes[i]);
-            oth_node.x = query_node_obj.x + (r * Math.sin((i * 2 * Math.PI + 1) / count));
-            oth_node.y = query_node_obj.y + (r * Math.cos((i * 2 * Math.PI + 1) / count));
+            oth_node.x = query_node_obj.x + (r * Math.sin((i * 2 * Math.PI + count * Math.PI / 4) / count));
+            oth_node.y = query_node_obj.y + (r * Math.cos((i * 2 * Math.PI + count * Math.PI / 4) / count));
             oth_node.fixed = true;
         }
 
@@ -571,11 +593,14 @@ function generateGraphForRanking(container, inputdata, result_node, query_node, 
                         }
 
                         if (rank != -1) {
-                            var rank_in_other_nodes = findInArray(other_nodes, d.name);
+                            var rank_in_other_nodes = findInArray1D(other_nodes, d.name);
+                            console.log(other_nodes);
+                            console.log(d.name);
+                            console.log(rank_in_other_nodes);
                             if (rank_in_other_nodes != -1) {
                                 return d.name + " (" + (rank + 1) + ")" + " [" + ranking_list[rank][1] + "]";
                             } else {
-                                return d.name.substring(0, 20) + "..." + " (" + (rank + 1) + ")" + " [" + ranking_list[rank][1] + "]";
+                                return "";
                             }
                         }
                         return d.name;

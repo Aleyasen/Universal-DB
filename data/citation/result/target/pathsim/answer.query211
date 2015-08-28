@@ -1,126 +1,119 @@
-Don't Scrap It, Wrap It! A Wrapper Architecture for Legacy Data Sources	|	0.1957
-COMA - A System for Flexible Combination of Schema Matching Approaches	|	0.1909
-Semantic and Schematic Similarities Between Database Objects: A Context-Based Approach	|	0.1654
-Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.1298
-An overview of data warehousing and OLAP technology	|	0.1239
-Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.1208
-Mediators in the Architecture of Future Information Systems	|	0.1184
-An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.1042
-Mining Generalized Association Rules	|	0.1002
-A comparative analysis of methodologies for database schema integration	|	0.0911
-Classifying Schematic and Data Heterogeneity in Multidatabase Systems	|	0.0263
-Translating Web Data	|	0.0241
-A Theory of Attribute Equivalence in Databases with Application to Schema Integration	|	0.0241
-Object Exchange Across Heterogeneous Information Sources	|	0.0241
-Maintaining Data Privacy in Association Rule Mining	|	0.0220
-MAFIA: A Maximal Frequent Itemset Algorithm for Transactional Databases	|	0.0200
-Discovering Conceptual Relations from Text	|	0.0179
-Building the data warehouse	|	0.0179
-Toward the Next Generation of Recommender Systems: A Survey of the State-of-the-Art and Possible Extensions	|	0.0179
-Approximate String Joins in a Database (Almost) for Free	|	0.0172
-Snowball: extracting relations from large plain-text collections	|	0.0172
-The Merge/Purge Problem for Large Databases	|	0.0172
-SGML handbook	|	0.0172
-Duplicate Record Detection: A Survey	|	0.0172
-Parallel Mining of Association Rules	|	0.0166
-Generic Schema Matching with Cupid	|	0.0165
-Incognito: efficient full-domain K-anonymity	|	0.0165
-Building the Data Warehouse	|	0.0164
-On the Computation of Multidimensional Aggregates	|	0.0164
-The TSIMMIS Approach to Mediation: Data Models and Languages	|	0.0164
-Using semantic values to facilitate interoperability among heterogeneous information systems	|	0.0154
-Toward principles for the design of ontologies used for knowledge sharing?	|	0.0154
-The data warehousing toolkit	|	0.0154
-Scalable Parallel Data Mining for Association Rules	|	0.0151
-Research problems in data warehousing	|	0.0150
-Towards Heterogeneous Multimedia Information Systems: The Garlic Approach	|	0.0150
-View Definition and Generalization for Database Integration in a Multidatabase System	|	0.0150
-On the power of magic	|	0.0143
-Simlarity Search for Web Services	|	0.0143
-Distributed Databases: Principles and Systems	|	0.0143
-Schema Mapping as Query Discovery	|	0.0137
-PROMPT: Algorithm and Tool for Automated Ontology Merging and Alignment	|	0.0137
-A Survey of Schema-Based Matching Approaches	|	0.0133
-Ontology Evolution: Not the Same as Schema Evolution	|	0.0132
-Discovering Web Access Patterns and Trends by Applying OLAP and Data Mining Technology on Web Logs	|	0.0132
-EDUTELLA: a P2P networking infrastructure based on RDF	|	0.0132
-Consistent query answers in inconsistent databases	|	0.0132
-Development and application of a metric on semantic nets	|	0.0132
-Optimizing Queries Across Diverse Data Sources	|	0.0124
-EDUTELLA: A P2P Networking Infrastructure Based on RDF	|	0.0120
-Semantic integration of semistructured and structured data sources	|	0.0120
-Aggregate-Query Processing in Data Warehousing Environments	|	0.0120
-Similarity Flooding: A Versatile Graph Matching Algorithm and Its Application to Schema Matching	|	0.0120
-The Management of Probabilistic Data	|	0.0120
-Learning to match ontologies on the Semantic Web	|	0.0115
-Parallel Database Systems: The Future of High Performance Database Processing1	|	0.0114
-Knowledge Engineering: Principles and Methods	|	0.0110
-Generating Finite-State Transducers for Semi-Structured Data Extraction from the Web	|	0.0110
-The entity-relationship model: toward a unified view of data	|	0.0110
-Efficient Mining of Association Rules Using Closed Itemset Lattices	|	0.0110
-A Translation Approach to Portable Ontology Specifications	|	0.0110
-Beyond Market Baskets: Generalizing Association Rules to Correlations	|	0.0105
-View Maintenance in a Warehousing Environment	|	0.0101
-Super-peer-based routing and clustering strategies for RDF-based peer-to-peer networks	|	0.0100
-Scalable Algorithms for Association Mining	|	0.0100
-Retrieving and Integrating Data from Multiple Information Sources	|	0.0100
-Srikant: "fast algorithms for mining association rules	|	0.0100
-A survey of approaches to automatic schema matching	|	0.0092
-Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0092
-W3QS: A Query System for the World-Wide Web	|	0.0091
-Discovering Frequent Closed Itemsets for Association Rules	|	0.0091
-Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals	|	0.0091
-Constraint-Based Rule Mining in Large, Dense Databases	|	0.0091
-Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases	|	0.0091
-Efficient Query Evaluation on Probabilistic Databases	|	0.0091
-On optimizing an SQL-like nested query	|	0.0091
-The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0091
-Sampling Large Databases for Association Rules	|	0.0089
-Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.0088
-OBSERVER: An Approach for Query Processing in Global Information Systems Based on Interoperation Across Pre-Existing Ontologies	|	0.0083
-Parallel database systems: the future of high performance database systems	|	0.0083
-Exploratory Mining and Pruning Optimizations of Constrained Association Rules	|	0.0082
-Maintenance of Discovered Association Rules in Large Databases: An Incremental Updating Technique	|	0.0075
-Wrapper induction: Efficiency and expressiveness	|	0.0075
-Efficiently Mining Long Patterns from Databases	|	0.0075
-Database Description with SDM: A Semantic Database Model	|	0.0075
-Principles of database and knowledge-base systems	|	0.0075
-GALILEO: a strongly-typed, interactive conceptual language	|	0.0075
-A New SQL-like Operator for Mining Association Rules	|	0.0068
-Data Management for Peer-to-Peer Computing : A Vision	|	0.0068
-Answering recursive queries using views	|	0.0068
-Principles of Database Systems, 2nd Edition	|	0.0068
-Synthesizing third normal form relations from functional dependencies	|	0.0068
-The functional data model and the data language DAPLEX	|	0.0068
-From Structured Documents to Novel Query Facilities	|	0.0057
-Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.0057
-Semantic e-Workflow Composition	|	0.0057
-IFO: a formal semantic database model	|	0.0052
-Knowledge Discovery in Databases: An Attribute-Oriented Approach	|	0.0052
-Your Mediators Need Data Conversion!	|	0.0052
-Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.0052
-A language facility for designing database-intensive applications	|	0.0052
-Learning to map between ontologies on the semantic web	|	0.0048
-Approximate Frequency Counts over Data Streams	|	0.0048
-Database techniques for the World-Wide Web: a survey	|	0.0046
-The entity-relationship model---toward a unified view of data	|	0.0044
-Database description with SDM: a semantic database model	|	0.0044
-Fast Algorithms for Mining Association Rules in Large Databases	|	0.0043
-Query Caching and Optimization in Distributed Mediator Systems	|	0.0038
-Fast Time Sequence Indexing for Arbitrary Lp Norms	|	0.0038
-Semantic data models	|	0.0038
-Database abstractions: aggregation and generalization	|	0.0038
-Data Mining: An Overview from a Database Perspective	|	0.0036
-Optimizing Queries with Materialized Views	|	0.0035
-An Adaptive Query Execution System for Data Integration	|	0.0035
-Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0034
-A Query Language and Optimization Techniques for Unstructured Data	|	0.0032
-The functional data model and the data languages DAPLEX	|	0.0032
-Mining association rules between sets of items in large databases	|	0.0026
-Data integration: a theoretical perspective	|	0.0025
-An Effective Hash Based Algorithm for Mining Association Rules	|	0.0022
-The Theory of Relational Databases	|	0.0018
-Fast Algorithms for Mining Association Rules	|	0.0018
-Answering queries using views: A survey	|	0.0015
-Foundations of Databases	|	0.0008
-Query evaluation techniques for large databases	|	0.0008
+Classifying Schematic and Data Heterogeneity in Multidatabase Systems	|	0.2500
+Translating Web Data	|	0.2353
+A Theory of Attribute Equivalence in Databases with Application to Schema Integration	|	0.2353
+Object Exchange Across Heterogeneous Information Sources	|	0.2353
+Maintaining Data Privacy in Association Rule Mining	|	0.2222
+A survey of approaches to automatic schema matching	|	0.2162
+Querying Heterogeneous Information Sources Using Source Descriptions	|	0.2162
+A Survey of Schema-Based Matching Approaches	|	0.2143
+MAFIA: A Maximal Frequent Itemset Algorithm for Transactional Databases	|	0.2105
+Parallel Mining of Association Rules	|	0.2000
+Generic Schema Matching with Cupid	|	0.1905
+Scalable Parallel Data Mining for Association Rules	|	0.1905
+Incognito: efficient full-domain K-anonymity	|	0.1905
+Research problems in data warehousing	|	0.1818
+Discovering Conceptual Relations from Text	|	0.1818
+The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.1818
+Towards Heterogeneous Multimedia Information Systems: The Garlic Approach	|	0.1818
+View Definition and Generalization for Database Integration in a Multidatabase System	|	0.1818
+Building the data warehouse	|	0.1818
+Toward the Next Generation of Recommender Systems: A Survey of the State-of-the-Art and Possible Extensions	|	0.1818
+Schema Mapping as Query Discovery	|	0.1739
+PROMPT: Algorithm and Tool for Automated Ontology Merging and Alignment	|	0.1739
+Approximate String Joins in a Database (Almost) for Free	|	0.1667
+Snowball: extracting relations from large plain-text collections	|	0.1667
+The Merge/Purge Problem for Large Databases	|	0.1667
+Learning to match ontologies on the Semantic Web	|	0.1667
+SGML handbook	|	0.1667
+Duplicate Record Detection: A Survey	|	0.1667
+Parallel Database Systems: The Future of High Performance Database Processing1	|	0.1600
+Beyond Market Baskets: Generalizing Association Rules to Correlations	|	0.1538
+Sampling Large Databases for Association Rules	|	0.1538
+Building the Data Warehouse	|	0.1538
+On the Computation of Multidimensional Aggregates	|	0.1538
+The TSIMMIS Approach to Mediation: Data Models and Languages	|	0.1538
+Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.1429
+Using semantic values to facilitate interoperability among heterogeneous information systems	|	0.1429
+Toward principles for the design of ontologies used for knowledge sharing?	|	0.1429
+The data warehousing toolkit	|	0.1429
+Exploratory Mining and Pruning Optimizations of Constrained Association Rules	|	0.1379
+Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.1333
+On the power of magic	|	0.1333
+Simlarity Search for Web Services	|	0.1333
+Distributed Databases: Principles and Systems	|	0.1333
+Ontology Evolution: Not the Same as Schema Evolution	|	0.1333
+Discovering Web Access Patterns and Trends by Applying OLAP and Data Mining Technology on Web Logs	|	0.1250
+EDUTELLA: a P2P networking infrastructure based on RDF	|	0.1250
+Consistent query answers in inconsistent databases	|	0.1250
+Development and application of a metric on semantic nets	|	0.1250
+EDUTELLA: A P2P Networking Infrastructure Based on RDF	|	0.1176
+Semantic integration of semistructured and structured data sources	|	0.1176
+Aggregate-Query Processing in Data Warehousing Environments	|	0.1176
+Similarity Flooding: A Versatile Graph Matching Algorithm and Its Application to Schema Matching	|	0.1176
+The Management of Probabilistic Data	|	0.1176
+Knowledge Engineering: Principles and Methods	|	0.1111
+View Maintenance in a Warehousing Environment	|	0.1111
+Generating Finite-State Transducers for Semi-Structured Data Extraction from the Web	|	0.1111
+The entity-relationship model: toward a unified view of data	|	0.1111
+Efficient Mining of Association Rules Using Closed Itemset Lattices	|	0.1111
+A Translation Approach to Portable Ontology Specifications	|	0.1111
+Database techniques for the World-Wide Web: a survey	|	0.1081
+Super-peer-based routing and clustering strategies for RDF-based peer-to-peer networks	|	0.1053
+Scalable Algorithms for Association Mining	|	0.1053
+Retrieving and Integrating Data from Multiple Information Sources	|	0.1053
+Srikant: "fast algorithms for mining association rules	|	0.1053
+Fast Algorithms for Mining Association Rules in Large Databases	|	0.1053
+COMA - A System for Flexible Combination of Schema Matching Approaches	|	0.1000
+W3QS: A Query System for the World-Wide Web	|	0.1000
+Discovering Frequent Closed Itemsets for Association Rules	|	0.1000
+Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals	|	0.1000
+Data Mining: An Overview from a Database Perspective	|	0.1000
+Constraint-Based Rule Mining in Large, Dense Databases	|	0.1000
+Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases	|	0.1000
+Efficient Query Evaluation on Probabilistic Databases	|	0.1000
+On optimizing an SQL-like nested query	|	0.1000
+GALILEO: a strongly-typed, interactive conceptual language	|	0.0952
+OBSERVER: An Approach for Query Processing in Global Information Systems Based on Interoperation Across Pre-Existing Ontologies	|	0.0952
+Maintenance of Discovered Association Rules in Large Databases: An Incremental Updating Technique	|	0.0952
+Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0952
+Parallel database systems: the future of high performance database systems	|	0.0952
+Wrapper induction: Efficiency and expressiveness	|	0.0909
+Efficiently Mining Long Patterns from Databases	|	0.0909
+Database Description with SDM: A Semantic Database Model	|	0.0909
+Principles of database and knowledge-base systems	|	0.0909
+Mining association rules between sets of items in large databases	|	0.0889
+A New SQL-like Operator for Mining Association Rules	|	0.0870
+Data Management for Peer-to-Peer Computing : A Vision	|	0.0870
+Optimizing Queries Across Diverse Data Sources	|	0.0870
+Answering recursive queries using views	|	0.0870
+Principles of Database Systems, 2nd Edition	|	0.0870
+Synthesizing third normal form relations from functional dependencies	|	0.0870
+The functional data model and the data language DAPLEX	|	0.0870
+From Structured Documents to Novel Query Facilities	|	0.0800
+Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.0800
+Learning to map between ontologies on the semantic web	|	0.0800
+Semantic e-Workflow Composition	|	0.0800
+IFO: a formal semantic database model	|	0.0800
+A language facility for designing database-intensive applications	|	0.0800
+Knowledge Discovery in Databases: An Attribute-Oriented Approach	|	0.0769
+Approximate Frequency Counts over Data Streams	|	0.0769
+Your Mediators Need Data Conversion!	|	0.0769
+Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.0769
+Fast Algorithms for Mining Association Rules	|	0.0755
+The entity-relationship model---toward a unified view of data	|	0.0714
+Database description with SDM: a semantic database model	|	0.0714
+Query Caching and Optimization in Distributed Mediator Systems	|	0.0667
+Optimizing Queries with Materialized Views	|	0.0667
+Fast Time Sequence Indexing for Arbitrary Lp Norms	|	0.0667
+Semantic data models	|	0.0667
+Database abstractions: aggregation and generalization	|	0.0667
+An Adaptive Query Execution System for Data Integration	|	0.0645
+A Query Language and Optimization Techniques for Unstructured Data	|	0.0625
+The functional data model and the data languages DAPLEX	|	0.0625
+Data integration: a theoretical perspective	|	0.0571
+An Effective Hash Based Algorithm for Mining Association Rules	|	0.0556
+A comparative analysis of methodologies for database schema integration	|	0.0556
+Foundations of Databases	|	0.0513
+Query evaluation techniques for large databases	|	0.0494
+The Theory of Relational Databases	|	0.0488
+Answering queries using views: A survey	|	0.0455

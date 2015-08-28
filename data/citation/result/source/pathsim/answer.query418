@@ -1,34 +1,36 @@
-Logic-based approach to semantic query optimization	|	0.4000
-Implementation of integrity constraints and views by query modification	|	0.4000
-XIRQL: a query language for information retrieval in XML documents	|	0.3333
-Approximating block accesses in database organizations	|	0.3333
-Randomized Algorithms for Optimizing Large Join Queries	|	0.2857
-Pnnc:ples of database systems	|	0.2857
-Organization and maintenance of large ordered indexes	|	0.2857
-Principles of Database Systems, 2nd Edition	|	0.2667
-GAMMA - A High Performance Dataflow Database Machine	|	0.2500
-Starburst Mid-Flight: As the Dust Clears	|	0.2222
-A probabilistic relational algebra for the integration of information retrieval and database systems	|	0.2222
-The temporal query language TQuel	|	0.2000
-A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.1818
-Retrieving and Integrating Data from Multiple Information Sources	|	0.1818
-The EXODUS Optimizer Generator	|	0.1818
-A Taxonomy of Time in Databases	|	0.1818
-Using Semi-Joins to Solve Relational Queries	|	0.1818
-Data Structures for Range Searching	|	0.1667
-On optimizing an SQL-like nested query	|	0.1667
-Organization and Maintenance of Large Ordered Indexes	|	0.1250
-Concurrency Control in Distributed Database Systems	|	0.1250
-The Theory of Relational Databases	|	0.1212
-The Gamma Database Machine Project	|	0.1000
-The Grid File: An Adaptable, Symmetric Multi-Key File Structure	|	0.0952
-The notions of consistency and predicate locks in a database system	|	0.0952
-Relational Completeness of Data Base Sublanguages	|	0.0909
-Organization and Maintenance of Large Ordered Indices	|	0.0870
-Optimal implementation of conjunctive queries in relational data bases	|	0.0833
-The Grid File: An Adaptable, Symmetric Multikey File Structure	|	0.0741
-Types and persistence in database programming languages	|	0.0714
-Access path selection in a relational database management system	|	0.0465
-Foundations of Databases	|	0.0286
-Query evaluation techniques for large databases	|	0.0274
-Principles of Database and Knowledge-Base Systems, Volume II	|	0.0263
+A homogeneous relational model and query languages for temporal databases	|	0.5882
+Query Optimization in Database Systems	|	0.1250
+Logic-based approach to semantic query optimization	|	0.1111
+Implementation of integrity constraints and views by query modification	|	0.1111
+XIRQL: a query language for information retrieval in XML documents	|	0.0909
+Approximating block accesses in database organizations	|	0.0909
+Randomized Algorithms for Optimizing Large Join Queries	|	0.0741
+Pnnc:ples of database systems	|	0.0741
+Organization and maintenance of large ordered indexes	|	0.0741
+GAMMA - A High Performance Dataflow Database Machine	|	0.0606
+Starburst Mid-Flight: As the Dust Clears	|	0.0500
+A probabilistic relational algebra for the integration of information retrieval and database systems	|	0.0500
+Principles of Database Systems, 2nd Edition	|	0.0388
+The temporal query language TQuel	|	0.0354
+A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.0351
+Retrieving and Integrating Data from Multiple Information Sources	|	0.0351
+The EXODUS Optimizer Generator	|	0.0351
+A Taxonomy of Time in Databases	|	0.0351
+Using Semi-Joins to Solve Relational Queries	|	0.0351
+Data Structures for Range Searching	|	0.0299
+On optimizing an SQL-like nested query	|	0.0299
+Organization and Maintenance of Large Ordered Indexes	|	0.0171
+Concurrency Control in Distributed Database Systems	|	0.0171
+The Grid File: An Adaptable, Symmetric Multi-Key File Structure	|	0.0099
+The Gamma Database Machine Project	|	0.0099
+Relational Completeness of Data Base Sublanguages	|	0.0090
+The notions of consistency and predicate locks in a database system	|	0.0090
+Organization and Maintenance of Large Ordered Indices	|	0.0082
+The Theory of Relational Databases	|	0.0079
+Optimal implementation of conjunctive queries in relational data bases	|	0.0075
+The Grid File: An Adaptable, Symmetric Multikey File Structure	|	0.0059
+Types and persistence in database programming languages	|	0.0048
+Access path selection in a relational database management system	|	0.0023
+Foundations of Databases	|	0.0008
+Query evaluation techniques for large databases	|	0.0008
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0007

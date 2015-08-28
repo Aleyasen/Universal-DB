@@ -181,576 +181,394 @@
             "name": "The Web of Computing: Computer Technology as Social Organization",
             "type": "paper",
             "group": 1
+        },
+        {
+            "index": 26,
+            "dataId": "citation-686",
+            "name": "C686",
+            "type": "citation",
+            "group": 2
+        },
+        {
+            "index": 27,
+            "dataId": "citation-2963",
+            "name": "C2963",
+            "type": "citation",
+            "group": 2
+        },
+        {
+            "index": 28,
+            "dataId": "citation-3289",
+            "name": "C3289",
+            "type": "citation",
+            "group": 2
+        },
+        {
+            "index": 29,
+            "dataId": "citation-3509",
+            "name": "C3509",
+            "type": "citation",
+            "group": 2
+        },
+        {
+            "index": 30,
+            "dataId": "citation-2489",
+            "name": "C2489",
+            "type": "citation",
+            "group": 2
+        },
+        {
+            "index": 31,
+            "dataId": "citation-671",
+            "name": "C671",
+            "type": "citation",
+            "group": 2
+        },
+        {
+            "index": 32,
+            "dataId": "citation-672",
+            "name": "C672",
+            "type": "citation",
+            "group": 2
+        },
+        {
+            "index": 33,
+            "dataId": "citation-673",
+            "name": "C673",
+            "type": "citation",
+            "group": 2
+        },
+        {
+            "index": 34,
+            "dataId": "citation-674",
+            "name": "C674",
+            "type": "citation",
+            "group": 2
+        },
+        {
+            "index": 35,
+            "dataId": "citation-675",
+            "name": "C675",
+            "type": "citation",
+            "group": 2
+        },
+        {
+            "index": 36,
+            "dataId": "citation-676",
+            "name": "C676",
+            "type": "citation",
+            "group": 2
+        },
+        {
+            "index": 37,
+            "dataId": "citation-677",
+            "name": "C677",
+            "type": "citation",
+            "group": 2
+        },
+        {
+            "index": 38,
+            "dataId": "citation-678",
+            "name": "C678",
+            "type": "citation",
+            "group": 2
+        },
+        {
+            "index": 39,
+            "dataId": "citation-679",
+            "name": "C679",
+            "type": "citation",
+            "group": 2
+        },
+        {
+            "index": 40,
+            "dataId": "citation-680",
+            "name": "C680",
+            "type": "citation",
+            "group": 2
+        },
+        {
+            "index": 41,
+            "dataId": "citation-681",
+            "name": "C681",
+            "type": "citation",
+            "group": 2
+        },
+        {
+            "index": 42,
+            "dataId": "citation-682",
+            "name": "C682",
+            "type": "citation",
+            "group": 2
+        },
+        {
+            "index": 43,
+            "dataId": "citation-683",
+            "name": "C683",
+            "type": "citation",
+            "group": 2
+        },
+        {
+            "index": 44,
+            "dataId": "citation-684",
+            "name": "C684",
+            "type": "citation",
+            "group": 2
+        },
+        {
+            "index": 45,
+            "dataId": "citation-685",
+            "name": "C685",
+            "type": "citation",
+            "group": 2
+        },
+        {
+            "index": 46,
+            "dataId": "citation-687",
+            "name": "C687",
+            "type": "citation",
+            "group": 2
+        },
+        {
+            "index": 47,
+            "dataId": "citation-834",
+            "name": "C834",
+            "type": "citation",
+            "group": 2
+        },
+        {
+            "index": 48,
+            "dataId": "citation-2104",
+            "name": "C2104",
+            "type": "citation",
+            "group": 2
+        },
+        {
+            "index": 49,
+            "dataId": "citation-2674",
+            "name": "C2674",
+            "type": "citation",
+            "group": 2
+        },
+        {
+            "index": 50,
+            "dataId": "citation-2962",
+            "name": "C2962",
+            "type": "citation",
+            "group": 2
+        },
+        {
+            "index": 51,
+            "dataId": "citation-78",
+            "name": "C78",
+            "type": "citation",
+            "group": 2
         }
     ],
     "links": [
         {
             "source": 0,
-            "target": 1
+            "target": 26
         },
         {
             "source": 0,
-            "target": 2
+            "target": 27
         },
         {
             "source": 0,
-            "target": 3
+            "target": 28
         },
         {
             "source": 0,
-            "target": 4
+            "target": 29
         },
         {
             "source": 1,
-            "target": 5
+            "target": 30
         },
         {
             "source": 1,
-            "target": 6
+            "target": 31
         },
         {
             "source": 1,
-            "target": 7
+            "target": 32
         },
         {
             "source": 1,
-            "target": 8
+            "target": 33
         },
         {
             "source": 1,
-            "target": 9
+            "target": 34
         },
         {
             "source": 1,
-            "target": 10
+            "target": 35
         },
         {
             "source": 1,
-            "target": 11
+            "target": 36
         },
         {
             "source": 1,
-            "target": 12
+            "target": 37
         },
         {
             "source": 1,
-            "target": 13
+            "target": 38
         },
         {
             "source": 1,
-            "target": 14
+            "target": 39
         },
         {
             "source": 1,
-            "target": 15
+            "target": 40
         },
         {
             "source": 1,
-            "target": 16
+            "target": 41
         },
         {
             "source": 1,
-            "target": 17
+            "target": 42
         },
         {
             "source": 1,
-            "target": 18
+            "target": 43
         },
         {
             "source": 1,
-            "target": 19
+            "target": 44
         },
         {
             "source": 1,
-            "target": 0
+            "target": 45
         },
         {
             "source": 1,
-            "target": 20
+            "target": 26
         },
         {
             "source": 1,
-            "target": 21
+            "target": 46
         },
         {
             "source": 2,
-            "target": 0
+            "target": 47
         },
         {
             "source": 2,
-            "target": 22
+            "target": 48
         },
         {
             "source": 2,
-            "target": 23
+            "target": 49
         },
         {
             "source": 2,
-            "target": 24
+            "target": 50
         },
         {
             "source": 2,
-            "target": 25
+            "target": 27
         },
         {
             "source": 3,
-            "target": 0
+            "target": 28
         },
         {
             "source": 4,
-            "target": 0
+            "target": 29
         },
         {
             "source": 5,
-            "target": 10
+            "target": 51
         },
         {
             "source": 5,
-            "target": 7
-        },
-        {
-            "source": 5,
-            "target": 9
-        },
-        {
-            "source": 5,
-            "target": 8
-        },
-        {
-            "source": 5,
-            "target": 1
-        },
-        {
-            "source": 5,
-            "target": 16
-        },
-        {
-            "source": 5,
-            "target": 17
-        },
-        {
-            "source": 5,
-            "target": 20
-        },
-        {
-            "source": 5,
-            "target": 15
-        },
-        {
-            "source": 5,
-            "target": 13
-        },
-        {
-            "source": 5,
-            "target": 18
-        },
-        {
-            "source": 5,
-            "target": 14
+            "target": 45
         },
         {
             "source": 6,
-            "target": 1
+            "target": 31
         },
         {
             "source": 7,
-            "target": 5
-        },
-        {
-            "source": 7,
-            "target": 9
-        },
-        {
-            "source": 7,
-            "target": 8
-        },
-        {
-            "source": 7,
-            "target": 1
-        },
-        {
-            "source": 7,
-            "target": 16
-        },
-        {
-            "source": 7,
-            "target": 15
-        },
-        {
-            "source": 7,
-            "target": 13
+            "target": 38
         },
         {
             "source": 8,
-            "target": 5
-        },
-        {
-            "source": 8,
-            "target": 7
-        },
-        {
-            "source": 8,
-            "target": 10
-        },
-        {
-            "source": 8,
-            "target": 9
-        },
-        {
-            "source": 8,
-            "target": 18
-        },
-        {
-            "source": 8,
-            "target": 1
-        },
-        {
-            "source": 8,
-            "target": 16
-        },
-        {
-            "source": 8,
-            "target": 17
-        },
-        {
-            "source": 8,
-            "target": 12
+            "target": 40
         },
         {
             "source": 9,
-            "target": 5
-        },
-        {
-            "source": 9,
-            "target": 7
-        },
-        {
-            "source": 9,
-            "target": 8
-        },
-        {
-            "source": 9,
-            "target": 10
-        },
-        {
-            "source": 9,
-            "target": 1
-        },
-        {
-            "source": 9,
-            "target": 16
-        },
-        {
-            "source": 9,
-            "target": 15
-        },
-        {
-            "source": 9,
-            "target": 13
-        },
-        {
-            "source": 9,
-            "target": 14
+            "target": 39
         },
         {
             "source": 10,
-            "target": 5
-        },
-        {
-            "source": 10,
-            "target": 8
-        },
-        {
-            "source": 10,
-            "target": 9
-        },
-        {
-            "source": 10,
-            "target": 15
-        },
-        {
-            "source": 10,
-            "target": 20
-        },
-        {
-            "source": 10,
-            "target": 1
-        },
-        {
-            "source": 10,
-            "target": 17
+            "target": 33
         },
         {
             "source": 11,
-            "target": 1
-        },
-        {
-            "source": 11,
-            "target": 16
+            "target": 32
         },
         {
             "source": 12,
-            "target": 8
-        },
-        {
-            "source": 12,
-            "target": 1
-        },
-        {
-            "source": 12,
-            "target": 13
-        },
-        {
-            "source": 12,
-            "target": 18
-        },
-        {
-            "source": 12,
-            "target": 14
+            "target": 34
         },
         {
             "source": 13,
-            "target": 5
-        },
-        {
-            "source": 13,
-            "target": 7
-        },
-        {
-            "source": 13,
-            "target": 9
-        },
-        {
-            "source": 13,
-            "target": 1
-        },
-        {
-            "source": 13,
-            "target": 16
-        },
-        {
-            "source": 13,
-            "target": 17
-        },
-        {
-            "source": 13,
-            "target": 15
-        },
-        {
-            "source": 13,
-            "target": 12
+            "target": 35
         },
         {
             "source": 14,
-            "target": 5
-        },
-        {
-            "source": 14,
-            "target": 9
-        },
-        {
-            "source": 14,
-            "target": 1
-        },
-        {
-            "source": 14,
-            "target": 16
-        },
-        {
-            "source": 14,
-            "target": 17
-        },
-        {
-            "source": 14,
-            "target": 12
+            "target": 36
         },
         {
             "source": 15,
-            "target": 5
-        },
-        {
-            "source": 15,
-            "target": 7
-        },
-        {
-            "source": 15,
-            "target": 9
-        },
-        {
-            "source": 15,
-            "target": 10
-        },
-        {
-            "source": 15,
-            "target": 1
-        },
-        {
-            "source": 15,
-            "target": 13
+            "target": 37
         },
         {
             "source": 16,
-            "target": 5
-        },
-        {
-            "source": 16,
-            "target": 7
-        },
-        {
-            "source": 16,
-            "target": 8
-        },
-        {
-            "source": 16,
-            "target": 9
-        },
-        {
-            "source": 16,
-            "target": 1
-        },
-        {
-            "source": 16,
-            "target": 11
-        },
-        {
-            "source": 16,
-            "target": 13
-        },
-        {
-            "source": 16,
-            "target": 14
-        },
-        {
-            "source": 16,
-            "target": 17
-        },
-        {
-            "source": 16,
-            "target": 18
-        },
-        {
-            "source": 16,
-            "target": 20
+            "target": 41
         },
         {
             "source": 17,
-            "target": 5
-        },
-        {
-            "source": 17,
-            "target": 8
-        },
-        {
-            "source": 17,
-            "target": 10
-        },
-        {
-            "source": 17,
-            "target": 1
-        },
-        {
-            "source": 17,
-            "target": 16
-        },
-        {
-            "source": 17,
-            "target": 13
-        },
-        {
-            "source": 17,
-            "target": 14
-        },
-        {
-            "source": 17,
-            "target": 18
-        },
-        {
-            "source": 17,
-            "target": 20
+            "target": 42
         },
         {
             "source": 18,
-            "target": 5
-        },
-        {
-            "source": 18,
-            "target": 8
-        },
-        {
-            "source": 18,
-            "target": 1
-        },
-        {
-            "source": 18,
-            "target": 16
-        },
-        {
-            "source": 18,
-            "target": 17
-        },
-        {
-            "source": 18,
-            "target": 12
+            "target": 43
         },
         {
             "source": 19,
-            "target": 1
+            "target": 44
         },
         {
             "source": 20,
-            "target": 5
-        },
-        {
-            "source": 20,
-            "target": 10
-        },
-        {
-            "source": 20,
-            "target": 1
-        },
-        {
-            "source": 20,
-            "target": 16
-        },
-        {
-            "source": 20,
-            "target": 17
+            "target": 46
         },
         {
             "source": 21,
-            "target": 1
+            "target": 30
         },
         {
             "source": 22,
-            "target": 23
-        },
-        {
-            "source": 22,
-            "target": 24
-        },
-        {
-            "source": 22,
-            "target": 2
+            "target": 50
         },
         {
             "source": 23,
-            "target": 22
-        },
-        {
-            "source": 23,
-            "target": 2
+            "target": 47
         },
         {
             "source": 24,
-            "target": 22
-        },
-        {
-            "source": 24,
-            "target": 2
+            "target": 48
         },
         {
             "source": 25,
-            "target": 2
+            "target": 49
         }
     ]
 }

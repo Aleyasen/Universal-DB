@@ -1,55 +1,58 @@
-Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.4211
-Load Shedding in a Data Stream Manager	|	0.4000
-The CQL continuous query language: semantic foundations and query execution	|	0.3810
-Adaptive filters for continuous queries over distributed data streams	|	0.3750
-Querying the Internet with PIER	|	0.3158
-Data Placement In Bubba	|	0.3158
-The design of an acquisitional query processor for sensor networks	|	0.2963
-Eddies: Continuously Adaptive Query Processing	|	0.2759
-Disk Striping	|	0.2667
-Query Processing, Resource Management, and Approximation in a Data Stream Management System	|	0.2667
-Monitoring Streams - A New Class of Data Management Applications	|	0.2500
-Bigtable: A Distributed Storage System for Structured Data	|	0.2500
-A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.2353
-The Case for Shared Nothing	|	0.2353
-Online Aggregation	|	0.2143
-Continuously adaptive continuous queries over streams	|	0.2143
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.2143
-Issues in data stream management	|	0.2143
-The Design of the Borealis Stream Processing Engine	|	0.2105
-Distributed top-k monitoring	|	0.1905
-Aurora: a new model and architecture for data stream management	|	0.1905
-Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.1818
-Query Processing in Sensor Networks	|	0.1818
-Gigascope: a stream database for network applications	|	0.1818
-Filtering algorithms and implementation for very fast publish/subscribe systems	|	0.1667
-Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.1667
-TinyDB: an acquisitional query processing system for sensor networks	|	0.1667
-Multiple-query optimization	|	0.1600
-The Gamma Database Machine Project	|	0.1538
-The Dangers of Replication and a Solution	|	0.1538
-An overview of data warehousing and OLAP technology	|	0.1538
-Maintaining Stream Statistics over Sliding Windows	|	0.1538
-Finding Frequent Items in Data Streams	|	0.1429
-An Adaptive Query Execution System for Data Integration	|	0.1379
-Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.1379
-Continuous queries over data streams	|	0.1379
-An adaptive data replication algorithm	|	0.1333
-NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.1333
-Towards Sensor Database Systems	|	0.1333
-Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.1290
-StatStream: Statistical Monitoring of Thousands of Data Streams in Real Time	|	0.1250
-C-Store: A Column-oriented DBMS	|	0.1250
-Access path selection in a relational database management system	|	0.1224
-Active database systems	|	0.1176
-Path sharing and predicate evaluation for high-performance XML filtering	|	0.1111
-Models and issues in data stream systems	|	0.1081
-Benchmarking Database Systems A Systematic Approach	|	0.1053
-The Architecture Of An Active Data Base Management System	|	0.1053
-The Postgres Next Generation Database Management System	|	0.1000
-XML-QL: A Query Language for XML	|	0.0952
-Join processing in relational databases	|	0.0909
-Approximate Frequency Counts over Data Streams	|	0.0833
-An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.0714
-Temporal and Real-Time Databases: A Survey	|	0.0645
-Query evaluation techniques for large databases	|	0.0506
+Load Shedding in a Data Stream Manager	|	0.2812
+Mariposa: A Wide-Area Distributed Database System	|	0.2344
+The Design of the Borealis Stream Processing Engine	|	0.1913
+Parallel database systems: the future of high performance database systems	|	0.1863
+Parallel Database Systems: The Future of High Performance Database Processing1	|	0.1474
+Issues in data stream management	|	0.1260
+NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.1107
+Monitoring Streams - A New Class of Data Management Applications	|	0.1071
+Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.0392
+Adaptive filters for continuous queries over distributed data streams	|	0.0366
+The CQL continuous query language: semantic foundations and query execution	|	0.0315
+Disk Striping	|	0.0312
+Query Processing, Resource Management, and Approximation in a Data Stream Management System	|	0.0312
+The Dangers of Replication and a Solution	|	0.0303
+Querying the Internet with PIER	|	0.0294
+Data Placement In Bubba	|	0.0294
+Bigtable: A Distributed Storage System for Structured Data	|	0.0248
+A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.0247
+The Case for Shared Nothing	|	0.0247
+Query Processing in Sensor Networks	|	0.0238
+Gigascope: a stream database for network applications	|	0.0238
+Filtering algorithms and implementation for very fast publish/subscribe systems	|	0.0217
+Maintaining Stream Statistics over Sliding Windows	|	0.0196
+The design of an acquisitional query processor for sensor networks	|	0.0177
+Aurora: a new model and architecture for data stream management	|	0.0157
+An adaptive data replication algorithm	|	0.0156
+Towards Sensor Database Systems	|	0.0156
+Finding Frequent Items in Data Streams	|	0.0154
+Distributed top-k monitoring	|	0.0141
+StatStream: Statistical Monitoring of Thousands of Data Streams in Real Time	|	0.0139
+C-Store: A Column-oriented DBMS	|	0.0139
+Eddies: Continuously Adaptive Query Processing	|	0.0139
+Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.0127
+Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.0116
+TinyDB: an acquisitional query processing system for sensor networks	|	0.0116
+Continuously adaptive continuous queries over streams	|	0.0112
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0112
+Path sharing and predicate evaluation for high-performance XML filtering	|	0.0110
+Active database systems	|	0.0109
+Multiple-query optimization	|	0.0106
+Online Aggregation	|	0.0104
+Benchmarking Database Systems A Systematic Approach	|	0.0098
+An overview of data warehousing and OLAP technology	|	0.0097
+The Gamma Database Machine Project	|	0.0088
+The Postgres Next Generation Database Management System	|	0.0088
+XML-QL: A Query Language for XML	|	0.0079
+The Architecture Of An Active Data Base Management System	|	0.0078
+An Adaptive Query Execution System for Data Integration	|	0.0075
+Continuous queries over data streams	|	0.0075
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0069
+Join processing in relational databases	|	0.0064
+Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0064
+Approximate Frequency Counts over Data Streams	|	0.0053
+Models and issues in data stream systems	|	0.0042
+An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.0035
+Access path selection in a relational database management system	|	0.0033
+Temporal and Real-Time Databases: A Survey	|	0.0032
+Query evaluation techniques for large databases	|	0.0008

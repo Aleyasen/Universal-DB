@@ -21,21 +21,29 @@
         "source": {
             "name": "Digital Bibliography & Library Project (DBLP)",
             "v_files": [
-                "paper"
-            ],
-            "e_files": [
-                "paper_paper"
-            ]
-        },
-        "target": {
-            "name": "Stanford Network Analysis Project (SNAP)",
-            "v_files": [
                 "paper",
                 "citation"
             ],
             "e_files": [
                 "paper_citation"
-            ]
+            ],
+            "param": {
+                "distance": 60,
+                "charge": -300
+            }
+        },
+        "target": {
+            "name": "Stanford Network Analysis Project (SNAP)",
+            "v_files": [
+                "paper"
+            ],
+            "e_files": [
+                "paper_paper"
+            ],
+            "param": {
+                "distance": 200,
+                "charge": -250
+            }
         }
     }
 }

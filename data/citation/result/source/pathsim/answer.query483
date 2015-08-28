@@ -1,44 +1,48 @@
-Data Preparation for Mining World Wide Web Browsing Patterns	|	0.5000
-Modeling Multidimensional Databases	|	0.4615
-Index Selection for OLAP	|	0.4000
-Understanding the New SQL: A Complete Guide	|	0.3750
-Pig latin: a not-so-foreign language for data processing	|	0.3636
-The data warehousing toolkit	|	0.3333
-Online Aggregation	|	0.2857
-Approximate Aggregation Techniques for Sensor Databases	|	0.2667
-Bottom-Up Computation of Sparse and Iceberg CUBEs	|	0.2105
-Incognito: efficient full-domain K-anonymity	|	0.2105
-Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Total	|	0.2000
-The data webhouse toolkit	|	0.2000
-A New SQL-like Operator for Mining Association Rules	|	0.1905
-Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.1818
-On the Computation of Multidimensional Aggregates	|	0.1818
-Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.1739
-Beyond Market Baskets: Generalizing Association Rules to Correlations	|	0.1667
-An overview of data warehousing and OLAP technology	|	0.1538
-Selectivity Estimation Without the Attribute Value Independence Assumption	|	0.1250
-A Critique of ANSI SQL Isolation Levels	|	0.1250
-Improved Histograms for Selectivity Estimation of Range Predicates	|	0.1176
-The Case for Shared Nothing	|	0.1176
-ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging	|	0.1176
-Srikant: "fast algorithms for mining association rules	|	0.1176
-Wavelet-Based Histograms for Selectivity Estimation	|	0.1053
-Data Placement In Bubba	|	0.1053
-Research problems in data warehousing	|	0.1000
-Answering queries using views: A survey	|	0.0952
-Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.0909
-Approximate Query Processing Using Wavelets	|	0.0909
-Parallel Database Systems: The Future of High Performance Database Processing1	|	0.0870
-Approximate Frequency Counts over Data Streams	|	0.0833
-Access path selection in a relational database management system	|	0.0816
-New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.0800
-Query evaluation techniques for large databases	|	0.0759
-Exploratory Mining and Pruning Optimizations of Constrained Association Rules	|	0.0741
-Fast Time Sequence Indexing for Arbitrary Lp Norms	|	0.0714
-Discovery of Multiple-Level Association Rules from Large Databases	|	0.0714
-Mining Generalized Association Rules	|	0.0714
-Continuous queries over data streams	|	0.0690
-Fast Algorithms for Mining Association Rules in Large Databases	|	0.0556
-Models and issues in data stream systems	|	0.0541
-Data Mining: An Overview from a Database Perspective	|	0.0526
-Fast Algorithms for Mining Association Rules	|	0.0392
+Providing olap (on-line analytical processing) to user-analysts: an it mandate	|	0.2619
+Discovering Web Access Patterns and Trends by Applying OLAP and Data Mining Technology on Web Logs	|	0.2456
+C-Store: A Column-oriented DBMS	|	0.2222
+Bottom-Up Computation of Sparse and Iceberg CUBEs	|	0.2059
+Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals	|	0.1978
+Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Total	|	0.1930
+Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.1603
+Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.1592
+Data Preparation for Mining World Wide Web Browsing Patterns	|	0.0556
+Modeling Multidimensional Databases	|	0.0517
+Pig latin: a not-so-foreign language for data processing	|	0.0476
+Index Selection for OLAP	|	0.0469
+The data warehousing toolkit	|	0.0435
+Understanding the New SQL: A Complete Guide	|	0.0417
+Approximate Aggregation Techniques for Sensor Databases	|	0.0312
+The data webhouse toolkit	|	0.0256
+On the Computation of Multidimensional Aggregates	|	0.0238
+Incognito: efficient full-domain K-anonymity	|	0.0196
+A New SQL-like Operator for Mining Association Rules	|	0.0157
+Online Aggregation	|	0.0139
+Selectivity Estimation Without the Attribute Value Independence Assumption	|	0.0139
+Wavelet-Based Histograms for Selectivity Estimation	|	0.0139
+A Critique of ANSI SQL Isolation Levels	|	0.0139
+Improved Histograms for Selectivity Estimation of Range Predicates	|	0.0123
+The Case for Shared Nothing	|	0.0123
+Srikant: "fast algorithms for mining association rules	|	0.0123
+Beyond Market Baskets: Generalizing Association Rules to Correlations	|	0.0116
+ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging	|	0.0109
+Data Placement In Bubba	|	0.0098
+An overview of data warehousing and OLAP technology	|	0.0097
+Research problems in data warehousing	|	0.0088
+Parallel Database Systems: The Future of High Performance Database Processing1	|	0.0064
+Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.0064
+Approximate Query Processing Using Wavelets	|	0.0064
+New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.0053
+Approximate Frequency Counts over Data Streams	|	0.0053
+Exploratory Mining and Pruning Optimizations of Constrained Association Rules	|	0.0044
+Fast Time Sequence Indexing for Arbitrary Lp Norms	|	0.0041
+Continuous queries over data streams	|	0.0037
+Discovery of Multiple-Level Association Rules from Large Databases	|	0.0035
+Mining Generalized Association Rules	|	0.0032
+Answering queries using views: A survey	|	0.0032
+Fast Algorithms for Mining Association Rules in Large Databases	|	0.0023
+Access path selection in a relational database management system	|	0.0022
+Models and issues in data stream systems	|	0.0021
+Data Mining: An Overview from a Database Perspective	|	0.0019
+Query evaluation techniques for large databases	|	0.0012
+Fast Algorithms for Mining Association Rules	|	0.0009

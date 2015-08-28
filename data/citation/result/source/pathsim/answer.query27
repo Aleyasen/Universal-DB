@@ -1,38 +1,40 @@
-DAML-S: Semantic Markup For Web Services	|	0.4286
-Semantic Matching of Web Services Capabilities	|	0.3750
-Quality of service for workflows and web service processes	|	0.3636
-Semantic e-Workflow Composition	|	0.3333
-DAML-S: Web Service Description for the Semantic Web	|	0.2857
-Composing Web services on the Semantic Web	|	0.2667
-Automatic Composition of E-services That Export Their Behavior	|	0.2000
-Semantic and Schematic Similarities Between Database Objects: A Context-Based Approach	|	0.1905
-On Agent-Mediated Electronic Commerce	|	0.1818
-A Survey of Automated Web Service Composition Methods	|	0.1818
-Bringing Semantics to Web Services: The OWL-S Approach	|	0.1818
-OntoSeek: Content-Based Access to the Web	|	0.1667
-Declarative Composition and Peer-to-Peer Provisioning of Dynamic Web Services	|	0.1667
-Trust Management for the Semantic Web	|	0.1667
-XLANG Web Services for Business Process Design	|	0.1667
-KQML as an agent communication language	|	0.1538
-Towards requirements-driven information systems engineering: the Tropos project	|	0.1538
-Adaptive and Dynamic Service Composition in eFlow	|	0.1538
-InfoSleuth: agent-based semantic integration of information in open and dynamic environments	|	0.1538
-Simlarity Search for Web Services	|	0.1429
-WordNet: a lexical database for English	|	0.1250
-Formal Ontology and Information Systems	|	0.1176
-Knowledge Engineering: Principles and Methods	|	0.1176
-Ontologies: principles, methods and applications	|	0.1176
-Determining Semantic Similarity among Entity Classes from Different Ontologies	|	0.1176
-A Translation Approach to Portable Ontology Specifications	|	0.1176
-Retrieving and Integrating Data from Multiple Information Sources	|	0.1111
-Generic Schema Matching with Cupid	|	0.1000
-OBSERVER: An Approach for Query Processing in Global Information Systems Based on Interoperation Across Pre-Existing Ontologies	|	0.1000
-The PROMPT suite: interactive tools for ontology merging and mapping	|	0.1000
-Query Reformulation for Dynamic Information Integration	|	0.0952
-Data Model and Query Evaluation in Global Information Systems	|	0.0952
-PROMPT: Algorithm and Tool for Automated Ontology Merging and Alignment	|	0.0909
-Semistructured data	|	0.0800
-Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.0769
-A Survey of Schema-Based Matching Approaches	|	0.0741
-The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0625
-Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0488
+DAML-S: Semantic Markup For Web Services	|	0.2748
+Semantic Matching of Web Services Capabilities	|	0.2603
+DAML-S: Web Service Description for the Semantic Web	|	0.2595
+KQML as an agent communication language	|	0.2545
+Composing Web services on the Semantic Web	|	0.2483
+The TSIMMIS Approach to Mediation: Data Models and Languages	|	0.2353
+Infomaster: An Information Integration System	|	0.2292
+OBSERVER: An Approach for Query Processing in Global Information Systems Based on Interoperation Across Pre-Existing Ontologies	|	0.1892
+Semantic e-Workflow Composition	|	0.1697
+Quality of service for workflows and web service processes	|	0.0417
+Automatic Composition of E-services That Export Their Behavior	|	0.0217
+On Agent-Mediated Electronic Commerce	|	0.0208
+A Survey of Automated Web Service Composition Methods	|	0.0208
+Bringing Semantics to Web Services: The OWL-S Approach	|	0.0208
+OntoSeek: Content-Based Access to the Web	|	0.0196
+Declarative Composition and Peer-to-Peer Provisioning of Dynamic Web Services	|	0.0196
+XLANG Web Services for Business Process Design	|	0.0196
+Trust Management for the Semantic Web	|	0.0183
+Towards requirements-driven information systems engineering: the Tropos project	|	0.0182
+Adaptive and Dynamic Service Composition in eFlow	|	0.0182
+InfoSleuth: agent-based semantic integration of information in open and dynamic environments	|	0.0182
+Simlarity Search for Web Services	|	0.0167
+Semantic and Schematic Similarities Between Database Objects: A Context-Based Approach	|	0.0163
+WordNet: a lexical database for English	|	0.0137
+Formal Ontology and Information Systems	|	0.0123
+Knowledge Engineering: Principles and Methods	|	0.0123
+Ontologies: principles, methods and applications	|	0.0123
+Determining Semantic Similarity among Entity Classes from Different Ontologies	|	0.0123
+A Translation Approach to Portable Ontology Specifications	|	0.0123
+Retrieving and Integrating Data from Multiple Information Sources	|	0.0111
+Generic Schema Matching with Cupid	|	0.0090
+The PROMPT suite: interactive tools for ontology merging and mapping	|	0.0090
+Query Reformulation for Dynamic Information Integration	|	0.0081
+Data Model and Query Evaluation in Global Information Systems	|	0.0081
+PROMPT: Algorithm and Tool for Automated Ontology Merging and Alignment	|	0.0074
+Semistructured data	|	0.0055
+Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.0051
+A Survey of Schema-Based Matching Approaches	|	0.0046
+The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0031
+Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0017

@@ -1,75 +1,77 @@
-Mediators in the Architecture of Future Information Systems	|	0.2857
-Data on the web	|	0.2857
-Piazza: data management infrastructure for semantic web applications	|	0.2500
-Logical Foundations of Object-Oriented and Frame-Based Languages	|	0.2000
-Querying the Internet with PIER	|	0.2000
-Research problems in data warehousing	|	0.1905
-Data Management for Peer-to-Peer Computing : A Vision	|	0.1818
-Ontobroker: Ontology Based Access to Distributed and Semi-Structured Information	|	0.1818
-Designing a Super-Peer Network	|	0.1818
-Semantic Overlay Networks for P2P Systems	|	0.1818
-W3c resource description framework (rdf) model and syntax specification	|	0.1818
-Generalizing GlOSS to Vector-Space Databases and Broker Hierarchies	|	0.1667
-Interoperability of multiple autonomous databases	|	0.1667
-Using semantic values to facilitate interoperability among heterogeneous information systems	|	0.1538
-Toward principles for the design of ontologies used for knowledge sharing?	|	0.1538
-The state of the art in distributed query processing	|	0.1538
-On the power of magic	|	0.1429
-A hierarchical approach to wrapper induction	|	0.1429
-An Improved Data Stream Summary: The Count-Min Sketch and Its Applications	|	0.1429
-Principles of Distributed Database Systems	|	0.1429
-What's hot and what's not: tracking most frequent items dynamically	|	0.1429
-Principles of distributed database systems	|	0.1429
-Resource description framework (rdf)	|	0.1429
-Maintaining Stream Statistics over Sliding Windows	|	0.1429
-EDUTELLA: a P2P networking infrastructure based on RDF	|	0.1333
-Finding Frequent Items in Data Streams	|	0.1333
-Routing Indices For Peer-to-Peer Systems	|	0.1250
-Information sharing across private databases	|	0.1250
-EDUTELLA: A P2P Networking Infrastructure Based on RDF	|	0.1250
-Answering XML Queries over Heterogeneous Data Sources	|	0.1250
-The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.1250
-Object Exchange Across Heterogeneous Information Sources	|	0.1250
-Typechecking for XML transformers	|	0.1176
-Knowledge Engineering: Principles and Methods	|	0.1176
-Extracting Semistructured Information from the Web	|	0.1176
-Generating Finite-State Transducers for Semi-Structured Data Extraction from the Web	|	0.1176
-Answering Queries Using Templates with Binding Patterns	|	0.1176
-Querying Heterogeneous Information Sources Using Source Descriptions	|	0.1111
-Random sampling with a reservoir	|	0.1111
-Srikant: "fast algorithms for mining association rules	|	0.1111
-Data Cleaning: Problems and Current Approaches	|	0.1053
-Extended algebra and calculus for nested relational databases	|	0.1053
-OBSERVER: An Approach for Query Processing in Global Information Systems Based on Interoperation Across Pre-Existing Ontologies	|	0.1000
-Bottom-Up Computation of Sparse and Iceberg CUBEs	|	0.1000
-Extracting structured data from Web pages	|	0.1000
-Wrapper induction: Efficiency and expressiveness	|	0.0952
-Towards Heterogeneous Multimedia Information Systems: The Garlic Approach	|	0.0952
-Principles of database and knowledge-base systems	|	0.0952
-Answering queries using views: A survey	|	0.0930
-Distributed top-k monitoring	|	0.0909
-PROMPT: Algorithm and Tool for Automated Ontology Merging and Alignment	|	0.0909
-Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.0870
-Schema Mediation in Peer Data Management Systems	|	0.0870
-Querying Object-Oriented Databases	|	0.0833
-Sampling Large Databases for Association Rules	|	0.0800
-Catching the boat with Strudel: experiences with a Web Site management system	|	0.0800
-TinyDB: an acquisitional query processing system for sensor networks	|	0.0800
-New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.0769
-Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.0741
-The design of an acquisitional query processor for sensor networks	|	0.0714
-Online Aggregation	|	0.0690
-Query Caching and Optimization in Distributed Mediator Systems	|	0.0690
-Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.0690
-An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.0690
-Issues in data stream management	|	0.0690
-Eddies: Continuously Adaptive Query Processing	|	0.0667
-An Adaptive Query Execution System for Data Integration	|	0.0667
-An Effective Hash Based Algorithm for Mining Association Rules	|	0.0571
-A comparative analysis of methodologies for database schema integration	|	0.0571
-A survey of approaches to automatic schema matching	|	0.0556
-Database techniques for the World-Wide Web: a survey	|	0.0556
-System R: relational approach to database management	|	0.0556
-Fast Algorithms for Mining Association Rules	|	0.0385
-Foundations of Databases	|	0.0260
-Query evaluation techniques for large databases	|	0.0250
+Designing a Super-Peer Network	|	0.2500
+EDUTELLA: a P2P networking infrastructure based on RDF	|	0.2424
+Complex Queries in DHT-based Peer-to-Peer Networks	|	0.2333
+Routing Indices For Peer-to-Peer Systems	|	0.2329
+EDUTELLA: A P2P Networking Infrastructure Based on RDF	|	0.2329
+Data Management for Peer-to-Peer Computing : A Vision	|	0.1765
+Mediators in the Architecture of Future Information Systems	|	0.1362
+Approximate Frequency Counts over Data Streams	|	0.1307
+The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.1059
+Data on the web	|	0.0333
+Finding Frequent Items in Data Streams	|	0.0270
+Ontobroker: Ontology Based Access to Distributed and Semi-Structured Information	|	0.0208
+Semantic Overlay Networks for P2P Systems	|	0.0208
+W3c resource description framework (rdf) model and syntax specification	|	0.0208
+Generalizing GlOSS to Vector-Space Databases and Broker Hierarchies	|	0.0196
+Using semantic values to facilitate interoperability among heterogeneous information systems	|	0.0182
+Toward principles for the design of ontologies used for knowledge sharing?	|	0.0182
+The state of the art in distributed query processing	|	0.0182
+Logical Foundations of Object-Oriented and Frame-Based Languages	|	0.0180
+Querying the Internet with PIER	|	0.0180
+On the power of magic	|	0.0167
+A hierarchical approach to wrapper induction	|	0.0167
+An Improved Data Stream Summary: The Count-Min Sketch and Its Applications	|	0.0167
+Principles of Distributed Database Systems	|	0.0167
+What's hot and what's not: tracking most frequent items dynamically	|	0.0167
+Principles of distributed database systems	|	0.0167
+Resource description framework (rdf)	|	0.0167
+Maintaining Stream Statistics over Sliding Windows	|	0.0167
+Piazza: data management infrastructure for semantic web applications	|	0.0166
+Research problems in data warehousing	|	0.0163
+Information sharing across private databases	|	0.0137
+Answering XML Queries over Heterogeneous Data Sources	|	0.0137
+Object Exchange Across Heterogeneous Information Sources	|	0.0137
+Typechecking for XML transformers	|	0.0123
+Knowledge Engineering: Principles and Methods	|	0.0123
+Extracting Semistructured Information from the Web	|	0.0123
+Generating Finite-State Transducers for Semi-Structured Data Extraction from the Web	|	0.0123
+Answering Queries Using Templates with Binding Patterns	|	0.0123
+Interoperability of multiple autonomous databases	|	0.0121
+Random sampling with a reservoir	|	0.0111
+Srikant: "fast algorithms for mining association rules	|	0.0111
+Data Cleaning: Problems and Current Approaches	|	0.0100
+Extended algebra and calculus for nested relational databases	|	0.0100
+OBSERVER: An Approach for Query Processing in Global Information Systems Based on Interoperation Across Pre-Existing Ontologies	|	0.0090
+Bottom-Up Computation of Sparse and Iceberg CUBEs	|	0.0090
+Extracting structured data from Web pages	|	0.0090
+Wrapper induction: Efficiency and expressiveness	|	0.0081
+Towards Heterogeneous Multimedia Information Systems: The Garlic Approach	|	0.0081
+Principles of database and knowledge-base systems	|	0.0081
+PROMPT: Algorithm and Tool for Automated Ontology Merging and Alignment	|	0.0074
+Distributed top-k monitoring	|	0.0066
+Schema Mediation in Peer Data Management Systems	|	0.0061
+Querying Object-Oriented Databases	|	0.0061
+Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.0060
+Catching the boat with Strudel: experiences with a Web Site management system	|	0.0055
+TinyDB: an acquisitional query processing system for sensor networks	|	0.0055
+New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.0051
+Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0047
+Sampling Large Databases for Association Rules	|	0.0047
+Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.0046
+The design of an acquisitional query processor for sensor networks	|	0.0043
+Query Caching and Optimization in Distributed Mediator Systems	|	0.0039
+Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.0039
+Issues in data stream management	|	0.0039
+An Adaptive Query Execution System for Data Integration	|	0.0036
+Online Aggregation	|	0.0034
+An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.0034
+Eddies: Continuously Adaptive Query Processing	|	0.0034
+Answering queries using views: A survey	|	0.0031
+A comparative analysis of methodologies for database schema integration	|	0.0025
+A survey of approaches to automatic schema matching	|	0.0024
+Database techniques for the World-Wide Web: a survey	|	0.0024
+System R: relational approach to database management	|	0.0024
+An Effective Hash Based Algorithm for Mining Association Rules	|	0.0022
+Fast Algorithms for Mining Association Rules	|	0.0009
+Foundations of Databases	|	0.0004
+Query evaluation techniques for large databases	|	0.0004

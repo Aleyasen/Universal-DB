@@ -1,31 +1,30 @@
-DAML-S: Web Service Description for the Semantic Web	|	0.3333
-Learning to map between ontologies on the semantic web	|	0.1350
-Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.1274
-Ontology Learning for the Semantic Web	|	0.1212
-Automatic Composition of E-services That Export Their Behavior	|	0.0952
-Ontologies - a silver bullet for knowledge management and electronic commerce	|	0.0800
-Enhanced hypertext categorization using hyperlinks	|	0.0408
-Simlarity Search for Web Services	|	0.0408
-DAML-S: Semantic Markup For Web Services	|	0.0333
-Semantic integration: a survey of ontology-based approaches	|	0.0328
-An Information-Theoretic Definition of Similarity	|	0.0267
-Similarity Flooding: A Versatile Graph Matching Algorithm and Its Application to Schema Matching	|	0.0267
-Semantic Matching of Web Services Capabilities	|	0.0267
-Generic Schema Matching with Cupid	|	0.0265
-The PROMPT suite: interactive tools for ontology merging and mapping	|	0.0265
-Dynamic service matchmaking among agents in open information environments	|	0.0183
-Ontology mapping: the state of the art	|	0.0183
-COMA - A System for Flexible Combination of Schema Matching Approaches	|	0.0155
-Learning to match ontologies on the Semantic Web	|	0.0155
-Piazza: data management infrastructure for semantic web applications	|	0.0138
-Ontology Mapping: The State of the Art	|	0.0132
-Wrapper induction: Efficiency and expressiveness	|	0.0114
-Schema Mapping as Query Discovery	|	0.0100
-PROMPT: Algorithm and Tool for Automated Ontology Merging and Alignment	|	0.0100
-Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.0091
-Optimizing Queries Across Diverse Data Sources	|	0.0087
-A Survey of Schema-Based Matching Approaches	|	0.0055
-An Adaptive Query Execution System for Data Integration	|	0.0042
-The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0035
-A survey of approaches to automatic schema matching	|	0.0026
-Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0026
+Automatic Composition of E-services That Export Their Behavior	|	0.5000
+Ontologies - a silver bullet for knowledge management and electronic commerce	|	0.4000
+Ontology Learning for the Semantic Web	|	0.4000
+Generic Schema Matching with Cupid	|	0.2857
+The PROMPT suite: interactive tools for ontology merging and mapping	|	0.2857
+DAML-S: Semantic Markup For Web Services	|	0.2500
+Enhanced hypertext categorization using hyperlinks	|	0.2500
+Simlarity Search for Web Services	|	0.2500
+Learning to match ontologies on the Semantic Web	|	0.2353
+Semantic integration: a survey of ontology-based approaches	|	0.2222
+Piazza: data management infrastructure for semantic web applications	|	0.2222
+An Information-Theoretic Definition of Similarity	|	0.2000
+Similarity Flooding: A Versatile Graph Matching Algorithm and Its Application to Schema Matching	|	0.2000
+Semantic Matching of Web Services Capabilities	|	0.2000
+Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.1739
+Dynamic service matchmaking among agents in open information environments	|	0.1667
+Ontology mapping: the state of the art	|	0.1667
+COMA - A System for Flexible Combination of Schema Matching Approaches	|	0.1538
+Ontology Mapping: The State of the Art	|	0.1429
+Wrapper induction: Efficiency and expressiveness	|	0.1333
+Optimizing Queries Across Diverse Data Sources	|	0.1250
+Schema Mapping as Query Discovery	|	0.1250
+PROMPT: Algorithm and Tool for Automated Ontology Merging and Alignment	|	0.1250
+Learning to map between ontologies on the semantic web	|	0.1111
+Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.0952
+A Survey of Schema-Based Matching Approaches	|	0.0952
+An Adaptive Query Execution System for Data Integration	|	0.0833
+The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0769
+A survey of approaches to automatic schema matching	|	0.0667
+Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0667

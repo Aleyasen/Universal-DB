@@ -1,12 +1,14 @@
-Conceptual Database Design: An Entity-Relationship Approach	|	0.5000
-Formal Models for Computer Security	|	0.5000
-Towards requirements-driven information systems engineering: the Tropos project	|	0.3333
-Towards a Logical Reconstruction of Relational Database Theory	|	0.2857
-A model of authorization for next-generation database systems	|	0.2857
-The temporal query language TQuel	|	0.2000
-A Relational Model for Large Shared Data Banks	|	0.1667
-RQL: a declarative query language for RDF	|	0.1333
-A language facility for designing database-intensive applications	|	0.1176
-The entity-relationship model---toward a unified view of data	|	0.1000
-Temporal and Real-Time Databases: A Survey	|	0.0800
-Logic and Databases: A Deductive Approach	|	0.0667
+Database Security	|	0.3200
+Telos: representing knowledge about information systems	|	0.2292
+Conceptual Database Design: An Entity-Relationship Approach	|	0.1667
+Formal Models for Computer Security	|	0.1667
+Towards requirements-driven information systems engineering: the Tropos project	|	0.0769
+Towards a Logical Reconstruction of Relational Database Theory	|	0.0556
+A model of authorization for next-generation database systems	|	0.0556
+The temporal query language TQuel	|	0.0211
+RQL: a declarative query language for RDF	|	0.0093
+A Relational Model for Large Shared Data Banks	|	0.0090
+A language facility for designing database-intensive applications	|	0.0071
+The entity-relationship model---toward a unified view of data	|	0.0057
+Temporal and Real-Time Databases: A Survey	|	0.0036
+Logic and Databases: A Deductive Approach	|	0.0024

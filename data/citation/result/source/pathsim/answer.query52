@@ -1,40 +1,43 @@
-DAML-S: Semantic Markup For Web Services	|	0.5000
-Dynamic service matchmaking among agents in open information environments	|	0.3750
-Composing Web services on the Semantic Web	|	0.3077
-Automating DAML-S Web Services Composition Using SHOP2	|	0.2500
-Automatic Composition of E-services That Export Their Behavior	|	0.2500
-COMA - A System for Flexible Combination of Schema Matching Approaches	|	0.2353
-Generic Schema Matching with Cupid	|	0.2222
-Infomaster: An Information Integration System	|	0.2222
-OBSERVER: An Approach for Query Processing in Global Information Systems Based on Interoperation Across Pre-Existing Ontologies	|	0.2222
-Quality of service for workflows and web service processes	|	0.2222
-A Survey of Automated Web Service Composition Methods	|	0.2222
-Semantic and Schematic Similarities Between Database Objects: A Context-Based Approach	|	0.2105
-Measuring Similarity between Ontologies	|	0.2000
-OntoSeek: Content-Based Access to the Web	|	0.2000
-Declarative Composition and Peer-to-Peer Provisioning of Dynamic Web Services	|	0.2000
-Trust Management for the Semantic Web	|	0.2000
-XLANG Web Services for Business Process Design	|	0.2000
-The TSIMMIS Approach to Mediation: Data Models and Languages	|	0.2000
-KQML as an agent communication language	|	0.1818
-Using Information Content to Evaluate Semantic Similarity in a Taxonomy	|	0.1818
-Adaptive and Dynamic Service Composition in eFlow	|	0.1818
-Semantic e-Workflow Composition	|	0.1818
-DAML-S: Web Service Description for the Semantic Web	|	0.1667
-Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.1600
-Semantic integration of semistructured and structured data sources	|	0.1429
-Similarity Flooding: A Versatile Graph Matching Algorithm and Its Application to Schema Matching	|	0.1429
-A Theory of Attribute Equivalence in Databases with Application to Schema Integration	|	0.1429
-Formal Ontology and Information Systems	|	0.1333
-Ontologies: principles, methods and applications	|	0.1333
-An Environment for Merging and Testing Large Ontologies	|	0.1333
-A Translation Approach to Portable Ontology Specifications	|	0.1333
-Ontology mapping: the state of the art	|	0.1250
-A survey of approaches to automatic schema matching	|	0.1176
-Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases	|	0.1176
-Ontology Mapping: The State of the Art	|	0.1111
-Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.1026
-PROMPT: Algorithm and Tool for Automated Ontology Merging and Alignment	|	0.1000
-Learning to match ontologies on the Semantic Web	|	0.0952
-Data integration: a theoretical perspective	|	0.0625
-A comparative analysis of methodologies for database schema integration	|	0.0606
+Bringing Semantics to Web Services: The OWL-S Approach	|	0.2903
+DAML-S: Web Service Description for the Semantic Web	|	0.2887
+Composing Web services on the Semantic Web	|	0.2883
+Simlarity Search for Web Services	|	0.2791
+Dynamic service matchmaking among agents in open information environments	|	0.2603
+Semantic e-Workflow Composition	|	0.1622
+A Survey of Schema-Based Matching Approaches	|	0.1256
+DAML-S: Semantic Markup For Web Services	|	0.0619
+Automating DAML-S Web Services Composition Using SHOP2	|	0.0345
+Automatic Composition of E-services That Export Their Behavior	|	0.0345
+Infomaster: An Information Integration System	|	0.0323
+Quality of service for workflows and web service processes	|	0.0323
+A Survey of Automated Web Service Composition Methods	|	0.0323
+Measuring Similarity between Ontologies	|	0.0294
+OntoSeek: Content-Based Access to the Web	|	0.0294
+Declarative Composition and Peer-to-Peer Provisioning of Dynamic Web Services	|	0.0294
+XLANG Web Services for Business Process Design	|	0.0294
+The TSIMMIS Approach to Mediation: Data Models and Languages	|	0.0294
+Trust Management for the Semantic Web	|	0.0267
+KQML as an agent communication language	|	0.0263
+Using Information Content to Evaluate Semantic Similarity in a Taxonomy	|	0.0263
+Adaptive and Dynamic Service Composition in eFlow	|	0.0263
+COMA - A System for Flexible Combination of Schema Matching Approaches	|	0.0241
+Generic Schema Matching with Cupid	|	0.0213
+OBSERVER: An Approach for Query Processing in Global Information Systems Based on Interoperation Across Pre-Existing Ontologies	|	0.0213
+Semantic and Schematic Similarities Between Database Objects: A Context-Based Approach	|	0.0189
+Semantic integration of semistructured and structured data sources	|	0.0179
+Similarity Flooding: A Versatile Graph Matching Algorithm and Its Application to Schema Matching	|	0.0179
+A Theory of Attribute Equivalence in Databases with Application to Schema Integration	|	0.0179
+Formal Ontology and Information Systems	|	0.0156
+Ontologies: principles, methods and applications	|	0.0156
+An Environment for Merging and Testing Large Ontologies	|	0.0156
+A Translation Approach to Portable Ontology Specifications	|	0.0156
+Ontology mapping: the state of the art	|	0.0137
+Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases	|	0.0120
+Ontology Mapping: The State of the Art	|	0.0106
+Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.0101
+PROMPT: Algorithm and Tool for Automated Ontology Merging and Alignment	|	0.0084
+Learning to match ontologies on the Semantic Web	|	0.0068
+A survey of approaches to automatic schema matching	|	0.0049
+Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0036
+A comparative analysis of methodologies for database schema integration	|	0.0026
+Data integration: a theoretical perspective	|	0.0026

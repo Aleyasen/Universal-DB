@@ -30,7 +30,7 @@ var top_k = 10;
 var rect_width = 120;
 var rect_height = 30;
 var truncate_limit = 18;
-var others_count = 4;
+var others_count = 2;
 var lists_arr = Array();
 var last_clicked_element;
 

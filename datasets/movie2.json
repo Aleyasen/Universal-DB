@@ -44,7 +44,11 @@
                 "actor_film",
                 "character_film",
                 "film_director"
-            ]
+            ],
+            "param": {
+                "distance": 100,
+                "charge": -200
+            }
         },
         "target": {
             "name": "Freebase",
@@ -62,7 +66,11 @@
                 "film_starring",
                 "film_directedby",
                 "director_directedby"
-            ]
+            ],
+            "param": {
+                "distance": 100,
+                "charge": -200
+            }
         }
     }
 }

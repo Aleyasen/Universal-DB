@@ -1,13 +1,14 @@
-Join processing in database systems with large main memories	|	0.2857
-Pmnczples of database and knowledge- base systems	|	0.2222
-A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.2000
-Using Semi-Joins to Solve Relational Queries	|	0.2000
-Principles of database and knowledge-base systems	|	0.1538
-Join indices	|	0.1333
-Parallel Database Systems: The Future of High Performance Database Processing1	|	0.1250
-Relational Completeness of Data Base Sublanguages	|	0.0952
-Principles of Database and Knowledge-Base Systems, Volume I	|	0.0769
-Extending the database relational model to capture more meaning	|	0.0741
-The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0714
-The Theory of Relational Databases	|	0.0625
-Access path selection in a relational database management system	|	0.0476
+Join processing in relational databases	|	0.1328
+Join processing in database systems with large main memories	|	0.0455
+Pmnczples of database and knowledge- base systems	|	0.0270
+A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.0217
+Using Semi-Joins to Solve Relational Queries	|	0.0217
+Principles of database and knowledge-base systems	|	0.0127
+Join indices	|	0.0083
+Parallel Database Systems: The Future of High Performance Database Processing1	|	0.0083
+Relational Completeness of Data Base Sublanguages	|	0.0047
+Principles of Database and Knowledge-Base Systems, Volume I	|	0.0031
+Extending the database relational model to capture more meaning	|	0.0028
+The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0026
+The Theory of Relational Databases	|	0.0020
+Access path selection in a relational database management system	|	0.0012

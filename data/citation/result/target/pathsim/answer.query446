@@ -1,52 +1,46 @@
-The oo7 Benchmark	|	0.2619
-Semantic Data Caching and Replacement	|	0.2609
-The ObjectStore database system	|	0.2564
-TIMBER: A native XML database	|	0.1978
-Partition Based Spatial-Merge Join	|	0.1961
-Structural Joins: A Primitive for Efficient XML Query Pattern Matching	|	0.1961
-ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging	|	0.1957
-Generalized Search Trees for Database Systems	|	0.1654
-The Recovery Manager of the System R Database Manager	|	0.0197
-Storing and Querying XML Data using an RDBMS	|	0.0196
-Transaction Processing: Concepts and Techniques	|	0.0196
-Quilt: An XML Query Language for Heterogeneous Data Sources	|	0.0175
-XML-QL: A Query Language for XML	|	0.0157
-Starburst Mid-Flight: As the Dust Clears	|	0.0156
-On indexing mobile objects	|	0.0139
-C-Store: A Column-oriented DBMS	|	0.0139
-The Case for Shared Nothing	|	0.0123
-Principles of database buffer management	|	0.0123
-Accelerating XPath location steps	|	0.0122
-On Supporting Containment Queries in Relational Database Management Systems	|	0.0116
-Quad Trees: A Data Structure for Retrieval on Composite Keys	|	0.0110
-Principles of transaction-oriented database recovery	|	0.0110
-Indexing and Querying XML Data for Regular Path Expressions	|	0.0098
-Benchmarking Database Systems A Systematic Approach	|	0.0098
-Efficient locking for concurrent operations on B-trees	|	0.0098
-Query Optimization for XML	|	0.0097
-The Gamma Database Machine Project	|	0.0088
-Towards Heterogeneous Multimedia Information Systems: The Garlic Approach	|	0.0088
-Holistic twig joins: optimal XML pattern matching	|	0.0088
-A Fast Index for Semistructured Data	|	0.0079
-Efficiently Publishing Relational Data as XML Documents	|	0.0079
-Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.0075
-Join indices	|	0.0064
-M-tree: An Efficient Access Method for Similarity Search in Metric Spaces	|	0.0064
-A class of data structures for associative searching	|	0.0064
-Notes on Data Base Operating Systems	|	0.0058
-Efficient Processing of Spatial Joins Using R-Trees	|	0.0053
-Lore: a database management system for semistructured data	|	0.0052
-Spatial Query Processing in an Object-Oriented Database System	|	0.0048
-The TV-Tree: An Index Structure for High-Dimensional Data	|	0.0044
-The Grid File: An Adaptable, Symmetric Multi-Key File Structure	|	0.0044
-Optimizing Queries with Materialized Views	|	0.0038
-The Ubiquitous B-Tree	|	0.0037
-DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0034
-The Grid File: An Adaptable, Symmetric Multikey File Structure	|	0.0028
-The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0024
-The R*-tree: an efficient and robust access method for points and rectangles	|	0.0023
-Concurrency Control and Recovery in Database Systems	|	0.0019
-Multidimensional access methods	|	0.0018
-Searching in high-dimensional spaces: Index structures for improving the performance of multimedia databases	|	0.0018
-Answering queries using views: A survey	|	0.0016
-Query evaluation techniques for large databases	|	0.0004
+The Recovery Manager of the System R Database Manager	|	0.2222
+Storing and Querying XML Data using an RDBMS	|	0.2105
+Quilt: An XML Query Language for Heterogeneous Data Sources	|	0.2000
+XML-QL: A Query Language for XML	|	0.1905
+On Supporting Containment Queries in Relational Database Management Systems	|	0.1667
+Query Optimization for XML	|	0.1538
+Transaction Processing: Concepts and Techniques	|	0.1538
+Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.1379
+Starburst Mid-Flight: As the Dust Clears	|	0.1333
+On indexing mobile objects	|	0.1250
+Accelerating XPath location steps	|	0.1250
+C-Store: A Column-oriented DBMS	|	0.1250
+Lore: a database management system for semistructured data	|	0.1212
+The Case for Shared Nothing	|	0.1176
+Principles of database buffer management	|	0.1176
+Quad Trees: A Data Structure for Retrieval on Composite Keys	|	0.1111
+Principles of transaction-oriented database recovery	|	0.1111
+Indexing and Querying XML Data for Regular Path Expressions	|	0.1053
+Benchmarking Database Systems A Systematic Approach	|	0.1053
+Partition Based Spatial-Merge Join	|	0.1053
+Efficient locking for concurrent operations on B-trees	|	0.1053
+Structural Joins: A Primitive for Efficient XML Query Pattern Matching	|	0.1053
+Towards Heterogeneous Multimedia Information Systems: The Garlic Approach	|	0.1000
+Holistic twig joins: optimal XML pattern matching	|	0.1000
+A Fast Index for Semistructured Data	|	0.0952
+Efficiently Publishing Relational Data as XML Documents	|	0.0952
+Join indices	|	0.0909
+M-tree: An Efficient Access Method for Similarity Search in Metric Spaces	|	0.0870
+A class of data structures for associative searching	|	0.0870
+The R*-tree: an efficient and robust access method for points and rectangles	|	0.0851
+Notes on Data Base Operating Systems	|	0.0833
+Efficient Processing of Spatial Joins Using R-Trees	|	0.0800
+The Gamma Database Machine Project	|	0.0769
+Spatial Query Processing in an Object-Oriented Database System	|	0.0769
+The TV-Tree: An Index Structure for High-Dimensional Data	|	0.0741
+The Grid File: An Adaptable, Symmetric Multi-Key File Structure	|	0.0741
+Optimizing Queries with Materialized Views	|	0.0714
+DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0690
+The Ubiquitous B-Tree	|	0.0690
+The Grid File: An Adaptable, Symmetric Multikey File Structure	|	0.0606
+The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0571
+Concurrency Control and Recovery in Database Systems	|	0.0513
+Multidimensional access methods	|	0.0500
+Searching in high-dimensional spaces: Index structures for improving the performance of multimedia databases	|	0.0500
+Answering queries using views: A survey	|	0.0476
+Query evaluation techniques for large databases	|	0.0253

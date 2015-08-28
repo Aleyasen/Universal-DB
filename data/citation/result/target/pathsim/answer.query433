@@ -1,58 +1,57 @@
-Simple Fast Algorithms for the Editing Distance Between Trees and Related Problems	|	0.3235
-Detecting Changes in XML Documents	|	0.2895
-View Maintenance in a Warehousing Environment	|	0.2621
-Research problems in data warehousing	|	0.2075
-Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.1524
-Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.1176
-Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.1105
-Composite Events for Active Databases: Semantics, Contexts and Detection	|	0.0465
-Deriving Production Rules for Constraint Maintainance	|	0.0408
-Database Transaction Models For Advanced Applications	|	0.0345
-The Tree-to-Tree Correction Problem	|	0.0345
-Conceptual Database Design: An Entity-Relationship Approach	|	0.0323
-Duplicate Record Detection: A Survey	|	0.0323
-Maintaining Views Incrementally	|	0.0319
-Logic Programming and Databases	|	0.0263
-Selection of Views to Materialize in a Data Warehouse	|	0.0263
-Composite Event Specification in Active Databases: Model & Implementation	|	0.0233
-On the decidability of query containment under constraints	|	0.0233
-Data on the Web: From Relations to Semistructured Data and XML	|	0.0233
-XWRAP: An XML-Enabled Wrapper Construction System for Web Information Sources	|	0.0179
-Aggregate-Query Processing in Data Warehousing Environments	|	0.0179
-The CQL continuous query language: semantic foundations and query execution	|	0.0168
-The Architecture Of An Active Data Base Management System	|	0.0167
-Understanding the New SQL: A Complete Guide	|	0.0156
-An overview of data warehousing and OLAP technology	|	0.0151
-Data caching issues in an information retrieval system	|	0.0137
-Adaptive filters for continuous queries over distributed data streams	|	0.0135
-The Implementation of Postgres	|	0.0120
-Path sharing and predicate evaluation for high-performance XML filtering	|	0.0120
-Continuous queries over data streams	|	0.0116
-Ode as an Active Database: Constraints and Triggers	|	0.0106
-Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Total	|	0.0094
-Why and Where: A Characterization of Data Provenance	|	0.0094
-The Design of the Borealis Stream Processing Engine	|	0.0093
-Aurora: a new model and architecture for data stream management	|	0.0084
-Query-by-Example: A Data Base Language	|	0.0075
-Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0066
-Beyond Market Baskets: Generalizing Association Rules to Correlations	|	0.0061
-TinyDB: an acquisitional query processing system for sensor networks	|	0.0061
-Principles of Database and Knowledge-Base Systems, Volume I	|	0.0057
-Object identity	|	0.0055
-Multiple-query optimization	|	0.0055
-Mediators in the Architecture of Future Information Systems	|	0.0046
-The design of an acquisitional query processor for sensor networks	|	0.0046
-Issues in data stream management	|	0.0042
-Optimizing Queries with Materialized Views	|	0.0039
-Continuously adaptive continuous queries over streams	|	0.0038
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0038
-Data Mining: An Overview from a Database Perspective	|	0.0038
-NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0036
-System R: A Relational Approach to Data Base Management	|	0.0036
-The functional data model and the data languages DAPLEX	|	0.0036
-The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0033
-Monitoring Streams - A New Class of Data Management Applications	|	0.0030
-A survey of approaches to automatic schema matching	|	0.0025
-System R: relational approach to database management	|	0.0025
-Models and issues in data stream systems	|	0.0022
-Principles of Database and Knowledge-Base Systems, Volume II	|	0.0007
+View Maintenance in a Warehousing Environment	|	0.4000
+Maintaining Views Incrementally	|	0.3333
+Composite Events for Active Databases: Semantics, Contexts and Detection	|	0.3333
+Research problems in data warehousing	|	0.3158
+Deriving Production Rules for Constraint Maintainance	|	0.3077
+Database Transaction Models For Advanced Applications	|	0.2500
+The Tree-to-Tree Correction Problem	|	0.2500
+An overview of data warehousing and OLAP technology	|	0.2400
+The Architecture Of An Active Data Base Management System	|	0.2222
+Conceptual Database Design: An Entity-Relationship Approach	|	0.2222
+Duplicate Record Detection: A Survey	|	0.2222
+Continuous queries over data streams	|	0.2143
+Simple Fast Algorithms for the Editing Distance Between Trees and Related Problems	|	0.2000
+The CQL continuous query language: semantic foundations and query execution	|	0.2000
+Logic Programming and Databases	|	0.1818
+Selection of Views to Materialize in a Data Warehouse	|	0.1818
+Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.1739
+Composite Event Specification in Active Databases: Model & Implementation	|	0.1667
+On the decidability of query containment under constraints	|	0.1667
+Data on the Web: From Relations to Semistructured Data and XML	|	0.1667
+XWRAP: An XML-Enabled Wrapper Construction System for Web Information Sources	|	0.1429
+Aggregate-Query Processing in Data Warehousing Environments	|	0.1429
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.1429
+Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.1333
+Adaptive filters for continuous queries over distributed data streams	|	0.1333
+Understanding the New SQL: A Complete Guide	|	0.1333
+Principles of Database and Knowledge-Base Systems, Volume I	|	0.1250
+Data caching issues in an information retrieval system	|	0.1250
+The Implementation of Postgres	|	0.1176
+Path sharing and predicate evaluation for high-performance XML filtering	|	0.1176
+Ode as an Active Database: Constraints and Triggers	|	0.1111
+The Design of the Borealis Stream Processing Engine	|	0.1111
+Data Mining: An Overview from a Database Perspective	|	0.1081
+Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Total	|	0.1053
+Why and Where: A Characterization of Data Provenance	|	0.1053
+Aurora: a new model and architecture for data stream management	|	0.1000
+Query-by-Example: A Data Base Language	|	0.0952
+Beyond Market Baskets: Generalizing Association Rules to Correlations	|	0.0870
+TinyDB: an acquisitional query processing system for sensor networks	|	0.0870
+Object identity	|	0.0833
+Multiple-query optimization	|	0.0833
+Mediators in the Architecture of Future Information Systems	|	0.0769
+The design of an acquisitional query processor for sensor networks	|	0.0769
+Continuously adaptive continuous queries over streams	|	0.0741
+Optimizing Queries with Materialized Views	|	0.0741
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0741
+Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0741
+Issues in data stream management	|	0.0741
+NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0690
+System R: A Relational Approach to Data Base Management	|	0.0690
+The functional data model and the data languages DAPLEX	|	0.0690
+The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0667
+Monitoring Streams - A New Class of Data Management Applications	|	0.0645
+A survey of approaches to automatic schema matching	|	0.0588
+System R: relational approach to database management	|	0.0588
+Models and issues in data stream systems	|	0.0556
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0494

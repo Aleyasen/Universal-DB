@@ -1,121 +1,131 @@
-RQL: a declarative query language for RDF	|	0.3200
-Querying Object-Oriented Databases	|	0.2963
-Semantic Web	|	0.2857
-Update semantics of relational views	|	0.2353
-XWRAP: An XML-Enabled Wrapper Construction System for Web Information Sources	|	0.2105
-The Management of Probabilistic Data	|	0.2105
-Query Optimization for XML	|	0.2000
-Visual Web Information Extraction with Lixto	|	0.2000
-Typechecking for XML transformers	|	0.2000
-Wrapper generation for semi-structured Internet sources	|	0.2000
-Index Structures for Path Expressions	|	0.1905
-Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.1818
-Efficient Query Evaluation on Probabilistic Databases	|	0.1818
-Maintaining Views Incrementally	|	0.1739
-Answering queries using views: A survey	|	0.1739
-Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.1714
-A Fast Index for Semistructured Data	|	0.1600
-A Query Language for XML	|	0.1600
-Storing Semistructured Data with STORED	|	0.1481
-Your Mediators Need Data Conversion!	|	0.1429
-Updating and Querying Databases that Track Mobile Units	|	0.1429
-Semistructured data	|	0.1429
-Mediators in the Architecture of Future Information Systems	|	0.1290
-XIRQL: a query language for information retrieval in XML documents	|	0.1250
-Efficient Algorithms for Processing XPath Queries	|	0.1250
-Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.1250
-Negation as Failure	|	0.1250
-Detecting Changes in XML Documents	|	0.1250
-Unfounded sets and well-founded semantics for general logic programs	|	0.1250
-Logic Programming and Databases	|	0.1250
-DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.1212
-Composite Event Specification in Active Databases: Model & Implementation	|	0.1176
-On the power of magic	|	0.1176
-On the decidability of query containment under constraints	|	0.1176
-Magic Sets and Other Strange Ways to Implement Logic Programs	|	0.1176
-Towards a Logical Reconstruction of Relational Database Theory	|	0.1176
-Evaluating probabilistic queries over imprecise data	|	0.1176
-The Theory of Database Concurrency Control	|	0.1176
-Towards a Theory of Declarative Knowledge	|	0.1176
-Foundations of Logic Programming, 2nd Edition	|	0.1176
-On the Desirability of Acyclic Database Schemes	|	0.1176
-ULDBs: Databases with Uncertainty and Lineage	|	0.1176
-Objects and Views	|	0.1111
-EDUTELLA: a P2P networking infrastructure based on RDF	|	0.1111
-On Closed World Data Bases	|	0.1111
-Remarks on the algebra of non first normal form relations	|	0.1111
-Deriving Production Rules for Constraint Maintainance	|	0.1111
-Lore: a database management system for semistructured data	|	0.1081
-Data integration: a theoretical perspective	|	0.1081
-Change Detection in Hierarchically Structured Information	|	0.1053
-EDUTELLA: A P2P Networking Infrastructure Based on RDF	|	0.1053
-A probabilistic relational algebra for the integration of information retrieval and database systems	|	0.1053
-Database techniques for the World-Wide Web: a survey	|	0.1026
-DISCOVER: Keyword Search in Relational Databases	|	0.1000
-From Semistructured Data to XML: Migrating the Lore Data Model and Query Language	|	0.1000
-Extracting Semistructured Information from the Web	|	0.1000
-Answering Queries Using Templates with Binding Patterns	|	0.1000
-The complexity of relational query languages (Extended Abstract)	|	0.1000
-Computable Queries for Relational Data Bases	|	0.1000
-Hippocratic Databases	|	0.0952
-Adding Structure to Unstructured Data	|	0.0952
-Using Semi-Joins to Solve Relational Queries	|	0.0952
-TIMBER: A native XML database	|	0.0909
-W3QS: A Query System for the World-Wide Web	|	0.0909
-Operating system support for database management	|	0.0909
-Computational problems related to the design of normal form relational schemas	|	0.0909
-Extended algebra and calculus for nested relational databases	|	0.0909
-Path sharing and predicate evaluation for high-performance XML filtering	|	0.0909
-Indexing and Querying XML Data for Regular Path Expressions	|	0.0870
-GALILEO: a strongly-typed, interactive conceptual language	|	0.0870
-Ode as an Active Database: Constraints and Triggers	|	0.0870
-Extracting structured data from Web pages	|	0.0870
-The Architecture Of An Active Data Base Management System	|	0.0870
-Structural Joins: A Primitive for Efficient XML Query Pattern Matching	|	0.0870
-Research problems in data warehousing	|	0.0833
-Quilt: An XML Query Language for Heterogeneous Data Sources	|	0.0833
-Disjunctive datalog	|	0.0833
-Dependency Structures of Data Base Relationships	|	0.0833
-Universality of data retrieval languages	|	0.0833
-Holistic twig joins: optimal XML pattern matching	|	0.0833
-Efficiently Publishing Relational Data as XML Documents	|	0.0800
-Principles of Database Systems, 2nd Edition	|	0.0800
-A logical design methodology for relational databases using the extended entity-relationship model	|	0.0800
-Synthesizing third normal form relations from functional dependencies	|	0.0800
-Schema Mediation in Peer Data Management Systems	|	0.0769
-Query-by-Example: A Data Base Language	|	0.0769
-From Structured Documents to Novel Query Facilities	|	0.0741
-Interoperability of multiple autonomous databases	|	0.0741
-IFO: a formal semantic database model	|	0.0741
-A language facility for designing database-intensive applications	|	0.0741
-On Supporting Containment Queries in Relational Database Management Systems	|	0.0714
-Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.0714
-Catching the boat with Strudel: experiences with a Web Site management system	|	0.0714
-Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.0714
-Complexity of answering queries using materialized views	|	0.0714
-Object identity	|	0.0690
-The entity-relationship model---toward a unified view of data	|	0.0667
-Database description with SDM: a semantic database model	|	0.0667
-An overview of data warehousing and OLAP technology	|	0.0667
-Further Normalization of the Data Base Relational Model	|	0.0667
-The Design of Postgres	|	0.0645
-Semantic data models	|	0.0625
-Relational Completeness of Data Base Sublanguages	|	0.0625
-Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0606
-NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0588
-Optimal implementation of conjunctive queries in relational data bases	|	0.0588
-The functional data model and the data languages DAPLEX	|	0.0588
-Principles of Database and Knowledge-Base Systems, Volume I	|	0.0541
-Types and persistence in database programming languages	|	0.0526
-A comparative analysis of methodologies for database schema integration	|	0.0526
-System R: relational approach to database management	|	0.0513
-Logic and Databases: A Deductive Approach	|	0.0500
-Query evaluation techniques for large databases	|	0.0482
-Data Mining: An Overview from a Database Perspective	|	0.0476
-Concurrency Control and Recovery in Database Systems	|	0.0465
-The Theory of Relational Databases	|	0.0465
-Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0455
-Query Optimization in Database Systems	|	0.0444
-Access path selection in a relational database management system	|	0.0377
-Foundations of Databases	|	0.0250
-Principles of Database and Knowledge-Base Systems, Volume II	|	0.0233
+ULDBs: Databases with Uncertainty and Lineage	|	0.1935
+Data on the Web: From Relations to Semistructured Data and XML	|	0.1828
+Data on the web	|	0.1828
+Trio: A System for Integrated Management of Data, Accuracy, and Lineage	|	0.1818
+Object Exchange Across Heterogeneous Information Sources	|	0.1792
+Data on the web: from relations to semistructured data and xml	|	0.1786
+View Maintenance in a Warehousing Environment	|	0.1714
+A Survey of Data Provenance in e-Science	|	0.1646
+XML-QL: A Query Language for XML	|	0.1479
+A Query Language and Optimization Techniques for Unstructured Data	|	0.1027
+The Lorel Query Language for Semistructured Data	|	0.0855
+Foundations of Databases	|	0.0334
+Semantic Web	|	0.0247
+RQL: a declarative query language for RDF	|	0.0219
+Update semantics of relational views	|	0.0215
+Querying Object-Oriented Databases	|	0.0202
+XWRAP: An XML-Enabled Wrapper Construction System for Web Information Sources	|	0.0189
+The Management of Probabilistic Data	|	0.0189
+Visual Web Information Extraction with Lixto	|	0.0175
+Typechecking for XML transformers	|	0.0175
+Wrapper generation for semi-structured Internet sources	|	0.0175
+Efficient Query Evaluation on Probabilistic Databases	|	0.0150
+Maintaining Views Incrementally	|	0.0139
+Index Structures for Path Expressions	|	0.0126
+Updating and Querying Databases that Track Mobile Units	|	0.0123
+Query Optimization for XML	|	0.0120
+A Fast Index for Semistructured Data	|	0.0118
+A Query Language for XML	|	0.0118
+XIRQL: a query language for information retrieval in XML documents	|	0.0114
+Efficient Algorithms for Processing XPath Queries	|	0.0114
+Negation as Failure	|	0.0114
+Detecting Changes in XML Documents	|	0.0114
+Unfounded sets and well-founded semantics for general logic programs	|	0.0114
+Logic Programming and Databases	|	0.0114
+Composite Event Specification in Active Databases: Model & Implementation	|	0.0108
+On the power of magic	|	0.0108
+On the decidability of query containment under constraints	|	0.0108
+Magic Sets and Other Strange Ways to Implement Logic Programs	|	0.0108
+Towards a Logical Reconstruction of Relational Database Theory	|	0.0108
+Evaluating probabilistic queries over imprecise data	|	0.0108
+The Theory of Database Concurrency Control	|	0.0108
+Towards a Theory of Declarative Knowledge	|	0.0108
+Foundations of Logic Programming, 2nd Edition	|	0.0108
+On the Desirability of Acyclic Database Schemes	|	0.0108
+Storing Semistructured Data with STORED	|	0.0101
+Objects and Views	|	0.0101
+EDUTELLA: a P2P networking infrastructure based on RDF	|	0.0101
+On Closed World Data Bases	|	0.0101
+Remarks on the algebra of non first normal form relations	|	0.0101
+Deriving Production Rules for Constraint Maintainance	|	0.0101
+Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.0097
+Change Detection in Hierarchically Structured Information	|	0.0094
+EDUTELLA: A P2P Networking Infrastructure Based on RDF	|	0.0094
+A probabilistic relational algebra for the integration of information retrieval and database systems	|	0.0094
+Your Mediators Need Data Conversion!	|	0.0093
+Semistructured data	|	0.0093
+DISCOVER: Keyword Search in Relational Databases	|	0.0088
+From Semistructured Data to XML: Migrating the Lore Data Model and Query Language	|	0.0088
+Extracting Semistructured Information from the Web	|	0.0088
+Answering Queries Using Templates with Binding Patterns	|	0.0088
+The complexity of relational query languages (Extended Abstract)	|	0.0088
+Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0085
+Computable Queries for Relational Data Bases	|	0.0082
+Hippocratic Databases	|	0.0081
+Adding Structure to Unstructured Data	|	0.0081
+Using Semi-Joins to Solve Relational Queries	|	0.0081
+TIMBER: A native XML database	|	0.0075
+W3QS: A Query System for the World-Wide Web	|	0.0075
+Operating system support for database management	|	0.0075
+Computational problems related to the design of normal form relational schemas	|	0.0075
+Extended algebra and calculus for nested relational databases	|	0.0075
+Path sharing and predicate evaluation for high-performance XML filtering	|	0.0075
+Mediators in the Architecture of Future Information Systems	|	0.0075
+Indexing and Querying XML Data for Regular Path Expressions	|	0.0069
+Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.0069
+Ode as an Active Database: Constraints and Triggers	|	0.0069
+Extracting structured data from Web pages	|	0.0069
+Structural Joins: A Primitive for Efficient XML Query Pattern Matching	|	0.0069
+Research problems in data warehousing	|	0.0064
+Quilt: An XML Query Language for Heterogeneous Data Sources	|	0.0064
+Disjunctive datalog	|	0.0064
+Dependency Structures of Data Base Relationships	|	0.0064
+Holistic twig joins: optimal XML pattern matching	|	0.0064
+GALILEO: a strongly-typed, interactive conceptual language	|	0.0064
+DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0060
+Answering queries using views: A survey	|	0.0059
+Efficiently Publishing Relational Data as XML Documents	|	0.0059
+Principles of Database Systems, 2nd Edition	|	0.0059
+Synthesizing third normal form relations from functional dependencies	|	0.0059
+The Architecture Of An Active Data Base Management System	|	0.0059
+Universality of data retrieval languages	|	0.0059
+Query-by-Example: A Data Base Language	|	0.0055
+A logical design methodology for relational databases using the extended entity-relationship model	|	0.0054
+Schema Mediation in Peer Data Management Systems	|	0.0051
+From Structured Documents to Novel Query Facilities	|	0.0051
+Interoperability of multiple autonomous databases	|	0.0051
+IFO: a formal semantic database model	|	0.0047
+On Supporting Containment Queries in Relational Database Management Systems	|	0.0047
+Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.0047
+Catching the boat with Strudel: experiences with a Web Site management system	|	0.0047
+Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.0047
+Complexity of answering queries using materialized views	|	0.0047
+Lore: a database management system for semistructured data	|	0.0047
+Data integration: a theoretical perspective	|	0.0047
+A language facility for designing database-intensive applications	|	0.0047
+Database techniques for the World-Wide Web: a survey	|	0.0044
+Object identity	|	0.0043
+The entity-relationship model---toward a unified view of data	|	0.0040
+Database description with SDM: a semantic database model	|	0.0040
+An overview of data warehousing and OLAP technology	|	0.0040
+Further Normalization of the Data Base Relational Model	|	0.0040
+The Design of Postgres	|	0.0037
+Semantic data models	|	0.0035
+Relational Completeness of Data Base Sublanguages	|	0.0035
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0030
+NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0030
+Optimal implementation of conjunctive queries in relational data bases	|	0.0030
+The functional data model and the data languages DAPLEX	|	0.0030
+Principles of Database and Knowledge-Base Systems, Volume I	|	0.0025
+A comparative analysis of methodologies for database schema integration	|	0.0023
+System R: relational approach to database management	|	0.0022
+Logic and Databases: A Deductive Approach	|	0.0021
+Types and persistence in database programming languages	|	0.0021
+Concurrency Control and Recovery in Database Systems	|	0.0017
+The Theory of Relational Databases	|	0.0017
+Data Mining: An Overview from a Database Perspective	|	0.0017
+Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0017
+Query Optimization in Database Systems	|	0.0015
+Access path selection in a relational database management system	|	0.0011
+Query evaluation techniques for large databases	|	0.0008
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0004

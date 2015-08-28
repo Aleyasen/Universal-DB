@@ -1,130 +1,132 @@
-Composite Event Specification in Active Databases: Model & Implementation	|	0.5000
-Deriving Production Rules for Constraint Maintainance	|	0.4706
-Active database systems	|	0.3000
-Path sharing and predicate evaluation for high-performance XML filtering	|	0.2857
-Filtering algorithms and implementation for very fast publish/subscribe systems	|	0.2667
-Logic Programming and Databases	|	0.2667
-Composite Events for Active Databases: Semantics, Contexts and Detection	|	0.2500
-Continuous queries over data streams	|	0.2500
-Change Detection in Hierarchically Structured Information	|	0.2222
-TinyDB: an acquisitional query processing system for sensor networks	|	0.2222
-Object identity	|	0.2143
-Adaptive filters for continuous queries over distributed data streams	|	0.2105
-The design of an acquisitional query processor for sensor networks	|	0.2000
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.1935
-The Implementation of Postgres	|	0.1905
-Ode as an Active Database: Constraints and Triggers	|	0.1818
-Maintaining Views Incrementally	|	0.1818
-Database Transaction Models For Advanced Applications	|	0.1667
-Aurora: a new model and architecture for data stream management	|	0.1667
-The CQL continuous query language: semantic foundations and query execution	|	0.1667
-XML-QL: A Query Language for XML	|	0.1667
-Query-by-Example: A Data Base Language	|	0.1600
-System R: relational approach to database management	|	0.1579
-Updating and Querying Databases that Track Mobile Units	|	0.1538
-Set-Oriented Production Rules in Relational Database Systems	|	0.1538
-Conceptual Database Design: An Entity-Relationship Approach	|	0.1538
-Temporal Databases	|	0.1538
-Models and issues in data stream systems	|	0.1500
-Multiple-query optimization	|	0.1429
-Extensible Markup Language (XML)	|	0.1429
-Simple Fast Algorithms for the Editing Distance Between Trees and Related Problems	|	0.1429
-Deriving Production Rules for Incremental View Maintenance	|	0.1429
-Efficient Algorithms for Processing XPath Queries	|	0.1333
-The Design of Postgres	|	0.1333
-Negation as Failure	|	0.1333
-Detecting Changes in XML Documents	|	0.1333
-Unfounded sets and well-founded semantics for general logic programs	|	0.1333
-XML Path Language (XPath) Version 1.0	|	0.1333
-Human behavior and the principle of least effort	|	0.1333
-Continuously adaptive continuous queries over streams	|	0.1290
-Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.1290
-Issues in data stream management	|	0.1290
-On the power of magic	|	0.1250
-On the decidability of query containment under constraints	|	0.1250
-Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.1250
-Efficient Filtering of XML Documents with XPath Expressions	|	0.1250
-Magic Sets and Other Strange Ways to Implement Logic Programs	|	0.1250
-Towards a Logical Reconstruction of Relational Database Theory	|	0.1250
-The Theory of Database Concurrency Control	|	0.1250
-Towards a Theory of Declarative Knowledge	|	0.1250
-Foundations of Logic Programming, 2nd Edition	|	0.1250
-On the Desirability of Acyclic Database Schemes	|	0.1250
-Update semantics of relational views	|	0.1250
-The HiPAC project: combining active databases and timing constraints	|	0.1250
-Extensible Markup Language (XML) 1.0	|	0.1250
-ULDBs: Databases with Uncertainty and Lineage	|	0.1250
-NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.1212
-System R: A Relational Approach to Data Base Management	|	0.1212
-The functional data model and the data languages DAPLEX	|	0.1212
-Objects and Views	|	0.1176
-On Closed World Data Bases	|	0.1176
-Remarks on the algebra of non first normal form relations	|	0.1176
-Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.1176
-Scheduling Real-time Transactions: a Performance Evaluation	|	0.1176
-Monitoring Streams - A New Class of Data Management Applications	|	0.1143
-Mariposa: A Wide-Area Distributed Database System	|	0.1111
-XWRAP: An XML-Enabled Wrapper Construction System for Web Information Sources	|	0.1111
-Principles of Database and Knowledge-Base Systems, Volume I	|	0.1111
-extensible markup language (xml) 1	|	0.1111
-Query Processing, Resource Management, and Approximation in a Data Stream Management System	|	0.1111
-DISCOVER: Keyword Search in Relational Databases	|	0.1053
-View Maintenance in a Warehousing Environment	|	0.1053
-Scalable Distributed Stream Processing	|	0.1053
-The complexity of relational query languages (Extended Abstract)	|	0.1053
-Human Behaviour and the Principle of Least Effort: an Introduction to Human Ecology	|	0.1053
-Understanding the New SQL: A Complete Guide	|	0.1053
-Computable Queries for Relational Data Bases	|	0.1053
-Concurrency control in advanced database applications	|	0.1000
-Using Semi-Joins to Solve Relational Queries	|	0.1000
-Data caching issues in an information retrieval system	|	0.1000
-A federated architecture for information management	|	0.1000
-Operating system support for database management	|	0.0952
-Computational problems related to the design of normal form relational schemas	|	0.0952
-On optimizing an SQL-like nested query	|	0.0952
-Indexing and Querying XML Data for Regular Path Expressions	|	0.0909
-Benchmarking Database Systems A Systematic Approach	|	0.0909
-GALILEO: a strongly-typed, interactive conceptual language	|	0.0909
-Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.0909
-Extracting structured data from Web pages	|	0.0909
-Research problems in data warehousing	|	0.0870
-Disjunctive datalog	|	0.0870
-Why and Where: A Characterization of Data Provenance	|	0.0870
-Dependency Structures of Data Base Relationships	|	0.0870
-Universality of data retrieval languages	|	0.0870
-RQL: a declarative query language for RDF	|	0.0833
-Distributed top-k monitoring	|	0.0833
-Principles of Database Systems, 2nd Edition	|	0.0833
-A logical design methodology for relational databases using the extended entity-relationship model	|	0.0833
-Synthesizing third normal form relations from functional dependencies	|	0.0833
-Schema Mediation in Peer Data Management Systems	|	0.0800
-A Data Model and Query Language for EXODUS	|	0.0800
-Querying Object-Oriented Databases	|	0.0769
-IFO: a formal semantic database model	|	0.0769
-A language facility for designing database-intensive applications	|	0.0769
-Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.0741
-Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.0741
-Complexity of answering queries using materialized views	|	0.0741
-The entity-relationship model---toward a unified view of data	|	0.0690
-Database description with SDM: a semantic database model	|	0.0690
-Further Normalization of the Data Base Relational Model	|	0.0690
-Mediators in the Architecture of Future Information Systems	|	0.0667
-The notions of consistency and predicate locks in a database system	|	0.0667
-Semantic data models	|	0.0645
-Relational Completeness of Data Base Sublanguages	|	0.0645
-A Query Language and Optimization Techniques for Unstructured Data	|	0.0606
-Optimal implementation of conjunctive queries in relational data bases	|	0.0606
-Lore: a database management system for semistructured data	|	0.0556
-Types and persistence in database programming languages	|	0.0541
-A comparative analysis of methodologies for database schema integration	|	0.0541
-The Lorel Query Language for Semistructured Data	|	0.0526
-Logic and Databases: A Deductive Approach	|	0.0513
-Foundations of Databases	|	0.0506
-Concurrency Control and Recovery in Database Systems	|	0.0476
-The Theory of Relational Databases	|	0.0476
-Principles of Database and Knowledge-Base Systems, Volume II	|	0.0471
-Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0465
-Query Optimization in Database Systems	|	0.0455
-Answering queries using views: A survey	|	0.0444
-Access path selection in a relational database management system	|	0.0385
-Query evaluation techniques for large databases	|	0.0244
+Nested Transactions: An Approach to Reliable Distributed Computing	|	0.3194
+Deriving Production Rules for Constraint Maintainance	|	0.2044
+Deriving Production Rules for Incremental View Maintenance	|	0.1744
+Set-Oriented Production Rules in Relational Database Systems	|	0.1693
+Ode as an Active Database: Constraints and Triggers	|	0.1651
+The Postgres Next Generation Database Management System	|	0.1475
+Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.1161
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.1076
+NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.1074
+Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.1034
+Active database systems	|	0.0407
+Composite Event Specification in Active Databases: Model & Implementation	|	0.0376
+Foundations of Databases	|	0.0341
+Concurrency control in advanced database applications	|	0.0271
+A federated architecture for information management	|	0.0271
+Path sharing and predicate evaluation for high-performance XML filtering	|	0.0205
+Filtering algorithms and implementation for very fast publish/subscribe systems	|	0.0197
+Logic Programming and Databases	|	0.0197
+Composite Events for Active Databases: Semantics, Contexts and Detection	|	0.0188
+Change Detection in Hierarchically Structured Information	|	0.0167
+Adaptive filters for continuous queries over distributed data streams	|	0.0145
+The Implementation of Postgres	|	0.0137
+TinyDB: an acquisitional query processing system for sensor networks	|	0.0132
+Maintaining Views Incrementally	|	0.0127
+Continuous queries over data streams	|	0.0124
+Object identity	|	0.0123
+Aurora: a new model and architecture for data stream management	|	0.0110
+The CQL continuous query language: semantic foundations and query execution	|	0.0110
+XML-QL: A Query Language for XML	|	0.0110
+Database Transaction Models For Advanced Applications	|	0.0108
+The design of an acquisitional query processor for sensor networks	|	0.0107
+Updating and Querying Databases that Track Mobile Units	|	0.0106
+Conceptual Database Design: An Entity-Relationship Approach	|	0.0106
+Temporal Databases	|	0.0106
+Extensible Markup Language (XML)	|	0.0103
+Simple Fast Algorithms for the Editing Distance Between Trees and Related Problems	|	0.0103
+Query-by-Example: A Data Base Language	|	0.0102
+Efficient Algorithms for Processing XPath Queries	|	0.0099
+Negation as Failure	|	0.0099
+Detecting Changes in XML Documents	|	0.0099
+Unfounded sets and well-founded semantics for general logic programs	|	0.0099
+XML Path Language (XPath) Version 1.0	|	0.0099
+Human behavior and the principle of least effort	|	0.0099
+On the power of magic	|	0.0094
+On the decidability of query containment under constraints	|	0.0094
+Efficient Filtering of XML Documents with XPath Expressions	|	0.0094
+Magic Sets and Other Strange Ways to Implement Logic Programs	|	0.0094
+Towards a Logical Reconstruction of Relational Database Theory	|	0.0094
+The Theory of Database Concurrency Control	|	0.0094
+Towards a Theory of Declarative Knowledge	|	0.0094
+Foundations of Logic Programming, 2nd Edition	|	0.0094
+On the Desirability of Acyclic Database Schemes	|	0.0094
+Update semantics of relational views	|	0.0094
+Extensible Markup Language (XML) 1.0	|	0.0094
+ULDBs: Databases with Uncertainty and Lineage	|	0.0094
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0093
+The HiPAC project: combining active databases and timing constraints	|	0.0089
+Objects and Views	|	0.0089
+On Closed World Data Bases	|	0.0089
+Remarks on the algebra of non first normal form relations	|	0.0089
+Scheduling Real-time Transactions: a Performance Evaluation	|	0.0089
+Mariposa: A Wide-Area Distributed Database System	|	0.0084
+XWRAP: An XML-Enabled Wrapper Construction System for Web Information Sources	|	0.0084
+extensible markup language (xml) 1	|	0.0084
+Query Processing, Resource Management, and Approximation in a Data Stream Management System	|	0.0084
+Multiple-query optimization	|	0.0082
+DISCOVER: Keyword Search in Relational Databases	|	0.0078
+Scalable Distributed Stream Processing	|	0.0078
+The complexity of relational query languages (Extended Abstract)	|	0.0078
+Human Behaviour and the Principle of Least Effort: an Introduction to Human Ecology	|	0.0078
+Understanding the New SQL: A Complete Guide	|	0.0078
+View Maintenance in a Warehousing Environment	|	0.0074
+Computable Queries for Relational Data Bases	|	0.0074
+Using Semi-Joins to Solve Relational Queries	|	0.0073
+Data caching issues in an information retrieval system	|	0.0073
+The Design of Postgres	|	0.0071
+Operating system support for database management	|	0.0068
+Computational problems related to the design of normal form relational schemas	|	0.0068
+On optimizing an SQL-like nested query	|	0.0068
+Issues in data stream management	|	0.0066
+System R: relational approach to database management	|	0.0064
+Indexing and Querying XML Data for Regular Path Expressions	|	0.0063
+Benchmarking Database Systems A Systematic Approach	|	0.0063
+Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.0063
+Extracting structured data from Web pages	|	0.0063
+Continuously adaptive continuous queries over streams	|	0.0062
+Research problems in data warehousing	|	0.0059
+Disjunctive datalog	|	0.0059
+Why and Where: A Characterization of Data Provenance	|	0.0059
+Dependency Structures of Data Base Relationships	|	0.0059
+GALILEO: a strongly-typed, interactive conceptual language	|	0.0059
+System R: A Relational Approach to Data Base Management	|	0.0058
+The functional data model and the data languages DAPLEX	|	0.0058
+Models and issues in data stream systems	|	0.0057
+Principles of Database Systems, 2nd Edition	|	0.0055
+Synthesizing third normal form relations from functional dependencies	|	0.0055
+Universality of data retrieval languages	|	0.0054
+Monitoring Streams - A New Class of Data Management Applications	|	0.0051
+RQL: a declarative query language for RDF	|	0.0051
+Distributed top-k monitoring	|	0.0051
+A logical design methodology for relational databases using the extended entity-relationship model	|	0.0051
+Principles of Database and Knowledge-Base Systems, Volume I	|	0.0048
+Schema Mediation in Peer Data Management Systems	|	0.0047
+A Data Model and Query Language for EXODUS	|	0.0047
+Querying Object-Oriented Databases	|	0.0047
+IFO: a formal semantic database model	|	0.0044
+Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.0044
+Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.0044
+Complexity of answering queries using materialized views	|	0.0044
+A language facility for designing database-intensive applications	|	0.0044
+The entity-relationship model---toward a unified view of data	|	0.0038
+Database description with SDM: a semantic database model	|	0.0038
+Further Normalization of the Data Base Relational Model	|	0.0038
+Mediators in the Architecture of Future Information Systems	|	0.0036
+Semantic data models	|	0.0033
+Relational Completeness of Data Base Sublanguages	|	0.0033
+The notions of consistency and predicate locks in a database system	|	0.0033
+A Query Language and Optimization Techniques for Unstructured Data	|	0.0029
+Optimal implementation of conjunctive queries in relational data bases	|	0.0029
+A comparative analysis of methodologies for database schema integration	|	0.0023
+Lore: a database management system for semistructured data	|	0.0023
+The Lorel Query Language for Semistructured Data	|	0.0021
+Logic and Databases: A Deductive Approach	|	0.0020
+Types and persistence in database programming languages	|	0.0020
+Concurrency Control and Recovery in Database Systems	|	0.0017
+The Theory of Relational Databases	|	0.0017
+Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0016
+Answering queries using views: A survey	|	0.0015
+Query Optimization in Database Systems	|	0.0015
+Access path selection in a relational database management system	|	0.0010
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0007
+Query evaluation techniques for large databases	|	0.0004

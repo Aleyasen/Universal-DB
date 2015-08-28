@@ -1,0 +1,226 @@
+{
+    "nodes": [
+        {
+            "index": 0,
+            "dataId": "course-137",
+            "name": "AGRIC WASTE",
+            "type": "course",
+            "group": 1
+        },
+        {
+            "index": 1,
+            "dataId": "course-3594",
+            "name": "OPER MGT",
+            "type": "course",
+            "group": 1
+        },
+        {
+            "index": 2,
+            "dataId": "course-3588",
+            "name": "[M] ADV OP MGT",
+            "type": "course",
+            "group": 1
+        },
+        {
+            "index": 3,
+            "dataId": "course-3586",
+            "name": "[M] STAT METH",
+            "type": "course",
+            "group": 1
+        },
+        {
+            "index": 4,
+            "dataId": "course-2721",
+            "name": "TIME SERIES",
+            "type": "course",
+            "group": 1
+        },
+        {
+            "index": 5,
+            "dataId": "course-604",
+            "name": "CERAMICS",
+            "type": "course",
+            "group": 1
+        },
+        {
+            "index": 6,
+            "dataId": "inst-139",
+            "name": "CHEN",
+            "type": "inst",
+            "group": 2
+        },
+        {
+            "index": 7,
+            "dataId": "inst-2723",
+            "name": "AHN",
+            "type": "inst",
+            "group": 2
+        },
+        {
+            "index": 8,
+            "dataId": "inst-606",
+            "name": "CHRISTENSON",
+            "type": "inst",
+            "group": 2
+        },
+        {
+            "index": 9,
+            "dataId": "offer-138",
+            "name": "1124",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 10,
+            "dataId": "offer-3585",
+            "name": "4908",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 11,
+            "dataId": "offer-3584",
+            "name": "4907",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 12,
+            "dataId": "offer-3595",
+            "name": "4918",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 13,
+            "dataId": "offer-3579",
+            "name": "4898",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 14,
+            "dataId": "offer-2722",
+            "name": "3805",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 15,
+            "dataId": "offer-3587",
+            "name": "4910",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 16,
+            "dataId": "offer-605",
+            "name": "1551",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 17,
+            "dataId": "offer-607",
+            "name": "1552",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 18,
+            "dataId": "subject-11",
+            "name": "AGTM",
+            "type": "subject",
+            "group": 4
+        },
+        {
+            "index": 19,
+            "dataId": "subject-3578",
+            "name": "DEC S",
+            "type": "subject",
+            "group": 4
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 9
+        },
+        {
+            "source": 1,
+            "target": 12
+        },
+        {
+            "source": 3,
+            "target": 15
+        },
+        {
+            "source": 4,
+            "target": 14
+        },
+        {
+            "source": 5,
+            "target": 17
+        },
+        {
+            "source": 5,
+            "target": 16
+        },
+        {
+            "source": 9,
+            "target": 6
+        },
+        {
+            "source": 10,
+            "target": 6
+        },
+        {
+            "source": 11,
+            "target": 6
+        },
+        {
+            "source": 13,
+            "target": 7
+        },
+        {
+            "source": 14,
+            "target": 7
+        },
+        {
+            "source": 15,
+            "target": 8
+        },
+        {
+            "source": 16,
+            "target": 8
+        },
+        {
+            "source": 17,
+            "target": 8
+        },
+        {
+            "source": 9,
+            "target": 18
+        },
+        {
+            "source": 10,
+            "target": 19
+        },
+        {
+            "source": 11,
+            "target": 19
+        },
+        {
+            "source": 12,
+            "target": 19
+        },
+        {
+            "source": 13,
+            "target": 19
+        },
+        {
+            "source": 15,
+            "target": 19
+        }
+    ]
+}

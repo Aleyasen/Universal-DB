@@ -1,36 +1,36 @@
-Efficient Filtering of XML Documents with XPath Expressions	|	0.4400
-Path sharing and predicate evaluation for high-performance XML filtering	|	0.2615
-NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.1065
-Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.1049
-Efficient Algorithms for Processing XPath Queries	|	0.1000
-XML Path Language (XPath) Version 1.0	|	0.1000
-Extensible Markup Language (XML)	|	0.0625
-Detecting Changes in XML Documents	|	0.0500
-Human behavior and the principle of least effort	|	0.0500
-Human Behaviour and the Principle of Least Effort: an Introduction to Human Ecology	|	0.0435
-Extensible Markup Language (XML) 1.0	|	0.0400
-XML-QL: A Query Language for XML	|	0.0297
-extensible markup language (xml) 1	|	0.0263
-Query Processing, Resource Management, and Approximation in a Data Stream Management System	|	0.0263
-Scalable Distributed Stream Processing	|	0.0217
-Aurora: a new model and architecture for data stream management	|	0.0198
-The Architecture Of An Active Data Base Management System	|	0.0197
-Adaptive filters for continuous queries over distributed data streams	|	0.0179
-Indexing and Querying XML Data for Regular Path Expressions	|	0.0132
-Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.0132
-Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0114
-Holistic twig joins: optimal XML pattern matching	|	0.0114
-The CQL continuous query language: semantic foundations and query execution	|	0.0099
-Distributed top-k monitoring	|	0.0086
-Continuous queries over data streams	|	0.0083
-Continuously adaptive continuous queries over streams	|	0.0083
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0083
-TinyDB: an acquisitional query processing system for sensor networks	|	0.0068
-Monitoring Streams - A New Class of Data Management Applications	|	0.0065
-Multiple-query optimization	|	0.0061
-The design of an acquisitional query processor for sensor networks	|	0.0050
-Issues in data stream management	|	0.0045
-Models and issues in data stream systems	|	0.0045
-A Query Language and Optimization Techniques for Unstructured Data	|	0.0038
-DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0038
-The Lorel Query Language for Semistructured Data	|	0.0026
+Efficient Algorithms for Processing XPath Queries	|	0.5000
+XML Path Language (XPath) Version 1.0	|	0.5000
+Efficient Filtering of XML Documents with XPath Expressions	|	0.4444
+Path sharing and predicate evaluation for high-performance XML filtering	|	0.4286
+XML-QL: A Query Language for XML	|	0.3529
+Human Behaviour and the Principle of Least Effort: an Introduction to Human Ecology	|	0.3333
+Extensible Markup Language (XML)	|	0.2857
+The Architecture Of An Active Data Base Management System	|	0.2667
+Detecting Changes in XML Documents	|	0.2500
+Human behavior and the principle of least effort	|	0.2500
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.2400
+Aurora: a new model and architecture for data stream management	|	0.2353
+Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.2222
+Extensible Markup Language (XML) 1.0	|	0.2222
+extensible markup language (xml) 1	|	0.1818
+Query Processing, Resource Management, and Approximation in a Data Stream Management System	|	0.1818
+Continuously adaptive continuous queries over streams	|	0.1667
+Scalable Distributed Stream Processing	|	0.1667
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.1667
+Adaptive filters for continuous queries over distributed data streams	|	0.1667
+Continuous queries over data streams	|	0.1600
+NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.1538
+Monitoring Streams - A New Class of Data Management Applications	|	0.1429
+Indexing and Querying XML Data for Regular Path Expressions	|	0.1333
+Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.1333
+Holistic twig joins: optimal XML pattern matching	|	0.1250
+Models and issues in data stream systems	|	0.1212
+Distributed top-k monitoring	|	0.1176
+The CQL continuous query language: semantic foundations and query execution	|	0.1176
+TinyDB: an acquisitional query processing system for sensor networks	|	0.1000
+Multiple-query optimization	|	0.0952
+The design of an acquisitional query processor for sensor networks	|	0.0870
+Issues in data stream management	|	0.0833
+DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0800
+A Query Language and Optimization Techniques for Unstructured Data	|	0.0769
+The Lorel Query Language for Semistructured Data	|	0.0645

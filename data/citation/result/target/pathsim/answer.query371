@@ -1,99 +1,94 @@
-Human behavior and the principle of least effort	|	0.2364
-Probabilistic Counting Algorithms for Data Base Applications	|	0.2333
-Human Behaviour and the Principle of Least Effort: an Introduction to Human Ecology	|	0.2099
-Beyond Market Baskets: Generalizing Association Rules to Correlations	|	0.1547
-Online Aggregation	|	0.1044
-Principles of Database and Knowledge-Base Systems, Volume I	|	0.0919
-An Effective Hash Based Algorithm for Mining Association Rules	|	0.0889
-Fast Algorithms for Mining Association Rules in Large Databases	|	0.0887
-Fast Algorithms for Mining Association Rules	|	0.0516
-Automated Selection of Materialized Views and Indexes in SQL Databases	|	0.0392
-Efficient Mining of Association Rules Using Closed Itemset Lattices	|	0.0370
-SPIRIT: Sequential Pattern Mining with Regular Expression Constraints	|	0.0303
-Efficient Data Mining for Path Traversal Patterns	|	0.0300
-A New SQL-like Operator for Mining Association Rules	|	0.0294
-Efficient Mining of Partial Periodic Patterns in Time Series Database	|	0.0274
-Parallel Mining of Association Rules	|	0.0271
-Scalable Parallel Data Mining for Association Rules	|	0.0245
-Maintenance of Discovered Association Rules in Large Databases: An Incremental Updating Technique	|	0.0245
-Database Mining: A Performance Perspective	|	0.0242
-Scalable Algorithms for Association Mining	|	0.0222
-MAFIA: A Maximal Frequent Itemset Algorithm for Transactional Databases	|	0.0222
-Knowledge Discovery in Databases: An Attribute-Oriented Approach	|	0.0221
-Exploratory Mining and Pruning Optimizations of Constrained Association Rules	|	0.0213
-New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.0202
-Discovering Frequent Closed Itemsets for Association Rules	|	0.0200
-Constraint-Based Rule Mining in Large, Dense Databases	|	0.0200
-Incremental Maintenance of Views with Duplicates	|	0.0196
-Accurate Estimation of the Number of Tuples Satisfying a Condition	|	0.0196
-Providing olap (on-line analytical processing) to user-analysts: an it mandate	|	0.0196
-Sampling Large Databases for Association Rules	|	0.0186
-What Makes Patterns Interesting in Knowledge Discovery Systems	|	0.0182
-Bottom-Up Computation of Sparse and Iceberg CUBEs	|	0.0180
-l-Diversity: Privacy Beyond k-Anonymity	|	0.0180
-Complex Queries in DHT-based Peer-to-Peer Networks	|	0.0167
-Optimal Histograms with Quality Guarantees	|	0.0167
-DBXplorer: A System for Keyword-Based Search over Relational Databases	|	0.0167
-Efficient Filtering of XML Documents with XPath Expressions	|	0.0167
-Limiting privacy breaches in privacy preserving data mining	|	0.0167
-Privacy-Preserving Data Mining	|	0.0167
-Mining Sequential Patterns	|	0.0166
-Finding interesting rules from large sets of discovered association rules	|	0.0163
-Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Total	|	0.0163
-Efficiently Mining Long Patterns from Databases	|	0.0163
-Consistent query answers in inconsistent databases	|	0.0152
-Model-Driven Data Acquisition in Sensor Networks	|	0.0152
-The cougar approach to in-network query processing in sensor networks	|	0.0137
-Aggregate-Query Processing in Data Warehousing Environments	|	0.0137
-Approximate Aggregation Techniques for Sensor Databases	|	0.0137
-Load Shedding in a Data Stream Manager	|	0.0137
-The Management of Probabilistic Data	|	0.0137
-Discovery of Multiple-Level Association Rules from Large Databases	|	0.0135
-Mining Generalized Association Rules	|	0.0125
-Selectivity Estimation Without the Attribute Value Independence Assumption	|	0.0123
-Data Preparation for Mining World Wide Web Browsing Patterns	|	0.0123
-Maintaining Data Privacy in Association Rule Mining	|	0.0123
-Answering Queries Using Templates with Binding Patterns	|	0.0123
-Data-Driven Discovery of Quantitative Rules in Relational Databases	|	0.0123
-Hippocratic Databases	|	0.0111
-Improved Histograms for Selectivity Estimation of Range Predicates	|	0.0111
-Mining Sequential Patterns by Pattern-Growth: The PrefixSpan Approach	|	0.0111
-On Supporting Containment Queries in Relational Database Management Systems	|	0.0110
-An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.0101
-Approximate Frequency Counts over Data Streams	|	0.0101
-Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals	|	0.0100
-Discovery of Spatial Association Rules in Geographic Information Databases	|	0.0100
-Maintaining Views Incrementally	|	0.0090
-Incognito: efficient full-domain K-anonymity	|	0.0090
-Research problems in data warehousing	|	0.0081
-Disjunctive datalog	|	0.0081
-The Design of the Borealis Stream Processing Engine	|	0.0081
-Fast Time Sequence Indexing for Arbitrary Lp Norms	|	0.0078
-Answering recursive queries using views	|	0.0074
-Aurora: a new model and architecture for data stream management	|	0.0074
-Wavelet-Based Histograms for Selectivity Estimation	|	0.0065
-Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0062
-Join processing in relational databases	|	0.0061
-Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.0061
-Storing Semistructured Data with STORED	|	0.0061
-Approximate Query Processing Using Wavelets	|	0.0060
-Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0060
-Data Mining: An Overview from a Database Perspective	|	0.0055
-Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.0055
-Complexity of answering queries using materialized views	|	0.0055
-Mining association rules between sets of items in large databases	|	0.0054
-Efficient Similarity Search In Sequence Databases	|	0.0052
-FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets	|	0.0047
-Query Caching and Optimization in Distributed Mediator Systems	|	0.0039
-Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0039
-Optimizing Queries with Materialized Views	|	0.0036
-Continuous queries over data streams	|	0.0036
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0036
-A Quantitative Analysis and Performance Study for Similarity-Search Methods in High-Dimensional Spaces	|	0.0031
-Monitoring Streams - A New Class of Data Management Applications	|	0.0029
-Types and persistence in database programming languages	|	0.0022
-Access path selection in a relational database management system	|	0.0022
-Models and issues in data stream systems	|	0.0021
-Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0021
-Answering queries using views: A survey	|	0.0016
-Foundations of Databases	|	0.0004
+A New SQL-like Operator for Mining Association Rules	|	0.3636
+Exploratory Mining and Pruning Optimizations of Constrained Association Rules	|	0.3571
+Efficient Mining of Association Rules Using Closed Itemset Lattices	|	0.3529
+Database Mining: A Performance Perspective	|	0.3333
+Automated Selection of Materialized Views and Indexes in SQL Databases	|	0.3333
+Knowledge Discovery in Databases: An Attribute-Oriented Approach	|	0.3200
+Sampling Large Databases for Association Rules	|	0.3200
+Parallel Mining of Association Rules	|	0.3158
+Efficient Data Mining for Path Traversal Patterns	|	0.3158
+New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.3077
+Scalable Parallel Data Mining for Association Rules	|	0.3000
+Maintenance of Discovered Association Rules in Large Databases: An Incremental Updating Technique	|	0.3000
+Discovery of Multiple-Level Association Rules from Large Databases	|	0.2759
+Mining Generalized Association Rules	|	0.2759
+SPIRIT: Sequential Pattern Mining with Regular Expression Constraints	|	0.2667
+Mining Sequential Patterns	|	0.2500
+Efficient Mining of Partial Periodic Patterns in Time Series Database	|	0.2500
+Beyond Market Baskets: Generalizing Association Rules to Correlations	|	0.2400
+Scalable Algorithms for Association Mining	|	0.2222
+MAFIA: A Maximal Frequent Itemset Algorithm for Transactional Databases	|	0.2222
+Discovering Frequent Closed Itemsets for Association Rules	|	0.2105
+Constraint-Based Rule Mining in Large, Dense Databases	|	0.2105
+An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.2069
+Bottom-Up Computation of Sparse and Iceberg CUBEs	|	0.2000
+Finding interesting rules from large sets of discovered association rules	|	0.2000
+l-Diversity: Privacy Beyond k-Anonymity	|	0.2000
+Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Total	|	0.1905
+Efficiently Mining Long Patterns from Databases	|	0.1905
+Mining association rules between sets of items in large databases	|	0.1818
+An Effective Hash Based Algorithm for Mining Association Rules	|	0.1714
+Incremental Maintenance of Views with Duplicates	|	0.1667
+Accurate Estimation of the Number of Tuples Satisfying a Condition	|	0.1667
+Providing olap (on-line analytical processing) to user-analysts: an it mandate	|	0.1667
+Fast Algorithms for Mining Association Rules in Large Databases	|	0.1622
+Approximate Frequency Counts over Data Streams	|	0.1600
+On Supporting Containment Queries in Relational Database Management Systems	|	0.1600
+What Makes Patterns Interesting in Knowledge Discovery Systems	|	0.1538
+Data Mining: An Overview from a Database Perspective	|	0.1538
+Efficient Similarity Search In Sequence Databases	|	0.1463
+Complex Queries in DHT-based Peer-to-Peer Networks	|	0.1429
+Optimal Histograms with Quality Guarantees	|	0.1429
+DBXplorer: A System for Keyword-Based Search over Relational Databases	|	0.1429
+Efficient Filtering of XML Documents with XPath Expressions	|	0.1429
+Limiting privacy breaches in privacy preserving data mining	|	0.1429
+Privacy-Preserving Data Mining	|	0.1429
+Fast Time Sequence Indexing for Arbitrary Lp Norms	|	0.1379
+Consistent query answers in inconsistent databases	|	0.1333
+Model-Driven Data Acquisition in Sensor Networks	|	0.1333
+The cougar approach to in-network query processing in sensor networks	|	0.1250
+Aggregate-Query Processing in Data Warehousing Environments	|	0.1250
+Approximate Aggregation Techniques for Sensor Databases	|	0.1250
+Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.1250
+Load Shedding in a Data Stream Manager	|	0.1250
+The Management of Probabilistic Data	|	0.1250
+Selectivity Estimation Without the Attribute Value Independence Assumption	|	0.1176
+Data Preparation for Mining World Wide Web Browsing Patterns	|	0.1176
+Maintaining Data Privacy in Association Rule Mining	|	0.1176
+Answering Queries Using Templates with Binding Patterns	|	0.1176
+Data-Driven Discovery of Quantitative Rules in Relational Databases	|	0.1176
+Fast Algorithms for Mining Association Rules	|	0.1154
+FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets	|	0.1143
+Hippocratic Databases	|	0.1111
+Improved Histograms for Selectivity Estimation of Range Predicates	|	0.1111
+Mining Sequential Patterns by Pattern-Growth: The PrefixSpan Approach	|	0.1111
+Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals	|	0.1053
+Discovery of Spatial Association Rules in Geographic Information Databases	|	0.1053
+Maintaining Views Incrementally	|	0.1000
+Wavelet-Based Histograms for Selectivity Estimation	|	0.1000
+Incognito: efficient full-domain K-anonymity	|	0.1000
+The Design of the Borealis Stream Processing Engine	|	0.1000
+Research problems in data warehousing	|	0.0952
+Disjunctive datalog	|	0.0952
+Answering recursive queries using views	|	0.0909
+Aurora: a new model and architecture for data stream management	|	0.0909
+Approximate Query Processing Using Wavelets	|	0.0870
+Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0870
+Join processing in relational databases	|	0.0870
+Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.0833
+Storing Semistructured Data with STORED	|	0.0833
+Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.0800
+Access path selection in a relational database management system	|	0.0800
+Complexity of answering queries using materialized views	|	0.0800
+Query Caching and Optimization in Distributed Mediator Systems	|	0.0690
+Optimizing Queries with Materialized Views	|	0.0690
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0690
+Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0690
+Continuous queries over data streams	|	0.0667
+A Quantitative Analysis and Performance Study for Similarity-Search Methods in High-Dimensional Spaces	|	0.0625
+Monitoring Streams - A New Class of Data Management Applications	|	0.0606
+Types and persistence in database programming languages	|	0.0571
+Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0556
+Models and issues in data stream systems	|	0.0526
+Answering queries using views: A survey	|	0.0465
+Foundations of Databases	|	0.0260

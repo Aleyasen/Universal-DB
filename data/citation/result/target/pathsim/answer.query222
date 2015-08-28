@@ -1,73 +1,73 @@
-Storing and querying ordered XML using a relational database system	|	0.2252
-XRel: a path-based approach to storage and retrieval of XML documents using relational databases	|	0.2184
-Answering XML Queries over Heterogeneous Data Sources	|	0.2021
-Efficiently Publishing Relational Data as XML Documents	|	0.1911
-TIMBER: A native XML database	|	0.1901
-Structural Joins: A Primitive for Efficient XML Query Pattern Matching	|	0.1894
-Holistic twig joins: optimal XML pattern matching	|	0.1806
-Storing Semistructured Data with STORED	|	0.1667
-On Supporting Containment Queries in Relational Database Management Systems	|	0.1634
-Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.1380
-Answering queries using views: A survey	|	0.0711
-Quilt: An XML Query Language for Heterogeneous Data Sources	|	0.0417
-XML-QL: A Query Language for XML	|	0.0318
-Extensible Markup Language (XML)	|	0.0278
-A Fast Index for Semistructured Data	|	0.0255
-extensible markup language (xml) 1	|	0.0213
-Shoring Up Persistent Applications	|	0.0196
-A Query Language for XML	|	0.0191
-From Structured Documents to Novel Query Facilities	|	0.0161
-Partition Based Spatial-Merge Join	|	0.0152
-Efficient Algorithms for Processing XPath Queries	|	0.0132
-Semantic Data Caching and Replacement	|	0.0132
-XML Path Language (XPath) Version 1.0	|	0.0132
-Human behavior and the principle of least effort	|	0.0132
-Answering recursive queries using views	|	0.0127
-Query Optimization for XML	|	0.0127
-Description Logics in Data Management	|	0.0123
-Data on the web	|	0.0123
-Extensible Markup Language (XML) 1.0	|	0.0123
-Lore: a database management system for semistructured data	|	0.0120
-Remarks on the algebra of non first normal form relations	|	0.0115
-Join processing in database systems with large main memories	|	0.0115
-Optimal implementation of conjunctive queries in relational databases	|	0.0115
-Data exchange: semantics and query answering	|	0.0115
-Schema Mediation in Peer Data Management Systems	|	0.0108
-Aggregate-Query Processing in Data Warehousing Environments	|	0.0106
-Index Selection for OLAP	|	0.0106
-Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.0099
-XRANK: ranked keyword search over XML documents	|	0.0098
-Human Behaviour and the Principle of Least Effort: an Introduction to Human Ecology	|	0.0098
-A Query Language and Optimization Techniques for Unstructured Data	|	0.0094
-The Lorel Query Language for Semistructured Data	|	0.0090
-A Taxonomy of Time in Databases	|	0.0090
-Accelerating XPath location steps	|	0.0089
-Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals	|	0.0083
-Path sharing and predicate evaluation for high-performance XML filtering	|	0.0083
-Indexing and Querying XML Data for Regular Path Expressions	|	0.0076
-Query Reformulation for Dynamic Information Integration	|	0.0069
-Data Management for Peer-to-Peer Computing : A Vision	|	0.0064
-Optimizing Queries Across Diverse Data Sources	|	0.0058
-Join indices	|	0.0054
-Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.0054
-Principles of Database and Knowledge-Base Systems, Volume I	|	0.0051
-Piazza: data management infrastructure for semantic web applications	|	0.0050
-Your Mediators Need Data Conversion!	|	0.0050
-Catching the boat with Strudel: experiences with a Web Site management system	|	0.0050
-Semistructured data	|	0.0050
-Complexity of answering queries using materialized views	|	0.0050
-Data integration: a theoretical perspective	|	0.0048
-Multiple-query optimization	|	0.0046
-Mediators in the Architecture of Future Information Systems	|	0.0039
-Query Caching and Optimization in Distributed Mediator Systems	|	0.0036
-Optimizing Queries with Materialized Views	|	0.0034
-An Adaptive Query Execution System for Data Integration	|	0.0034
-Optimal implementation of conjunctive queries in relational data bases	|	0.0031
-DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0031
-The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0029
-Database techniques for the World-Wide Web: a survey	|	0.0023
-Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0023
-Mining association rules between sets of items in large databases	|	0.0013
-Query evaluation techniques for large databases	|	0.0008
-Foundations of Databases	|	0.0004
-Principles of Database and Knowledge-Base Systems, Volume II	|	0.0004
+Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.5625
+Quilt: An XML Query Language for Heterogeneous Data Sources	|	0.5217
+Efficiently Publishing Relational Data as XML Documents	|	0.5000
+Storing and querying ordered XML using a relational database system	|	0.5000
+On Supporting Containment Queries in Relational Database Management Systems	|	0.4444
+XML-QL: A Query Language for XML	|	0.4167
+Storing Semistructured Data with STORED	|	0.3846
+A Fast Index for Semistructured Data	|	0.3333
+Extensible Markup Language (XML)	|	0.2857
+Lore: a database management system for semistructured data	|	0.2778
+Structural Joins: A Primitive for Efficient XML Query Pattern Matching	|	0.2727
+Holistic twig joins: optimal XML pattern matching	|	0.2609
+A Query Language for XML	|	0.2500
+XRel: a path-based approach to storage and retrieval of XML documents using relational databases	|	0.2353
+From Structured Documents to Novel Query Facilities	|	0.2308
+extensible markup language (xml) 1	|	0.2222
+Shoring Up Persistent Applications	|	0.2105
+The Lorel Query Language for Semistructured Data	|	0.2105
+Query Optimization for XML	|	0.2069
+TIMBER: A native XML database	|	0.1905
+Partition Based Spatial-Merge Join	|	0.1818
+A Query Language and Optimization Techniques for Unstructured Data	|	0.1818
+Answering recursive queries using views	|	0.1667
+Schema Mediation in Peer Data Management Systems	|	0.1600
+Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.1481
+Efficient Algorithms for Processing XPath Queries	|	0.1333
+Semantic Data Caching and Replacement	|	0.1333
+XML Path Language (XPath) Version 1.0	|	0.1333
+Human behavior and the principle of least effort	|	0.1333
+Description Logics in Data Management	|	0.1250
+Data on the web	|	0.1250
+Extensible Markup Language (XML) 1.0	|	0.1250
+Remarks on the algebra of non first normal form relations	|	0.1176
+Join processing in database systems with large main memories	|	0.1176
+Optimal implementation of conjunctive queries in relational databases	|	0.1176
+Data exchange: semantics and query answering	|	0.1176
+Answering XML Queries over Heterogeneous Data Sources	|	0.1111
+Aggregate-Query Processing in Data Warehousing Environments	|	0.1111
+Index Selection for OLAP	|	0.1111
+Data integration: a theoretical perspective	|	0.1111
+Principles of Database and Knowledge-Base Systems, Volume I	|	0.1111
+Accelerating XPath location steps	|	0.1053
+XRANK: ranked keyword search over XML documents	|	0.1053
+Human Behaviour and the Principle of Least Effort: an Introduction to Human Ecology	|	0.1053
+A Taxonomy of Time in Databases	|	0.1000
+Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals	|	0.0952
+Path sharing and predicate evaluation for high-performance XML filtering	|	0.0952
+Indexing and Querying XML Data for Regular Path Expressions	|	0.0909
+Answering queries using views: A survey	|	0.0889
+Query Reformulation for Dynamic Information Integration	|	0.0870
+Data Management for Peer-to-Peer Computing : A Vision	|	0.0833
+Optimizing Queries Across Diverse Data Sources	|	0.0833
+Join indices	|	0.0800
+Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.0769
+Piazza: data management infrastructure for semantic web applications	|	0.0769
+Your Mediators Need Data Conversion!	|	0.0741
+Catching the boat with Strudel: experiences with a Web Site management system	|	0.0741
+Semistructured data	|	0.0741
+Complexity of answering queries using materialized views	|	0.0741
+Multiple-query optimization	|	0.0714
+Mediators in the Architecture of Future Information Systems	|	0.0667
+Query Caching and Optimization in Distributed Mediator Systems	|	0.0645
+Optimizing Queries with Materialized Views	|	0.0645
+An Adaptive Query Execution System for Data Integration	|	0.0625
+DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0625
+Optimal implementation of conjunctive queries in relational data bases	|	0.0606
+The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0588
+Database techniques for the World-Wide Web: a survey	|	0.0526
+Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0526
+Query evaluation techniques for large databases	|	0.0488
+Mining association rules between sets of items in large databases	|	0.0435
+Foundations of Databases	|	0.0253
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0235

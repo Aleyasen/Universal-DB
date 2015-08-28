@@ -1,35 +1,35 @@
-Using Semantic Knowledge for Transaction Processing in Distributed Database	|	0.4286
-Impossibility of Distributed Consensus with One Faulty Process	|	0.4000
-The serializability of concurrent database updates	|	0.4000
-An adaptive data replication algorithm	|	0.3636
-Middleware: a model for distributed system services	|	0.3333
-Concurrency control performance modeling: alternatives and implications	|	0.3333
-Concurrency control in advanced database applications	|	0.3077
-Notes on Data Base Operating Systems	|	0.3000
-Consistency in Partitioned Networks	|	0.2857
-Principles of transaction-oriented database recovery	|	0.2857
-Notes on database operating systems	|	0.2667
-The notions of consistency and predicate locks in a database system	|	0.2609
-Real-Time Databases	|	0.2222
-The Dangers of Replication and a Solution	|	0.2222
-Nonblocking commit protocols	|	0.2222
-The Theory of Database Concurrency Control	|	0.2222
-Distributed Databases: Principles and Systems	|	0.2222
-A Majority consensus approach to concurrency control for multiple copy databases	|	0.1818
-Concurrency Control and Recovery in Database Systems	|	0.1714
-A Critique of ANSI SQL Isolation Levels	|	0.1667
-The Interdisciplinary Study of Coordination	|	0.1538
-Principles of database buffer management	|	0.1538
-ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging	|	0.1538
-Operating system support for database management	|	0.1429
-The Recovery Manager of the System R Database Manager	|	0.1429
-Efficient locking for concurrent operations on B-trees	|	0.1333
-Principles of Database Systems, 2nd Edition	|	0.1176
-Concurrency Control in Distributed Database Systems	|	0.1111
-Principles of Database and Knowledge-Base Systems, Volume II	|	0.1026
-Organization and Maintenance of Large Ordered Indices	|	0.0800
-The Ubiquitous B-Tree	|	0.0800
-Temporal and Real-Time Databases: A Survey	|	0.0741
-Query Optimization in Database Systems	|	0.0541
-Query evaluation techniques for large databases	|	0.0533
-Foundations of Databases	|	0.0278
+Nonblocking commit protocols	|	0.4000
+A Majority consensus approach to concurrency control for multiple copy databases	|	0.3158
+Concurrency Control in Distributed Database Systems	|	0.1652
+Impossibility of Distributed Consensus with One Faulty Process	|	0.0909
+Middleware: a model for distributed system services	|	0.0769
+Concurrency Control and Recovery in Database Systems	|	0.0751
+The serializability of concurrent database updates	|	0.0645
+Consistency in Partitioned Networks	|	0.0625
+An adaptive data replication algorithm	|	0.0526
+Using Semantic Knowledge for Transaction Processing in Distributed Database	|	0.0462
+Concurrency control performance modeling: alternatives and implications	|	0.0435
+Real-Time Databases	|	0.0400
+The Theory of Database Concurrency Control	|	0.0400
+Distributed Databases: Principles and Systems	|	0.0400
+Principles of transaction-oriented database recovery	|	0.0308
+Concurrency control in advanced database applications	|	0.0303
+Notes on database operating systems	|	0.0263
+The Dangers of Replication and a Solution	|	0.0250
+A Critique of ANSI SQL Isolation Levels	|	0.0217
+Notes on Data Base Operating Systems	|	0.0205
+The Interdisciplinary Study of Coordination	|	0.0182
+Principles of database buffer management	|	0.0182
+Operating system support for database management	|	0.0154
+ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging	|	0.0152
+The notions of consistency and predicate locks in a database system	|	0.0136
+The Recovery Manager of the System R Database Manager	|	0.0132
+Efficient locking for concurrent operations on B-trees	|	0.0132
+Principles of Database Systems, 2nd Edition	|	0.0099
+Organization and Maintenance of Large Ordered Indices	|	0.0041
+The Ubiquitous B-Tree	|	0.0041
+Temporal and Real-Time Databases: A Survey	|	0.0035
+Query Optimization in Database Systems	|	0.0017
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0014
+Query evaluation techniques for large databases	|	0.0008
+Foundations of Databases	|	0.0004

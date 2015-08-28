@@ -1,19 +1,21 @@
-Determining Semantic Similarity among Entity Classes from Different Ontologies	|	0.2000
-Data model issues for object-oriented applications	|	0.2000
-Extended algebra and calculus for nested relational databases	|	0.1667
-GALILEO: a strongly-typed, interactive conceptual language	|	0.1538
-Database Description with SDM: A Semantic Database Model	|	0.1429
-View Definition and Generalization for Database Integration in a Multidatabase System	|	0.1429
-Making Smalltalk a Database System	|	0.1333
-A logical design methodology for relational databases using the extended entity-relationship model	|	0.1333
-IFO: a formal semantic database model	|	0.1176
-A language facility for designing database-intensive applications	|	0.1176
-Database description with SDM: a semantic database model	|	0.1000
-Further Normalization of the Data Base Relational Model	|	0.1000
-Semantic data models	|	0.0909
-The functional data model and the data languages DAPLEX	|	0.0833
-Types and persistence in database programming languages	|	0.0714
-A comparative analysis of methodologies for database schema integration	|	0.0714
-Extending the database relational model to capture more meaning	|	0.0714
-The Theory of Relational Databases	|	0.0606
-Principles of Database and Knowledge-Base Systems, Volume II	|	0.0263
+Automatic Video Indexing and Full-Video Search for Object Appearances	|	0.7500
+Database abstractions: aggregation and generalization	|	0.1033
+Determining Semantic Similarity among Entity Classes from Different Ontologies	|	0.0256
+Data model issues for object-oriented applications	|	0.0211
+Extended algebra and calculus for nested relational databases	|	0.0172
+Database Description with SDM: A Semantic Database Model	|	0.0123
+View Definition and Generalization for Database Integration in a Multidatabase System	|	0.0123
+GALILEO: a strongly-typed, interactive conceptual language	|	0.0122
+Making Smalltalk a Database System	|	0.0106
+A logical design methodology for relational databases using the extended entity-relationship model	|	0.0092
+IFO: a formal semantic database model	|	0.0072
+A language facility for designing database-intensive applications	|	0.0071
+Database description with SDM: a semantic database model	|	0.0057
+Further Normalization of the Data Base Relational Model	|	0.0057
+Semantic data models	|	0.0047
+The functional data model and the data languages DAPLEX	|	0.0039
+A comparative analysis of methodologies for database schema integration	|	0.0028
+Extending the database relational model to capture more meaning	|	0.0028
+Types and persistence in database programming languages	|	0.0024
+The Theory of Relational Databases	|	0.0020
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0004

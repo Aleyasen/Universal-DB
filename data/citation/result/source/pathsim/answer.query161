@@ -1,57 +1,59 @@
-Principles of database systems	|	0.3333
-TIMBER: A native XML database	|	0.2857
-Logic-based approach to semantic query optimization	|	0.2857
-Implementation of integrity constraints and views by query modification	|	0.2857
-Structural Joins: A Primitive for Efficient XML Query Pattern Matching	|	0.2667
-Holistic twig joins: optimal XML pattern matching	|	0.2500
-Approximating block accesses in database organizations	|	0.2500
-RQL: a declarative query language for RDF	|	0.2353
-Towards a Logical Reconstruction of Relational Database Theory	|	0.2222
-Randomized Algorithms for Optimizing Large Join Queries	|	0.2222
-Pnnc:ples of database systems	|	0.2222
-ULDBs: Databases with Uncertainty and Lineage	|	0.2222
-Data Models	|	0.2222
-Organization and maintenance of large ordered indexes	|	0.2222
-GAMMA - A High Performance Dataflow Database Machine	|	0.2000
-XRel: a path-based approach to storage and retrieval of XML documents using relational databases	|	0.2000
-The Management of Probabilistic Data	|	0.1818
-Starburst Mid-Flight: As the Dust Clears	|	0.1818
-A probabilistic relational algebra for the integration of information retrieval and database systems	|	0.1818
-Typechecking for XML transformers	|	0.1667
-A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.1538
-Retrieving and Integrating Data from Multiple Information Sources	|	0.1538
-The EXODUS Optimizer Generator	|	0.1538
-Using Semi-Joins to Solve Relational Queries	|	0.1538
-Efficient Query Evaluation on Probabilistic Databases	|	0.1429
-Data Structures for Range Searching	|	0.1429
-On optimizing an SQL-like nested query	|	0.1429
-Path sharing and predicate evaluation for high-performance XML filtering	|	0.1429
-Indexing and Querying XML Data for Regular Path Expressions	|	0.1333
-Why and Where: A Characterization of Data Provenance	|	0.1250
-A Fast Index for Semistructured Data	|	0.1176
-Efficiently Publishing Relational Data as XML Documents	|	0.1176
-Principles of Database Systems, 2nd Edition	|	0.1176
-A Query Language for XML	|	0.1176
-Organization and Maintenance of Large Ordered Indexes	|	0.1111
-Concurrency Control in Distributed Database Systems	|	0.1111
-On Supporting Containment Queries in Relational Database Management Systems	|	0.1000
-Query Optimization for XML	|	0.0909
-The Gamma Database Machine Project	|	0.0909
-The Grid File: An Adaptable, Symmetric Multi-Key File Structure	|	0.0870
-The notions of consistency and predicate locks in a database system	|	0.0870
-Relational Completeness of Data Base Sublanguages	|	0.0833
-Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.0800
-Organization and Maintenance of Large Ordered Indices	|	0.0800
-NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0769
-Optimal implementation of conjunctive queries in relational data bases	|	0.0769
-Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0741
-The Grid File: An Adaptable, Symmetric Multikey File Structure	|	0.0690
-Types and persistence in database programming languages	|	0.0667
-The Lorel Query Language for Semistructured Data	|	0.0645
-The Theory of Relational Databases	|	0.0571
-Query Optimization in Database Systems	|	0.0541
-Answering queries using views: A survey	|	0.0526
-Access path selection in a relational database management system	|	0.0444
-Foundations of Databases	|	0.0278
-Query evaluation techniques for large databases	|	0.0267
-Principles of Database and Knowledge-Base Systems, Volume II	|	0.0256
+A probabilistic relational algebra for the integration of information retrieval and database systems	|	0.3158
+Quilt: An XML Query Language for Heterogeneous Data Sources	|	0.1818
+XML-QL: A Query Language for XML	|	0.1683
+Principles of database systems	|	0.0909
+Query Optimization in Database Systems	|	0.0644
+Logic-based approach to semantic query optimization	|	0.0625
+Implementation of integrity constraints and views by query modification	|	0.0625
+Approximating block accesses in database organizations	|	0.0500
+Towards a Logical Reconstruction of Relational Database Theory	|	0.0400
+Randomized Algorithms for Optimizing Large Join Queries	|	0.0400
+Pnnc:ples of database systems	|	0.0400
+ULDBs: Databases with Uncertainty and Lineage	|	0.0400
+Data Models	|	0.0400
+Organization and maintenance of large ordered indexes	|	0.0400
+GAMMA - A High Performance Dataflow Database Machine	|	0.0323
+XRel: a path-based approach to storage and retrieval of XML documents using relational databases	|	0.0323
+TIMBER: A native XML database	|	0.0308
+The Management of Probabilistic Data	|	0.0263
+Starburst Mid-Flight: As the Dust Clears	|	0.0263
+Structural Joins: A Primitive for Efficient XML Query Pattern Matching	|	0.0263
+Holistic twig joins: optimal XML pattern matching	|	0.0227
+Typechecking for XML transformers	|	0.0217
+A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.0182
+Retrieving and Integrating Data from Multiple Information Sources	|	0.0182
+The EXODUS Optimizer Generator	|	0.0182
+Using Semi-Joins to Solve Relational Queries	|	0.0182
+RQL: a declarative query language for RDF	|	0.0175
+Efficient Query Evaluation on Probabilistic Databases	|	0.0154
+Data Structures for Range Searching	|	0.0154
+On optimizing an SQL-like nested query	|	0.0154
+Path sharing and predicate evaluation for high-performance XML filtering	|	0.0154
+Indexing and Querying XML Data for Regular Path Expressions	|	0.0132
+Why and Where: A Characterization of Data Provenance	|	0.0114
+A Fast Index for Semistructured Data	|	0.0099
+Efficiently Publishing Relational Data as XML Documents	|	0.0099
+Principles of Database Systems, 2nd Edition	|	0.0099
+A Query Language for XML	|	0.0099
+Organization and Maintenance of Large Ordered Indexes	|	0.0087
+Concurrency Control in Distributed Database Systems	|	0.0087
+On Supporting Containment Queries in Relational Database Management Systems	|	0.0068
+Query Optimization for XML	|	0.0055
+The Grid File: An Adaptable, Symmetric Multi-Key File Structure	|	0.0050
+The Gamma Database Machine Project	|	0.0050
+Relational Completeness of Data Base Sublanguages	|	0.0045
+The notions of consistency and predicate locks in a database system	|	0.0045
+Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.0041
+Organization and Maintenance of Large Ordered Indices	|	0.0041
+NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0038
+Optimal implementation of conjunctive queries in relational data bases	|	0.0038
+Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0035
+The Grid File: An Adaptable, Symmetric Multikey File Structure	|	0.0030
+The Lorel Query Language for Semistructured Data	|	0.0026
+Types and persistence in database programming languages	|	0.0024
+The Theory of Relational Databases	|	0.0020
+Answering queries using views: A survey	|	0.0017
+Access path selection in a relational database management system	|	0.0011
+Foundations of Databases	|	0.0004
+Query evaluation techniques for large databases	|	0.0004
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0004

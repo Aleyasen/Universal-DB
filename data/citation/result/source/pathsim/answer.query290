@@ -1,35 +1,38 @@
-ULDBs: Databases with Uncertainty and Lineage	|	0.5455
-A probabilistic relational algebra for the integration of information retrieval and database systems	|	0.3077
-Database Management Systems	|	0.2857
-A Survey of Data Provenance in e-Science	|	0.2857
-Updating and Querying Databases that Track Mobile Units	|	0.2500
-Efficient Query Evaluation on Probabilistic Databases	|	0.2500
-Executing SQL over encrypted data in the database-service-provider model	|	0.2500
-Formal Models for Computer Security	|	0.2500
-Data on the web: from relations to semistructured data and xml	|	0.2222
-DBXplorer: A System for Keyword-Based Search over Relational Databases	|	0.1818
-Evaluating probabilistic queries over imprecise data	|	0.1818
-Data on the Web: From Relations to Semistructured Data and XML	|	0.1818
-Optimal Aggregation Algorithms for Middleware	|	0.1818
-Data on the web	|	0.1818
-Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.1739
-Model-Driven Data Acquisition in Sensor Networks	|	0.1667
-Information sharing across private databases	|	0.1538
-The Management of Probabilistic Data	|	0.1538
-Flexible support for multiple access control policies	|	0.1538
-Object Exchange Across Heterogeneous Information Sources	|	0.1538
-DISCOVER: Keyword Search in Relational Databases	|	0.1429
-View Maintenance in a Warehousing Environment	|	0.1429
-XRANK: ranked keyword search over XML documents	|	0.1429
-On the complexity of optimal K-anonymity	|	0.1429
-Principles of Database and Knowledge-Base Systems, Volume I	|	0.1290
-l-Diversity: Privacy Beyond k-Anonymity	|	0.1176
-Dependency Structures of Data Base Relationships	|	0.1111
-XML-QL: A Query Language for XML	|	0.1053
-An Introduction to Database Systems	|	0.1000
-New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.0870
-A Query Language and Optimization Techniques for Unstructured Data	|	0.0714
-System R: A Relational Approach to Data Base Management	|	0.0714
-The Lorel Query Language for Semistructured Data	|	0.0606
-System R: relational approach to database management	|	0.0606
-Foundations of Databases	|	0.0541
+Evaluating probabilistic queries over imprecise data	|	0.3333
+Update semantics of relational views	|	0.3056
+The Management of Probabilistic Data	|	0.2857
+Efficient Query Evaluation on Probabilistic Databases	|	0.2368
+Hippocratic Databases	|	0.2273
+Why and Where: A Characterization of Data Provenance	|	0.1818
+ULDBs: Databases with Uncertainty and Lineage	|	0.0833
+Database Management Systems	|	0.0455
+A Survey of Data Provenance in e-Science	|	0.0455
+Updating and Querying Databases that Track Mobile Units	|	0.0417
+Executing SQL over encrypted data in the database-service-provider model	|	0.0417
+Formal Models for Computer Security	|	0.0417
+A probabilistic relational algebra for the integration of information retrieval and database systems	|	0.0408
+Data on the web: from relations to semistructured data and xml	|	0.0370
+DBXplorer: A System for Keyword-Based Search over Relational Databases	|	0.0278
+Data on the Web: From Relations to Semistructured Data and XML	|	0.0278
+Optimal Aggregation Algorithms for Middleware	|	0.0278
+Data on the web	|	0.0278
+Model-Driven Data Acquisition in Sensor Networks	|	0.0238
+Information sharing across private databases	|	0.0204
+Flexible support for multiple access control policies	|	0.0204
+Object Exchange Across Heterogeneous Information Sources	|	0.0204
+DISCOVER: Keyword Search in Relational Databases	|	0.0175
+XRANK: ranked keyword search over XML documents	|	0.0175
+On the complexity of optimal K-anonymity	|	0.0175
+View Maintenance in a Warehousing Environment	|	0.0153
+Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.0115
+l-Diversity: Privacy Beyond k-Anonymity	|	0.0115
+Dependency Structures of Data Base Relationships	|	0.0101
+XML-QL: A Query Language for XML	|	0.0089
+An Introduction to Database Systems	|	0.0079
+Principles of Database and Knowledge-Base Systems, Volume I	|	0.0058
+New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.0057
+A Query Language and Optimization Techniques for Unstructured Data	|	0.0036
+System R: A Relational Approach to Data Base Management	|	0.0036
+The Lorel Query Language for Semistructured Data	|	0.0025
+System R: relational approach to database management	|	0.0025
+Foundations of Databases	|	0.0008

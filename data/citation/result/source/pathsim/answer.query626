@@ -1,18 +1,20 @@
-Spatial SQL: A Query and Presentation Language	|	0.3333
-Efficient Processing of Spatial Joins Using R-Trees	|	0.2105
-An effective way to represent quadtrees	|	0.2000
-Data-Driven Discovery of Quantitative Rules in Relational Databases	|	0.2000
-The Design and Analysis of Spatial Data Structures	|	0.1600
-Join indices	|	0.1250
-Spatial Query Processing in an Object-Oriented Database System	|	0.1000
-The TV-Tree: An Index Structure for High-Dimensional Data	|	0.0952
-The Design of Postgres	|	0.0952
-The Grid File: An Adaptable, Symmetric Multi-Key File Structure	|	0.0952
-Discovery of Multiple-Level Association Rules from Large Databases	|	0.0909
-The Grid File: An Adaptable, Symmetric Multikey File Structure	|	0.0741
-Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0690
-The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0690
-Data Mining: An Overview from a Database Perspective	|	0.0625
-Mining association rules between sets of items in large databases	|	0.0541
-The R*-tree: an efficient and robust access method for points and rectangles	|	0.0488
-Fast Algorithms for Mining Association Rules	|	0.0444
+Discovery of Spatial Association Rules in Geographic Information Databases	|	0.2069
+An Introduction to Spatial Database Systems	|	0.1596
+Spatial SQL: A Query and Presentation Language	|	0.0345
+An effective way to represent quadtrees	|	0.0256
+Data-Driven Discovery of Quantitative Rules in Relational Databases	|	0.0256
+Efficient Processing of Spatial Joins Using R-Trees	|	0.0128
+Join indices	|	0.0082
+The Design and Analysis of Spatial Data Structures	|	0.0072
+Spatial Query Processing in an Object-Oriented Database System	|	0.0057
+The TV-Tree: An Index Structure for High-Dimensional Data	|	0.0052
+The Design of Postgres	|	0.0052
+The Grid File: An Adaptable, Symmetric Multi-Key File Structure	|	0.0052
+Discovery of Multiple-Level Association Rules from Large Databases	|	0.0039
+The Grid File: An Adaptable, Symmetric Multikey File Structure	|	0.0030
+The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0026
+Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0023
+Data Mining: An Overview from a Database Perspective	|	0.0020
+Mining association rules between sets of items in large databases	|	0.0014
+The R*-tree: an efficient and robust access method for points and rectangles	|	0.0012
+Fast Algorithms for Mining Association Rules	|	0.0009

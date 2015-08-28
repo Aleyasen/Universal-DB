@@ -1,8 +1,12 @@
 <?php
 
 require_once 'utils.php';
-$dataset = $_GET["dataset"];
-$attr = $_GET["attr"];
+if (isset($_GET["dataset"])) {
+    $dataset = $_GET["dataset"];
+}
+if (isset($_GET["attr"])) {
+    $attr = $_GET["attr"];
+}
 
 if ($attr == "query_file") {
     echo $dbs[$dataset]["path"] . "/_query.txt";
@@ -10,5 +14,7 @@ if ($attr == "query_file") {
     echo $dbs[$dataset]["result"];
 } else if ($attr == "entity_nodes") {
     echo json_encode($dbs[$dataset]["entity_nodes"]);
+} else if ($attr == "all") {
+    echo json_encode($dbs);
 }
 ?>

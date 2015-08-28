@@ -1,44 +1,47 @@
-Principles of database systems	|	0.4000
-Logic-based approach to semantic query optimization	|	0.3333
-Extending and Formalizing the Framework for Information Systems Architecture	|	0.3333
-XIRQL: a query language for information retrieval in XML documents	|	0.2857
-Approximating block accesses in database organizations	|	0.2857
-Design and natural science research on information technology	|	0.2857
-Randomized Algorithms for Optimizing Large Join Queries	|	0.2500
-A logical design methodology for relational databases using the extended entity-relationship model	|	0.2500
-Pnnc:ples of database systems	|	0.2500
-Organization and maintenance of large ordered indexes	|	0.2500
-GAMMA - A High Performance Dataflow Database Machine	|	0.2222
-IFO: a formal semantic database model	|	0.2222
-Types and persistence in database programming languages	|	0.2069
-Starburst Mid-Flight: As the Dust Clears	|	0.2000
-A probabilistic relational algebra for the integration of information retrieval and database systems	|	0.2000
-Semantic data models	|	0.1739
-Telos: representing knowledge about information systems	|	0.1667
-A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.1667
-Retrieving and Integrating Data from Multiple Information Sources	|	0.1667
-The EXODUS Optimizer Generator	|	0.1667
-Using Semi-Joins to Solve Relational Queries	|	0.1667
-The functional data model and the data languages DAPLEX	|	0.1600
-Data Structures for Range Searching	|	0.1538
-On optimizing an SQL-like nested query	|	0.1538
-A comparative analysis of methodologies for database schema integration	|	0.1379
-Database Description with SDM: A Semantic Database Model	|	0.1333
-Principles of Database Systems, 2nd Edition	|	0.1250
-A Data Model and Query Language for EXODUS	|	0.1176
-Organization and Maintenance of Large Ordered Indexes	|	0.1176
-The Theory of Relational Databases	|	0.1176
-Concurrency Control in Distributed Database Systems	|	0.1176
-Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.1143
-The Gamma Database Machine Project	|	0.0952
-Database description with SDM: a semantic database model	|	0.0952
-The Grid File: An Adaptable, Symmetric Multi-Key File Structure	|	0.0909
-The notions of consistency and predicate locks in a database system	|	0.0909
-Relational Completeness of Data Base Sublanguages	|	0.0870
-Organization and Maintenance of Large Ordered Indices	|	0.0833
-Optimal implementation of conjunctive queries in relational data bases	|	0.0800
-The Grid File: An Adaptable, Symmetric Multikey File Structure	|	0.0714
-Foundations of Databases	|	0.0563
-Query evaluation techniques for large databases	|	0.0541
-Principles of Database and Knowledge-Base Systems, Volume II	|	0.0519
-Access path selection in a relational database management system	|	0.0455
+The entity-relationship model: toward a unified view of data	|	0.2619
+The entity-relationship model---toward a unified view of data	|	0.1186
+Principles of database systems	|	0.1111
+Logic-based approach to semantic query optimization	|	0.0833
+Extending and Formalizing the Framework for Information Systems Architecture	|	0.0833
+XIRQL: a query language for information retrieval in XML documents	|	0.0625
+Approximating block accesses in database organizations	|	0.0625
+Design and natural science research on information technology	|	0.0625
+Query Optimization in Database Systems	|	0.0615
+Randomized Algorithms for Optimizing Large Join Queries	|	0.0476
+Pnnc:ples of database systems	|	0.0476
+Organization and maintenance of large ordered indexes	|	0.0476
+GAMMA - A High Performance Dataflow Database Machine	|	0.0370
+Starburst Mid-Flight: As the Dust Clears	|	0.0294
+A probabilistic relational algebra for the integration of information retrieval and database systems	|	0.0294
+Telos: representing knowledge about information systems	|	0.0196
+A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.0196
+Retrieving and Integrating Data from Multiple Information Sources	|	0.0196
+The EXODUS Optimizer Generator	|	0.0196
+Using Semi-Joins to Solve Relational Queries	|	0.0196
+A logical design methodology for relational databases using the extended entity-relationship model	|	0.0179
+Data Structures for Range Searching	|	0.0164
+On optimizing an SQL-like nested query	|	0.0164
+IFO: a formal semantic database model	|	0.0141
+Database Description with SDM: A Semantic Database Model	|	0.0119
+Principles of Database Systems, 2nd Edition	|	0.0103
+Semantic data models	|	0.0093
+Organization and Maintenance of Large Ordered Indexes	|	0.0090
+Concurrency Control in Distributed Database Systems	|	0.0090
+A Data Model and Query Language for EXODUS	|	0.0080
+The functional data model and the data languages DAPLEX	|	0.0077
+Types and persistence in database programming languages	|	0.0073
+Database description with SDM: a semantic database model	|	0.0056
+A comparative analysis of methodologies for database schema integration	|	0.0056
+The Grid File: An Adaptable, Symmetric Multi-Key File Structure	|	0.0051
+The Gamma Database Machine Project	|	0.0051
+Relational Completeness of Data Base Sublanguages	|	0.0046
+The notions of consistency and predicate locks in a database system	|	0.0046
+Organization and Maintenance of Large Ordered Indices	|	0.0042
+The Theory of Relational Databases	|	0.0040
+Optimal implementation of conjunctive queries in relational data bases	|	0.0039
+Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0037
+The Grid File: An Adaptable, Symmetric Multikey File Structure	|	0.0030
+Access path selection in a relational database management system	|	0.0012
+Foundations of Databases	|	0.0009
+Query evaluation techniques for large databases	|	0.0008
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0007

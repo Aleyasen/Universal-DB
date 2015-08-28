@@ -1,55 +1,57 @@
-Data Placement In Bubba	|	0.5263
-The Gamma Database Machine Project	|	0.4615
-C-Store: A Column-oriented DBMS	|	0.3750
-A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.3529
-The Case for Shared Nothing	|	0.3529
-Nonblocking commit protocols	|	0.3077
-Disk Striping	|	0.2667
-Scalable Distributed Stream Processing	|	0.2500
-Concurrency control performance modeling: alternatives and implications	|	0.2500
-On Optimistic Methods for Concurrency Control	|	0.2353
-Concurrency control in advanced database applications	|	0.2353
-Using Semantic Knowledge for Transaction Processing in Distributed Database	|	0.2222
-Querying the Internet with PIER	|	0.2105
-Parallel database systems: the future of high performance database systems	|	0.2105
-Staggered Striping in Multimedia Information Systems	|	0.1818
-Concurrency Control in Distributed Database Systems	|	0.1818
-Parallel Database Systems: The Future of High Performance Database Processing1	|	0.1739
-Object and File Management in the EXODUS Extensible Database System	|	0.1667
-An overview of data warehousing and OLAP technology	|	0.1538
-Mariposa: A Wide-Area Distributed Database System	|	0.1333
-Starburst Mid-Flight: As the Dust Clears	|	0.1333
-Query evaluation techniques for large databases	|	0.1266
-On indexing mobile objects	|	0.1250
-The hB-tree: a multiattribute indexing method with good guaranteed performance	|	0.1250
-The EXODUS Optimizer Generator	|	0.1176
-The Interdisciplinary Study of Coordination	|	0.1176
-ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging	|	0.1176
-A federated architecture for information management	|	0.1176
-Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals	|	0.1111
-Linear Hashing: A New Tool for File and Table Addressing	|	0.1111
-The Recovery Manager of the System R Database Manager	|	0.1111
-Principles of transaction-oriented database recovery	|	0.1111
-Partition Based Spatial-Merge Join	|	0.1053
-Access methods for text	|	0.1053
-Notes on database operating systems	|	0.1053
-Concurrency Control and Recovery in Database Systems	|	0.1026
-A Fast Index for Semistructured Data	|	0.0952
-Generalized Search Trees for Database Systems	|	0.0952
-Ranking in Spatial Databases	|	0.0952
-The Pyramid-Technique: Towards Breaking the Curse of Dimensionality	|	0.0909
-Join processing in relational databases	|	0.0909
-Join indices	|	0.0909
-Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.0870
-A class of data structures for associative searching	|	0.0870
-The Quadtree and Related Hierarchical Data Structures	|	0.0870
-Notes on Data Base Operating Systems	|	0.0833
-Access path selection in a relational database management system	|	0.0816
-An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.0714
-Distance browsing in spatial databases	|	0.0714
-Eddies: Continuously Adaptive Query Processing	|	0.0690
-Organization and Maintenance of Large Ordered Indices	|	0.0690
-The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0571
-Multidimensional access methods	|	0.0500
-Searching in high-dimensional spaces: Index structures for improving the performance of multimedia databases	|	0.0500
-Principles of Database and Knowledge-Base Systems, Volume II	|	0.0488
+Pig latin: a not-so-foreign language for data processing	|	0.2376
+The Case for Shared Nothing	|	0.2346
+Data Placement In Bubba	|	0.2262
+Parallel database systems: the future of high performance database systems	|	0.1991
+Notes on database operating systems	|	0.1900
+Parallel Database Systems: The Future of High Performance Database Processing1	|	0.1581
+Notes on Data Base Operating Systems	|	0.1440
+The Ubiquitous B-Tree	|	0.1089
+C-Store: A Column-oriented DBMS	|	0.0373
+Nonblocking commit protocols	|	0.0336
+A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.0335
+Disk Striping	|	0.0276
+The Gamma Database Machine Project	|	0.0255
+Scalable Distributed Stream Processing	|	0.0248
+Concurrency control performance modeling: alternatives and implications	|	0.0248
+On Optimistic Methods for Concurrency Control	|	0.0223
+Using Semantic Knowledge for Transaction Processing in Distributed Database	|	0.0201
+Concurrency control in advanced database applications	|	0.0199
+Staggered Striping in Multimedia Information Systems	|	0.0198
+Object and File Management in the EXODUS Extensible Database System	|	0.0183
+Querying the Internet with PIER	|	0.0181
+Mariposa: A Wide-Area Distributed Database System	|	0.0138
+Starburst Mid-Flight: As the Dust Clears	|	0.0138
+Concurrency Control in Distributed Database Systems	|	0.0134
+On indexing mobile objects	|	0.0124
+The hB-tree: a multiattribute indexing method with good guaranteed performance	|	0.0124
+The EXODUS Optimizer Generator	|	0.0112
+The Interdisciplinary Study of Coordination	|	0.0112
+Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals	|	0.0101
+Linear Hashing: A New Tool for File and Table Addressing	|	0.0101
+Principles of transaction-oriented database recovery	|	0.0101
+ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging	|	0.0100
+A federated architecture for information management	|	0.0100
+An overview of data warehousing and OLAP technology	|	0.0093
+The Recovery Manager of the System R Database Manager	|	0.0091
+Partition Based Spatial-Merge Join	|	0.0090
+Access methods for text	|	0.0090
+A Fast Index for Semistructured Data	|	0.0074
+Generalized Search Trees for Database Systems	|	0.0074
+Ranking in Spatial Databases	|	0.0074
+The Pyramid-Technique: Towards Breaking the Curse of Dimensionality	|	0.0067
+Join processing in relational databases	|	0.0061
+Join indices	|	0.0061
+Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.0061
+A class of data structures for associative searching	|	0.0061
+The Quadtree and Related Hierarchical Data Structures	|	0.0061
+Distance browsing in spatial databases	|	0.0039
+Concurrency Control and Recovery in Database Systems	|	0.0037
+Organization and Maintenance of Large Ordered Indices	|	0.0036
+An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.0034
+Eddies: Continuously Adaptive Query Processing	|	0.0034
+The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0024
+Access path selection in a relational database management system	|	0.0022
+Query evaluation techniques for large databases	|	0.0019
+Multidimensional access methods	|	0.0017
+Searching in high-dimensional spaces: Index structures for improving the performance of multimedia databases	|	0.0017
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0007

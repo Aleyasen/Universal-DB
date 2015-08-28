@@ -1,138 +1,136 @@
-InfoSleuth: agent-based semantic integration of information in open and dynamic environments	|	0.2045
-Retrieving and Integrating Data from Multiple Information Sources	|	0.1870
-Data Model and Query Evaluation in Global Information Systems	|	0.1859
-Wrapper generation for semi-structured Internet sources	|	0.1842
-Classifying Schematic and Data Heterogeneity in Multidatabase Systems	|	0.1818
-OBSERVER: An Approach for Query Processing in Global Information Systems Based on Interoperation Across Pre-Existing Ontologies	|	0.1806
-Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases	|	0.1729
-An Adaptive Query Execution System for Data Integration	|	0.1100
-Database techniques for the World-Wide Web: a survey	|	0.0899
-Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0743
-Answering queries using views: A survey	|	0.0713
-Access path selection in a relational database management system	|	0.0564
-Description Logics in Data Management	|	0.0323
-Semantic and Schematic Similarities Between Database Objects: A Context-Based Approach	|	0.0321
-A Graph-Oriented Model for Articulation of Ontology Interdependencies	|	0.0247
-Ontology Evolution: Not the Same as Schema Evolution	|	0.0203
-Wrapper Induction for Information Extraction	|	0.0202
-Mariposa: A Wide-Area Distributed Database System	|	0.0189
-Determining Semantic Similarity among Entity Classes from Different Ontologies	|	0.0175
-Query Caching and Optimization in Distributed Mediator Systems	|	0.0174
-Optimizing Queries Across Diverse Data Sources	|	0.0163
-Interoperability of multiple autonomous databases	|	0.0152
-W3QS: A Query System for the World-Wide Web	|	0.0150
-Piazza: data management infrastructure for semantic web applications	|	0.0141
-Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0132
-Optimizing Queries with Materialized Views	|	0.0130
-View Definition and Generalization for Database Integration in a Multidatabase System	|	0.0128
-The Harvest Information Discovery and Access System	|	0.0127
-The Volcano Optimizer Generator: Extensibility and Efficient Search	|	0.0127
-Accurate Estimation of the Number of Tuples Satisfying a Condition	|	0.0119
-An introduction to data base systems	|	0.0119
-Answering recursive queries using views	|	0.0118
-A Query Language for XML	|	0.0118
-Semantic Data Caching and Replacement	|	0.0114
-Using semantic values to facilitate interoperability among heterogeneous information systems	|	0.0114
-An Introduction to Database Systems	|	0.0109
-Crawling the Hidden Web	|	0.0108
-On the decidability of query containment under constraints	|	0.0108
-Randomized Algorithms for Optimizing Large Join Queries	|	0.0108
-Distributed Databases: Principles and Systems	|	0.0108
-Principles of Distributed Database Systems	|	0.0108
-Probabilistic Counting Algorithms for Data Base Applications	|	0.0108
-Data on the web	|	0.0108
-Principles of distributed database systems	|	0.0108
-Data Models	|	0.0108
-From Structured Documents to Novel Query Facilities	|	0.0101
-GAMMA - A High Performance Dataflow Database Machine	|	0.0101
-Semantic e-Workflow Composition	|	0.0101
-Optimal implementation of conjunctive queries in relational databases	|	0.0101
-Data exchange: semantics and query answering	|	0.0101
-Semantic integration of semistructured and structured data sources	|	0.0094
-Aggregate-Query Processing in Data Warehousing Environments	|	0.0094
-Index Selection for OLAP	|	0.0094
-Querying the World Wide Web	|	0.0094
-A Theory of Attribute Equivalence in Databases with Application to Schema Integration	|	0.0094
-WordNet: a lexical database for English	|	0.0094
-Semistructured data	|	0.0093
-Complexity of answering queries using materialized views	|	0.0093
-A Query Language and Optimization Techniques for Unstructured Data	|	0.0091
-A brief survey of web data extraction tools	|	0.0088
-Selectivity Estimation Without the Attribute Value Independence Assumption	|	0.0088
-Extracting Semistructured Information from the Web	|	0.0088
-Generating Finite-State Transducers for Semi-Structured Data Extraction from the Web	|	0.0088
-The entity-relationship model: toward a unified view of data	|	0.0088
-C-Store: A Column-oriented DBMS	|	0.0088
-Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.0087
-The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0085
-Dynamic service matchmaking among agents in open information environments	|	0.0081
-Adding Structure to Unstructured Data	|	0.0081
-Improved Histograms for Selectivity Estimation of Range Predicates	|	0.0081
-A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.0081
-The EXODUS Optimizer Generator	|	0.0081
-Ontology mapping: the state of the art	|	0.0081
-A Survey of Schema-Based Matching Approaches	|	0.0080
-Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals	|	0.0075
-Query By Example	|	0.0075
-On optimizing an SQL-like nested query	|	0.0075
-A federated architecture for information management	|	0.0075
-Storing and Querying XML Data using an RDBMS	|	0.0069
-Logical Foundations of Object-Oriented and Frame-Based Languages	|	0.0069
-The PROMPT suite: interactive tools for ontology merging and mapping	|	0.0069
-Parallel database systems: the future of high performance database systems	|	0.0069
-Ontology Mapping: The State of the Art	|	0.0069
-The Lorel Query Language for Semistructured Data	|	0.0066
-Continuously adaptive continuous queries over streams	|	0.0065
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0065
-Quilt: An XML Query Language for Heterogeneous Data Sources	|	0.0064
-Principles of database and knowledge-base systems	|	0.0064
-Data Management for Peer-to-Peer Computing : A Vision	|	0.0059
-Aurora: a new model and architecture for data stream management	|	0.0059
-The functional data model and the data language DAPLEX	|	0.0059
-Organization and Maintenance of Large Ordered Indexes	|	0.0055
-A logical design methodology for relational databases using the extended entity-relationship model	|	0.0054
-Wavelet-Based Histograms for Selectivity Estimation	|	0.0054
-Schema Mediation in Peer Data Management Systems	|	0.0051
-Join processing in relational databases	|	0.0051
-Join indices	|	0.0051
-Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.0051
-Parallel Database Systems: The Future of High Performance Database Processing1	|	0.0051
-Storing Semistructured Data with STORED	|	0.0051
-Querying Object-Oriented Databases	|	0.0051
-Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0050
-Your Mediators Need Data Conversion!	|	0.0047
-Catching the boat with Strudel: experiences with a Web Site management system	|	0.0047
-TinyDB: an acquisitional query processing system for sensor networks	|	0.0047
-A comparative analysis of methodologies for database schema integration	|	0.0047
-Lore: a database management system for semistructured data	|	0.0047
-A survey of approaches to automatic schema matching	|	0.0044
-Query Optimization for XML	|	0.0040
-Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.0040
-The entity-relationship model---toward a unified view of data	|	0.0040
-Mediators in the Architecture of Future Information Systems	|	0.0037
-The Design of Postgres	|	0.0037
-The design of an acquisitional query processor for sensor networks	|	0.0037
-The Gamma Database Machine Project	|	0.0037
-Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.0035
-Distance browsing in spatial databases	|	0.0035
-Semantic data models	|	0.0035
-Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.0032
-Organization and Maintenance of Large Ordered Indices	|	0.0032
-Continuous queries over data streams	|	0.0032
-Online Aggregation	|	0.0030
-Eddies: Continuously Adaptive Query Processing	|	0.0030
-Optimal implementation of conjunctive queries in relational data bases	|	0.0030
-System R: A Relational Approach to Data Base Management	|	0.0030
-The functional data model and the data languages DAPLEX	|	0.0030
-DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0030
-Query Optimization in Database Systems	|	0.0030
-Monitoring Streams - A New Class of Data Management Applications	|	0.0026
-Principles of Database and Knowledge-Base Systems, Volume I	|	0.0025
-Data integration: a theoretical perspective	|	0.0023
-System R: relational approach to database management	|	0.0022
-Logic and Databases: A Deductive Approach	|	0.0021
-Models and issues in data stream systems	|	0.0019
-The Theory of Relational Databases	|	0.0017
-Query evaluation techniques for large databases	|	0.0015
-Foundations of Databases	|	0.0012
-Principles of Database and Knowledge-Base Systems, Volume II	|	0.0004
+Data Model and Query Evaluation in Global Information Systems	|	0.4167
+Semantic and Schematic Similarities Between Database Objects: A Context-Based Approach	|	0.4167
+Description Logics in Data Management	|	0.3529
+Query Caching and Optimization in Distributed Mediator Systems	|	0.3125
+Querying Heterogeneous Information Sources Using Source Descriptions	|	0.3077
+A Graph-Oriented Model for Articulation of Ontology Interdependencies	|	0.2857
+OBSERVER: An Approach for Query Processing in Global Information Systems Based on Interoperation Across Pre-Existing Ontologies	|	0.2609
+Optimizing Queries with Materialized Views	|	0.2500
+InfoSleuth: agent-based semantic integration of information in open and dynamic environments	|	0.2500
+Optimizing Queries Across Diverse Data Sources	|	0.2400
+Ontology Evolution: Not the Same as Schema Evolution	|	0.2353
+Interoperability of multiple autonomous databases	|	0.2222
+Wrapper Induction for Information Extraction	|	0.2222
+Piazza: data management infrastructure for semantic web applications	|	0.2222
+Mariposa: A Wide-Area Distributed Database System	|	0.2105
+Determining Semantic Similarity among Entity Classes from Different Ontologies	|	0.2000
+Retrieving and Integrating Data from Multiple Information Sources	|	0.1905
+W3QS: A Query System for the World-Wide Web	|	0.1818
+A Query Language and Optimization Techniques for Unstructured Data	|	0.1765
+The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.1714
+View Definition and Generalization for Database Integration in a Multidatabase System	|	0.1667
+Answering recursive queries using views	|	0.1600
+A Query Language for XML	|	0.1600
+The Harvest Information Discovery and Access System	|	0.1538
+The Volcano Optimizer Generator: Extensibility and Efficient Search	|	0.1538
+The Lorel Query Language for Semistructured Data	|	0.1538
+An Introduction to Database Systems	|	0.1538
+From Structured Documents to Novel Query Facilities	|	0.1481
+Semantic e-Workflow Composition	|	0.1481
+Semistructured data	|	0.1429
+Complexity of answering queries using materialized views	|	0.1429
+Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.1379
+Accurate Estimation of the Number of Tuples Satisfying a Condition	|	0.1333
+An introduction to data base systems	|	0.1333
+A Survey of Schema-Based Matching Approaches	|	0.1333
+Continuously adaptive continuous queries over streams	|	0.1250
+Semantic Data Caching and Replacement	|	0.1250
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.1250
+Using semantic values to facilitate interoperability among heterogeneous information systems	|	0.1250
+Crawling the Hidden Web	|	0.1176
+On the decidability of query containment under constraints	|	0.1176
+Randomized Algorithms for Optimizing Large Join Queries	|	0.1176
+Distributed Databases: Principles and Systems	|	0.1176
+Principles of Distributed Database Systems	|	0.1176
+Probabilistic Counting Algorithms for Data Base Applications	|	0.1176
+Data on the web	|	0.1176
+Principles of distributed database systems	|	0.1176
+Data Models	|	0.1176
+GAMMA - A High Performance Dataflow Database Machine	|	0.1111
+Optimal implementation of conjunctive queries in relational databases	|	0.1111
+Data exchange: semantics and query answering	|	0.1111
+Lore: a database management system for semistructured data	|	0.1081
+Semantic integration of semistructured and structured data sources	|	0.1053
+Aggregate-Query Processing in Data Warehousing Environments	|	0.1053
+Index Selection for OLAP	|	0.1053
+Querying the World Wide Web	|	0.1053
+A Theory of Attribute Equivalence in Databases with Application to Schema Integration	|	0.1053
+WordNet: a lexical database for English	|	0.1053
+A comparative analysis of methodologies for database schema integration	|	0.1053
+A survey of approaches to automatic schema matching	|	0.1026
+Database techniques for the World-Wide Web: a survey	|	0.1026
+A brief survey of web data extraction tools	|	0.1000
+Selectivity Estimation Without the Attribute Value Independence Assumption	|	0.1000
+Extracting Semistructured Information from the Web	|	0.1000
+Wrapper generation for semi-structured Internet sources	|	0.1000
+Generating Finite-State Transducers for Semi-Structured Data Extraction from the Web	|	0.1000
+The entity-relationship model: toward a unified view of data	|	0.1000
+C-Store: A Column-oriented DBMS	|	0.1000
+Query evaluation techniques for large databases	|	0.0964
+Dynamic service matchmaking among agents in open information environments	|	0.0952
+Adding Structure to Unstructured Data	|	0.0952
+Improved Histograms for Selectivity Estimation of Range Predicates	|	0.0952
+A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.0952
+The EXODUS Optimizer Generator	|	0.0952
+A federated architecture for information management	|	0.0952
+Ontology mapping: the state of the art	|	0.0952
+Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals	|	0.0909
+Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases	|	0.0909
+Query By Example	|	0.0909
+On optimizing an SQL-like nested query	|	0.0909
+Query Optimization in Database Systems	|	0.0889
+Storing and Querying XML Data using an RDBMS	|	0.0870
+Logical Foundations of Object-Oriented and Frame-Based Languages	|	0.0870
+Wavelet-Based Histograms for Selectivity Estimation	|	0.0870
+Answering queries using views: A survey	|	0.0870
+The PROMPT suite: interactive tools for ontology merging and mapping	|	0.0870
+Parallel database systems: the future of high performance database systems	|	0.0870
+Ontology Mapping: The State of the Art	|	0.0870
+Quilt: An XML Query Language for Heterogeneous Data Sources	|	0.0833
+Principles of database and knowledge-base systems	|	0.0833
+Data Management for Peer-to-Peer Computing : A Vision	|	0.0800
+A logical design methodology for relational databases using the extended entity-relationship model	|	0.0800
+Aurora: a new model and architecture for data stream management	|	0.0800
+The functional data model and the data language DAPLEX	|	0.0800
+Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0769
+Schema Mediation in Peer Data Management Systems	|	0.0769
+Organization and Maintenance of Large Ordered Indexes	|	0.0769
+Join processing in relational databases	|	0.0769
+Join indices	|	0.0769
+Foundations of Databases	|	0.0750
+Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.0741
+Parallel Database Systems: The Future of High Performance Database Processing1	|	0.0741
+Storing Semistructured Data with STORED	|	0.0741
+Querying Object-Oriented Databases	|	0.0741
+Your Mediators Need Data Conversion!	|	0.0714
+Catching the boat with Strudel: experiences with a Web Site management system	|	0.0714
+TinyDB: an acquisitional query processing system for sensor networks	|	0.0714
+Query Optimization for XML	|	0.0667
+Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.0667
+The Gamma Database Machine Project	|	0.0667
+The entity-relationship model---toward a unified view of data	|	0.0667
+Mediators in the Architecture of Future Information Systems	|	0.0645
+The Design of Postgres	|	0.0645
+The design of an acquisitional query processor for sensor networks	|	0.0645
+Online Aggregation	|	0.0625
+Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.0625
+Distance browsing in spatial databases	|	0.0625
+Semantic data models	|	0.0625
+Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.0606
+Eddies: Continuously Adaptive Query Processing	|	0.0606
+An Adaptive Query Execution System for Data Integration	|	0.0606
+DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0606
+Organization and Maintenance of Large Ordered Indices	|	0.0606
+Continuous queries over data streams	|	0.0606
+Optimal implementation of conjunctive queries in relational data bases	|	0.0588
+System R: A Relational Approach to Data Base Management	|	0.0588
+The functional data model and the data languages DAPLEX	|	0.0588
+Monitoring Streams - A New Class of Data Management Applications	|	0.0556
+Data integration: a theoretical perspective	|	0.0541
+Principles of Database and Knowledge-Base Systems, Volume I	|	0.0541
+System R: relational approach to database management	|	0.0513
+Logic and Databases: A Deductive Approach	|	0.0500
+Models and issues in data stream systems	|	0.0488
+The Theory of Relational Databases	|	0.0465
+Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0455
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0233

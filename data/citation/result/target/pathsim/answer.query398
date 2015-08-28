@@ -1,52 +1,51 @@
-The serializability of concurrent database updates	|	0.2807
-A Majority consensus approach to concurrency control for multiple copy databases	|	0.2500
-On Optimistic Methods for Concurrency Control	|	0.2469
-Notes on database operating systems	|	0.2059
-Concurrency Control in Distributed Database Systems	|	0.1844
-Notes on Data Base Operating Systems	|	0.1512
-The notions of consistency and predicate locks in a database system	|	0.1296
-The Design of Postgres	|	0.1195
-Using Semantic Knowledge for Transaction Processing in Distributed Database	|	0.0659
-A principle for resilient sharing of distributed resources	|	0.0435
-Concurrency control in advanced database applications	|	0.0435
-Object and File Management in the EXODUS Extensible Database System	|	0.0435
-Nonblocking commit protocols	|	0.0392
-Principles of transaction-oriented database recovery	|	0.0330
-The design and implementation of INGRES	|	0.0256
-Bigtable: A Distributed Storage System for Structured Data	|	0.0248
-The EXODUS Optimizer Generator	|	0.0247
-The Interdisciplinary Study of Coordination	|	0.0247
-The Recovery Manager of the System R Database Manager	|	0.0197
-Real-Time Databases	|	0.0196
-Data Placement In Bubba	|	0.0196
-The HiPAC project: combining active databases and timing constraints	|	0.0177
-Scheduling Real-time Transactions: a Performance Evaluation	|	0.0175
-Scheduling real-time transactions: a performance evaluation	|	0.0175
-An adaptive data replication algorithm	|	0.0156
-Starburst Mid-Flight: As the Dust Clears	|	0.0156
-A Critique of ANSI SQL Isolation Levels	|	0.0139
-The Implementation of Postgres	|	0.0110
-Operating system support for database management	|	0.0110
-ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging	|	0.0109
-A federated architecture for information management	|	0.0109
-Ode as an Active Database: Constraints and Triggers	|	0.0098
-Efficient locking for concurrent operations on B-trees	|	0.0098
-Concurrency Control and Recovery in Database Systems	|	0.0094
-The Gamma Database Machine Project	|	0.0088
-The Postgres Next Generation Database Management System	|	0.0088
-Making Smalltalk a Database System	|	0.0079
-An Introduction to Spatial Database Systems	|	0.0079
-A Relational Model for Large Shared Data Banks	|	0.0078
-Organization and Maintenance of Large Ordered Indexes	|	0.0071
-Temporal and Real-Time Databases: A Survey	|	0.0064
-Multiple-query optimization	|	0.0053
-Organization and Maintenance of Large Ordered Indices	|	0.0037
-System R: A Relational Approach to Data Base Management	|	0.0035
-Query Optimization in Database Systems	|	0.0032
-The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0024
-System R: relational approach to database management	|	0.0024
-Types and persistence in database programming languages	|	0.0023
-Principles of Database and Knowledge-Base Systems, Volume II	|	0.0021
-Access path selection in a relational database management system	|	0.0011
-Query evaluation techniques for large databases	|	0.0008
-Foundations of Databases	|	0.0004
+Using Semantic Knowledge for Transaction Processing in Distributed Database	|	0.6667
+Concurrency control in advanced database applications	|	0.4706
+Concurrency Control in Distributed Database Systems	|	0.3636
+On Optimistic Methods for Concurrency Control	|	0.3529
+A principle for resilient sharing of distributed resources	|	0.3333
+Principles of transaction-oriented database recovery	|	0.3333
+Object and File Management in the EXODUS Extensible Database System	|	0.3333
+Nonblocking commit protocols	|	0.3077
+The notions of consistency and predicate locks in a database system	|	0.2963
+The serializability of concurrent database updates	|	0.2857
+Concurrency Control and Recovery in Database Systems	|	0.2564
+Bigtable: A Distributed Storage System for Structured Data	|	0.2500
+The EXODUS Optimizer Generator	|	0.2353
+The Interdisciplinary Study of Coordination	|	0.2353
+The Recovery Manager of the System R Database Manager	|	0.2222
+Data Placement In Bubba	|	0.2105
+Notes on database operating systems	|	0.2105
+The design and implementation of INGRES	|	0.2000
+Notes on Data Base Operating Systems	|	0.1667
+The Gamma Database Machine Project	|	0.1538
+Real-Time Databases	|	0.1538
+The HiPAC project: combining active databases and timing constraints	|	0.1538
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.1463
+Scheduling Real-time Transactions: a Performance Evaluation	|	0.1429
+Scheduling real-time transactions: a performance evaluation	|	0.1429
+An adaptive data replication algorithm	|	0.1333
+Starburst Mid-Flight: As the Dust Clears	|	0.1333
+A Majority consensus approach to concurrency control for multiple copy databases	|	0.1333
+Temporal and Real-Time Databases: A Survey	|	0.1290
+A Critique of ANSI SQL Isolation Levels	|	0.1250
+ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging	|	0.1176
+A federated architecture for information management	|	0.1176
+The Implementation of Postgres	|	0.1111
+Operating system support for database management	|	0.1111
+A Relational Model for Large Shared Data Banks	|	0.1111
+Ode as an Active Database: Constraints and Triggers	|	0.1053
+Efficient locking for concurrent operations on B-trees	|	0.1053
+The Postgres Next Generation Database Management System	|	0.1000
+Query Optimization in Database Systems	|	0.0976
+Making Smalltalk a Database System	|	0.0952
+An Introduction to Spatial Database Systems	|	0.0952
+Organization and Maintenance of Large Ordered Indexes	|	0.0909
+Multiple-query optimization	|	0.0800
+Organization and Maintenance of Large Ordered Indices	|	0.0690
+System R: A Relational Approach to Data Base Management	|	0.0667
+Types and persistence in database programming languages	|	0.0588
+The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0571
+System R: relational approach to database management	|	0.0571
+Query evaluation techniques for large databases	|	0.0506
+Access path selection in a relational database management system	|	0.0408
+Foundations of Databases	|	0.0263

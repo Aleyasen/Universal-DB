@@ -1,10 +1,9 @@
-Point-set topological spatial relations	|	0.2500
-Spatial SQL: A Query and Presentation Language	|	0.1964
-A foundation for representing and querying moving objects	|	0.0625
-Iris: An Object-Oriented Database Management System	|	0.0455
-The temporal query language TQuel	|	0.0220
-Discovery of Spatial Association Rules in Geographic Information Databases	|	0.0179
-Direct Spatial Search on Pictorial Databases Using Packed R-Trees	|	0.0179
-An Introduction to Spatial Database Systems	|	0.0109
-Query-by-Example: A Data Base Language	|	0.0094
-Multidimensional access methods	|	0.0019
+Point-set topological spatial relations	|	0.6667
+A foundation for representing and querying moving objects	|	0.3333
+Iris: An Object-Oriented Database Management System	|	0.2857
+The temporal query language TQuel	|	0.2222
+Discovery of Spatial Association Rules in Geographic Information Databases	|	0.1818
+Direct Spatial Search on Pictorial Databases Using Packed R-Trees	|	0.1818
+An Introduction to Spatial Database Systems	|	0.1429
+Query-by-Example: A Data Base Language	|	0.1333
+Multidimensional access methods	|	0.0606

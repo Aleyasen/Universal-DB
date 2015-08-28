@@ -1,58 +1,60 @@
-Incremental Maintenance of Views with Duplicates	|	0.5714
-Consistent query answers in inconsistent databases	|	0.4000
-Answering Queries Using Templates with Binding Patterns	|	0.3333
-Data-Driven Discovery of Quantitative Rules in Relational Databases	|	0.3333
-Database Mining: A Performance Perspective	|	0.3158
-Knowledge Discovery in Databases: An Attribute-Oriented Approach	|	0.3000
-Constraint-Based Rule Mining in Large, Dense Databases	|	0.2857
-Maintenance of Discovered Association Rules in Large Databases: An Incremental Updating Technique	|	0.2667
-Disjunctive datalog	|	0.2500
-A New SQL-like Operator for Mining Association Rules	|	0.2353
-Join processing in relational databases	|	0.2222
-Storing Semistructured Data with STORED	|	0.2105
-Beyond Market Baskets: Generalizing Association Rules to Correlations	|	0.2000
-Distance-Based Outliers: Algorithms and Applications	|	0.2000
-Sampling Large Databases for Association Rules	|	0.2000
-Complexity of answering queries using materialized views	|	0.2000
-The Management of Probabilistic Data	|	0.1818
-Exploratory Mining and Pruning Optimizations of Constrained Association Rules	|	0.1739
-Discovery of Multiple-Level Association Rules from Large Databases	|	0.1667
-Algorithms for Mining Distance-Based Outliers in Large Datasets	|	0.1667
-Maintaining Data Privacy in Association Rule Mining	|	0.1667
-Efficient Mining of Association Rules Using Closed Itemset Lattices	|	0.1667
-Hippocratic Databases	|	0.1538
-Scalable Algorithms for Association Mining	|	0.1538
-Computing Iceberg Queries Efficiently	|	0.1538
-MAFIA: A Maximal Frequent Itemset Algorithm for Transactional Databases	|	0.1538
-Discovering Frequent Closed Itemsets for Association Rules	|	0.1429
-Parallel Mining of Association Rules	|	0.1429
-Efficient Data Mining for Path Traversal Patterns	|	0.1429
-Discovery of Spatial Association Rules in Geographic Information Databases	|	0.1429
-Scalable Parallel Data Mining for Association Rules	|	0.1333
-Maintaining Views Incrementally	|	0.1333
-Finding interesting rules from large sets of discovered association rules	|	0.1333
-Data Model and Query Evaluation in Global Information Systems	|	0.1250
-Efficiently Mining Long Patterns from Databases	|	0.1250
-Data Mining: An Overview from a Database Perspective	|	0.1176
-Answering recursive queries using views	|	0.1176
-Mining Sequential Patterns	|	0.1053
-Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.1000
-Mediators in the Architecture of Future Information Systems	|	0.0870
-Fast Algorithms for Mining Association Rules	|	0.0851
-Query Caching and Optimization in Distributed Mediator Systems	|	0.0833
-Optimizing Queries with Materialized Views	|	0.0833
-Fast Time Sequence Indexing for Arbitrary Lp Norms	|	0.0833
-An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.0833
-Mining Generalized Association Rules	|	0.0833
-Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0833
-A Quantitative Analysis and Performance Study for Similarity-Search Methods in High-Dimensional Spaces	|	0.0741
-FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets	|	0.0667
-An Effective Hash Based Algorithm for Mining Association Rules	|	0.0667
-Types and persistence in database programming languages	|	0.0667
-Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0645
-Fast Algorithms for Mining Association Rules in Large Databases	|	0.0625
-Efficient Similarity Search In Sequence Databases	|	0.0556
-Fast Subsequence Matching in Time-Series Databases	|	0.0556
-Answering queries using views: A survey	|	0.0526
-Mining association rules between sets of items in large databases	|	0.0513
-Foundations of Databases	|	0.0278
+Finding interesting rules from large sets of discovered association rules	|	0.1943
+Principles of database and knowledge-base systems	|	0.1818
+Incremental Maintenance of Views with Duplicates	|	0.1250
+Principles of Database and Knowledge-Base Systems, Volume I	|	0.0866
+Consistent query answers in inconsistent databases	|	0.0645
+Mining association rules between sets of items in large databases	|	0.0590
+Answering Queries Using Templates with Binding Patterns	|	0.0435
+Data-Driven Discovery of Quantitative Rules in Relational Databases	|	0.0435
+Distance-Based Outliers: Algorithms and Applications	|	0.0323
+Constraint-Based Rule Mining in Large, Dense Databases	|	0.0308
+The Management of Probabilistic Data	|	0.0263
+Database Mining: A Performance Perspective	|	0.0231
+Maintenance of Discovered Association Rules in Large Databases: An Incremental Updating Technique	|	0.0229
+Disjunctive datalog	|	0.0227
+Algorithms for Mining Distance-Based Outliers in Large Datasets	|	0.0217
+Maintaining Data Privacy in Association Rule Mining	|	0.0217
+Efficient Mining of Association Rules Using Closed Itemset Lattices	|	0.0217
+Knowledge Discovery in Databases: An Attribute-Oriented Approach	|	0.0205
+A New SQL-like Operator for Mining Association Rules	|	0.0198
+Hippocratic Databases	|	0.0182
+Scalable Algorithms for Association Mining	|	0.0182
+Computing Iceberg Queries Efficiently	|	0.0182
+MAFIA: A Maximal Frequent Itemset Algorithm for Transactional Databases	|	0.0182
+Join processing in relational databases	|	0.0154
+Discovering Frequent Closed Itemsets for Association Rules	|	0.0154
+Storing Semistructured Data with STORED	|	0.0154
+Efficient Data Mining for Path Traversal Patterns	|	0.0154
+Discovery of Spatial Association Rules in Geographic Information Databases	|	0.0154
+Beyond Market Baskets: Generalizing Association Rules to Correlations	|	0.0137
+Complexity of answering queries using materialized views	|	0.0137
+Parallel Mining of Association Rules	|	0.0132
+Maintaining Views Incrementally	|	0.0132
+Scalable Parallel Data Mining for Association Rules	|	0.0114
+Data Model and Query Evaluation in Global Information Systems	|	0.0114
+Efficiently Mining Long Patterns from Databases	|	0.0114
+Sampling Large Databases for Association Rules	|	0.0111
+Exploratory Mining and Pruning Optimizations of Constrained Association Rules	|	0.0100
+Answering recursive queries using views	|	0.0099
+Discovery of Multiple-Level Association Rules from Large Databases	|	0.0076
+Mining Sequential Patterns	|	0.0069
+Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.0068
+Mediators in the Architecture of Future Information Systems	|	0.0050
+Query Caching and Optimization in Distributed Mediator Systems	|	0.0045
+Fast Time Sequence Indexing for Arbitrary Lp Norms	|	0.0045
+Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0045
+Optimizing Queries with Materialized Views	|	0.0042
+Data Mining: An Overview from a Database Perspective	|	0.0039
+An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.0038
+Mining Generalized Association Rules	|	0.0035
+A Quantitative Analysis and Performance Study for Similarity-Search Methods in High-Dimensional Spaces	|	0.0035
+FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets	|	0.0026
+An Effective Hash Based Algorithm for Mining Association Rules	|	0.0024
+Fast Algorithms for Mining Association Rules in Large Databases	|	0.0024
+Types and persistence in database programming languages	|	0.0024
+Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0022
+Efficient Similarity Search In Sequence Databases	|	0.0019
+Fast Subsequence Matching in Time-Series Databases	|	0.0019
+Fast Algorithms for Mining Association Rules	|	0.0018
+Answering queries using views: A survey	|	0.0017
+Foundations of Databases	|	0.0004

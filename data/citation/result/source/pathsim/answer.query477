@@ -1,24 +1,28 @@
-Benchmarking Database Systems A Systematic Approach	|	0.2353
-Object-Oriented Programming: Themes and Variations	|	0.2222
-Making Smalltalk a Database System	|	0.2105
-A Data Model and Query Language for EXODUS	|	0.2000
-A model of authorization for next-generation database systems	|	0.1818
-Objects and Views	|	0.1667
-F-Logic: A Higher-Order language for Reasoning about Objects, Inheritance, and Scheme	|	0.1667
-Iris: An Object-Oriented Database Management System	|	0.1667
-The Design of Postgres	|	0.1600
-A Theory of Attribute Equivalence in Databases with Application to Schema Integration	|	0.1538
-Data model issues for object-oriented applications	|	0.1429
-ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging	|	0.1333
-Development of an object-oriented DBMS	|	0.1176
-An Evaluation of Buffer Management Strategies for Relational Database Systems	|	0.1111
-The Postgres Next Generation Database Management System	|	0.1111
-Schema Mapping as Query Discovery	|	0.1053
-Efficient Processing of Spatial Joins Using R-Trees	|	0.0870
-Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0769
-Database abstractions: aggregation and generalization	|	0.0769
-The Ubiquitous B-Tree	|	0.0741
-Temporal and Real-Time Databases: A Survey	|	0.0690
-A survey of approaches to automatic schema matching	|	0.0606
-Query Optimization in Database Systems	|	0.0513
-Query evaluation techniques for large databases	|	0.0260
+Object-Oriented Programming: Themes and Variations	|	0.3704
+Extending object-oriented systems with roles	|	0.3333
+Applying Model Management to Classical Meta Data Problems	|	0.3226
+Starburst Mid-Flight: As the Dust Clears	|	0.2653
+Data model issues for object-oriented applications	|	0.2443
+The Implementation of Postgres	|	0.2105
+A model of authorization for next-generation database systems	|	0.0278
+Objects and Views	|	0.0238
+Iris: An Object-Oriented Database Management System	|	0.0238
+Benchmarking Database Systems A Systematic Approach	|	0.0230
+A Theory of Attribute Equivalence in Databases with Application to Schema Integration	|	0.0204
+F-Logic: A Higher-Order language for Reasoning about Objects, Inheritance, and Scheme	|	0.0200
+Making Smalltalk a Database System	|	0.0179
+A Data Model and Query Language for EXODUS	|	0.0142
+ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging	|	0.0130
+Development of an object-oriented DBMS	|	0.0102
+An Evaluation of Buffer Management Strategies for Relational Database Systems	|	0.0101
+The Postgres Next Generation Database Management System	|	0.0101
+The Design of Postgres	|	0.0095
+Schema Mapping as Query Discovery	|	0.0089
+Efficient Processing of Spatial Joins Using R-Trees	|	0.0057
+Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0043
+Database abstractions: aggregation and generalization	|	0.0043
+The Ubiquitous B-Tree	|	0.0040
+Temporal and Real-Time Databases: A Survey	|	0.0034
+A survey of approaches to automatic schema matching	|	0.0025
+Query Optimization in Database Systems	|	0.0016
+Query evaluation techniques for large databases	|	0.0004

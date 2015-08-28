@@ -1,20 +1,21 @@
-The Object Database Standard: ODMG-93	|	0.6667
-From Semistructured Data to XML: Migrating the Lore Data Model and Query Language	|	0.2222
-Accelerating XPath location steps	|	0.2222
-Adding Structure to Unstructured Data	|	0.2000
-Index Structures for Path Expressions	|	0.2000
-TIMBER: A native XML database	|	0.1818
-W3QS: A Query System for the World-Wide Web	|	0.1818
-Query By Example	|	0.1818
-Path sharing and predicate evaluation for high-performance XML filtering	|	0.1818
-Indexing and Querying XML Data for Regular Path Expressions	|	0.1667
-A Fast Index for Semistructured Data	|	0.1429
-Query-by-Example: A Data Base Language	|	0.1333
-Your Mediators Need Data Conversion!	|	0.1176
-Semistructured data	|	0.1176
-Query Optimization for XML	|	0.1053
-A Query Language and Optimization Techniques for Unstructured Data	|	0.0870
-Lore: a database management system for semistructured data	|	0.0769
-A survey of approaches to automatic schema matching	|	0.0714
-Database techniques for the World-Wide Web: a survey	|	0.0714
-The Lorel Query Language for Semistructured Data	|	0.0714
+The Object Database Standard: ODMG-93	|	0.2500
+DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0902
+From Semistructured Data to XML: Migrating the Lore Data Model and Query Language	|	0.0270
+Adding Structure to Unstructured Data	|	0.0217
+Accelerating XPath location steps	|	0.0213
+TIMBER: A native XML database	|	0.0179
+W3QS: A Query System for the World-Wide Web	|	0.0179
+Query By Example	|	0.0179
+Path sharing and predicate evaluation for high-performance XML filtering	|	0.0179
+Indexing and Querying XML Data for Regular Path Expressions	|	0.0149
+Index Structures for Path Expressions	|	0.0122
+A Fast Index for Semistructured Data	|	0.0109
+Query-by-Example: A Data Base Language	|	0.0094
+Your Mediators Need Data Conversion!	|	0.0073
+Semistructured data	|	0.0073
+Query Optimization for XML	|	0.0058
+Lore: a database management system for semistructured data	|	0.0057
+A Query Language and Optimization Techniques for Unstructured Data	|	0.0039
+A survey of approaches to automatic schema matching	|	0.0026
+Database techniques for the World-Wide Web: a survey	|	0.0026
+The Lorel Query Language for Semistructured Data	|	0.0026

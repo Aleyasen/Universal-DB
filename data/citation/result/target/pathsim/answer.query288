@@ -1,20 +1,17 @@
-Semantic Web	|	0.5556
-Visual Web Information Extraction with Lixto	|	0.2619
-Why and Where: A Characterization of Data Provenance	|	0.1786
-Data on the Web: From Relations to Semistructured Data and XML	|	0.1429
-A Survey of Data Provenance in e-Science	|	0.1429
-A hierarchical approach to wrapper induction	|	0.0476
-Data on the web	|	0.0476
-ULDBs: Databases with Uncertainty and Lineage	|	0.0476
-Wrapper Induction for Information Extraction	|	0.0370
-Trio: A System for Integrated Management of Data, Accuracy, and Lineage	|	0.0370
-Object Exchange Across Heterogeneous Information Sources	|	0.0294
-A brief survey of web data extraction tools	|	0.0238
-Extracting Semistructured Information from the Web	|	0.0238
-Generating Finite-State Transducers for Semi-Structured Data Extraction from the Web	|	0.0238
-View Maintenance in a Warehousing Environment	|	0.0198
-A Query Language for XML	|	0.0103
-XML-QL: A Query Language for XML	|	0.0103
-A Query Language and Optimization Techniques for Unstructured Data	|	0.0039
-The Lorel Query Language for Semistructured Data	|	0.0026
-Foundations of Databases	|	0.0004
+Data on the Web: From Relations to Semistructured Data and XML	|	0.7500
+A Survey of Data Provenance in e-Science	|	0.5000
+A hierarchical approach to wrapper induction	|	0.2500
+Data on the web	|	0.2500
+ULDBs: Databases with Uncertainty and Lineage	|	0.2500
+Wrapper Induction for Information Extraction	|	0.2222
+Trio: A System for Integrated Management of Data, Accuracy, and Lineage	|	0.2222
+Object Exchange Across Heterogeneous Information Sources	|	0.2000
+A brief survey of web data extraction tools	|	0.1818
+Extracting Semistructured Information from the Web	|	0.1818
+View Maintenance in a Warehousing Environment	|	0.1818
+Generating Finite-State Transducers for Semi-Structured Data Extraction from the Web	|	0.1818
+A Query Language for XML	|	0.1250
+XML-QL: A Query Language for XML	|	0.1250
+A Query Language and Optimization Techniques for Unstructured Data	|	0.0800
+The Lorel Query Language for Semistructured Data	|	0.0667
+Foundations of Databases	|	0.0282

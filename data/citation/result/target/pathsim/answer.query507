@@ -1,34 +1,33 @@
-The state of the art in distributed query processing	|	0.3684
-Designing a Super-Peer Network	|	0.3226
-Semantic Overlay Networks for P2P Systems	|	0.3226
-Generalizing GlOSS to Vector-Space Databases and Broker Hierarchies	|	0.2941
-Super-peer-based routing and clustering strategies for RDF-based peer-to-peer networks	|	0.2329
-TinyDB: an acquisitional query processing system for sensor networks	|	0.1463
-The design of an acquisitional query processor for sensor networks	|	0.1239
-Composite Events for Active Databases: Semantics, Contexts and Detection	|	0.0465
-The cougar approach to in-network query processing in sensor networks	|	0.0357
-Towards Sensor Database Systems	|	0.0357
-GlOSS: Text-Source Discovery over the Internet	|	0.0345
-World-Wide Web: The Information Universe	|	0.0323
-Complex Queries in DHT-based Peer-to-Peer Networks	|	0.0233
-Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.0213
-EDUTELLA: a P2P networking infrastructure based on RDF	|	0.0204
-Model-Driven Data Acquisition in Sensor Networks	|	0.0204
-The Postgres Next Generation Database Management System	|	0.0189
-EDUTELLA: A P2P Networking Infrastructure Based on RDF	|	0.0179
-Approximate Aggregation Techniques for Sensor Databases	|	0.0179
-Approximate Query Processing Using Wavelets	|	0.0134
-The Design of the Borealis Stream Processing Engine	|	0.0093
-Data Management for Peer-to-Peer Computing : A Vision	|	0.0084
-An Adaptive Query Execution System for Data Integration	|	0.0077
-Continuously adaptive continuous queries over streams	|	0.0077
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0077
-Eddies: Continuously Adaptive Query Processing	|	0.0071
-Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0071
-NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0071
-Monitoring Streams - A New Class of Data Management Applications	|	0.0061
-Approximate Frequency Counts over Data Streams	|	0.0055
-Mediators in the Architecture of Future Information Systems	|	0.0046
-The Gamma Database Machine Project	|	0.0046
-Issues in data stream management	|	0.0042
-The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0033
+The state of the art in distributed query processing	|	0.5455
+Composite Events for Active Databases: Semantics, Contexts and Detection	|	0.3333
+The cougar approach to in-network query processing in sensor networks	|	0.2857
+Towards Sensor Database Systems	|	0.2857
+GlOSS: Text-Source Discovery over the Internet	|	0.2500
+World-Wide Web: The Information Universe	|	0.2222
+Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.2222
+Designing a Super-Peer Network	|	0.2222
+Semantic Overlay Networks for P2P Systems	|	0.2222
+The Postgres Next Generation Database Management System	|	0.2105
+Approximate Query Processing Using Wavelets	|	0.1905
+Complex Queries in DHT-based Peer-to-Peer Networks	|	0.1667
+EDUTELLA: a P2P networking infrastructure based on RDF	|	0.1538
+Model-Driven Data Acquisition in Sensor Networks	|	0.1538
+Continuously adaptive continuous queries over streams	|	0.1481
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.1481
+EDUTELLA: A P2P Networking Infrastructure Based on RDF	|	0.1429
+Eddies: Continuously Adaptive Query Processing	|	0.1429
+An Adaptive Query Execution System for Data Integration	|	0.1429
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.1429
+Approximate Aggregation Techniques for Sensor Databases	|	0.1429
+NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.1379
+Monitoring Streams - A New Class of Data Management Applications	|	0.1290
+Super-peer-based routing and clustering strategies for RDF-based peer-to-peer networks	|	0.1250
+The Design of the Borealis Stream Processing Engine	|	0.1111
+Data Management for Peer-to-Peer Computing : A Vision	|	0.1000
+Approximate Frequency Counts over Data Streams	|	0.0870
+TinyDB: an acquisitional query processing system for sensor networks	|	0.0870
+The Gamma Database Machine Project	|	0.0800
+Mediators in the Architecture of Future Information Systems	|	0.0769
+The design of an acquisitional query processor for sensor networks	|	0.0769
+Issues in data stream management	|	0.0741
+The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0667

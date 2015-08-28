@@ -35,7 +35,11 @@
                 "course_offer",
                 "offer_inst",
                 "offer_subject"
-            ]
+            ],
+            "param": {
+                "distance": 200,
+                "charge": -500
+            }
         },
         "target": {
             "name": "University of Washington, CSE Department (from Alchemy)",
@@ -49,7 +53,11 @@
                 "course_offer",
                 "course_subject",
                 "offer_inst"
-            ]
+            ],
+            "param": {
+                "distance": 100,
+                "charge": -200
+            }
         }
     }
 }

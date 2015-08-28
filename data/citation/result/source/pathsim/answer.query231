@@ -1,159 +1,162 @@
-View Maintenance in a Warehousing Environment	|	0.4000
-On the Computation of Multidimensional Aggregates	|	0.4000
-Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.3636
-Semantic Data Caching and Replacement	|	0.3636
-Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals	|	0.3529
-Complex Queries in DHT-based Peer-to-Peer Networks	|	0.3333
-Research problems in data warehousing	|	0.3158
-Optimal implementation of conjunctive queries in relational databases	|	0.3077
-Building the data warehouse	|	0.2500
-Toward the Next Generation of Recommender Systems: A Survey of the State-of-the-Art and Possible Extensions	|	0.2500
-Optimizing Queries with Materialized Views	|	0.2222
-Maintaining Views Incrementally	|	0.2222
-Introduction to Object-Oriented Databases	|	0.2222
-Parallel database systems: the future of high performance database systems	|	0.2222
-The Design of the Borealis Stream Processing Engine	|	0.2222
-Continuous queries over data streams	|	0.2143
-Answering recursive queries using views	|	0.2000
-Consistency in Partitioned Networks	|	0.2000
-Aurora: a new model and architecture for data stream management	|	0.2000
-Providing olap (on-line analytical processing) to user-analysts: an it mandate	|	0.2000
-Building the Data Warehouse	|	0.2000
-Join indices	|	0.1905
-Principles of Database and Knowledge-Base Systems, Volume I	|	0.1875
-Parallel Database Systems: The Future of High Performance Database Processing1	|	0.1818
-SLIQ: A Fast Scalable Classifier for Data Mining	|	0.1818
-The relational model with relation-valued attributes	|	0.1818
-The data warehousing toolkit	|	0.1818
-Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.1739
-Complexity of answering queries using materialized views	|	0.1739
-On the decidability of query containment under constraints	|	0.1667
-Description Logics in Data Management	|	0.1667
-The Skyline Operator	|	0.1667
-Transaction Processing: Concepts and Techniques	|	0.1667
-Principles of Distributed Database Systems	|	0.1667
-Data on the web	|	0.1667
-Principles of distributed database systems	|	0.1667
-An overview of data warehousing and OLAP technology	|	0.1600
-Discovering Web Access Patterns and Trends by Applying OLAP and Data Mining Technology on Web Logs	|	0.1538
-STING: A Statistical Information Grid Approach to Spatial Data Mining	|	0.1538
-SPRINT: A Scalable Parallel Classifier for Data Mining	|	0.1538
-Consistent query answers in inconsistent databases	|	0.1538
-Deriving Production Rules for Constraint Maintainance	|	0.1538
-Model-Driven Data Acquisition in Sensor Networks	|	0.1538
-Security-Control Methods for Statistical Databases: A Comparative Study	|	0.1538
-Join processing in database systems with large main memories	|	0.1538
-Data exchange: semantics and query answering	|	0.1538
-Query Caching and Optimization in Distributed Mediator Systems	|	0.1481
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.1481
-Change Detection in Hierarchically Structured Information	|	0.1429
-The cougar approach to in-network query processing in sensor networks	|	0.1429
-An Adaptive Query Execution System for Data Integration	|	0.1429
-Index Selection for OLAP	|	0.1429
-Disk Striping	|	0.1429
-Load Shedding in a Data Stream Manager	|	0.1429
-Don't Scrap It, Wrap It! A Wrapper Architecture for Legacy Data Sources	|	0.1429
-Optimal implementation of conjunctive queries in relational data bases	|	0.1379
-Answering Queries Using Templates with Binding Patterns	|	0.1333
-Efficient Mining of Association Rules Using Closed Itemset Lattices	|	0.1333
-Data-Driven Discovery of Quantitative Rules in Relational Databases	|	0.1333
-Pmnczples of database and knowledge- base systems	|	0.1333
-C-Store: A Column-oriented DBMS	|	0.1333
-Monitoring Streams - A New Class of Data Management Applications	|	0.1290
-A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.1250
-Computing Iceberg Queries Efficiently	|	0.1250
-Data integration: a theoretical perspective	|	0.1250
-On Optimistic Methods for Concurrency Control	|	0.1250
-Access path selection in a relational database management system	|	0.1250
-The Case for Shared Nothing	|	0.1250
-Concurrency control in advanced database applications	|	0.1250
-Principles of database buffer management	|	0.1250
-The Implementation of Postgres	|	0.1176
-Discovering Frequent Closed Itemsets for Association Rules	|	0.1176
-3D Shape Histograms for Similarity Search and Classification in Spatial Databases	|	0.1176
-Database techniques for the World-Wide Web: a survey	|	0.1176
-Querying Heterogeneous Information Sources Using Source Descriptions	|	0.1176
-Discovery of Spatial Association Rules in Geographic Information Databases	|	0.1176
-The Lorel Query Language for Semistructured Data	|	0.1176
-Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases	|	0.1176
-Linear Hashing: A New Tool for File and Table Addressing	|	0.1176
-Quad Trees: A Data Structure for Retrieval on Composite Keys	|	0.1176
-Operating system support for database management	|	0.1176
-Data Cleaning: Problems and Current Approaches	|	0.1176
-The Recovery Manager of the System R Database Manager	|	0.1176
-Principles of transaction-oriented database recovery	|	0.1176
-On optimizing an SQL-like nested query	|	0.1176
-Extended algebra and calculus for nested relational databases	|	0.1176
-Storing and Querying XML Data using an RDBMS	|	0.1111
-Maintenance of Discovered Association Rules in Large Databases: An Incremental Updating Technique	|	0.1111
-Finding interesting rules from large sets of discovered association rules	|	0.1111
-Querying the Internet with PIER	|	0.1111
-Data Placement In Bubba	|	0.1111
-Access methods for text	|	0.1111
-Incognito: efficient full-domain K-anonymity	|	0.1111
-Structural Joins: A Primitive for Efficient XML Query Pattern Matching	|	0.1111
-Quilt: An XML Query Language for Heterogeneous Data Sources	|	0.1053
-Query Reformulation for Dynamic Information Integration	|	0.1053
-Data Model and Query Evaluation in Global Information Systems	|	0.1053
-Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Total	|	0.1053
-An Evaluation of Buffer Management Strategies for Relational Database Systems	|	0.1053
-Holistic twig joins: optimal XML pattern matching	|	0.1053
-Data Management for Peer-to-Peer Computing : A Vision	|	0.1000
-A Query Language for XML	|	0.1000
-A logical design methodology for relational databases using the extended entity-relationship model	|	0.1000
-The functional data model and the data language DAPLEX	|	0.1000
-The CQL continuous query language: semantic foundations and query execution	|	0.1000
-Approximate Query Processing Using Wavelets	|	0.0952
-Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0952
-Schema Mediation in Peer Data Management Systems	|	0.0952
-Organization and Maintenance of Large Ordered Indexes	|	0.0952
-Concurrency Control in Distributed Database Systems	|	0.0952
-Mining Sequential Patterns	|	0.0909
-Storing Semistructured Data with STORED	|	0.0909
-Database Mining: A Performance Perspective	|	0.0909
-Interoperability of multiple autonomous databases	|	0.0909
-The Quadtree and Related Hierarchical Data Structures	|	0.0909
-Piazza: data management infrastructure for semantic web applications	|	0.0909
-Semistructured data	|	0.0870
-The R*-tree: an efficient and robust access method for points and rectangles	|	0.0870
-Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases	|	0.0833
-New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.0833
-Query Optimization for XML	|	0.0800
-The Gamma Database Machine Project	|	0.0800
-The entity-relationship model---toward a unified view of data	|	0.0800
-Mediators in the Architecture of Future Information Systems	|	0.0769
-Exploratory Mining and Pruning Optimizations of Constrained Association Rules	|	0.0769
-The Grid File: An Adaptable, Symmetric Multi-Key File Structure	|	0.0769
-Discovery of Multiple-Level Association Rules from Large Databases	|	0.0741
-An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.0741
-Mining Generalized Association Rules	|	0.0741
-Semantic data models	|	0.0741
-Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.0714
-Organization and Maintenance of Large Ordered Indices	|	0.0714
-The Ubiquitous B-Tree	|	0.0714
-A Query Language and Optimization Techniques for Unstructured Data	|	0.0690
-System R: A Relational Approach to Data Base Management	|	0.0690
-The functional data model and the data languages DAPLEX	|	0.0690
-Lore: a database management system for semistructured data	|	0.0625
-The Grid File: An Adaptable, Symmetric Multikey File Structure	|	0.0625
-FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets	|	0.0606
-An Effective Hash Based Algorithm for Mining Association Rules	|	0.0606
-Types and persistence in database programming languages	|	0.0606
-A comparative analysis of methodologies for database schema integration	|	0.0606
-Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0588
-The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0588
-System R: relational approach to database management	|	0.0588
-Logic and Databases: A Deductive Approach	|	0.0571
-Fast Algorithms for Mining Association Rules in Large Databases	|	0.0571
-Models and issues in data stream systems	|	0.0556
-Foundations of Databases	|	0.0533
-Concurrency Control and Recovery in Database Systems	|	0.0526
-The Theory of Relational Databases	|	0.0526
-Efficient Similarity Search In Sequence Databases	|	0.0513
-Fast Subsequence Matching in Time-Series Databases	|	0.0513
-Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0513
-Query Optimization in Database Systems	|	0.0500
-Principles of Database and Knowledge-Base Systems, Volume II	|	0.0494
-Answering queries using views: A survey	|	0.0488
-Mining association rules between sets of items in large databases	|	0.0476
-Fast Algorithms for Mining Association Rules	|	0.0400
+Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.1524
+An overview of data warehousing and OLAP technology	|	0.1357
+Optimizing Queries with Materialized Views	|	0.1199
+Online Aggregation	|	0.1036
+Data Mining: An Overview from a Database Perspective	|	0.0724
+Answering queries using views: A survey	|	0.0674
+On the Computation of Multidimensional Aggregates	|	0.0588
+Semantic Data Caching and Replacement	|	0.0526
+Complex Queries in DHT-based Peer-to-Peer Networks	|	0.0465
+View Maintenance in a Warehousing Environment	|	0.0414
+Optimal implementation of conjunctive queries in relational databases	|	0.0408
+Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals	|	0.0361
+Building the data warehouse	|	0.0345
+Toward the Next Generation of Recommender Systems: A Survey of the State-of-the-Art and Possible Extensions	|	0.0345
+Introduction to Object-Oriented Databases	|	0.0323
+Query evaluation techniques for large databases	|	0.0302
+Consistency in Partitioned Networks	|	0.0294
+Providing olap (on-line analytical processing) to user-analysts: an it mandate	|	0.0294
+Building the Data Warehouse	|	0.0294
+Research problems in data warehousing	|	0.0283
+Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.0270
+The data warehousing toolkit	|	0.0263
+The relational model with relation-valued attributes	|	0.0235
+On the decidability of query containment under constraints	|	0.0233
+Description Logics in Data Management	|	0.0233
+The Skyline Operator	|	0.0233
+Transaction Processing: Concepts and Techniques	|	0.0233
+Principles of Distributed Database Systems	|	0.0233
+Data on the web	|	0.0233
+Principles of distributed database systems	|	0.0233
+Maintaining Views Incrementally	|	0.0213
+Parallel database systems: the future of high performance database systems	|	0.0213
+SLIQ: A Fast Scalable Classifier for Data Mining	|	0.0208
+Discovering Web Access Patterns and Trends by Applying OLAP and Data Mining Technology on Web Logs	|	0.0204
+STING: A Statistical Information Grid Approach to Spatial Data Mining	|	0.0204
+Consistent query answers in inconsistent databases	|	0.0204
+Deriving Production Rules for Constraint Maintainance	|	0.0204
+Model-Driven Data Acquisition in Sensor Networks	|	0.0204
+Security-Control Methods for Statistical Databases: A Comparative Study	|	0.0204
+Join processing in database systems with large main memories	|	0.0204
+Data exchange: semantics and query answering	|	0.0204
+The Design of the Borealis Stream Processing Engine	|	0.0187
+SPRINT: A Scalable Parallel Classifier for Data Mining	|	0.0180
+Change Detection in Hierarchically Structured Information	|	0.0179
+The cougar approach to in-network query processing in sensor networks	|	0.0179
+Index Selection for OLAP	|	0.0179
+Disk Striping	|	0.0179
+Load Shedding in a Data Stream Manager	|	0.0179
+Answering recursive queries using views	|	0.0168
+Aurora: a new model and architecture for data stream management	|	0.0168
+Answering Queries Using Templates with Binding Patterns	|	0.0156
+Efficient Mining of Association Rules Using Closed Itemset Lattices	|	0.0156
+Data-Driven Discovery of Quantitative Rules in Relational Databases	|	0.0156
+Pmnczples of database and knowledge- base systems	|	0.0156
+C-Store: A Column-oriented DBMS	|	0.0156
+Don't Scrap It, Wrap It! A Wrapper Architecture for Legacy Data Sources	|	0.0154
+A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.0137
+Computing Iceberg Queries Efficiently	|	0.0137
+On Optimistic Methods for Concurrency Control	|	0.0137
+The Case for Shared Nothing	|	0.0137
+Principles of database buffer management	|	0.0137
+Join indices	|	0.0136
+Parallel Database Systems: The Future of High Performance Database Processing1	|	0.0135
+Complexity of answering queries using materialized views	|	0.0122
+The Implementation of Postgres	|	0.0120
+Discovering Frequent Closed Itemsets for Association Rules	|	0.0120
+3D Shape Histograms for Similarity Search and Classification in Spatial Databases	|	0.0120
+Discovery of Spatial Association Rules in Geographic Information Databases	|	0.0120
+Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases	|	0.0120
+Linear Hashing: A New Tool for File and Table Addressing	|	0.0120
+Quad Trees: A Data Structure for Retrieval on Composite Keys	|	0.0120
+Operating system support for database management	|	0.0120
+Data Cleaning: Problems and Current Approaches	|	0.0120
+Principles of transaction-oriented database recovery	|	0.0120
+On optimizing an SQL-like nested query	|	0.0120
+Extended algebra and calculus for nested relational databases	|	0.0120
+Concurrency control in advanced database applications	|	0.0119
+Continuous queries over data streams	|	0.0116
+The Recovery Manager of the System R Database Manager	|	0.0107
+Storing and Querying XML Data using an RDBMS	|	0.0106
+Querying the Internet with PIER	|	0.0106
+Data Placement In Bubba	|	0.0106
+Access methods for text	|	0.0106
+Incognito: efficient full-domain K-anonymity	|	0.0106
+Structural Joins: A Primitive for Efficient XML Query Pattern Matching	|	0.0106
+Maintenance of Discovered Association Rules in Large Databases: An Incremental Updating Technique	|	0.0095
+Finding interesting rules from large sets of discovered association rules	|	0.0095
+Quilt: An XML Query Language for Heterogeneous Data Sources	|	0.0094
+Query Reformulation for Dynamic Information Integration	|	0.0094
+Data Model and Query Evaluation in Global Information Systems	|	0.0094
+Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Total	|	0.0094
+An Evaluation of Buffer Management Strategies for Relational Database Systems	|	0.0094
+Holistic twig joins: optimal XML pattern matching	|	0.0094
+Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases	|	0.0092
+Principles of Database and Knowledge-Base Systems, Volume I	|	0.0085
+Data Management for Peer-to-Peer Computing : A Vision	|	0.0084
+Query Caching and Optimization in Distributed Mediator Systems	|	0.0084
+A Query Language for XML	|	0.0084
+The functional data model and the data language DAPLEX	|	0.0084
+The CQL continuous query language: semantic foundations and query execution	|	0.0084
+An Adaptive Query Execution System for Data Integration	|	0.0077
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0077
+Organization and Maintenance of Large Ordered Indexes	|	0.0075
+Concurrency Control in Distributed Database Systems	|	0.0075
+A logical design methodology for relational databases using the extended entity-relationship model	|	0.0075
+Optimal implementation of conjunctive queries in relational data bases	|	0.0071
+Schema Mediation in Peer Data Management Systems	|	0.0068
+Storing Semistructured Data with STORED	|	0.0068
+Database Mining: A Performance Perspective	|	0.0068
+Interoperability of multiple autonomous databases	|	0.0068
+The Quadtree and Related Hierarchical Data Structures	|	0.0068
+Approximate Query Processing Using Wavelets	|	0.0067
+Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0067
+Mining Sequential Patterns	|	0.0061
+Piazza: data management infrastructure for semantic web applications	|	0.0061
+Semistructured data	|	0.0061
+Monitoring Streams - A New Class of Data Management Applications	|	0.0061
+New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.0055
+Data integration: a theoretical perspective	|	0.0053
+Query Optimization for XML	|	0.0050
+The entity-relationship model---toward a unified view of data	|	0.0050
+Database techniques for the World-Wide Web: a survey	|	0.0049
+Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0049
+The Lorel Query Language for Semistructured Data	|	0.0049
+Mediators in the Architecture of Future Information Systems	|	0.0046
+Exploratory Mining and Pruning Optimizations of Constrained Association Rules	|	0.0046
+The Grid File: An Adaptable, Symmetric Multi-Key File Structure	|	0.0046
+The Gamma Database Machine Project	|	0.0046
+Semantic data models	|	0.0042
+Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.0039
+Organization and Maintenance of Large Ordered Indices	|	0.0039
+The Ubiquitous B-Tree	|	0.0039
+Discovery of Multiple-Level Association Rules from Large Databases	|	0.0036
+An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.0036
+A Query Language and Optimization Techniques for Unstructured Data	|	0.0036
+System R: A Relational Approach to Data Base Management	|	0.0036
+The functional data model and the data languages DAPLEX	|	0.0036
+Access path selection in a relational database management system	|	0.0034
+Mining Generalized Association Rules	|	0.0033
+The Grid File: An Adaptable, Symmetric Multikey File Structure	|	0.0028
+A comparative analysis of methodologies for database schema integration	|	0.0026
+Lore: a database management system for semistructured data	|	0.0026
+FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets	|	0.0025
+The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0025
+System R: relational approach to database management	|	0.0025
+The R*-tree: an efficient and robust access method for points and rectangles	|	0.0024
+An Effective Hash Based Algorithm for Mining Association Rules	|	0.0023
+Logic and Databases: A Deductive Approach	|	0.0023
+Fast Algorithms for Mining Association Rules in Large Databases	|	0.0023
+Types and persistence in database programming languages	|	0.0023
+Models and issues in data stream systems	|	0.0022
+Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0022
+Concurrency Control and Recovery in Database Systems	|	0.0019
+The Theory of Relational Databases	|	0.0019
+Efficient Similarity Search In Sequence Databases	|	0.0018
+Fast Subsequence Matching in Time-Series Databases	|	0.0018
+Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0018
+Query Optimization in Database Systems	|	0.0016
+Mining association rules between sets of items in large databases	|	0.0014
+Fast Algorithms for Mining Association Rules	|	0.0009
+Foundations of Databases	|	0.0008
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0007

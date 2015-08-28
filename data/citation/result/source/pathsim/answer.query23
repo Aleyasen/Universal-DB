@@ -1,19 +1,22 @@
-The Object Database Standard: ODMG 2.0	|	0.5000
-Data on the Web: From Relations to Semistructured Data and XML	|	0.2500
-A Query Language for XML	|	0.2500
-A model of authorization for next-generation database systems	|	0.2500
-XML-QL: A Query Language for XML	|	0.2500
-Your Mediators Need Data Conversion!	|	0.2105
-Flexible support for multiple access control policies	|	0.2000
-extensible markup language (xml) 1	|	0.2000
-From Semistructured Data to XML: Migrating the Lore Data Model and Query Language	|	0.1818
-Telos: representing knowledge about information systems	|	0.1667
-Quilt: An XML Query Language for Heterogeneous Data Sources	|	0.1333
-From Structured Documents to Novel Query Facilities	|	0.1111
-Querying Object-Oriented Databases	|	0.1111
-Catching the boat with Strudel: experiences with a Web Site management system	|	0.1053
-Query Optimization for XML	|	0.0952
-A Query Language and Optimization Techniques for Unstructured Data	|	0.0800
-The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0769
-The Lorel Query Language for Semistructured Data	|	0.0667
-Foundations of Databases	|	0.0282
+A fine-grained access control system for XML documents	|	0.4375
+Typechecking for XML transformers	|	0.2619
+RQL: a declarative query language for RDF	|	0.1538
+The Object Database Standard: ODMG 2.0	|	0.1429
+Data on the Web: From Relations to Semistructured Data and XML	|	0.0476
+A model of authorization for next-generation database systems	|	0.0476
+Flexible support for multiple access control policies	|	0.0294
+extensible markup language (xml) 1	|	0.0294
+From Semistructured Data to XML: Migrating the Lore Data Model and Query Language	|	0.0238
+A Query Language for XML	|	0.0206
+XML-QL: A Query Language for XML	|	0.0206
+Telos: representing knowledge about information systems	|	0.0196
+Your Mediators Need Data Conversion!	|	0.0141
+Quilt: An XML Query Language for Heterogeneous Data Sources	|	0.0119
+From Structured Documents to Novel Query Facilities	|	0.0079
+Querying Object-Oriented Databases	|	0.0079
+Catching the boat with Strudel: experiences with a Web Site management system	|	0.0070
+Query Optimization for XML	|	0.0056
+A Query Language and Optimization Techniques for Unstructured Data	|	0.0039
+The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0035
+The Lorel Query Language for Semistructured Data	|	0.0026
+Foundations of Databases	|	0.0004

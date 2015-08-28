@@ -1,41 +1,40 @@
-Efficiently Publishing Relational Data as XML Documents	|	0.1753
-Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.1055
-Extensible Markup Language (XML) 1.0	|	0.0952
-Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0922
-extensible markup language (xml) 1	|	0.0882
-Efficient Algorithms for Processing XPath Queries	|	0.0625
-Filtering algorithms and implementation for very fast publish/subscribe systems	|	0.0625
-Detecting Changes in XML Documents	|	0.0625
-XML Path Language (XPath) Version 1.0	|	0.0625
-Human behavior and the principle of least effort	|	0.0625
-Efficient Filtering of XML Documents with XPath Expressions	|	0.0476
-Storing and querying ordered XML using a relational database system	|	0.0392
-Remarks on the algebra of non first normal form relations	|	0.0370
-Join processing in database systems with large main memories	|	0.0370
-XRel: a path-based approach to storage and retrieval of XML documents using relational databases	|	0.0370
-XML-QL: A Query Language for XML	|	0.0309
-Storing and Querying XML Data using an RDBMS	|	0.0278
-Structural Joins: A Primitive for Efficient XML Query Pattern Matching	|	0.0278
-Holistic twig joins: optimal XML pattern matching	|	0.0238
-Human Behaviour and the Principle of Least Effort: an Introduction to Human Ecology	|	0.0238
-TIMBER: A native XML database	|	0.0164
-Path sharing and predicate evaluation for high-performance XML filtering	|	0.0164
-Storing Semistructured Data with STORED	|	0.0159
-On Supporting Containment Queries in Relational Database Management Systems	|	0.0141
-Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.0141
-Indexing and Querying XML Data for Regular Path Expressions	|	0.0139
-A Fast Index for Semistructured Data	|	0.0103
-Aurora: a new model and architecture for data stream management	|	0.0103
-The Architecture Of An Active Data Base Management System	|	0.0103
-From Structured Documents to Novel Query Facilities	|	0.0079
-A Query Language and Optimization Techniques for Unstructured Data	|	0.0077
-Multiple-query optimization	|	0.0063
-The Lorel Query Language for Semistructured Data	|	0.0052
-Continuous queries over data streams	|	0.0042
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0042
-Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0039
-NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0039
-Monitoring Streams - A New Class of Data Management Applications	|	0.0033
-Lore: a database management system for semistructured data	|	0.0028
-Models and issues in data stream systems	|	0.0023
-Answering queries using views: A survey	|	0.0017
+extensible markup language (xml) 1	|	0.6000
+Extensible Markup Language (XML) 1.0	|	0.5000
+XML-QL: A Query Language for XML	|	0.3750
+Storing and querying ordered XML using a relational database system	|	0.3333
+Efficient Algorithms for Processing XPath Queries	|	0.2857
+Filtering algorithms and implementation for very fast publish/subscribe systems	|	0.2857
+Storing and Querying XML Data using an RDBMS	|	0.2857
+Detecting Changes in XML Documents	|	0.2857
+XML Path Language (XPath) Version 1.0	|	0.2857
+Human behavior and the principle of least effort	|	0.2857
+Structural Joins: A Primitive for Efficient XML Query Pattern Matching	|	0.2857
+Holistic twig joins: optimal XML pattern matching	|	0.2667
+Efficient Filtering of XML Documents with XPath Expressions	|	0.2500
+Storing Semistructured Data with STORED	|	0.2222
+Remarks on the algebra of non first normal form relations	|	0.2222
+Join processing in database systems with large main memories	|	0.2222
+XRel: a path-based approach to storage and retrieval of XML documents using relational databases	|	0.2222
+On Supporting Containment Queries in Relational Database Management Systems	|	0.2105
+Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.2105
+Human Behaviour and the Principle of Least Effort: an Introduction to Human Ecology	|	0.1818
+A Query Language and Optimization Techniques for Unstructured Data	|	0.1600
+TIMBER: A native XML database	|	0.1538
+Path sharing and predicate evaluation for high-performance XML filtering	|	0.1538
+Indexing and Querying XML Data for Regular Path Expressions	|	0.1429
+The Architecture Of An Active Data Base Management System	|	0.1429
+The Lorel Query Language for Semistructured Data	|	0.1333
+A Fast Index for Semistructured Data	|	0.1250
+Efficiently Publishing Relational Data as XML Documents	|	0.1250
+Aurora: a new model and architecture for data stream management	|	0.1250
+From Structured Documents to Novel Query Facilities	|	0.1111
+Multiple-query optimization	|	0.1000
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0870
+Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.0833
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0833
+Continuous queries over data streams	|	0.0833
+NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0800
+Monitoring Streams - A New Class of Data Management Applications	|	0.0741
+Lore: a database management system for semistructured data	|	0.0714
+Models and issues in data stream systems	|	0.0625
+Answering queries using views: A survey	|	0.0541

@@ -1,66 +1,66 @@
-TIMBER: A native XML database	|	0.3333
-XML Path Language (XPath) Version 1.0	|	0.3333
-Indexing and Querying XML Data for Regular Path Expressions	|	0.3158
-Quilt: An XML Query Language for Heterogeneous Data Sources	|	0.3000
-The Lorel Query Language for Semistructured Data	|	0.2857
-On indexing mobile objects	|	0.2500
-Adding Structure to Unstructured Data	|	0.2353
-Storing and querying ordered XML using a relational database system	|	0.2353
-Query Optimization for XML	|	0.2308
-XMILL: An Efficient Compressor for XML Data	|	0.2222
-Quad Trees: A Data Structure for Retrieval on Composite Keys	|	0.2222
-DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.2069
-A Query Language and Optimization Techniques for Unstructured Data	|	0.2000
-The Object Database Standard: ODMG-93	|	0.2000
-Containment and equivalence for an XPath fragment	|	0.2000
-A Query Language for XML	|	0.1905
-Lore: a database management system for semistructured data	|	0.1818
-Hilbert R-tree: An Improved R-tree using Fractals	|	0.1739
-Human behavior and the principle of least effort	|	0.1667
-Multidimensional access methods	|	0.1500
-Distance browsing in spatial databases	|	0.1429
-Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.1379
-The Ubiquitous B-Tree	|	0.1379
-Querying the World Wide Web	|	0.1333
-extensible markup language (xml) 1	|	0.1333
-The R*-tree: an efficient and robust access method for points and rectangles	|	0.1277
-Shoring Up Persistent Applications	|	0.1250
-From Semistructured Data to XML: Migrating the Lore Data Model and Query Language	|	0.1250
-Human Behaviour and the Principle of Least Effort: an Introduction to Human Ecology	|	0.1250
-An effective way to represent quadtrees	|	0.1250
-Index Structures for Path Expressions	|	0.1176
-The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.1143
-W3QS: A Query System for the World-Wide Web	|	0.1111
-Query By Example	|	0.1111
-Direct Spatial Search on Pictorial Databases Using Packed R-Trees	|	0.1111
-Spatial SQL: A Query and Presentation Language	|	0.1111
-Path sharing and predicate evaluation for high-performance XML filtering	|	0.1111
-Storing and Querying XML Data using an RDBMS	|	0.1053
-Efficient locking for concurrent operations on B-trees	|	0.1053
-Structural Joins: A Primitive for Efficient XML Query Pattern Matching	|	0.1053
-Holistic twig joins: optimal XML pattern matching	|	0.1000
-Searching in high-dimensional spaces: Index structures for improving the performance of multimedia databases	|	0.1000
-A Fast Index for Semistructured Data	|	0.0952
-Efficiently Publishing Relational Data as XML Documents	|	0.0952
-Generalized Search Trees for Database Systems	|	0.0952
-Organization and Maintenance of Large Ordered Indexes	|	0.0909
-Join indices	|	0.0909
-Query-by-Example: A Data Base Language	|	0.0909
-From Structured Documents to Novel Query Facilities	|	0.0870
-M-tree: An Efficient Access Method for Similarity Search in Metric Spaces	|	0.0870
-On packing R-trees	|	0.0870
-Storing Semistructured Data with STORED	|	0.0870
-On Supporting Containment Queries in Relational Database Management Systems	|	0.0833
-Your Mediators Need Data Conversion!	|	0.0833
-Semistructured data	|	0.0833
-Similarity Indexing with the SS-tree	|	0.0833
-The design & analysis of spatial data structures	|	0.0833
-Spatial Query Processing in an Object-Oriented Database System	|	0.0769
-The TV-Tree: An Index Structure for High-Dimensional Data	|	0.0741
-Organization and Maintenance of Large Ordered Indices	|	0.0690
-Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0645
-The Design and Analysis of Spatial Data Structures	|	0.0645
-Data integration: a theoretical perspective	|	0.0606
-A survey of approaches to automatic schema matching	|	0.0571
-Database techniques for the World-Wide Web: a survey	|	0.0571
-Fast Subsequence Matching in Time-Series Databases	|	0.0500
+Index Structures for Path Expressions	|	0.3386
+Indexing and Querying XML Data for Regular Path Expressions	|	0.2054
+Direct Spatial Search on Pictorial Databases Using Packed R-Trees	|	0.1980
+A Fast Index for Semistructured Data	|	0.1679
+Generalized Search Trees for Database Systems	|	0.1679
+On packing R-trees	|	0.1506
+On Supporting Containment Queries in Relational Database Management Systems	|	0.1429
+DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.1167
+Containment and equivalence for an XPath fragment	|	0.0755
+XML Path Language (XPath) Version 1.0	|	0.0357
+Adding Structure to Unstructured Data	|	0.0330
+TIMBER: A native XML database	|	0.0297
+Querying the World Wide Web	|	0.0270
+On indexing mobile objects	|	0.0244
+Quilt: An XML Query Language for Heterogeneous Data Sources	|	0.0242
+Storing and querying ordered XML using a relational database system	|	0.0220
+XMILL: An Efficient Compressor for XML Data	|	0.0213
+The Object Database Standard: ODMG-93	|	0.0204
+Quad Trees: A Data Structure for Retrieval on Composite Keys	|	0.0198
+Human behavior and the principle of least effort	|	0.0179
+A Query Language for XML	|	0.0146
+The Lorel Query Language for Semistructured Data	|	0.0142
+Query Optimization for XML	|	0.0138
+extensible markup language (xml) 1	|	0.0135
+A Query Language and Optimization Techniques for Unstructured Data	|	0.0134
+Shoring Up Persistent Applications	|	0.0122
+From Semistructured Data to XML: Migrating the Lore Data Model and Query Language	|	0.0122
+Human Behaviour and the Principle of Least Effort: an Introduction to Human Ecology	|	0.0122
+An effective way to represent quadtrees	|	0.0122
+From Structured Documents to Novel Query Facilities	|	0.0120
+Hilbert R-tree: An Improved R-tree using Fractals	|	0.0120
+Lore: a database management system for semistructured data	|	0.0101
+Data integration: a theoretical perspective	|	0.0101
+W3QS: A Query System for the World-Wide Web	|	0.0099
+Query By Example	|	0.0099
+Spatial SQL: A Query and Presentation Language	|	0.0099
+Path sharing and predicate evaluation for high-performance XML filtering	|	0.0099
+Storing and Querying XML Data using an RDBMS	|	0.0089
+Efficient locking for concurrent operations on B-trees	|	0.0089
+Structural Joins: A Primitive for Efficient XML Query Pattern Matching	|	0.0089
+Holistic twig joins: optimal XML pattern matching	|	0.0081
+Distance browsing in spatial databases	|	0.0078
+Efficiently Publishing Relational Data as XML Documents	|	0.0073
+Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.0072
+The Ubiquitous B-Tree	|	0.0072
+Organization and Maintenance of Large Ordered Indexes	|	0.0066
+Query-by-Example: A Data Base Language	|	0.0066
+Join indices	|	0.0060
+M-tree: An Efficient Access Method for Similarity Search in Metric Spaces	|	0.0060
+Storing Semistructured Data with STORED	|	0.0060
+Your Mediators Need Data Conversion!	|	0.0055
+Semistructured data	|	0.0055
+Similarity Indexing with the SS-tree	|	0.0055
+The design & analysis of spatial data structures	|	0.0055
+Multidimensional access methods	|	0.0052
+The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0047
+Spatial Query Processing in an Object-Oriented Database System	|	0.0046
+The TV-Tree: An Index Structure for High-Dimensional Data	|	0.0042
+Organization and Maintenance of Large Ordered Indices	|	0.0036
+Searching in high-dimensional spaces: Index structures for improving the performance of multimedia databases	|	0.0035
+The R*-tree: an efficient and robust access method for points and rectangles	|	0.0035
+Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0031
+The Design and Analysis of Spatial Data Structures	|	0.0031
+A survey of approaches to automatic schema matching	|	0.0024
+Database techniques for the World-Wide Web: a survey	|	0.0024
+Fast Subsequence Matching in Time-Series Databases	|	0.0017

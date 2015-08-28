@@ -1,45 +1,45 @@
-What's hot and what's not: tracking most frequent items dynamically	|	0.3864
-An Improved Data Stream Summary: The Count-Min Sketch and Its Applications	|	0.3409
-Approximate Frequency Counts over Data Streams	|	0.2896
-Distributed top-k monitoring	|	0.1852
-New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.1538
-Issues in data stream management	|	0.1213
-Maintaining Stream Statistics over Sliding Windows	|	0.0682
-Random sampling with a reservoir	|	0.0405
-Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.0400
-Adaptive filters for continuous queries over distributed data streams	|	0.0400
-Query Processing in Sensor Networks	|	0.0286
-Super-peer-based routing and clustering strategies for RDF-based peer-to-peer networks	|	0.0270
-Srikant: "fast algorithms for mining association rules	|	0.0270
-Evaluating probabilistic queries over imprecise data	|	0.0227
-Optimal Aggregation Algorithms for Middleware	|	0.0227
-Probabilistic Counting Algorithms for Data Base Applications	|	0.0227
-Principles of distributed database systems	|	0.0227
-Bottom-Up Computation of Sparse and Iceberg CUBEs	|	0.0211
-Model-Driven Data Acquisition in Sensor Networks	|	0.0200
-Evaluating Top-k Queries over Web-Accessible Databases	|	0.0196
-Towards Sensor Database Systems	|	0.0175
-Load Shedding in a Data Stream Manager	|	0.0175
-Scalable Distributed Stream Processing	|	0.0154
-StatStream: Statistical Monitoring of Thousands of Data Streams in Real Time	|	0.0154
-Improved Histograms for Selectivity Estimation of Range Predicates	|	0.0135
-Efficient Algorithms for Mining Outliers from Large Data Sets	|	0.0133
-Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.0105
-Sampling Large Databases for Association Rules	|	0.0101
-The CQL continuous query language: semantic foundations and query execution	|	0.0083
-Continuously adaptive continuous queries over streams	|	0.0077
-Wavelet-Based Histograms for Selectivity Estimation	|	0.0073
-An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.0071
-NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0071
-Approximate Query Processing Using Wavelets	|	0.0067
-Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0067
-Models and issues in data stream systems	|	0.0065
-Monitoring Streams - A New Class of Data Management Applications	|	0.0061
-An Effective Hash Based Algorithm for Mining Association Rules	|	0.0046
-The design of an acquisitional query processor for sensor networks	|	0.0046
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0038
-Online Aggregation	|	0.0036
-Eddies: Continuously Adaptive Query Processing	|	0.0036
-Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0036
-Fast Algorithms for Mining Association Rules	|	0.0027
-Fast Algorithms for Mining Association Rules in Large Databases	|	0.0023
+What's hot and what's not: tracking most frequent items dynamically	|	0.7273
+Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.5000
+Approximate Frequency Counts over Data Streams	|	0.4545
+An Improved Data Stream Summary: The Count-Min Sketch and Its Applications	|	0.3636
+Maintaining Stream Statistics over Sliding Windows	|	0.3636
+Distributed top-k monitoring	|	0.3158
+Adaptive filters for continuous queries over distributed data streams	|	0.2857
+Random sampling with a reservoir	|	0.2667
+New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.2609
+Query Processing in Sensor Networks	|	0.2222
+Evaluating Top-k Queries over Web-Accessible Databases	|	0.1818
+Evaluating probabilistic queries over imprecise data	|	0.1818
+Optimal Aggregation Algorithms for Middleware	|	0.1818
+Probabilistic Counting Algorithms for Data Base Applications	|	0.1818
+Principles of distributed database systems	|	0.1818
+Models and issues in data stream systems	|	0.1714
+Model-Driven Data Acquisition in Sensor Networks	|	0.1667
+Continuously adaptive continuous queries over streams	|	0.1538
+Towards Sensor Database Systems	|	0.1538
+Load Shedding in a Data Stream Manager	|	0.1538
+NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.1429
+Efficient Algorithms for Mining Outliers from Large Data Sets	|	0.1429
+Scalable Distributed Stream Processing	|	0.1429
+StatStream: Statistical Monitoring of Thousands of Data Streams in Real Time	|	0.1429
+Super-peer-based routing and clustering strategies for RDF-based peer-to-peer networks	|	0.1333
+Improved Histograms for Selectivity Estimation of Range Predicates	|	0.1333
+Monitoring Streams - A New Class of Data Management Applications	|	0.1333
+Srikant: "fast algorithms for mining association rules	|	0.1333
+Wavelet-Based Histograms for Selectivity Estimation	|	0.1176
+Bottom-Up Computation of Sparse and Iceberg CUBEs	|	0.1176
+Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.1176
+The CQL continuous query language: semantic foundations and query execution	|	0.1053
+Approximate Query Processing Using Wavelets	|	0.1000
+Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.1000
+Sampling Large Databases for Association Rules	|	0.0909
+Fast Algorithms for Mining Association Rules	|	0.0816
+The design of an acquisitional query processor for sensor networks	|	0.0800
+Online Aggregation	|	0.0769
+An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.0769
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0769
+Issues in data stream management	|	0.0769
+Eddies: Continuously Adaptive Query Processing	|	0.0741
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0741
+An Effective Hash Based Algorithm for Mining Association Rules	|	0.0625
+Fast Algorithms for Mining Association Rules in Large Databases	|	0.0588

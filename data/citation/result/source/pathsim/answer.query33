@@ -1,30 +1,31 @@
-Ontologies - a silver bullet for knowledge management and electronic commerce	|	0.5714
-An Information-Theoretic Definition of Similarity	|	0.3333
-The Evolution of the Web and Implications for an Incremental Crawler	|	0.2857
-Focused Crawling Using Context Graphs	|	0.2857
-Ontology Learning for the Semantic Web	|	0.2857
-Generic Schema Matching with Cupid	|	0.2500
-Trust Management for the Semantic Web	|	0.2500
-SLIQ: A Fast Scalable Classifier for Data Mining	|	0.2222
-PROMPT: Algorithm and Tool for Automated Ontology Merging and Alignment	|	0.2222
-Crawling the Hidden Web	|	0.2000
-Database Mining: A Performance Perspective	|	0.2000
-SPRINT: A Scalable Parallel Classifier for Data Mining	|	0.1818
-Semantic integration: a survey of ontology-based approaches	|	0.1818
-Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.1739
-Similarity Flooding: A Versatile Graph Matching Algorithm and Its Application to Schema Matching	|	0.1667
-Translating Web Data	|	0.1667
-Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.1600
-Ontology mapping: the state of the art	|	0.1429
-COMA - A System for Flexible Combination of Schema Matching Approaches	|	0.1333
-Constraint-Based Rule Mining in Large, Dense Databases	|	0.1333
-The PROMPT suite: interactive tools for ontology merging and mapping	|	0.1250
-Ontology Mapping: The State of the Art	|	0.1250
-Data Mining: An Overview from a Database Perspective	|	0.1143
-Schema Mapping as Query Discovery	|	0.1111
-Learning to match ontologies on the Semantic Web	|	0.1053
-Learning to map between ontologies on the semantic web	|	0.1000
-Piazza: data management infrastructure for semantic web applications	|	0.1000
-The Gamma Database Machine Project	|	0.0870
-A Survey of Schema-Based Matching Approaches	|	0.0870
-A survey of approaches to automatic schema matching	|	0.0625
+Focused Crawling: A New Approach to Topic-Specific Web Resource Discovery	|	0.3600
+SLIQ: A Fast Scalable Classifier for Data Mining	|	0.3429
+SPRINT: A Scalable Parallel Classifier for Data Mining	|	0.3059
+Learning to match ontologies on the Semantic Web	|	0.1561
+Learning to map between ontologies on the semantic web	|	0.1365
+Ontologies - a silver bullet for knowledge management and electronic commerce	|	0.1111
+Ontology Learning for the Semantic Web	|	0.0909
+The Evolution of the Web and Implications for an Incremental Crawler	|	0.0556
+Focused Crawling Using Context Graphs	|	0.0556
+An Information-Theoretic Definition of Similarity	|	0.0465
+Trust Management for the Semantic Web	|	0.0408
+Crawling the Hidden Web	|	0.0333
+Semantic integration: a survey of ontology-based approaches	|	0.0278
+Generic Schema Matching with Cupid	|	0.0247
+Similarity Flooding: A Versatile Graph Matching Algorithm and Its Application to Schema Matching	|	0.0233
+Translating Web Data	|	0.0233
+PROMPT: Algorithm and Tool for Automated Ontology Merging and Alignment	|	0.0189
+Ontology mapping: the state of the art	|	0.0167
+Database Mining: A Performance Perspective	|	0.0148
+COMA - A System for Flexible Combination of Schema Matching Approaches	|	0.0143
+Constraint-Based Rule Mining in Large, Dense Databases	|	0.0143
+The PROMPT suite: interactive tools for ontology merging and mapping	|	0.0123
+Ontology Mapping: The State of the Art	|	0.0123
+Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.0108
+Schema Mapping as Query Discovery	|	0.0094
+Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.0089
+Piazza: data management infrastructure for semantic web applications	|	0.0066
+A Survey of Schema-Based Matching Approaches	|	0.0054
+The Gamma Database Machine Project	|	0.0049
+Data Mining: An Overview from a Database Perspective	|	0.0039
+A survey of approaches to automatic schema matching	|	0.0025

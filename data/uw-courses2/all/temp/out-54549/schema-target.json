@@ -1,0 +1,159 @@
+{
+    "nodes": [
+        {
+            "index": 0,
+            "dataId": "course-137",
+            "name": "AGRIC WASTE",
+            "type": "course",
+            "group": 1
+        },
+        {
+            "index": 1,
+            "dataId": "course-3594",
+            "name": "OPER MGT",
+            "type": "course",
+            "group": 1
+        },
+        {
+            "index": 2,
+            "dataId": "course-3588",
+            "name": "[M] ADV OP MGT",
+            "type": "course",
+            "group": 1
+        },
+        {
+            "index": 3,
+            "dataId": "course-3586",
+            "name": "[M] STAT METH",
+            "type": "course",
+            "group": 1
+        },
+        {
+            "index": 4,
+            "dataId": "course-2721",
+            "name": "TIME SERIES",
+            "type": "course",
+            "group": 1
+        },
+        {
+            "index": 5,
+            "dataId": "inst-139",
+            "name": "CHEN",
+            "type": "inst",
+            "group": 2
+        },
+        {
+            "index": 6,
+            "dataId": "inst-2723",
+            "name": "AHN",
+            "type": "inst",
+            "group": 2
+        },
+        {
+            "index": 7,
+            "dataId": "offer-138",
+            "name": "1124",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 8,
+            "dataId": "offer-3585",
+            "name": "4908",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 9,
+            "dataId": "offer-3584",
+            "name": "4907",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 10,
+            "dataId": "offer-3595",
+            "name": "4918",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 11,
+            "dataId": "offer-3579",
+            "name": "4898",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 12,
+            "dataId": "offer-2722",
+            "name": "3805",
+            "type": "offer",
+            "group": 3
+        },
+        {
+            "index": 13,
+            "dataId": "subject-11",
+            "name": "AGTM",
+            "type": "subject",
+            "group": 4
+        },
+        {
+            "index": 14,
+            "dataId": "subject-3578",
+            "name": "DEC S",
+            "type": "subject",
+            "group": 4
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 7
+        },
+        {
+            "source": 1,
+            "target": 10
+        },
+        {
+            "source": 4,
+            "target": 12
+        },
+        {
+            "source": 0,
+            "target": 13
+        },
+        {
+            "source": 1,
+            "target": 14
+        },
+        {
+            "source": 2,
+            "target": 14
+        },
+        {
+            "source": 3,
+            "target": 14
+        },
+        {
+            "source": 7,
+            "target": 5
+        },
+        {
+            "source": 8,
+            "target": 5
+        },
+        {
+            "source": 9,
+            "target": 5
+        },
+        {
+            "source": 11,
+            "target": 6
+        },
+        {
+            "source": 12,
+            "target": 6
+        }
+    ]
+}

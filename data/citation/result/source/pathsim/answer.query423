@@ -1,21 +1,22 @@
-The theory of joins in relational databases	|	0.5000
-Algorithms for Acyclic Database Schemes	|	0.3333
-Computational problems related to the design of normal form relational schemas	|	0.3077
-On the Desirability of Acyclic Database Schemes	|	0.2500
-Update semantics of relational views	|	0.2500
-Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.2105
-Answering Queries Using Templates with Binding Patterns	|	0.1818
-Computable Queries for Relational Data Bases	|	0.1818
-Using Semi-Joins to Solve Relational Queries	|	0.1667
-Dependency Structures of Data Base Relationships	|	0.1333
-Logic and Databases: A Deductive Approach	|	0.1290
-A logical design methodology for relational databases using the extended entity-relationship model	|	0.1250
-Synthesizing third normal form relations from functional dependencies	|	0.1250
-An Introduction to Database Systems	|	0.1176
-The Theory of Relational Databases	|	0.1176
-Further Normalization of the Data Base Relational Model	|	0.0952
-Optimizing Queries with Materialized Views	|	0.0870
-A comparative analysis of methodologies for database schema integration	|	0.0690
-Foundations of Databases	|	0.0563
-Answering queries using views: A survey	|	0.0541
-Principles of Database and Knowledge-Base Systems, Volume II	|	0.0519
+Optimal implementation of conjunctive queries in relational databases	|	0.3333
+Dependency Structures of Data Base Relationships	|	0.1905
+Synthesizing third normal form relations from functional dependencies	|	0.1753
+Algorithms for Acyclic Database Schemes	|	0.0833
+The theory of joins in relational databases	|	0.0714
+On the Desirability of Acyclic Database Schemes	|	0.0476
+Update semantics of relational views	|	0.0476
+Computational problems related to the design of normal form relational schemas	|	0.0328
+Answering Queries Using Templates with Binding Patterns	|	0.0238
+Computable Queries for Relational Data Bases	|	0.0198
+Using Semi-Joins to Solve Relational Queries	|	0.0196
+Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.0141
+An Introduction to Database Systems	|	0.0090
+A logical design methodology for relational databases using the extended entity-relationship model	|	0.0089
+Further Normalization of the Data Base Relational Model	|	0.0056
+Logic and Databases: A Deductive Approach	|	0.0049
+Optimizing Queries with Materialized Views	|	0.0042
+The Theory of Relational Databases	|	0.0040
+A comparative analysis of methodologies for database schema integration	|	0.0028
+Answering queries using views: A survey	|	0.0017
+Foundations of Databases	|	0.0009
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0007

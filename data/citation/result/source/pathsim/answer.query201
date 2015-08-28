@@ -1,44 +1,45 @@
-Generic Schema Matching with Cupid	|	0.5000
-Learning to match ontologies on the Semantic Web	|	0.4211
-A Survey of Schema-Based Matching Approaches	|	0.3478
-Schema Mapping as Query Discovery	|	0.3333
-Bringing Semantics to Web Services: The OWL-S Approach	|	0.2857
-COMA - A System for Flexible Combination of Schema Matching Approaches	|	0.2667
-Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.2609
-Measuring Similarity between Ontologies	|	0.2500
-Trust Management for the Semantic Web	|	0.2500
-The PROMPT suite: interactive tools for ontology merging and mapping	|	0.2500
-Simple Fast Algorithms for the Editing Distance Between Trees and Related Problems	|	0.2500
-Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.2400
-Applying Model Management to Classical Meta Data Problems	|	0.2222
-Resource description framework (rdf)	|	0.2000
-Ontology Evolution: Not the Same as Schema Evolution	|	0.2000
-DAML-S: Web Service Description for the Semantic Web	|	0.2000
-Piazza: data management infrastructure for semantic web applications	|	0.2000
-Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.1818
-Composing Web services on the Semantic Web	|	0.1818
-Semantic integration: a survey of ontology-based approaches	|	0.1818
-Development and application of a metric on semantic nets	|	0.1818
-Semantic integration of semistructured and structured data sources	|	0.1667
-Similarity Flooding: A Versatile Graph Matching Algorithm and Its Application to Schema Matching	|	0.1667
-Translating Web Data	|	0.1667
-A Theory of Attribute Equivalence in Databases with Application to Schema Integration	|	0.1667
-Dynamic service matchmaking among agents in open information environments	|	0.1429
-Ontology mapping: the state of the art	|	0.1429
-Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases	|	0.1333
-Data Cleaning: Problems and Current Approaches	|	0.1333
-A survey of approaches to automatic schema matching	|	0.1250
-Ontology Mapping: The State of the Art	|	0.1250
-Wrapper induction: Efficiency and expressiveness	|	0.1176
-Data Management for Peer-to-Peer Computing : A Vision	|	0.1111
-Optimizing Queries Across Diverse Data Sources	|	0.1111
-Schema Mediation in Peer Data Management Systems	|	0.1053
-Learning to map between ontologies on the semantic web	|	0.1000
-Semantic e-Workflow Composition	|	0.1000
-An Adaptive Query Execution System for Data Integration	|	0.0769
-DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0769
-The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0714
-Data integration: a theoretical perspective	|	0.0667
-A comparative analysis of methodologies for database schema integration	|	0.0645
-Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0625
-Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0541
+Similarity Flooding: A Versatile Graph Matching Algorithm and Its Application to Schema Matching	|	0.3023
+Semantic Matching of Web Services Capabilities	|	0.2791
+COMA - A System for Flexible Combination of Schema Matching Approaches	|	0.2429
+Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.1398
+A survey of approaches to automatic schema matching	|	0.0865
+Bringing Semantics to Web Services: The OWL-S Approach	|	0.0556
+Generic Schema Matching with Cupid	|	0.0494
+Measuring Similarity between Ontologies	|	0.0476
+Simple Fast Algorithms for the Editing Distance Between Trees and Related Problems	|	0.0476
+Trust Management for the Semantic Web	|	0.0408
+Applying Model Management to Classical Meta Data Problems	|	0.0400
+Resource description framework (rdf)	|	0.0333
+Learning to match ontologies on the Semantic Web	|	0.0297
+Schema Mapping as Query Discovery	|	0.0283
+Ontology Evolution: Not the Same as Schema Evolution	|	0.0282
+DAML-S: Web Service Description for the Semantic Web	|	0.0282
+Semantic integration: a survey of ontology-based approaches	|	0.0278
+Development and application of a metric on semantic nets	|	0.0278
+The PROMPT suite: interactive tools for ontology merging and mapping	|	0.0247
+Composing Web services on the Semantic Web	|	0.0235
+Semantic integration of semistructured and structured data sources	|	0.0233
+Translating Web Data	|	0.0233
+A Theory of Attribute Equivalence in Databases with Application to Schema Integration	|	0.0233
+A Survey of Schema-Based Matching Approaches	|	0.0215
+Dynamic service matchmaking among agents in open information environments	|	0.0167
+Ontology mapping: the state of the art	|	0.0167
+Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases	|	0.0143
+Data Cleaning: Problems and Current Approaches	|	0.0143
+Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.0133
+Piazza: data management infrastructure for semantic web applications	|	0.0133
+Ontology Mapping: The State of the Art	|	0.0123
+Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.0119
+Wrapper induction: Efficiency and expressiveness	|	0.0108
+Data Management for Peer-to-Peer Computing : A Vision	|	0.0094
+Optimizing Queries Across Diverse Data Sources	|	0.0083
+Schema Mediation in Peer Data Management Systems	|	0.0074
+Semantic e-Workflow Composition	|	0.0074
+Learning to map between ontologies on the semantic web	|	0.0059
+An Adaptive Query Execution System for Data Integration	|	0.0041
+DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0037
+The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0034
+A comparative analysis of methodologies for database schema integration	|	0.0027
+Data integration: a theoretical perspective	|	0.0027
+Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0025
+Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0018
