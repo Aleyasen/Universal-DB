@@ -26,7 +26,7 @@
     ],
     "schema": {
         "source": {
-            "name": "Washington State University Courses",
+            "name": "Course database according to WSU representation",
             "v_files": [
                 "course",
                 "inst",
@@ -44,7 +44,7 @@
             }
         },
         "target": {
-            "name": "University of Washington, CSE Department (from Alchemy)",
+            "name": "Course database according to Alchemy Representation",
             "v_files": [
                 "course",
                 "inst",

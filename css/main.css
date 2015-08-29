@@ -141,7 +141,12 @@ body {
     font-size:120%;
     text-decoration: none;
 }
-.pageButton img:hover {
+
+/*.pageButton img:hover {
+    opacity: 1;
+}*/
+
+.pageButton:hover img {
     opacity: 1;
 }
 

@@ -34,9 +34,11 @@
     <body>
 
         <div class="logo-image">
-            <img src="img/logo.png" width="260px">
+            <a href="index.php">
+                <img src="img/logo.png" width="260px">
+            </a>
         </div>
-        
+
         <div class="univ-images">
             <img src="img/uiuc.png" height="60px">
             <img src="img/osu.png" height="60px">
