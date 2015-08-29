@@ -25,16 +25,17 @@
                 <div>Compare Rankings</div>
             </a>
         </center>
-    </div>    
-<!--    <div class="panel-heading btn-block menu-header">
-        <br>
-        <center>
-            <a id="compare-algs" href="#algorithm" aria-controls="algorithm" role="tab" data-toggle="tab">
-                <div><img src="img/network.png" width="35px"></div>
-                <div>Compare Algorithms</div>
-            </a>
-        </center>
-    </div>-->
+    </div>
+        
+    <!--    <div class="panel-heading btn-block menu-header">
+            <br>
+            <center>
+                <a id="compare-algs" href="#algorithm" aria-controls="algorithm" role="tab" data-toggle="tab">
+                    <div><img src="img/network.png" width="35px"></div>
+                    <div>Compare Algorithms</div>
+                </a>
+            </center>
+        </div>-->
 
     <!--    <div class="panel-heading btn-block menu-header">
             <center>

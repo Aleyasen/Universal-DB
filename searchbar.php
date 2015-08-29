@@ -1,4 +1,4 @@
-<div>
+<div style="margin-top:25px;">
     <center>
         <div class="navbar-form">
             <input type="text" size="100" class="form-control search-box" placeholder="Search...">

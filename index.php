@@ -1,14 +1,14 @@
 <?php include 'header.php'; ?>
 <div>
     <div class="row">
-        <div class="col-md-1">
+<!--        <div class="col-md-1">
 
             <?php
-            include 'menu.php';
+             // include 'menu.php';
             ?>
 
-        </div>
-        <div class="col-md-11">
+        </div>-->
+        <div class="col-md-12">
             <?php
             include 'content.php';
             ?>

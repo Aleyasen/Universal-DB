@@ -33,18 +33,12 @@
 
     <body>
 
-
-        <nav class="navbar navbar-inverse navbar-fixed-top">
-            <div class="container-fluid">
-                <div class="navbar-header">
-                    <a class="navbar-brand" href="#"><b>Universal-DB</b></a>
-                </div>
-                <div id="navbar" class="navbar-collapse collapse">
-                    <ul class="nav navbar-nav navbar-right">
-                        <li><a href="#">Contact Us</a></li>
-                        <li><a href="#">About Us</a></li>
-                        <li><a href="#">Help</a></li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
+        <div class="logo-image">
+            <img src="img/logo.png" width="260px">
+        </div>
+        
+        <div class="univ-images">
+            <img src="img/uiuc.png" height="60px">
+            <img src="img/osu.png" height="60px">
+            <img src="img/nu.png" height="60px">
+        </div>

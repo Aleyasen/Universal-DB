@@ -1,4 +1,4 @@
-course	subject
+ntype1	ntype2
 2575	2562
 1306	1304
 2271	2274

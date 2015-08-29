@@ -1,8 +1,10 @@
 body {
     padding-top: 60px;
     background-color: #fcfcff;
-    padding-left: 20px;
-    padding-right: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    /*background: #EEF2EA;*/
+    background: #f7f7f9;
 }
 
 .container-fluid {
@@ -16,7 +18,7 @@ body {
 .highlight {
     padding: 1px 1px;
     margin-bottom: 5px;
-    background-color: #f7f7f9;
+    background-color: #EEF2EA;
     border: 1px solid #e1e1e8;
     border-radius: 4px;
 }
@@ -108,4 +110,50 @@ body {
 .node.fixed > text {
     font: 13px sans-serif;
     font-weight: bold;
+}
+
+// arrows 
+.rightArrow {
+    right: 2%;
+}
+.pageButtonContainer {
+    /*position: absolute;*/
+    z-index: 2;
+    /*top: 20%;*/
+    display: table;
+    background: transparent;
+    /*height: 80%;*/
+    /*min-height: 450px;*/
+}
+
+.pageButton {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.pageButton img {
+    cursor: pointer;
+    opacity: 0.4;
+    -webkit-transition: opacity 0.5s;
+}
+
+.pageButton a {
+    font-size:120%;
+    text-decoration: none;
+}
+.pageButton img:hover {
+    opacity: 1;
+}
+
+.logo-image {
+    position: absolute;
+    top: 15px;
+    left: 10px;
+}
+
+
+.univ-images {
+    position: absolute;
+    top: 15px;
+    right: 50px;
 }

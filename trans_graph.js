@@ -35,10 +35,10 @@ var dbs;
 $(document).ready(function() {
     $("#choose-dataset").css("background-color", "#E0E0E0");
 
-    $(".menu-header").click(function() {
-        $(".menu-header").css("background-color", "#f5f5f5");
-        $(this).css("background-color", "#E0E0E0");
-    });
+//    $(".menu-header").click(function() {
+//        $(".menu-header").css("background-color", "#f5f5f5");
+//        $(this).css("background-color", "#E0E0E0");
+//    });
     var url = "./getattr.php?attr=all";
     $.getJSON(url, function(data) {
         dbs = data;
@@ -201,7 +201,7 @@ function generateGraph(container, inputdata, entityNodes, schema) {
     var width = $(container).width();
 //        alert(width);
 //            height = $("#rwr-src").width();
-    var height = Math.max(400, ($(window).height()) - 200);
+    var height = Math.max(400, ($(window).height()) - 230);
     console.log("width = " + width);
     console.log("height = " + height);
 //    alert(width);
