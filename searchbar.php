@@ -1,7 +1,7 @@
 <div style="margin-top:25px;">
     <center>
         <div class="navbar-form">
-            <input type="text" size="100" class="form-control search-box" placeholder="Search...">
+            <input type="text" size="70" class="form-control search-box" placeholder="Search...">
             <button class="btn btn-info search-button">Search</button>
             <!--<span style="font-size: 90%;"><a>&nbsp;options</a></span>-->
             <span class="text-right" style="padding-left:40px;">

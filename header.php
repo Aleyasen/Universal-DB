@@ -35,12 +35,12 @@
 
         <div class="logo-image">
             <a href="index.php">
-                <img src="img/logo.png" width="260px">
+                <img src="img/logo.png" width="240px">
             </a>
         </div>
 
         <div class="univ-images">
-            <img src="img/uiuc.png" height="60px">
-            <img src="img/osu.png" height="60px">
-            <img src="img/nu.png" height="60px">
+            <img src="img/uiuc.png" height="58px">
+            <img src="img/osu.png" height="58px">
+            <img src="img/nu.png" height="58px">
         </div>
