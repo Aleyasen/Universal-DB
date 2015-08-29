@@ -44,7 +44,7 @@
             }
         },
         "target": {
-            "name": "Course database according to Alchemy Representation",
+            "name": "Course database according to Alchemy representation",
             "v_files": [
                 "course",
                 "inst",
