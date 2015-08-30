@@ -92,8 +92,8 @@ function generateList(selector, src_query_file, target_query_file, listIndex) {
 
 
 function createAll(svg, top_k, src_list, target_list, listIndex) {
-    var srcRects = createList(svg, 5, 10, top_k, src_list, src_list, target_list, listIndex, 1);
-    var destRects = createList(svg, 155, 10, top_k, target_list, src_list, target_list, listIndex, 0);
+    var srcRects = createList(svg, 5, 4, top_k, src_list, src_list, target_list, listIndex, 1);
+    var destRects = createList(svg, 155, 4, top_k, target_list, src_list, target_list, listIndex, 0);
     var connect_src = [];
     var connect_target = [];
     for (var i = 0; i < top_k; i++) {

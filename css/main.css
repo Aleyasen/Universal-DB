@@ -162,3 +162,9 @@ body {
     top: 15px;
     right: 50px;
 }
+
+.source-dataset-title, .target-dataset-title {
+    letter-spacing: 0px;
+    font-size:95%;
+    font-family: Arial Narrow,Arial,sans-serif; 
+}

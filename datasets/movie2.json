@@ -35,6 +35,7 @@
     "schema": {
         "source": {
             "name": "Internet Movie Database (IMDb)",
+            "shortname": "IMDb",
             "v_files": [
                 "actor",
                 "character",
@@ -54,6 +55,7 @@
         },
         "target": {
             "name": "Freebase",
+            "shortname": "Freebase",
             "v_files": [
                 "actor",
                 "character",

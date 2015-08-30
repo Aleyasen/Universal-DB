@@ -27,6 +27,7 @@
     "schema": {
         "source": {
             "name": "Course database according to WSU representation",
+            "shortname": "WSU",
             "v_files": [
                 "course",
                 "inst",
@@ -45,6 +46,7 @@
         },
         "target": {
             "name": "Course database according to Alchemy representation",
+            "shortname": "Alchemy",
             "v_files": [
                 "course",
                 "inst",

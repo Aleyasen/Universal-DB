@@ -49,6 +49,10 @@ $(document).ready(function() {
             $("#target-label").text(data.schema.target.name);
             $("#source-label-modal").text(data.schema.source.name);
             $("#target-label-modal").text(data.schema.target.name);
+//            alert(data.schema.source.shortname);
+            $(".source-dataset-title").text(data.schema.source.shortname);
+            $(".target-dataset-title").text(data.schema.target.shortname);
+            
             console.log("dialog >>>>>>>");
             console.log($("#dialog"));
             $("#dialog_2").prop('title', data.name);

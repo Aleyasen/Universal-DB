@@ -30,6 +30,14 @@
                         RWR
                     </div>
                     <div class="col-md-12 highlight text-center">
+                        <div class="row" style="margin-bottom: 0px;">
+                            <div class="col-md-6 text-center source-dataset-title">
+
+                            </div>
+                            <div class="col-md-6 text-center target-dataset-title">
+
+                            </div>
+                        </div>
                         <div id="ranking1"></div>
                     </div>
                 </div>
@@ -40,6 +48,14 @@
                         SimRank
                     </div>
                     <div class="col-md-12 highlight text-center">
+                        <div class="row" style="margin-bottom: 0px;">
+                            <div class="col-md-6 text-center source-dataset-title">
+
+                            </div>
+                            <div class="col-md-6 text-center target-dataset-title">
+
+                            </div>
+                        </div>
                         <div id="ranking2"></div>
                     </div>
                 </div>
@@ -50,6 +66,14 @@
                         PathSim
                     </div>
                     <div class="col-md-12 highlight text-center">
+                        <div class="row" style="margin-bottom: 0px;">
+                            <div class="col-md-6 text-center source-dataset-title">
+
+                            </div>
+                            <div class="col-md-6 text-center target-dataset-title">
+
+                            </div>
+                        </div>
                         <div id="ranking3"></div>
                     </div>
                 </div>
@@ -60,6 +84,14 @@
                         Universal-DB
                     </div>
                     <div class="col-md-12 highlight text-center">
+                        <div class="row" style="margin-bottom: 0px;">
+                            <div class="col-md-6 text-center source-dataset-title">
+
+                            </div>
+                            <div class="col-md-6 text-center target-dataset-title">
+
+                            </div>
+                        </div>
                         <div id="ranking4"></div>
                     </div>
                 </div>
