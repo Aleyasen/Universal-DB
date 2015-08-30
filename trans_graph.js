@@ -8,8 +8,15 @@ var max_nodes_fr_filter = 200;
 var default_radius_fr = 4;
 var default_max_nodes_fr = 1000;
 
-var default_icon_size = 20;
-var focus_icon_size = 25;
+var default_icon_size = 25;
+var default_onclick_icon_size = 30;
+
+var query_icon_size = 50;
+var query_onclick_icon_size = 55;
+
+var answer_icon_size = 42;
+var answer_onclick_icon_size = 47;
+
 
 
 function findInArray1D(arr, element) {
@@ -339,7 +346,7 @@ function generateGraph(container, inputdata, entityNodes, schema) {
                 .attr("height", default_icon_size);
 
         node.append("text")
-                .attr("dx", 15)
+                .attr("dx", default_icon_size / 2)
                 .attr("dy", ".35em")
                 .text(function(d) {
                     var isInList = jQuery.inArray(d.type, entityNodes);
@@ -560,27 +567,54 @@ function generateGraphForRanking(container, inputdata, result_node, query_node, 
                 .attr("xlink:href", function(d) {
                     return "img/icons/" + d.type + ".png";
                 })
-                .attr("x", -default_icon_size / 2)
-                .attr("y", -default_icon_size / 2)
+                .attr("x", function(d) {
+                    if (d.name == result_node) {
+                        return -answer_icon_size / 2;
+                    } else if (d.name == query_node) {
+                        return -query_icon_size / 2;
+                    } else {
+                        return -default_icon_size / 2;
+                    }
+                })
+                .attr("y", function(d) {
+                    if (d.name == result_node) {
+                        return -answer_icon_size / 2;
+                    } else if (d.name == query_node) {
+                        return -query_icon_size / 2;
+                    } else {
+                        return -default_icon_size / 2;
+                    }
+                })
                 .attr("width", function(d) {
                     if (d.name == result_node) {
-                        return 35;
+                        return answer_icon_size;
                     } else if (d.name == query_node) {
-                        return 45;
+                        return query_icon_size;
                     } else {
                         return default_icon_size;
                     }
                 })
                 .attr("height", function(d) {
-                    if (d.name == result_node || d.name == query_node) {
-                        return 40;
+                    if (d.name == result_node) {
+                        return answer_icon_size;
+                    } else if (d.name == query_node) {
+                        return query_icon_size;
                     } else {
                         return default_icon_size;
                     }
                 });
 
+
         node.append("text")
-                .attr("dx", 15)
+                .attr("dx", function(d) {
+                    if (d.name == result_node) {
+                        return answer_icon_size / 2;
+                    } else if (d.name == query_node) {
+                        return query_icon_size / 2;
+                    } else {
+                        return default_icon_size / 2;
+                    }
+                })
                 .attr("dy", ".35em")
                 .text(function(d) {
                     var isInList = jQuery.inArray(d.type, entityNodes);
@@ -593,7 +627,7 @@ function generateGraphForRanking(container, inputdata, result_node, query_node, 
                             return d.name + "* (" + (rank + 1) + ")" + " [" + ranking_list[rank][1] + "]";
                         }
                         if (d.name == query_node) {
-                            return d.name + " (q)";
+                            return d.name + " (Q)";
                         }
 
                         if (rank != -1) {
@@ -634,15 +668,59 @@ function generateGraphForRanking(container, inputdata, result_node, query_node, 
 
     });
     function dblclick(d) {
-        filterGraph(d.name, radius_fr_filter, max_nodes_fr_filter);
-        var selector = ".node[data-id=\"" + d.dataId + "\"] image";
+//        filterGraph(d.name, radius_fr_filter, max_nodes_fr_filter);
+        var selector = ".node[data-id=\"" + d.dataId + "\"]";
         console.log("selector = " + selector);
-        d3.selectAll(".compare-graph > svg").selectAll(selector)
-                .attr("width", 25)
-                .attr("height", 25)
-                .attr("x", -25 / 2)
-                .attr("y", -25 / 2)
-                .classed("fixed", d.fixed = false);
+        d3.selectAll(".compare-graph > svg").selectAll(selector + " image")
+                .attr("width", function(d) {
+                    if (d.name == result_node) {
+                        return answer_icon_size;
+                    } else if (d.name == query_node) {
+                        return query_icon_size;
+                    } else {
+                        return default_icon_size;
+                    }
+                })
+                .attr("height", function(d) {
+                    if (d.name == result_node) {
+                        return answer_icon_size;
+                    } else if (d.name == query_node) {
+                        return query_icon_size;
+                    } else {
+                        return default_icon_size;
+                    }
+                })
+                .attr("x", function(d) {
+                    if (d.name == result_node) {
+                        return -answer_icon_size / 2;
+                    } else if (d.name == query_node) {
+                        return -query_icon_size / 2;
+                    } else {
+                        return -default_icon_size / 2;
+                    }
+                })
+                .attr("y", function(d) {
+                    if (d.name == result_node) {
+                        return -answer_icon_size / 2;
+                    } else if (d.name == query_node) {
+                        return -query_icon_size / 2;
+                    } else {
+                        return -default_icon_size / 2;
+                    }
+                });
+//                .classed("fixed", d.fixed = false);
+
+        d3.selectAll(".compare-graph > svg").selectAll(selector + " text")
+                .attr("dx", function(d) {
+                    if (d.name == result_node) {
+                        return answer_icon_size / 2;
+                    } else if (d.name == query_node) {
+                        return query_icon_size / 2;
+                    } else {
+                        return default_icon_size / 2;
+                    }
+                })
+                .attr("dy", ".35em");
 
     }
 
@@ -654,13 +732,53 @@ function generateGraphForRanking(container, inputdata, result_node, query_node, 
                 .classed("fixed", d.fixed = true);
 
         d3.selectAll(".compare-graph > svg").selectAll(selector + " image")
-                .attr("width", 45)
-                .attr("height", 45)
-                .attr("x", -45 / 2)
-                .attr("y", -45 / 2);
+                .attr("width", function(d) {
+                    if (d.name == result_node) {
+                        return answer_onclick_icon_size;
+                    } else if (d.name == query_node) {
+                        return query_onclick_icon_size;
+                    } else {
+                        return default_onclick_icon_size;
+                    }
+                })
+                .attr("height", function(d) {
+                    if (d.name == result_node) {
+                        return answer_onclick_icon_size;
+                    } else if (d.name == query_node) {
+                        return query_onclick_icon_size;
+                    } else {
+                        return default_onclick_icon_size;
+                    }
+                })
+                .attr("x", function(d) {
+                    if (d.name == result_node) {
+                        return -answer_onclick_icon_size / 2;
+                    } else if (d.name == query_node) {
+                        return -query_onclick_icon_size / 2;
+                    } else {
+                        return -default_onclick_icon_size / 2;
+                    }
+                })
+                .attr("y", function(d) {
+                    if (d.name == result_node) {
+                        return -answer_onclick_icon_size / 2;
+                    } else if (d.name == query_node) {
+                        return -query_onclick_icon_size / 2;
+                    } else {
+                        return -default_onclick_icon_size / 2;
+                    }
+                });
 
         d3.selectAll(".compare-graph > svg").selectAll(selector + " text")
-                .attr("dx", 25)
+                .attr("dx", function(d) {
+                    if (d.name == result_node) {
+                        return answer_onclick_icon_size / 2;
+                    } else if (d.name == query_node) {
+                        return query_onclick_icon_size / 2;
+                    } else {
+                        return default_onclick_icon_size / 2;
+                    }
+                })
                 .attr("dy", ".35em");
     }
 
