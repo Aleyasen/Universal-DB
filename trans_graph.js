@@ -565,7 +565,11 @@ function generateGraphForRanking(container, inputdata, result_node, query_node, 
 
         node.append("image")
                 .attr("xlink:href", function(d) {
-                    return "img/icons/" + d.type + ".png";
+                    if (d.name == query_node) {
+                        return "img/icons/" + d.type + "-query.png";
+                    } else {
+                        return "img/icons/" + d.type + ".png";
+                    }
                 })
                 .attr("x", function(d) {
                     if (d.name == result_node) {
