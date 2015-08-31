@@ -5,6 +5,9 @@
     "sample_path": "/data/movie2/sample",
     "result": "/data/movie2/result",
     "query": "film",
+    "default_query": "Shutter Island",
+    "expansion_factr": 1,
+    "other_nodes_count": 3,
     "v_files": [
         "actor",
         "film",

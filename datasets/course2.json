@@ -4,6 +4,9 @@
     "path": "/data/uw-courses2/all",
     "sample_path": "/data/uw-courses2/sample",
     "result": "/data/uw-courses2/result",
+    "default_query": "STAT COMPUT",
+    "expansion_factr": 1,
+    "other_nodes_count": 3,
     "v_files": [
         "course",
         "inst",

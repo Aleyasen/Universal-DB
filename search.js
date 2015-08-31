@@ -10,7 +10,7 @@ $(document).ready(function() {
     $(".search-box").bind("enterKey", function(e) {
         doIt(loc_queries, loc_result_dir);
     });
-    
+
     $(".search-box").keyup(function(e) {
         if (e.keyCode == 13)
         {
@@ -41,7 +41,9 @@ function initRankingView(query_file) {
         });
 //        console.log("words");
 //        console.log(words);
-        $(".search-box").val(words[0]);
+//        $(".search-box").val(words[0]);
+        var selectedDataset = $(".datasetpicker").select().val();
+        $(".search-box").val(dbs[selectedDataset]["default_query"]);
 
         var selectedVal = $(".datasetpicker").select().val();
         var url = "./getattr.php?attr=result_dir&dataset=" + selectedVal;
