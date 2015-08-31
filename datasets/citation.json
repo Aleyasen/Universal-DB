@@ -6,7 +6,7 @@
     "result": "/data/citation/result",
     "query": "paper",
     "default_query": "Query evaluation techniques for large databases",
-    "expansion_factr": 1,
+    "expansion_factor": 0,
     "other_nodes_count": 3,
     "v_files": [
         "paper",
