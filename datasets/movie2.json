@@ -7,7 +7,7 @@
     "query": "film",
     "default_query": "Shutter Island",
     "expansion_factor": 1,
-    "other_nodes_count": 3,
+    "other_nodes_count": 2,
     "v_files": [
         "actor",
         "film",

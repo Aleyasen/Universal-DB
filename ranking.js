@@ -154,7 +154,8 @@ function createList(svg, x_init, y_init, count, labels, srcLabels, targetLabels,
                 .attr("fill", "black");
         text.on("click", function(d) {
             last_clicked_element = $(this);
-            others_count = 3;
+            var selectedDataset = $(".datasetpicker").select().val();
+            others_count = dbs[selectedDataset]["other_nodes_count"];
             showModal($(this));
 
             d3.event.stopPropagation();

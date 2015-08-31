@@ -6,7 +6,7 @@
     "result": "/data/uw-courses2/result",
     "default_query": "STAT COMPUT",
     "expansion_factor": 1,
-    "other_nodes_count": 3,
+    "other_nodes_count": 2,
     "v_files": [
         "course",
         "inst",
