@@ -1,85 +1,90 @@
-A Data Model and Query Language for EXODUS	|	0.2609
-Database description with SDM: a semantic database model	|	0.2222
-The Object Database Standard: ODMG 2.0	|	0.2000
-The Unified Modeling Language User Guide	|	0.2000
-Model checking	|	0.2000
-Database Description with SDM: A Semantic Database Model	|	0.1905
-Principles of Database Systems, 2nd Edition	|	0.1818
-Introduction to Object-Oriented Databases	|	0.1818
-The design and implementation of INGRES	|	0.1818
-Types and persistence in database programming languages	|	0.1714
-Querying Object-Oriented Databases	|	0.1667
-Logic-based approach to semantic query optimization	|	0.1667
-IFO: a formal semantic database model	|	0.1667
-Extending and Formalizing the Framework for Information Systems Architecture	|	0.1667
-Xml schema part 2: datatypes	|	0.1667
-An introduction to data base systems	|	0.1667
-Implementation of integrity constraints and views by query modification	|	0.1667
-KQML as an agent communication language	|	0.1538
-Negation as Failure	|	0.1538
-On closed world databases	|	0.1538
-Design and natural science research on information technology	|	0.1538
-Real-Time Databases	|	0.1429
-Towards a Logical Reconstruction of Relational Database Theory	|	0.1429
-Data on the Web: From Relations to Semistructured Data and XML	|	0.1429
-Database Security	|	0.1429
-A foundation for representing and querying moving objects	|	0.1429
-A homogeneous relational model and query languages for temporal databases	|	0.1429
-Pnnc:ples of database systems	|	0.1429
-Data Models	|	0.1429
-Semantic data models	|	0.1379
-Relational Completeness of Data Base Sublanguages	|	0.1379
-On Closed World Data Bases	|	0.1333
-Scheduling Real-time Transactions: a Performance Evaluation	|	0.1333
-Scheduling real-time transactions: a performance evaluation	|	0.1333
-Optimal implementation of conjunctive queries in relational databases	|	0.1333
-Foundations of Databases	|	0.1299
-A probabilistic relational algebra for the integration of information retrieval and database systems	|	0.1250
-extensible markup language (xml) 1	|	0.1250
-The temporal query language TQuel	|	0.1176
-Understanding the New SQL: A Complete Guide	|	0.1176
-Computable Queries for Relational Data Bases	|	0.1176
-Data-Driven Discovery of Quantitative Rules in Relational Databases	|	0.1176
-A comparative analysis of methodologies for database schema integration	|	0.1143
-Extending the database relational model to capture more meaning	|	0.1143
-On Optimistic Methods for Concurrency Control	|	0.1111
-A Taxonomy of Time in Databases	|	0.1111
-A federated architecture for information management	|	0.1111
-The Implementation of Postgres	|	0.1053
-Query By Example	|	0.1053
-Principles of transaction-oriented database recovery	|	0.1053
-Spatial SQL: A Query and Presentation Language	|	0.1053
-A Relational Model for Large Shared Data Banks	|	0.1053
-GALILEO: a strongly-typed, interactive conceptual language	|	0.1000
-Development of an object-oriented DBMS	|	0.1000
-The Theory of Relational Databases	|	0.1000
-Quilt: An XML Query Language for Heterogeneous Data Sources	|	0.0952
-Dependency Structures of Data Base Relationships	|	0.0952
-Universality of data retrieval languages	|	0.0952
-View Definition and Generalization for Database Integration in a Multidatabase System	|	0.0952
-Making Smalltalk a Database System	|	0.0909
-A Query Language for XML	|	0.0909
-A logical design methodology for relational databases using the extended entity-relationship model	|	0.0909
-Aurora: a new model and architecture for data stream management	|	0.0909
-The CQL continuous query language: semantic foundations and query execution	|	0.0909
-XML-QL: A Query Language for XML	|	0.0909
-An Introduction to Database Systems	|	0.0870
-Query-by-Example: A Data Base Language	|	0.0870
-From Structured Documents to Novel Query Facilities	|	0.0833
-Knowledge Discovery in Databases: An Attribute-Oriented Approach	|	0.0800
-Your Mediators Need Data Conversion!	|	0.0800
-Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.0800
-Principles of Database and Knowledge-Base Systems, Volume II	|	0.0723
-The notions of consistency and predicate locks in a database system	|	0.0714
-Database abstractions: aggregation and generalization	|	0.0690
-Optimal implementation of conjunctive queries in relational data bases	|	0.0645
-The functional data model and the data languages DAPLEX	|	0.0645
-Temporal and Real-Time Databases: A Survey	|	0.0625
-Monitoring Streams - A New Class of Data Management Applications	|	0.0606
-The Lorel Query Language for Semistructured Data	|	0.0556
-Logic and Databases: A Deductive Approach	|	0.0541
-Concurrency Control and Recovery in Database Systems	|	0.0500
-Query evaluation techniques for large databases	|	0.0500
-Fast Subsequence Matching in Time-Series Databases	|	0.0488
-Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0488
-Access path selection in a relational database management system	|	0.0400
+Towards a Logical Reconstruction of Relational Database Theory	|	0.2500
+Towards requirements-driven information systems engineering: the Tropos project	|	0.2364
+The Entity-Relationship Model-Towards a Uni ed View of Data	|	0.2292
+The temporal query language TQuel	|	0.2222
+RQL: a declarative query language for RDF	|	0.1618
+A language facility for designing database-intensive applications	|	0.1455
+The entity-relationship model---toward a unified view of data	|	0.1250
+Temporal and Real-Time Databases: A Survey	|	0.1028
+Logic and Databases: A Deductive Approach	|	0.0843
+The Object Database Standard: ODMG 2.0	|	0.0217
+The Unified Modeling Language User Guide	|	0.0217
+Model checking	|	0.0217
+Introduction to Object-Oriented Databases	|	0.0208
+The design and implementation of INGRES	|	0.0208
+A Data Model and Query Language for EXODUS	|	0.0200
+Logic-based approach to semantic query optimization	|	0.0196
+Extending and Formalizing the Framework for Information Systems Architecture	|	0.0196
+Xml schema part 2: datatypes	|	0.0196
+An introduction to data base systems	|	0.0196
+Implementation of integrity constraints and views by query modification	|	0.0196
+KQML as an agent communication language	|	0.0182
+Negation as Failure	|	0.0182
+On closed world databases	|	0.0182
+Design and natural science research on information technology	|	0.0182
+Real-Time Databases	|	0.0167
+Data on the Web: From Relations to Semistructured Data and XML	|	0.0167
+Database Security	|	0.0167
+A foundation for representing and querying moving objects	|	0.0167
+A homogeneous relational model and query languages for temporal databases	|	0.0167
+Pnnc:ples of database systems	|	0.0167
+Data Models	|	0.0167
+Database Description with SDM: A Semantic Database Model	|	0.0163
+On Closed World Data Bases	|	0.0152
+Scheduling Real-time Transactions: a Performance Evaluation	|	0.0152
+Scheduling real-time transactions: a performance evaluation	|	0.0152
+Optimal implementation of conjunctive queries in relational databases	|	0.0152
+Principles of Database Systems, 2nd Edition	|	0.0147
+Database description with SDM: a semantic database model	|	0.0139
+A probabilistic relational algebra for the integration of information retrieval and database systems	|	0.0137
+extensible markup language (xml) 1	|	0.0137
+Understanding the New SQL: A Complete Guide	|	0.0123
+Computable Queries for Relational Data Bases	|	0.0123
+Data-Driven Discovery of Quantitative Rules in Relational Databases	|	0.0123
+Querying Object-Oriented Databases	|	0.0121
+IFO: a formal semantic database model	|	0.0121
+On Optimistic Methods for Concurrency Control	|	0.0111
+A Taxonomy of Time in Databases	|	0.0111
+A federated architecture for information management	|	0.0111
+The Implementation of Postgres	|	0.0100
+Query By Example	|	0.0100
+Principles of transaction-oriented database recovery	|	0.0100
+Spatial SQL: A Query and Presentation Language	|	0.0100
+A Relational Model for Large Shared Data Banks	|	0.0100
+GALILEO: a strongly-typed, interactive conceptual language	|	0.0090
+Development of an object-oriented DBMS	|	0.0090
+Quilt: An XML Query Language for Heterogeneous Data Sources	|	0.0081
+Dependency Structures of Data Base Relationships	|	0.0081
+Universality of data retrieval languages	|	0.0081
+View Definition and Generalization for Database Integration in a Multidatabase System	|	0.0081
+Semantic data models	|	0.0078
+Relational Completeness of Data Base Sublanguages	|	0.0078
+Types and persistence in database programming languages	|	0.0076
+Making Smalltalk a Database System	|	0.0074
+A Query Language for XML	|	0.0074
+A logical design methodology for relational databases using the extended entity-relationship model	|	0.0074
+Aurora: a new model and architecture for data stream management	|	0.0074
+The CQL continuous query language: semantic foundations and query execution	|	0.0074
+XML-QL: A Query Language for XML	|	0.0074
+An Introduction to Database Systems	|	0.0067
+Query-by-Example: A Data Base Language	|	0.0067
+From Structured Documents to Novel Query Facilities	|	0.0061
+Knowledge Discovery in Databases: An Attribute-Oriented Approach	|	0.0055
+Your Mediators Need Data Conversion!	|	0.0055
+Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.0055
+A comparative analysis of methodologies for database schema integration	|	0.0051
+Extending the database relational model to capture more meaning	|	0.0051
+The notions of consistency and predicate locks in a database system	|	0.0043
+Database abstractions: aggregation and generalization	|	0.0039
+The Theory of Relational Databases	|	0.0037
+Optimal implementation of conjunctive queries in relational data bases	|	0.0034
+The functional data model and the data languages DAPLEX	|	0.0034
+Monitoring Streams - A New Class of Data Management Applications	|	0.0029
+The Lorel Query Language for Semistructured Data	|	0.0024
+Foundations of Databases	|	0.0021
+Concurrency Control and Recovery in Database Systems	|	0.0018
+Fast Subsequence Matching in Time-Series Databases	|	0.0017
+Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0017
+Access path selection in a relational database management system	|	0.0011
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0011
+Query evaluation techniques for large databases	|	0.0008

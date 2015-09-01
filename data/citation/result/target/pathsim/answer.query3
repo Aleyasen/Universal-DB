@@ -1,70 +1,69 @@
-Semantic integration: a survey of ontology-based approaches	|	0.1702
-Learning to match ontologies on the Semantic Web	|	0.1600
-Ontology mapping: the state of the art	|	0.1576
-PROMPT: Algorithm and Tool for Automated Ontology Merging and Alignment	|	0.1564
-Generic Schema Matching with Cupid	|	0.1559
-The PROMPT suite: interactive tools for ontology merging and mapping	|	0.1559
-Enhanced hypertext categorization using hyperlinks	|	0.1556
-An Information-Theoretic Definition of Similarity	|	0.1554
-Trust Management for the Semantic Web	|	0.1508
-Ontology Mapping: The State of the Art	|	0.1505
-Ontologies - a silver bullet for knowledge management and electronic commerce	|	0.1463
-Ontology Learning for the Semantic Web	|	0.1382
-Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.1340
-Piazza: data management infrastructure for semantic web applications	|	0.1292
-Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.1182
-The Ontolingua Server: a tool for collaborative ontology construction	|	0.0256
-Schema Mapping as Query Discovery	|	0.0237
-COMA - A System for Flexible Combination of Schema Matching Approaches	|	0.0229
-FCA-MERGE: Bottom-Up Merging of Ontologies	|	0.0222
-Similarity Flooding: A Versatile Graph Matching Algorithm and Its Application to Schema Matching	|	0.0203
-An Environment for Merging and Testing Large Ontologies	|	0.0192
-A survey of approaches to automatic schema matching	|	0.0181
-A Survey of Schema-Based Matching Approaches	|	0.0172
-The Ontolin-gua Server: A Tool for Collaborative Ontology Construction	|	0.0163
-Using semantic values to facilitate interoperability among heterogeneous information systems	|	0.0154
-Translating Web Data	|	0.0135
-Semantic e-Workflow Composition	|	0.0083
-Verb Semantics and Lexical Selection	|	0.0083
-SGML handbook	|	0.0081
-W3c resource description framework (rdf) model and syntax specification	|	0.0081
-Combining and relating ontologies: an analysis of problems and solutions	|	0.0079
-Sesame: A Generic Architecture for Storing and Querying RDF and RDF Schema	|	0.0077
-Focused Crawling: A New Approach to Topic-Specific Web Resource Discovery	|	0.0077
-Using Information Content to Evaluate Semantic Similarity in a Taxonomy	|	0.0077
-SLIQ: A Fast Scalable Classifier for Data Mining	|	0.0077
-An Approach for Measuring Semantic Similarity between Words Using Multiple Information Sources	|	0.0077
-Simlarity Search for Web Services	|	0.0074
-Resource description framework (rdf)	|	0.0074
-Ontology Evolution: Not the Same as Schema Evolution	|	0.0074
-DAML-S: Web Service Description for the Semantic Web	|	0.0074
-SPRINT: A Scalable Parallel Classifier for Data Mining	|	0.0071
-EDUTELLA: a P2P networking infrastructure based on RDF	|	0.0071
-Consistent query answers in inconsistent databases	|	0.0071
-Development and application of a metric on semantic nets	|	0.0071
-EDUTELLA: A P2P Networking Infrastructure Based on RDF	|	0.0068
-Semantic integration of semistructured and structured data sources	|	0.0068
-WordNet: a lexical database for English	|	0.0068
-Object Exchange Across Heterogeneous Information Sources	|	0.0068
-Determining Semantic Similarity among Entity Classes from Different Ontologies	|	0.0064
-Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0060
-Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases	|	0.0057
-Data Cleaning: Problems and Current Approaches	|	0.0057
-OBSERVER: An Approach for Query Processing in Global Information Systems Based on Interoperation Across Pre-Existing Ontologies	|	0.0054
-Wrapper induction: Efficiency and expressiveness	|	0.0051
-The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0051
-Towards Heterogeneous Multimedia Information Systems: The Garlic Approach	|	0.0051
-Data Management for Peer-to-Peer Computing : A Vision	|	0.0047
-Optimizing Queries Across Diverse Data Sources	|	0.0047
-A Query Language for XML	|	0.0047
-Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0046
-Schema Mediation in Peer Data Management Systems	|	0.0044
-From Structured Documents to Novel Query Facilities	|	0.0042
-Your Mediators Need Data Conversion!	|	0.0039
-Complexity of answering queries using materialized views	|	0.0039
-Mediators in the Architecture of Future Information Systems	|	0.0032
-An Adaptive Query Execution System for Data Integration	|	0.0028
-A Query Language and Optimization Techniques for Unstructured Data	|	0.0027
-A comparative analysis of methodologies for database schema integration	|	0.0021
-Database techniques for the World-Wide Web: a survey	|	0.0020
-Answering queries using views: A survey	|	0.0014
+Learning to match ontologies on the Semantic Web	|	0.4828
+A survey of approaches to automatic schema matching	|	0.4286
+Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.3636
+Schema Mapping as Query Discovery	|	0.3571
+PROMPT: Algorithm and Tool for Automated Ontology Merging and Alignment	|	0.3571
+The Ontolingua Server: a tool for collaborative ontology construction	|	0.3478
+COMA - A System for Flexible Combination of Schema Matching Approaches	|	0.3200
+A Survey of Schema-Based Matching Approaches	|	0.3030
+FCA-MERGE: Bottom-Up Merging of Ontologies	|	0.3000
+Semantic integration: a survey of ontology-based approaches	|	0.2857
+Similarity Flooding: A Versatile Graph Matching Algorithm and Its Application to Schema Matching	|	0.2727
+An Environment for Merging and Testing Large Ontologies	|	0.2609
+The Ontolin-gua Server: A Tool for Collaborative Ontology Construction	|	0.2353
+Generic Schema Matching with Cupid	|	0.2308
+The PROMPT suite: interactive tools for ontology merging and mapping	|	0.2308
+Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.2286
+Using semantic values to facilitate interoperability among heterogeneous information systems	|	0.2105
+Translating Web Data	|	0.1818
+Ontology mapping: the state of the art	|	0.1667
+Ontology Mapping: The State of the Art	|	0.1538
+Querying Heterogeneous Information Sources Using Source Descriptions	|	0.1429
+Semantic e-Workflow Composition	|	0.1333
+Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.1277
+Verb Semantics and Lexical Selection	|	0.1250
+Ontologies - a silver bullet for knowledge management and electronic commerce	|	0.1176
+SGML handbook	|	0.1176
+W3c resource description framework (rdf) model and syntax specification	|	0.1176
+Combining and relating ontologies: an analysis of problems and solutions	|	0.1111
+Trust Management for the Semantic Web	|	0.1111
+Sesame: A Generic Architecture for Storing and Querying RDF and RDF Schema	|	0.1053
+Focused Crawling: A New Approach to Topic-Specific Web Resource Discovery	|	0.1053
+Using Information Content to Evaluate Semantic Similarity in a Taxonomy	|	0.1053
+SLIQ: A Fast Scalable Classifier for Data Mining	|	0.1053
+The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.1053
+An Approach for Measuring Semantic Similarity between Words Using Multiple Information Sources	|	0.1053
+Enhanced hypertext categorization using hyperlinks	|	0.1000
+Simlarity Search for Web Services	|	0.1000
+Resource description framework (rdf)	|	0.1000
+Ontology Evolution: Not the Same as Schema Evolution	|	0.1000
+DAML-S: Web Service Description for the Semantic Web	|	0.1000
+SPRINT: A Scalable Parallel Classifier for Data Mining	|	0.0952
+EDUTELLA: a P2P networking infrastructure based on RDF	|	0.0952
+Consistent query answers in inconsistent databases	|	0.0952
+Development and application of a metric on semantic nets	|	0.0952
+EDUTELLA: A P2P Networking Infrastructure Based on RDF	|	0.0909
+An Information-Theoretic Definition of Similarity	|	0.0909
+Semantic integration of semistructured and structured data sources	|	0.0909
+WordNet: a lexical database for English	|	0.0909
+Object Exchange Across Heterogeneous Information Sources	|	0.0909
+Determining Semantic Similarity among Entity Classes from Different Ontologies	|	0.0870
+Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases	|	0.0800
+Data Cleaning: Problems and Current Approaches	|	0.0800
+OBSERVER: An Approach for Query Processing in Global Information Systems Based on Interoperation Across Pre-Existing Ontologies	|	0.0769
+Wrapper induction: Efficiency and expressiveness	|	0.0741
+Towards Heterogeneous Multimedia Information Systems: The Garlic Approach	|	0.0741
+Data Management for Peer-to-Peer Computing : A Vision	|	0.0714
+Optimizing Queries Across Diverse Data Sources	|	0.0714
+A Query Language for XML	|	0.0714
+Schema Mediation in Peer Data Management Systems	|	0.0690
+From Structured Documents to Novel Query Facilities	|	0.0667
+Piazza: data management infrastructure for semantic web applications	|	0.0667
+Your Mediators Need Data Conversion!	|	0.0645
+Complexity of answering queries using materialized views	|	0.0645
+Mediators in the Architecture of Future Information Systems	|	0.0588
+An Adaptive Query Execution System for Data Integration	|	0.0556
+A Query Language and Optimization Techniques for Unstructured Data	|	0.0541
+A comparative analysis of methodologies for database schema integration	|	0.0488
+Database techniques for the World-Wide Web: a survey	|	0.0476
+Answering queries using views: A survey	|	0.0408

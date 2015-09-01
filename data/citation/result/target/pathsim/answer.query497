@@ -1,62 +1,61 @@
-OPTICS: Ordering Points To Identify the Clustering Structure	|	0.2727
-CURE: An Efficient Clustering Algorithm for Large Databases	|	0.1739
-WaveCluster: A Multi-Resolution Clustering Approach for Very Large Spatial Databases	|	0.1000
-Fundamentals of spatial information systems	|	0.0909
-Cluster Analysis for Gene Expression Data: A Survey	|	0.0909
-Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0851
-ROCK: A Robust Clustering Algorithm for Categorical Attributes	|	0.0800
-Fast Algorithms for Projected Clustering	|	0.0800
-Models and issues in data stream systems	|	0.0742
-Gigascope: a stream database for network applications	|	0.0625
-TelegraphCQ: Continuous Dataflow Processing for an Uncertain World	|	0.0625
-Finding Generalized Projected Clusters In High Dimensional Spaces	|	0.0526
-LOF: Identifying Density-Based Local Outliers	|	0.0435
-Efficient Algorithms for Mining Outliers from Large Data Sets	|	0.0435
-Optimal Histograms with Quality Guarantees	|	0.0400
-An Improved Data Stream Summary: The Count-Min Sketch and Its Applications	|	0.0400
-Maintaining Stream Statistics over Sliding Windows	|	0.0400
-Random sampling with a reservoir	|	0.0364
-Distance-Based Outliers: Algorithms and Applications	|	0.0323
-Similarity-Based Queries for Time Series Data	|	0.0323
-STING: A Statistical Information Grid Approach to Spatial Data Mining	|	0.0323
-Query Processing, Resource Management, and Approximation in a Data Stream Management System	|	0.0263
-Algorithms for Mining Distance-Based Outliers in Large Datasets	|	0.0217
-Data Preparation for Mining World Wide Web Browsing Patterns	|	0.0217
-A Taxonomy of Time in Databases	|	0.0182
-Efficient Data Mining for Path Traversal Patterns	|	0.0154
-Discovery of Spatial Association Rules in Geographic Information Databases	|	0.0154
-The design & analysis of spatial data structures	|	0.0137
-Maintenance of Discovered Association Rules in Large Databases: An Incremental Updating Technique	|	0.0132
-Wavelet-Based Histograms for Selectivity Estimation	|	0.0132
-Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.0132
-Querying the Internet with PIER	|	0.0132
-Distributed top-k monitoring	|	0.0099
-The CQL continuous query language: semantic foundations and query execution	|	0.0099
-Fast Time Sequence Indexing for Arbitrary Lp Norms	|	0.0091
-Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.0087
-Approximate Query Processing Using Wavelets	|	0.0087
-Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0087
-M-tree: An Efficient Access Method for Similarity Search in Metric Spaces	|	0.0077
-The Design and Analysis of Spatial Data Structures	|	0.0070
-Knowledge Discovery in Databases: An Attribute-Oriented Approach	|	0.0068
-Sampling Large Databases for Association Rules	|	0.0068
-Efficient Processing of Spatial Joins Using R-Trees	|	0.0061
-Multiple-query optimization	|	0.0061
-Online Aggregation	|	0.0045
-Continuously adaptive continuous queries over streams	|	0.0045
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0045
-Issues in data stream management	|	0.0045
-Eddies: Continuously Adaptive Query Processing	|	0.0041
-An Adaptive Query Execution System for Data Integration	|	0.0041
-Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0041
-Continuous queries over data streams	|	0.0041
-NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0038
-Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0035
-FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets	|	0.0028
-An Effective Hash Based Algorithm for Mining Association Rules	|	0.0028
-The X-tree : An Index Structure for High-Dimensional Data	|	0.0026
-The R*-tree: an efficient and robust access method for points and rectangles	|	0.0025
-Data Mining: An Overview from a Database Perspective	|	0.0021
-Fast Subsequence Matching in Time-Series Databases	|	0.0019
-Multidimensional access methods	|	0.0019
-Mining association rules between sets of items in large databases	|	0.0016
+WaveCluster: A Multi-Resolution Clustering Approach for Very Large Spatial Databases	|	0.5000
+ROCK: A Robust Clustering Algorithm for Categorical Attributes	|	0.4444
+Fast Algorithms for Projected Clustering	|	0.4444
+Fundamentals of spatial information systems	|	0.4000
+Cluster Analysis for Gene Expression Data: A Survey	|	0.4000
+Finding Generalized Projected Clusters In High Dimensional Spaces	|	0.3636
+LOF: Identifying Density-Based Local Outliers	|	0.3333
+Efficient Algorithms for Mining Outliers from Large Data Sets	|	0.3333
+OPTICS: Ordering Points To Identify the Clustering Structure	|	0.3077
+Random sampling with a reservoir	|	0.3077
+Gigascope: a stream database for network applications	|	0.2857
+TelegraphCQ: Continuous Dataflow Processing for an Uncertain World	|	0.2857
+Optimal Histograms with Quality Guarantees	|	0.2222
+CURE: An Efficient Clustering Algorithm for Large Databases	|	0.2222
+An Improved Data Stream Summary: The Count-Min Sketch and Its Applications	|	0.2222
+Maintaining Stream Statistics over Sliding Windows	|	0.2222
+Distance-Based Outliers: Algorithms and Applications	|	0.2000
+Similarity-Based Queries for Time Series Data	|	0.2000
+STING: A Statistical Information Grid Approach to Spatial Data Mining	|	0.2000
+The design & analysis of spatial data structures	|	0.2000
+Query Processing, Resource Management, and Approximation in a Data Stream Management System	|	0.1818
+Fast Time Sequence Indexing for Arbitrary Lp Norms	|	0.1667
+Algorithms for Mining Distance-Based Outliers in Large Datasets	|	0.1667
+Data Preparation for Mining World Wide Web Browsing Patterns	|	0.1667
+A Taxonomy of Time in Databases	|	0.1538
+The Design and Analysis of Spatial Data Structures	|	0.1481
+Efficient Data Mining for Path Traversal Patterns	|	0.1429
+Discovery of Spatial Association Rules in Geographic Information Databases	|	0.1429
+Maintenance of Discovered Association Rules in Large Databases: An Incremental Updating Technique	|	0.1333
+Wavelet-Based Histograms for Selectivity Estimation	|	0.1333
+Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.1333
+Querying the Internet with PIER	|	0.1333
+Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.1290
+Distributed top-k monitoring	|	0.1176
+The CQL continuous query language: semantic foundations and query execution	|	0.1176
+Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.1111
+Approximate Query Processing Using Wavelets	|	0.1111
+Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.1111
+M-tree: An Efficient Access Method for Similarity Search in Metric Spaces	|	0.1053
+Knowledge Discovery in Databases: An Attribute-Oriented Approach	|	0.1000
+Sampling Large Databases for Association Rules	|	0.1000
+Efficient Processing of Spatial Joins Using R-Trees	|	0.0952
+Multiple-query optimization	|	0.0952
+The R*-tree: an efficient and robust access method for points and rectangles	|	0.0930
+Online Aggregation	|	0.0833
+Continuously adaptive continuous queries over streams	|	0.0833
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0833
+Issues in data stream management	|	0.0833
+Eddies: Continuously Adaptive Query Processing	|	0.0800
+An Adaptive Query Execution System for Data Integration	|	0.0800
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0800
+Continuous queries over data streams	|	0.0800
+NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0769
+Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0741
+FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets	|	0.0667
+An Effective Hash Based Algorithm for Mining Association Rules	|	0.0667
+The X-tree : An Index Structure for High-Dimensional Data	|	0.0645
+Data Mining: An Overview from a Database Perspective	|	0.0588
+Fast Subsequence Matching in Time-Series Databases	|	0.0556
+Multidimensional access methods	|	0.0556
+Mining association rules between sets of items in large databases	|	0.0513

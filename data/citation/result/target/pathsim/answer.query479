@@ -1,24 +1,22 @@
-Near Neighbor Search in Large Metric Spaces	|	0.2903
-Snowball: extracting relations from large plain-text collections	|	0.1667
-The Merge/Purge Problem for Large Databases	|	0.1667
-Duplicate Record Detection: A Survey	|	0.1667
-Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.1218
-The TSIMMIS Approach to Mediation: Data Models and Languages	|	0.1111
-Data structures and algorithms for nearest neighbor search in general metric spaces	|	0.0556
-Satisfying General Proximity/Similarity Queries with Metric Trees	|	0.0417
-Similarity Flooding: A Versatile Graph Matching Algorithm and Its Application to Schema Matching	|	0.0323
-The Management of Probabilistic Data	|	0.0323
-W3QS: A Query System for the World-Wide Web	|	0.0172
-Efficient Query Evaluation on Probabilistic Databases	|	0.0172
-Data Cleaning: Problems and Current Approaches	|	0.0172
-Wrapper induction: Efficiency and expressiveness	|	0.0123
-Answering recursive queries using views	|	0.0106
-Searching in metric spaces	|	0.0093
-M-tree: An Efficient Access Method for Similarity Search in Metric Spaces	|	0.0081
-Distance browsing in spatial databases	|	0.0047
-An Adaptive Query Execution System for Data Integration	|	0.0043
-Data integration: a theoretical perspective	|	0.0030
-A survey of approaches to automatic schema matching	|	0.0026
-Database techniques for the World-Wide Web: a survey	|	0.0026
-Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0026
-Searching in high-dimensional spaces: Index structures for improving the performance of multimedia databases	|	0.0019
+Snowball: extracting relations from large plain-text collections	|	0.5000
+The Merge/Purge Problem for Large Databases	|	0.5000
+Duplicate Record Detection: A Survey	|	0.5000
+The TSIMMIS Approach to Mediation: Data Models and Languages	|	0.4000
+Data structures and algorithms for nearest neighbor search in general metric spaces	|	0.2857
+Satisfying General Proximity/Similarity Queries with Metric Trees	|	0.2500
+Similarity Flooding: A Versatile Graph Matching Algorithm and Its Application to Schema Matching	|	0.2222
+The Management of Probabilistic Data	|	0.2222
+W3QS: A Query System for the World-Wide Web	|	0.1667
+Efficient Query Evaluation on Probabilistic Databases	|	0.1667
+Data Cleaning: Problems and Current Approaches	|	0.1667
+Wrapper induction: Efficiency and expressiveness	|	0.1429
+Answering recursive queries using views	|	0.1333
+Searching in metric spaces	|	0.1250
+M-tree: An Efficient Access Method for Similarity Search in Metric Spaces	|	0.1176
+Distance browsing in spatial databases	|	0.0909
+An Adaptive Query Execution System for Data Integration	|	0.0870
+Data integration: a theoretical perspective	|	0.0741
+A survey of approaches to automatic schema matching	|	0.0690
+Database techniques for the World-Wide Web: a survey	|	0.0690
+Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0690
+Searching in high-dimensional spaces: Index structures for improving the performance of multimedia databases	|	0.0588

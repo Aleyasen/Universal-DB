@@ -1,52 +1,52 @@
-An Improved Data Stream Summary: The Count-Min Sketch and Its Applications	|	0.6000
-Finding Frequent Items in Data Streams	|	0.3636
-Load Shedding in a Data Stream Manager	|	0.3333
-Distributed top-k monitoring	|	0.3333
-Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.3158
-StatStream: Statistical Monitoring of Thousands of Data Streams in Real Time	|	0.3077
-Random sampling with a reservoir	|	0.2857
-Wavelet-Based Histograms for Selectivity Estimation	|	0.2500
-Query Processing in Sensor Networks	|	0.2500
-Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.2500
-Gigascope: a stream database for network applications	|	0.2500
-TelegraphCQ: Continuous Dataflow Processing for an Uncertain World	|	0.2500
-Issues in data stream management	|	0.2400
-A framework for clustering evolving data streams	|	0.2222
-The CQL continuous query language: semantic foundations and query execution	|	0.2222
-Approximate Query Processing Using Wavelets	|	0.2105
-Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.2105
-Optimal Histograms with Quality Guarantees	|	0.2000
-What's hot and what's not: tracking most frequent items dynamically	|	0.2000
-Approximate Frequency Counts over Data Streams	|	0.1905
-New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.1818
-Models and issues in data stream systems	|	0.1765
-Towards Sensor Database Systems	|	0.1667
-Query Processing, Resource Management, and Approximation in a Data Stream Management System	|	0.1667
-Continuously adaptive continuous queries over streams	|	0.1600
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.1600
-Selectivity Estimation Without the Attribute Value Independence Assumption	|	0.1538
-Eddies: Continuously Adaptive Query Processing	|	0.1538
-Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.1538
-Scalable Distributed Stream Processing	|	0.1538
-Adaptive filters for continuous queries over distributed data streams	|	0.1538
-Human Behaviour and the Principle of Least Effort: an Introduction to Human Ecology	|	0.1538
-Continuous queries over data streams	|	0.1538
-NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.1481
-Super-peer-based routing and clustering strategies for RDF-based peer-to-peer networks	|	0.1429
-Efficient Time Series Matching by Wavelets	|	0.1429
-Improved Histograms for Selectivity Estimation of Range Predicates	|	0.1429
-A Taxonomy of Time in Databases	|	0.1429
-Srikant: "fast algorithms for mining association rules	|	0.1429
-Bottom-Up Computation of Sparse and Iceberg CUBEs	|	0.1250
-Querying the Internet with PIER	|	0.1250
-Sampling Large Databases for Association Rules	|	0.0952
-Multiple-query optimization	|	0.0909
-The design of an acquisitional query processor for sensor networks	|	0.0833
-Online Aggregation	|	0.0800
-An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.0800
-An Adaptive Query Execution System for Data Integration	|	0.0769
-Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0714
-Monitoring Streams - A New Class of Data Management Applications	|	0.0690
-An Effective Hash Based Algorithm for Mining Association Rules	|	0.0645
-Fast Subsequence Matching in Time-Series Databases	|	0.0541
-Fast Algorithms for Mining Association Rules	|	0.0417
+Optimal Histograms with Quality Guarantees	|	0.3667
+Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.1833
+Approximate Frequency Counts over Data Streams	|	0.1523
+Issues in data stream management	|	0.1244
+An Improved Data Stream Summary: The Count-Min Sketch and Its Applications	|	0.1000
+Models and issues in data stream systems	|	0.0822
+Finding Frequent Items in Data Streams	|	0.0556
+Query Processing in Sensor Networks	|	0.0476
+Gigascope: a stream database for network applications	|	0.0476
+TelegraphCQ: Continuous Dataflow Processing for an Uncertain World	|	0.0476
+Load Shedding in a Data Stream Manager	|	0.0465
+A framework for clustering evolving data streams	|	0.0400
+StatStream: Statistical Monitoring of Thousands of Data Streams in Real Time	|	0.0392
+Random sampling with a reservoir	|	0.0333
+What's hot and what's not: tracking most frequent items dynamically	|	0.0333
+Distributed top-k monitoring	|	0.0283
+Wavelet-Based Histograms for Selectivity Estimation	|	0.0247
+Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.0247
+Towards Sensor Database Systems	|	0.0233
+Query Processing, Resource Management, and Approximation in a Data Stream Management System	|	0.0233
+Selectivity Estimation Without the Attribute Value Independence Assumption	|	0.0196
+Scalable Distributed Stream Processing	|	0.0196
+Adaptive filters for continuous queries over distributed data streams	|	0.0196
+Human Behaviour and the Principle of Least Effort: an Introduction to Human Ecology	|	0.0196
+The CQL continuous query language: semantic foundations and query execution	|	0.0189
+Super-peer-based routing and clustering strategies for RDF-based peer-to-peer networks	|	0.0167
+Approximate Query Processing Using Wavelets	|	0.0167
+Efficient Time Series Matching by Wavelets	|	0.0167
+Improved Histograms for Selectivity Estimation of Range Predicates	|	0.0167
+Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0167
+A Taxonomy of Time in Databases	|	0.0167
+Srikant: "fast algorithms for mining association rules	|	0.0167
+Bottom-Up Computation of Sparse and Iceberg CUBEs	|	0.0123
+Querying the Internet with PIER	|	0.0123
+New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.0119
+Continuously adaptive continuous queries over streams	|	0.0089
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0089
+Eddies: Continuously Adaptive Query Processing	|	0.0081
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0081
+Continuous queries over data streams	|	0.0081
+NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0075
+Sampling Large Databases for Association Rules	|	0.0066
+Multiple-query optimization	|	0.0060
+The design of an acquisitional query processor for sensor networks	|	0.0049
+Online Aggregation	|	0.0044
+An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.0044
+An Adaptive Query Execution System for Data Integration	|	0.0041
+Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0034
+Monitoring Streams - A New Class of Data Management Applications	|	0.0032
+An Effective Hash Based Algorithm for Mining Association Rules	|	0.0027
+Fast Subsequence Matching in Time-Series Databases	|	0.0018
+Fast Algorithms for Mining Association Rules	|	0.0010

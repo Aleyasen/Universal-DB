@@ -1,85 +1,82 @@
-Nested Transactions: An Approach to Reliable Distributed Computing	|	0.2364
-The functional data model and the data language DAPLEX	|	0.1838
-Database Description with SDM: A Semantic Database Model	|	0.1789
-Interoperability of multiple autonomous databases	|	0.1515
-A language facility for designing database-intensive applications	|	0.1455
-Notes on Data Base Operating Systems	|	0.1381
-Database description with SDM: a semantic database model	|	0.1343
-The functional data model and the data languages DAPLEX	|	0.1107
-Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0768
-GALILEO: a strongly-typed, interactive conceptual language	|	0.0450
-IFO: a formal semantic database model	|	0.0303
-An Approach to Persistent Programming	|	0.0274
-A Theory of Attribute Equivalence in Databases with Application to Schema Integration	|	0.0274
-The entity-relationship model: toward a unified view of data	|	0.0247
-View Definition and Generalization for Database Integration in a Multidatabase System	|	0.0244
-Semantic data models	|	0.0235
-The EXODUS Optimizer Generator	|	0.0222
-Concurrency control in advanced database applications	|	0.0222
-A Graph-Oriented Model for Articulation of Ontology Interdependencies	|	0.0208
-The entity-relationship model---toward a unified view of data	|	0.0185
-Using semantic values to facilitate interoperability among heterogeneous information systems	|	0.0182
-Description Logics in Data Management	|	0.0167
-Nonblocking commit protocols	|	0.0167
-Distributed Databases: Principles and Systems	|	0.0167
-Principles of Distributed Database Systems	|	0.0167
-Ontology Evolution: Not the Same as Schema Evolution	|	0.0167
-Data Models	|	0.0167
-Data Model and Query Evaluation in Global Information Systems	|	0.0163
-Database abstractions: aggregation and generalization	|	0.0157
-A comparative analysis of methodologies for database schema integration	|	0.0152
-Iris: An Object-Oriented Database Management System	|	0.0152
-Classifying Schematic and Data Heterogeneity in Multidatabase Systems	|	0.0152
-Object Exchange Across Heterogeneous Information Sources	|	0.0137
-A Data Model and Query Language for EXODUS	|	0.0133
-An Introduction to Database Systems	|	0.0133
-Types and persistence in database programming languages	|	0.0126
-The temporal query language TQuel	|	0.0123
-Concurrency control performance modeling: alternatives and implications	|	0.0123
-Bigtable: A Distributed Storage System for Structured Data	|	0.0123
-Telos: representing knowledge about information systems	|	0.0111
-On Optimistic Methods for Concurrency Control	|	0.0111
-A Taxonomy of Time in Databases	|	0.0111
-The Interdisciplinary Study of Coordination	|	0.0111
-Active database systems	|	0.0111
-ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging	|	0.0111
-Ontology mapping: the state of the art	|	0.0111
-The Recovery Manager of the System R Database Manager	|	0.0100
-Principles of transaction-oriented database recovery	|	0.0100
-Using Semantic Knowledge for Transaction Processing in Distributed Database	|	0.0100
-A Relational Model for Large Shared Data Banks	|	0.0100
-Further Normalization of the Data Base Relational Model	|	0.0093
-Logical Foundations of Object-Oriented and Frame-Based Languages	|	0.0090
-Development of an object-oriented DBMS	|	0.0090
-The Architecture Of An Active Data Base Management System	|	0.0090
-Data Placement In Bubba	|	0.0090
-Ontology Mapping: The State of the Art	|	0.0090
-Query Reformulation for Dynamic Information Integration	|	0.0081
-Semantic and Schematic Similarities Between Database Objects: A Context-Based Approach	|	0.0081
-Data Management for Peer-to-Peer Computing : A Vision	|	0.0074
-Making Smalltalk a Database System	|	0.0074
-A logical design methodology for relational databases using the extended entity-relationship model	|	0.0074
-Schema Mediation in Peer Data Management Systems	|	0.0067
-Concurrency Control in Distributed Database Systems	|	0.0067
-Temporal and Real-Time Databases: A Survey	|	0.0062
-Querying Object-Oriented Databases	|	0.0061
-Semantic e-Workflow Composition	|	0.0061
-Piazza: data management infrastructure for semantic web applications	|	0.0061
-Your Mediators Need Data Conversion!	|	0.0055
-Lore: a database management system for semistructured data	|	0.0054
-Extending the database relational model to capture more meaning	|	0.0051
-Multiple-query optimization	|	0.0051
-The Gamma Database Machine Project	|	0.0046
-A Survey of Schema-Based Matching Approaches	|	0.0046
-Query Caching and Optimization in Distributed Mediator Systems	|	0.0039
-Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0039
-System R: A Relational Approach to Data Base Management	|	0.0034
-The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0031
-A survey of approaches to automatic schema matching	|	0.0024
-Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0024
-System R: relational approach to database management	|	0.0024
-Concurrency Control and Recovery in Database Systems	|	0.0018
-The Theory of Relational Databases	|	0.0018
-Foundations of Databases	|	0.0017
-Query evaluation techniques for large databases	|	0.0015
-Principles of Database and Knowledge-Base Systems, Volume II	|	0.0011
+GALILEO: a strongly-typed, interactive conceptual language	|	0.5000
+IFO: a formal semantic database model	|	0.4167
+Semantic data models	|	0.4138
+A comparative analysis of methodologies for database schema integration	|	0.3429
+The entity-relationship model---toward a unified view of data	|	0.2963
+View Definition and Generalization for Database Integration in a Multidatabase System	|	0.2857
+Types and persistence in database programming languages	|	0.2857
+Database abstractions: aggregation and generalization	|	0.2759
+The functional data model and the data language DAPLEX	|	0.2727
+An Approach to Persistent Programming	|	0.2500
+A Theory of Attribute Equivalence in Databases with Application to Schema Integration	|	0.2500
+The entity-relationship model: toward a unified view of data	|	0.2353
+The EXODUS Optimizer Generator	|	0.2222
+Concurrency control in advanced database applications	|	0.2222
+Data Model and Query Evaluation in Global Information Systems	|	0.1905
+A Graph-Oriented Model for Articulation of Ontology Interdependencies	|	0.1818
+A Data Model and Query Language for EXODUS	|	0.1739
+An Introduction to Database Systems	|	0.1739
+Using semantic values to facilitate interoperability among heterogeneous information systems	|	0.1538
+Database description with SDM: a semantic database model	|	0.1481
+Further Normalization of the Data Base Relational Model	|	0.1481
+Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.1463
+Description Logics in Data Management	|	0.1429
+Nonblocking commit protocols	|	0.1429
+Distributed Databases: Principles and Systems	|	0.1429
+Principles of Distributed Database Systems	|	0.1429
+Ontology Evolution: Not the Same as Schema Evolution	|	0.1429
+Data Models	|	0.1429
+Iris: An Object-Oriented Database Management System	|	0.1333
+Classifying Schematic and Data Heterogeneity in Multidatabase Systems	|	0.1333
+The functional data model and the data languages DAPLEX	|	0.1290
+Temporal and Real-Time Databases: A Survey	|	0.1250
+Object Exchange Across Heterogeneous Information Sources	|	0.1250
+Lore: a database management system for semistructured data	|	0.1176
+The temporal query language TQuel	|	0.1176
+Concurrency control performance modeling: alternatives and implications	|	0.1176
+Bigtable: A Distributed Storage System for Structured Data	|	0.1176
+Extending the database relational model to capture more meaning	|	0.1143
+Telos: representing knowledge about information systems	|	0.1111
+On Optimistic Methods for Concurrency Control	|	0.1111
+A Taxonomy of Time in Databases	|	0.1111
+The Interdisciplinary Study of Coordination	|	0.1111
+Active database systems	|	0.1111
+ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging	|	0.1111
+Ontology mapping: the state of the art	|	0.1111
+The Recovery Manager of the System R Database Manager	|	0.1053
+Principles of transaction-oriented database recovery	|	0.1053
+Using Semantic Knowledge for Transaction Processing in Distributed Database	|	0.1053
+A Relational Model for Large Shared Data Banks	|	0.1053
+Foundations of Databases	|	0.1039
+Logical Foundations of Object-Oriented and Frame-Based Languages	|	0.1000
+Development of an object-oriented DBMS	|	0.1000
+The Architecture Of An Active Data Base Management System	|	0.1000
+Data Placement In Bubba	|	0.1000
+Query evaluation techniques for large databases	|	0.1000
+Ontology Mapping: The State of the Art	|	0.1000
+Query Reformulation for Dynamic Information Integration	|	0.0952
+Semantic and Schematic Similarities Between Database Objects: A Context-Based Approach	|	0.0952
+Database Description with SDM: A Semantic Database Model	|	0.0952
+Data Management for Peer-to-Peer Computing : A Vision	|	0.0909
+Making Smalltalk a Database System	|	0.0909
+A logical design methodology for relational databases using the extended entity-relationship model	|	0.0909
+Schema Mediation in Peer Data Management Systems	|	0.0870
+Concurrency Control in Distributed Database Systems	|	0.0870
+Querying Object-Oriented Databases	|	0.0833
+Interoperability of multiple autonomous databases	|	0.0833
+Semantic e-Workflow Composition	|	0.0833
+Piazza: data management infrastructure for semantic web applications	|	0.0833
+Your Mediators Need Data Conversion!	|	0.0800
+Multiple-query optimization	|	0.0769
+The Gamma Database Machine Project	|	0.0741
+A Survey of Schema-Based Matching Approaches	|	0.0741
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0723
+Query Caching and Optimization in Distributed Mediator Systems	|	0.0690
+Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0690
+System R: A Relational Approach to Data Base Management	|	0.0645
+The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0625
+A survey of approaches to automatic schema matching	|	0.0556
+Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0556
+System R: relational approach to database management	|	0.0556
+Concurrency Control and Recovery in Database Systems	|	0.0500
+The Theory of Relational Databases	|	0.0500

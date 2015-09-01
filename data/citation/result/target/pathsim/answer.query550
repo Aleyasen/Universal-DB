@@ -1,59 +1,59 @@
-On the design and quantification of privacy preserving data mining algorithms	|	0.2982
-Limiting privacy breaches in privacy preserving data mining	|	0.2941
-Privacy-Preserving Data Mining	|	0.2941
-State-of-the-art in privacy preserving data mining	|	0.2857
-An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.1220
-Mining Generalized Association Rules	|	0.1220
-Mining association rules between sets of items in large databases	|	0.0691
-Fast Algorithms for Mining Association Rules	|	0.0570
-MAFIA: A Maximal Frequent Itemset Algorithm for Transactional Databases	|	0.0494
-Parallel Mining of Association Rules	|	0.0440
-Efficient Mining of Association Rules Using Closed Itemset Lattices	|	0.0417
-Scalable Parallel Data Mining for Association Rules	|	0.0392
-Scalable Algorithms for Association Mining	|	0.0370
-Security-Control Methods for Statistical Databases: A Comparative Study	|	0.0351
-Discovering Frequent Closed Itemsets for Association Rules	|	0.0330
-Constraint-Based Rule Mining in Large, Dense Databases	|	0.0330
-Maintenance of Discovered Association Rules in Large Databases: An Incremental Updating Technique	|	0.0294
-l-Diversity: Privacy Beyond k-Anonymity	|	0.0294
-On the complexity of optimal K-anonymity	|	0.0278
-Discovering Conceptual Relations from Text	|	0.0270
-Efficiently Mining Long Patterns from Databases	|	0.0263
-Automated Selection of Materialized Views and Indexes in SQL Databases	|	0.0238
-A New SQL-like Operator for Mining Association Rules	|	0.0236
-Beyond Market Baskets: Generalizing Association Rules to Correlations	|	0.0233
-Sampling Large Databases for Association Rules	|	0.0233
-Efficient Data Mining for Path Traversal Patterns	|	0.0220
-Discovery of Spatial Association Rules in Geographic Information Databases	|	0.0220
-Data Cleaning: Problems and Current Approaches	|	0.0220
-What Makes Patterns Interesting in Knowledge Discovery Systems	|	0.0217
-Finding interesting rules from large sets of discovered association rules	|	0.0196
-Incognito: efficient full-domain K-anonymity	|	0.0196
-Exploratory Mining and Pruning Optimizations of Constrained Association Rules	|	0.0177
-Distance-Based Outliers: Algorithms and Applications	|	0.0175
-Discovering Web Access Patterns and Trends by Applying OLAP and Data Mining Technology on Web Logs	|	0.0175
-SPIRIT: Sequential Pattern Mining with Regular Expression Constraints	|	0.0175
-Information sharing across private databases	|	0.0156
-Efficient Mining of Partial Periodic Patterns in Time Series Database	|	0.0156
-Algorithms for Mining Distance-Based Outliers in Large Datasets	|	0.0139
-Data Preparation for Mining World Wide Web Browsing Patterns	|	0.0139
-Mining Sequential Patterns	|	0.0128
-Database Mining: A Performance Perspective	|	0.0128
-Computing Iceberg Queries Efficiently	|	0.0123
-Srikant: "fast algorithms for mining association rules	|	0.0123
-Mining Sequential Patterns by Pattern-Growth: The PrefixSpan Approach	|	0.0123
-Fast Time Sequence Indexing for Arbitrary Lp Norms	|	0.0122
-Knowledge Discovery in Databases: An Attribute-Oriented Approach	|	0.0116
-Approximate Frequency Counts over Data Streams	|	0.0116
-Bottom-Up Computation of Sparse and Iceberg CUBEs	|	0.0098
-Fast Algorithms for Mining Association Rules in Large Databases	|	0.0090
-Discovery of Multiple-Level Association Rules from Large Databases	|	0.0081
-Data Mining: An Overview from a Database Perspective	|	0.0080
-An Effective Hash Based Algorithm for Mining Association Rules	|	0.0078
-Parallel Database Systems: The Future of High Performance Database Processing1	|	0.0064
-Storing Semistructured Data with STORED	|	0.0064
-New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.0053
-FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets	|	0.0052
-Efficient Similarity Search In Sequence Databases	|	0.0035
-Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0024
-Fast Subsequence Matching in Time-Series Databases	|	0.0018
+MAFIA: A Maximal Frequent Itemset Algorithm for Transactional Databases	|	0.4706
+Parallel Mining of Association Rules	|	0.4444
+On the design and quantification of privacy preserving data mining algorithms	|	0.4286
+Scalable Parallel Data Mining for Association Rules	|	0.4211
+Efficient Mining of Association Rules Using Closed Itemset Lattices	|	0.3750
+Scalable Algorithms for Association Mining	|	0.3529
+Beyond Market Baskets: Generalizing Association Rules to Correlations	|	0.3333
+Discovering Frequent Closed Itemsets for Association Rules	|	0.3333
+Sampling Large Databases for Association Rules	|	0.3333
+Constraint-Based Rule Mining in Large, Dense Databases	|	0.3333
+Maintenance of Discovered Association Rules in Large Databases: An Incremental Updating Technique	|	0.3158
+l-Diversity: Privacy Beyond k-Anonymity	|	0.3158
+Limiting privacy breaches in privacy preserving data mining	|	0.3077
+Privacy-Preserving Data Mining	|	0.3077
+Efficiently Mining Long Patterns from Databases	|	0.3000
+Exploratory Mining and Pruning Optimizations of Constrained Association Rules	|	0.2963
+A New SQL-like Operator for Mining Association Rules	|	0.2857
+Security-Control Methods for Statistical Databases: A Comparative Study	|	0.2857
+On the complexity of optimal K-anonymity	|	0.2500
+Discovering Conceptual Relations from Text	|	0.2222
+Efficient Data Mining for Path Traversal Patterns	|	0.2222
+Discovery of Spatial Association Rules in Geographic Information Databases	|	0.2222
+Data Cleaning: Problems and Current Approaches	|	0.2222
+Fast Algorithms for Mining Association Rules in Large Databases	|	0.2222
+Fast Time Sequence Indexing for Arbitrary Lp Norms	|	0.2143
+Data Mining: An Overview from a Database Perspective	|	0.2105
+Finding interesting rules from large sets of discovered association rules	|	0.2105
+Incognito: efficient full-domain K-anonymity	|	0.2105
+Fast Algorithms for Mining Association Rules	|	0.1961
+Automated Selection of Materialized Views and Indexes in SQL Databases	|	0.1818
+State-of-the-art in privacy preserving data mining	|	0.1818
+An Effective Hash Based Algorithm for Mining Association Rules	|	0.1765
+Mining Sequential Patterns	|	0.1739
+Database Mining: A Performance Perspective	|	0.1739
+Knowledge Discovery in Databases: An Attribute-Oriented Approach	|	0.1667
+Approximate Frequency Counts over Data Streams	|	0.1667
+What Makes Patterns Interesting in Knowledge Discovery Systems	|	0.1667
+Distance-Based Outliers: Algorithms and Applications	|	0.1429
+Discovering Web Access Patterns and Trends by Applying OLAP and Data Mining Technology on Web Logs	|	0.1429
+SPIRIT: Sequential Pattern Mining with Regular Expression Constraints	|	0.1429
+Discovery of Multiple-Level Association Rules from Large Databases	|	0.1429
+An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.1429
+Mining Generalized Association Rules	|	0.1429
+Mining association rules between sets of items in large databases	|	0.1395
+Information sharing across private databases	|	0.1333
+Efficient Mining of Partial Periodic Patterns in Time Series Database	|	0.1333
+Algorithms for Mining Distance-Based Outliers in Large Datasets	|	0.1250
+Data Preparation for Mining World Wide Web Browsing Patterns	|	0.1250
+FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets	|	0.1176
+Computing Iceberg Queries Efficiently	|	0.1176
+Srikant: "fast algorithms for mining association rules	|	0.1176
+Mining Sequential Patterns by Pattern-Growth: The PrefixSpan Approach	|	0.1176
+Bottom-Up Computation of Sparse and Iceberg CUBEs	|	0.1053
+Efficient Similarity Search In Sequence Databases	|	0.1000
+Parallel Database Systems: The Future of High Performance Database Processing1	|	0.0870
+Storing Semistructured Data with STORED	|	0.0870
+New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.0800
+Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0571
+Fast Subsequence Matching in Time-Series Databases	|	0.0500

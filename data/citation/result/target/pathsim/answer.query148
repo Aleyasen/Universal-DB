@@ -1,35 +1,32 @@
-A hierarchical approach to wrapper induction	|	0.2745
-Wrapper Induction for Information Extraction	|	0.2632
-Data on the web: from relations to semistructured data and xml	|	0.2619
-Data on the Web: From Relations to Semistructured Data and XML	|	0.2549
+Extracting structured data from Web pages	|	0.5263
+Wrapper induction: Efficiency and expressiveness	|	0.5000
+Semantic Web	|	0.4000
 Generating Finite-State Transducers for Semi-Structured Data Extraction from the Web	|	0.2500
-A brief survey of web data extraction tools	|	0.2361
-Extracting Semistructured Information from the Web	|	0.2361
-A Query Language for XML	|	0.1654
-Semantic Web	|	0.0513
-Extracting structured data from Web pages	|	0.0490
-Wrapper induction: Efficiency and expressiveness	|	0.0439
-Extensible Markup Language	|	0.0256
-Detecting Changes in XML Documents	|	0.0217
-Why and Where: A Characterization of Data Provenance	|	0.0175
-XRel: a path-based approach to storage and retrieval of XML documents using relational databases	|	0.0175
-RQL: a declarative query language for RDF	|	0.0157
-XWRAP: An XML-Enabled Wrapper Construction System for Web Information Sources	|	0.0156
-Translating Web Data	|	0.0156
-extensible markup language (xml) 1	|	0.0156
-Typechecking for XML transformers	|	0.0139
-Wrapper generation for semi-structured Internet sources	|	0.0139
-Retrieving and Integrating Data from Multiple Information Sources	|	0.0123
-Indexing and Querying XML Data for Regular Path Expressions	|	0.0098
-Quilt: An XML Query Language for Heterogeneous Data Sources	|	0.0088
-Towards Heterogeneous Multimedia Information Systems: The Garlic Approach	|	0.0088
-Database techniques for the World-Wide Web: a survey	|	0.0072
-The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0064
-Piazza: data management infrastructure for semantic web applications	|	0.0064
-On Supporting Containment Queries in Relational Database Management Systems	|	0.0058
-Semistructured data	|	0.0058
-The Lorel Query Language for Semistructured Data	|	0.0048
-Mediators in the Architecture of Future Information Systems	|	0.0044
-An Adaptive Query Execution System for Data Integration	|	0.0037
-A Query Language and Optimization Techniques for Unstructured Data	|	0.0035
-Answering queries using views: A survey	|	0.0016
+Why and Where: A Characterization of Data Provenance	|	0.2000
+Extensible Markup Language	|	0.2000
+RQL: a declarative query language for RDF	|	0.1905
+Database techniques for the World-Wide Web: a survey	|	0.1714
+Detecting Changes in XML Documents	|	0.1667
+A hierarchical approach to wrapper induction	|	0.1538
+Wrapper Induction for Information Extraction	|	0.1429
+XRel: a path-based approach to storage and retrieval of XML documents using relational databases	|	0.1429
+XWRAP: An XML-Enabled Wrapper Construction System for Web Information Sources	|	0.1333
+Translating Web Data	|	0.1333
+extensible markup language (xml) 1	|	0.1333
+The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.1290
+A brief survey of web data extraction tools	|	0.1250
+Typechecking for XML transformers	|	0.1250
+Extracting Semistructured Information from the Web	|	0.1250
+Wrapper generation for semi-structured Internet sources	|	0.1250
+Retrieving and Integrating Data from Multiple Information Sources	|	0.1176
+The Lorel Query Language for Semistructured Data	|	0.1143
+Indexing and Querying XML Data for Regular Path Expressions	|	0.1053
+Quilt: An XML Query Language for Heterogeneous Data Sources	|	0.1000
+Towards Heterogeneous Multimedia Information Systems: The Garlic Approach	|	0.1000
+Piazza: data management infrastructure for semantic web applications	|	0.0870
+On Supporting Containment Queries in Relational Database Management Systems	|	0.0833
+Semistructured data	|	0.0833
+Mediators in the Architecture of Future Information Systems	|	0.0741
+An Adaptive Query Execution System for Data Integration	|	0.0690
+A Query Language and Optimization Techniques for Unstructured Data	|	0.0667
+Answering queries using views: A survey	|	0.0476

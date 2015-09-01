@@ -1,78 +1,70 @@
-A foundation for representing and querying moving objects	|	0.2143
-Iris: An Object-Oriented Database Management System	|	0.2105
-Point-set topological spatial relations	|	0.2069
-The temporal query language TQuel	|	0.1978
-Moving Objects Databases: Issues and Solutions	|	0.1964
-Direct Spatial Search on Pictorial Databases Using Packed R-Trees	|	0.1909
-Discovery of Spatial Association Rules in Geographic Information Databases	|	0.1818
-An Introduction to Spatial Database Systems	|	0.1575
-Query-by-Example: A Data Base Language	|	0.1500
-Multidimensional access methods	|	0.0738
-Reasoning about Binary Topological Relations	|	0.0345
-Quad Trees: A Data Structure for Retrieval on Composite Keys	|	0.0182
-Using Orientation Information for Qualitative Spatial Reasoning	|	0.0179
-Applications of spatial data structures	|	0.0179
-The TSQL2 Temporal Query Language	|	0.0172
-Extending object-oriented systems with roles	|	0.0172
-Applications of spatial data structures: computer graphics	|	0.0172
-Capturing the Uncertainty of Moving-Object Representations	|	0.0172
-Efficient Processing of Spatial Joins Using R-Trees	|	0.0144
-A homogeneous relational model and query languages for temporal databases	|	0.0143
-Objects and Views	|	0.0132
-Organization and Maintenance of Large Ordered Indexes	|	0.0125
-On packing R-trees	|	0.0114
-Hilbert R-tree: An Improved R-tree using Fractals	|	0.0114
-On indexing mobile objects	|	0.0110
-Accelerating XPath location steps	|	0.0110
-Understanding the New SQL: A Complete Guide	|	0.0110
-An effective way to represent quadtrees	|	0.0110
-Data-Driven Discovery of Quantitative Rules in Relational Databases	|	0.0110
-Telos: representing knowledge about information systems	|	0.0100
-A Taxonomy of Time in Databases	|	0.0100
-3D Shape Histograms for Similarity Search and Classification in Spatial Databases	|	0.0091
-Linear Hashing: A New Tool for File and Table Addressing	|	0.0091
-Query By Example	|	0.0091
-Data Structures for Range Searching	|	0.0091
-The Design and Analysis of Spatial Data Structures	|	0.0091
-Spatial Query Processing in an Object-Oriented Database System	|	0.0088
-Efficient locking for concurrent operations on B-trees	|	0.0083
-The TV-Tree: An Index Structure for High-Dimensional Data	|	0.0082
-The Grid File: An Adaptable, Symmetric Multi-Key File Structure	|	0.0082
-Universality of data retrieval languages	|	0.0075
-Towards Heterogeneous Multimedia Information Systems: The Garlic Approach	|	0.0075
-Organization and Maintenance of Large Ordered Indices	|	0.0070
-Generalized Search Trees for Database Systems	|	0.0068
-Principles of Database Systems, 2nd Edition	|	0.0068
-A Data Model and Query Language for EXODUS	|	0.0063
-Searching in metric spaces	|	0.0063
-Join indices	|	0.0063
-Temporal and Real-Time Databases: A Survey	|	0.0060
-A class of data structures for associative searching	|	0.0057
-Interoperability of multiple autonomous databases	|	0.0057
-The Quadtree and Related Hierarchical Data Structures	|	0.0057
-IFO: a formal semantic database model	|	0.0057
-The Grid File: An Adaptable, Symmetric Multikey File Structure	|	0.0053
-Catching the boat with Strudel: experiences with a Web Site management system	|	0.0052
-The design & analysis of spatial data structures	|	0.0052
-Extending the database relational model to capture more meaning	|	0.0049
-Optimal Multi-Step k-Nearest Neighbor Search	|	0.0048
-Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0046
-The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0046
-Database description with SDM: a semantic database model	|	0.0044
-The Design of Postgres	|	0.0041
-Discovery of Multiple-Level Association Rules from Large Databases	|	0.0038
-Distance browsing in spatial databases	|	0.0038
-Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0038
-The R*-tree: an efficient and robust access method for points and rectangles	|	0.0036
-DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0035
-The Ubiquitous B-Tree	|	0.0035
-Lore: a database management system for semistructured data	|	0.0026
-The X-tree : An Index Structure for High-Dimensional Data	|	0.0023
-Logic and Databases: A Deductive Approach	|	0.0022
-Data Mining: An Overview from a Database Perspective	|	0.0019
-The Theory of Relational Databases	|	0.0018
-Searching in high-dimensional spaces: Index structures for improving the performance of multimedia databases	|	0.0017
-Mining association rules between sets of items in large databases	|	0.0015
-Fast Algorithms for Mining Association Rules	|	0.0010
-Principles of Database and Knowledge-Base Systems, Volume II	|	0.0007
-Foundations of Databases	|	0.0004
+Reasoning about Binary Topological Relations	|	0.3333
+Efficient Processing of Spatial Joins Using R-Trees	|	0.2222
+Quad Trees: A Data Structure for Retrieval on Composite Keys	|	0.2000
+Using Orientation Information for Qualitative Spatial Reasoning	|	0.1818
+The Design and Analysis of Spatial Data Structures	|	0.1818
+Applications of spatial data structures	|	0.1818
+Organization and Maintenance of Large Ordered Indexes	|	0.1667
+The TSQL2 Temporal Query Language	|	0.1667
+Extending object-oriented systems with roles	|	0.1667
+Applications of spatial data structures: computer graphics	|	0.1667
+Capturing the Uncertainty of Moving-Object Representations	|	0.1667
+On packing R-trees	|	0.1600
+Hilbert R-tree: An Improved R-tree using Fractals	|	0.1600
+Spatial Query Processing in an Object-Oriented Database System	|	0.1429
+The TV-Tree: An Index Structure for High-Dimensional Data	|	0.1379
+The Grid File: An Adaptable, Symmetric Multi-Key File Structure	|	0.1379
+A homogeneous relational model and query languages for temporal databases	|	0.1333
+Organization and Maintenance of Large Ordered Indices	|	0.1290
+Objects and Views	|	0.1250
+The R*-tree: an efficient and robust access method for points and rectangles	|	0.1224
+Temporal and Real-Time Databases: A Survey	|	0.1212
+The Grid File: An Adaptable, Symmetric Multikey File Structure	|	0.1143
+On indexing mobile objects	|	0.1111
+Accelerating XPath location steps	|	0.1111
+Understanding the New SQL: A Complete Guide	|	0.1111
+An effective way to represent quadtrees	|	0.1111
+Data-Driven Discovery of Quantitative Rules in Relational Databases	|	0.1111
+Extending the database relational model to capture more meaning	|	0.1111
+Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.1081
+The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.1081
+Telos: representing knowledge about information systems	|	0.1053
+A Taxonomy of Time in Databases	|	0.1053
+3D Shape Histograms for Similarity Search and Classification in Spatial Databases	|	0.1000
+Linear Hashing: A New Tool for File and Table Addressing	|	0.1000
+Query By Example	|	0.1000
+Direct Spatial Search on Pictorial Databases Using Packed R-Trees	|	0.1000
+Data Structures for Range Searching	|	0.1000
+Efficient locking for concurrent operations on B-trees	|	0.0952
+Universality of data retrieval languages	|	0.0909
+Towards Heterogeneous Multimedia Information Systems: The Garlic Approach	|	0.0909
+Generalized Search Trees for Database Systems	|	0.0870
+Principles of Database Systems, 2nd Edition	|	0.0870
+A Data Model and Query Language for EXODUS	|	0.0833
+Searching in metric spaces	|	0.0833
+Join indices	|	0.0833
+A class of data structures for associative searching	|	0.0800
+Interoperability of multiple autonomous databases	|	0.0800
+The Quadtree and Related Hierarchical Data Structures	|	0.0800
+IFO: a formal semantic database model	|	0.0800
+Catching the boat with Strudel: experiences with a Web Site management system	|	0.0769
+The design & analysis of spatial data structures	|	0.0769
+Optimal Multi-Step k-Nearest Neighbor Search	|	0.0741
+Database description with SDM: a semantic database model	|	0.0714
+The Design of Postgres	|	0.0690
+Discovery of Multiple-Level Association Rules from Large Databases	|	0.0667
+Distance browsing in spatial databases	|	0.0667
+Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0667
+DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0645
+The Ubiquitous B-Tree	|	0.0645
+Lore: a database management system for semistructured data	|	0.0571
+The X-tree : An Index Structure for High-Dimensional Data	|	0.0541
+Logic and Databases: A Deductive Approach	|	0.0526
+Data Mining: An Overview from a Database Perspective	|	0.0500
+The Theory of Relational Databases	|	0.0488
+Multidimensional access methods	|	0.0476
+Searching in high-dimensional spaces: Index structures for improving the performance of multimedia databases	|	0.0476
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0476
+Mining association rules between sets of items in large databases	|	0.0444
+Fast Algorithms for Mining Association Rules	|	0.0377
+Foundations of Databases	|	0.0256

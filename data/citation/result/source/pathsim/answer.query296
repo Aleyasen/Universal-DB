@@ -1,33 +1,33 @@
-Filtering algorithms and implementation for very fast publish/subscribe systems	|	0.4444
-XML Path Language (XPath) Version 1.0	|	0.4444
-Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.2857
-Path sharing and predicate evaluation for high-performance XML filtering	|	0.2667
-Accurate Estimation of the Number of Tuples Satisfying a Condition	|	0.2500
-Extensible Markup Language (XML)	|	0.2500
-Holistic twig joins: optimal XML pattern matching	|	0.2353
-Efficient Algorithms for Processing XPath Queries	|	0.2222
-NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.2222
-Detecting Changes in XML Documents	|	0.2222
-Human behavior and the principle of least effort	|	0.2222
-XML-QL: A Query Language for XML	|	0.2222
-Optimal Histograms with Quality Guarantees	|	0.2000
-Data on the web	|	0.2000
-Extensible Markup Language (XML) 1.0	|	0.2000
-extensible markup language (xml) 1	|	0.1667
-Selectivity Estimation Without the Attribute Value Independence Assumption	|	0.1538
-Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.1538
-Human Behaviour and the Principle of Least Effort: an Introduction to Human Ecology	|	0.1538
-Improved Histograms for Selectivity Estimation of Range Predicates	|	0.1429
-Computing Iceberg Queries Efficiently	|	0.1429
-Indexing and Querying XML Data for Regular Path Expressions	|	0.1250
-The Architecture Of An Active Data Base Management System	|	0.1250
-Aurora: a new model and architecture for data stream management	|	0.1111
-On Supporting Containment Queries in Relational Database Management Systems	|	0.0952
-Continuously adaptive continuous queries over streams	|	0.0800
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0800
-DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0769
-Continuous queries over data streams	|	0.0769
-A Query Language and Optimization Techniques for Unstructured Data	|	0.0741
-Monitoring Streams - A New Class of Data Management Applications	|	0.0690
-The Lorel Query Language for Semistructured Data	|	0.0625
-Models and issues in data stream systems	|	0.0588
+Filtering algorithms and implementation for very fast publish/subscribe systems	|	0.4400
+Efficient Algorithms for Processing XPath Queries	|	0.4000
+Human Behaviour and the Principle of Least Effort: an Introduction to Human Ecology	|	0.2745
+Path sharing and predicate evaluation for high-performance XML filtering	|	0.2429
+Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.1100
+XML Path Language (XPath) Version 1.0	|	0.0800
+Accurate Estimation of the Number of Tuples Satisfying a Condition	|	0.0476
+Extensible Markup Language (XML)	|	0.0476
+Detecting Changes in XML Documents	|	0.0400
+Human behavior and the principle of least effort	|	0.0400
+Optimal Histograms with Quality Guarantees	|	0.0333
+Data on the web	|	0.0333
+Extensible Markup Language (XML) 1.0	|	0.0333
+extensible markup language (xml) 1	|	0.0233
+Holistic twig joins: optimal XML pattern matching	|	0.0215
+Selectivity Estimation Without the Attribute Value Independence Assumption	|	0.0196
+XML-QL: A Query Language for XML	|	0.0189
+Improved Histograms for Selectivity Estimation of Range Predicates	|	0.0167
+Computing Iceberg Queries Efficiently	|	0.0167
+Indexing and Querying XML Data for Regular Path Expressions	|	0.0123
+The Architecture Of An Active Data Base Management System	|	0.0123
+NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0112
+Aurora: a new model and architecture for data stream management	|	0.0094
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0081
+On Supporting Containment Queries in Relational Database Management Systems	|	0.0066
+Continuously adaptive continuous queries over streams	|	0.0044
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0044
+DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0041
+Continuous queries over data streams	|	0.0041
+A Query Language and Optimization Techniques for Unstructured Data	|	0.0037
+Monitoring Streams - A New Class of Data Management Applications	|	0.0032
+The Lorel Query Language for Semistructured Data	|	0.0025
+Models and issues in data stream systems	|	0.0022

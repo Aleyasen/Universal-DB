@@ -1,40 +1,41 @@
-Extending object-oriented systems with roles	|	0.3333
-Measuring Similarity between Ontologies	|	0.2857
-Object-Oriented Programming: Themes and Variations	|	0.2857
-Simple Fast Algorithms for the Editing Distance Between Trees and Related Problems	|	0.2857
-Generic Schema Matching with Cupid	|	0.2667
-The PROMPT suite: interactive tools for ontology merging and mapping	|	0.2667
-Simlarity Search for Web Services	|	0.2222
-Learning to match ontologies on the Semantic Web	|	0.2222
-Ontology Evolution: Not the Same as Schema Evolution	|	0.2222
-Semantic integration: a survey of ontology-based approaches	|	0.2000
-Data exchange: semantics and query answering	|	0.2000
-Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.1818
-Semantic integration of semistructured and structured data sources	|	0.1818
-Similarity Flooding: A Versatile Graph Matching Algorithm and Its Application to Schema Matching	|	0.1818
-Don't Scrap It, Wrap It! A Wrapper Architecture for Legacy Data Sources	|	0.1818
-Translating Web Data	|	0.1818
-A Theory of Attribute Equivalence in Databases with Application to Schema Integration	|	0.1818
-Starburst Mid-Flight: As the Dust Clears	|	0.1818
-A Survey of Schema-Based Matching Approaches	|	0.1818
-Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.1667
-Data model issues for object-oriented applications	|	0.1667
-Ontology mapping: the state of the art	|	0.1538
-The Implementation of Postgres	|	0.1429
-COMA - A System for Flexible Combination of Schema Matching Approaches	|	0.1429
-Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases	|	0.1429
-A comparative analysis of methodologies for database schema integration	|	0.1333
-Ontology Mapping: The State of the Art	|	0.1333
-A survey of approaches to automatic schema matching	|	0.1290
-Semantic and Schematic Similarities Between Database Objects: A Context-Based Approach	|	0.1250
-Towards Heterogeneous Multimedia Information Systems: The Garlic Approach	|	0.1250
-Data Management for Peer-to-Peer Computing : A Vision	|	0.1176
-Schema Mapping as Query Discovery	|	0.1176
-The functional data model and the data language DAPLEX	|	0.1176
-Schema Mediation in Peer Data Management Systems	|	0.1111
-Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.1111
-Piazza: data management infrastructure for semantic web applications	|	0.1053
-Your Mediators Need Data Conversion!	|	0.1000
-Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.0952
-DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0800
-Data integration: a theoretical perspective	|	0.0690
+Semantics and Implementation of Schema Evolution in Object-Oriented Databases	|	0.3226
+A Theory of Attribute Equivalence in Databases with Application to Schema Integration	|	0.3158
+Schema Mapping as Query Discovery	|	0.1782
+A survey of approaches to automatic schema matching	|	0.0851
+Extending object-oriented systems with roles	|	0.0769
+Measuring Similarity between Ontologies	|	0.0625
+Object-Oriented Programming: Themes and Variations	|	0.0625
+Simple Fast Algorithms for the Editing Distance Between Trees and Related Problems	|	0.0625
+Simlarity Search for Web Services	|	0.0400
+Ontology Evolution: Not the Same as Schema Evolution	|	0.0400
+Semantic integration: a survey of ontology-based approaches	|	0.0323
+Data exchange: semantics and query answering	|	0.0323
+Generic Schema Matching with Cupid	|	0.0263
+Semantic integration of semistructured and structured data sources	|	0.0263
+Similarity Flooding: A Versatile Graph Matching Algorithm and Its Application to Schema Matching	|	0.0263
+Don't Scrap It, Wrap It! A Wrapper Architecture for Legacy Data Sources	|	0.0263
+Translating Web Data	|	0.0263
+Starburst Mid-Flight: As the Dust Clears	|	0.0263
+The PROMPT suite: interactive tools for ontology merging and mapping	|	0.0263
+Data model issues for object-oriented applications	|	0.0217
+Ontology mapping: the state of the art	|	0.0182
+Learning to match ontologies on the Semantic Web	|	0.0174
+The Implementation of Postgres	|	0.0154
+COMA - A System for Flexible Combination of Schema Matching Approaches	|	0.0154
+Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases	|	0.0154
+Ontology Mapping: The State of the Art	|	0.0132
+Semantic and Schematic Similarities Between Database Objects: A Context-Based Approach	|	0.0114
+Towards Heterogeneous Multimedia Information Systems: The Garlic Approach	|	0.0114
+Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.0110
+A Survey of Schema-Based Matching Approaches	|	0.0110
+Data Management for Peer-to-Peer Computing : A Vision	|	0.0099
+The functional data model and the data language DAPLEX	|	0.0099
+Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.0091
+Schema Mediation in Peer Data Management Systems	|	0.0087
+Piazza: data management infrastructure for semantic web applications	|	0.0077
+Your Mediators Need Data Conversion!	|	0.0068
+Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.0061
+A comparative analysis of methodologies for database schema integration	|	0.0055
+DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0041
+Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0037
+Data integration: a theoretical perspective	|	0.0030

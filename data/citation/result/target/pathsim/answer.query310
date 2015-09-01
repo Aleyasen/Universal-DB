@@ -1,177 +1,177 @@
-The Grid File: An Adaptable, Symmetric Multi-Key File Structure	|	0.1204
-Searching in metric spaces	|	0.1093
-The Quadtree and Related Hierarchical Data Structures	|	0.1079
-Linear Hashing: A New Tool for File and Table Addressing	|	0.1053
-Quad Trees: A Data Structure for Retrieval on Composite Keys	|	0.1053
-Similarity Indexing with the SS-tree	|	0.1041
-An Introduction to Spatial Database Systems	|	0.1034
-The TV-Tree: An Index Structure for High-Dimensional Data	|	0.1029
-Spatial Query Processing in an Object-Oriented Database System	|	0.1028
-Access methods for text	|	0.1023
-Efficient and Effective Querying by Image Content	|	0.1008
-Partition Based Spatial-Merge Join	|	0.0997
-Linear Clustering of Objects with Multiple Atributes	|	0.0971
-The hB-tree: a multiattribute indexing method with good guaranteed performance	|	0.0970
-A Quantitative Analysis and Performance Study for Similarity-Search Methods in High-Dimensional Spaces	|	0.0948
-The X-tree : An Index Structure for High-Dimensional Data	|	0.0910
-The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0896
-FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets	|	0.0858
-Searching in high-dimensional spaces: Index structures for improving the performance of multimedia databases	|	0.0832
-Multidimensional access methods	|	0.0797
-Efficient Similarity Search In Sequence Databases	|	0.0750
-Fast Subsequence Matching in Time-Series Databases	|	0.0750
-The R*-tree: an efficient and robust access method for points and rectangles	|	0.0706
-Query Optimization in Database Systems	|	0.0677
-Query evaluation techniques for large databases	|	0.0361
-M-tree: An Efficient Access Method for Similarity Search in Metric Spaces	|	0.0202
-A class of data structures for associative searching	|	0.0202
-Data Structures for Range Searching	|	0.0184
-The SR-tree: An Index Structure for High-Dimensional Nearest Neighbor Queries	|	0.0168
-Fast Nearest Neighbor Search in Medical Image Databases	|	0.0166
-The Pyramid-Technique: Towards Breaking the Curse of Dimensionality	|	0.0163
-On packing R-trees	|	0.0157
-Hilbert R-tree: An Improved R-tree using Fractals	|	0.0157
-Optimal Multi-Step k-Nearest Neighbor Search	|	0.0146
-Efficient Processing of Spatial Joins Using R-Trees	|	0.0146
-Generalized Search Trees for Database Systems	|	0.0144
-The Ubiquitous B-Tree	|	0.0144
-Organization and Maintenance of Large Ordered Indexes	|	0.0140
-3D Shape Histograms for Similarity Search and Classification in Spatial Databases	|	0.0132
-The design & analysis of spatial data structures	|	0.0130
-When Is ''Nearest Neighbor'' Meaningful?	|	0.0128
-A cost model for nearest neighbor search in high-dimensional data space	|	0.0120
-MindReader: Querying Databases Through Multiple Examples	|	0.0118
-The Design and Analysis of Spatial Data Structures	|	0.0116
-An effective way to represent quadtrees	|	0.0111
-What Is the Nearest Neighbor in High Dimensional Spaces?	|	0.0108
-Efficient Time Series Matching by Wavelets	|	0.0108
-Organization and Maintenance of Large Ordered Indices	|	0.0108
-Discovering Similar Multidimensional Trajectories	|	0.0099
-Ranking in Spatial Databases	|	0.0096
-Fast Time Sequence Indexing for Arbitrary Lp Norms	|	0.0093
-Distance browsing in spatial databases	|	0.0093
-Similarity-Based Queries for Time Series Data	|	0.0087
-Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases	|	0.0084
-Dimensionality Reduction for Fast Similarity Search in Large Time Series Databases	|	0.0083
-Similarity Search in High Dimensions via Hashing	|	0.0081
-Efficient Retrieval of Similar Time Sequences Under Time Warping	|	0.0081
-Direct Spatial Search on Pictorial Databases Using Packed R-Trees	|	0.0079
-Join indices	|	0.0070
-Trie memory	|	0.0060
-Query Processing in Spatial Network Databases	|	0.0059
-Data structures and algorithms for nearest neighbor search in general metric spaces	|	0.0059
-Organization and maintenance of large ordered indexes	|	0.0059
-Satisfying General Proximity/Similarity Queries with Metric Trees	|	0.0058
-Near Neighbor Search in Large Metric Spaces	|	0.0057
-LOF: Identifying Density-Based Local Outliers	|	0.0055
-On indexing mobile objects	|	0.0055
-StatStream: Statistical Monitoring of Thousands of Data Streams in Real Time	|	0.0055
-Exact Indexing of Dynamic Time Warping	|	0.0054
-A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.0054
-OPTICS: Ordering Points To Identify the Clustering Structure	|	0.0054
-The Case for Shared Nothing	|	0.0054
-Spatial SQL: A Query and Presentation Language	|	0.0053
-Efficient locking for concurrent operations on B-trees	|	0.0051
-Structural Joins: A Primitive for Efficient XML Query Pattern Matching	|	0.0051
-Data Mining: An Overview from a Database Perspective	|	0.0051
-Locally Adaptive Dimensionality Reduction for Indexing Large Time Series Databases	|	0.0050
-Holistic twig joins: optimal XML pattern matching	|	0.0050
-A New SQL-like Operator for Mining Association Rules	|	0.0048
-Concurrency Control in Distributed Database Systems	|	0.0047
-Database Mining: A Performance Perspective	|	0.0045
-The Gamma Database Machine Project	|	0.0040
-The Design of Postgres	|	0.0039
-Continuous queries over data streams	|	0.0036
-Mining association rules between sets of items in large databases	|	0.0031
-Lore: a database management system for semistructured data	|	0.0031
-Sorting Networks and Their Applications	|	0.0031
-Analysis of the Clustering Properties of the Hilbert Space-Filling Curve	|	0.0031
-Applications of spatial data structures	|	0.0031
-Reasoning about Binary Topological Relations	|	0.0030
-Principles of database systems	|	0.0030
-Applications of spatial data structures: computer graphics	|	0.0030
-Consistency in Partitioned Networks	|	0.0030
-Logic-based approach to semantic query optimization	|	0.0030
-Implementation of integrity constraints and views by query modification	|	0.0030
-On the Computation of Multidimensional Aggregates	|	0.0030
-XIRQL: a query language for information retrieval in XML documents	|	0.0030
-The relational model with relation-valued attributes	|	0.0030
-On Finding the Maxima of a Set of Vectors	|	0.0030
-Approximating block accesses in database organizations	|	0.0030
-Types and persistence in database programming languages	|	0.0030
-Complex Queries in DHT-based Peer-to-Peer Networks	|	0.0029
-The Skyline Operator	|	0.0029
-Randomized Algorithms for Optimizing Large Join Queries	|	0.0029
-Transaction Processing: Concepts and Techniques	|	0.0029
-Principles of Distributed Database Systems	|	0.0029
-Principles of distributed database systems	|	0.0029
-Pnnc:ples of database systems	|	0.0029
-GAMMA - A High Performance Dataflow Database Machine	|	0.0029
-Distance-Based Outliers: Algorithms and Applications	|	0.0029
-An optimal and progressive algorithm for skyline queries	|	0.0029
-Security-Control Methods for Statistical Databases: A Comparative Study	|	0.0029
-Join processing in database systems with large main memories	|	0.0029
-Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0028
-Finding Generalized Projected Clusters In High Dimensional Spaces	|	0.0028
-Aggregate-Query Processing in Data Warehousing Environments	|	0.0028
-Disk Striping	|	0.0028
-Don't Scrap It, Wrap It! A Wrapper Architecture for Legacy Data Sources	|	0.0028
-Starburst Mid-Flight: As the Dust Clears	|	0.0028
-A probabilistic relational algebra for the integration of information retrieval and database systems	|	0.0028
-Shoring Up Persistent Applications	|	0.0028
-Efficient Algorithms for Mining Outliers from Large Data Sets	|	0.0028
-C-Store: A Column-oriented DBMS	|	0.0028
-Fast Algorithms for Mining Association Rules in Large Databases	|	0.0027
-Retrieving and Integrating Data from Multiple Information Sources	|	0.0027
-On Optimistic Methods for Concurrency Control	|	0.0027
-The EXODUS Optimizer Generator	|	0.0027
-Concurrency control in advanced database applications	|	0.0027
-Using Semi-Joins to Solve Relational Queries	|	0.0027
-Principles of database buffer management	|	0.0027
-The Implementation of Postgres	|	0.0026
-Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals	|	0.0026
-Efficient Data Mining for Path Traversal Patterns	|	0.0026
-Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases	|	0.0026
-Operating system support for database management	|	0.0026
-The Recovery Manager of the System R Database Manager	|	0.0026
-Principles of transaction-oriented database recovery	|	0.0026
-On optimizing an SQL-like nested query	|	0.0026
-Extended algebra and calculus for nested relational databases	|	0.0026
-Querying the Internet with PIER	|	0.0026
-Data Placement In Bubba	|	0.0026
-Parallel database systems: the future of high performance database systems	|	0.0026
-An Evaluation of Buffer Management Strategies for Relational Database Systems	|	0.0025
-The Theory of Relational Databases	|	0.0024
-Principles of Database Systems, 2nd Edition	|	0.0024
-A logical design methodology for relational databases using the extended entity-relationship model	|	0.0024
-The functional data model and the data language DAPLEX	|	0.0024
-Approximate Query Processing Using Wavelets	|	0.0023
-CURE: An Efficient Clustering Algorithm for Large Databases	|	0.0023
-Join processing in relational databases	|	0.0023
-Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.0022
-Parallel Database Systems: The Future of High Performance Database Processing1	|	0.0022
-Interoperability of multiple autonomous databases	|	0.0022
-Query Optimization for XML	|	0.0020
-The entity-relationship model---toward a unified view of data	|	0.0020
-The notions of consistency and predicate locks in a database system	|	0.0019
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0019
-Semantic data models	|	0.0019
-Relational Completeness of Data Base Sublanguages	|	0.0019
-An Adaptive Query Execution System for Data Integration	|	0.0018
-Optimal implementation of conjunctive queries in relational data bases	|	0.0017
-System R: A Relational Approach to Data Base Management	|	0.0017
-The functional data model and the data languages DAPLEX	|	0.0017
-Access path selection in a relational database management system	|	0.0017
-Temporal and Real-Time Databases: A Survey	|	0.0017
-Principles of Database and Knowledge-Base Systems, Volume II	|	0.0016
-Fast Algorithms for Mining Association Rules	|	0.0016
-Principles of Database and Knowledge-Base Systems, Volume I	|	0.0015
-An Effective Hash Based Algorithm for Mining Association Rules	|	0.0015
-A comparative analysis of methodologies for database schema integration	|	0.0015
-The Lorel Query Language for Semistructured Data	|	0.0014
-System R: relational approach to database management	|	0.0014
-Logic and Databases: A Deductive Approach	|	0.0014
-Models and issues in data stream systems	|	0.0013
-Concurrency Control and Recovery in Database Systems	|	0.0012
-Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0012
-Foundations of Databases	|	0.0007
+The Grid File: An Adaptable, Symmetric Multi-Key File Structure	|	0.8182
+Searching in high-dimensional spaces: Index structures for improving the performance of multimedia databases	|	0.4912
+The X-tree : An Index Structure for High-Dimensional Data	|	0.4615
+M-tree: An Efficient Access Method for Similarity Search in Metric Spaces	|	0.4500
+A class of data structures for associative searching	|	0.4500
+The R*-tree: an efficient and robust access method for points and rectangles	|	0.4375
+The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.4231
+Searching in metric spaces	|	0.4103
+The TV-Tree: An Index Structure for High-Dimensional Data	|	0.4091
+Data Structures for Range Searching	|	0.4000
+The Quadtree and Related Hierarchical Data Structures	|	0.4000
+Multidimensional access methods	|	0.3860
+A Quantitative Analysis and Performance Study for Similarity-Search Methods in High-Dimensional Spaces	|	0.3750
+Spatial Query Processing in an Object-Oriented Database System	|	0.3721
+The SR-tree: An Index Structure for High-Dimensional Nearest Neighbor Queries	|	0.3684
+Fast Nearest Neighbor Search in Medical Image Databases	|	0.3636
+The Pyramid-Technique: Towards Breaking the Curse of Dimensionality	|	0.3590
+On packing R-trees	|	0.3500
+Hilbert R-tree: An Improved R-tree using Fractals	|	0.3500
+The Ubiquitous B-Tree	|	0.3478
+Similarity Indexing with the SS-tree	|	0.3415
+Optimal Multi-Step k-Nearest Neighbor Search	|	0.3333
+Efficient Processing of Spatial Joins Using R-Trees	|	0.3333
+Efficient and Effective Querying by Image Content	|	0.3256
+Generalized Search Trees for Database Systems	|	0.3158
+Organization and Maintenance of Large Ordered Indexes	|	0.3077
+The design & analysis of spatial data structures	|	0.2927
+The Design and Analysis of Spatial Data Structures	|	0.2917
+3D Shape Histograms for Similarity Search and Classification in Spatial Databases	|	0.2857
+Linear Hashing: A New Tool for File and Table Addressing	|	0.2857
+Quad Trees: A Data Structure for Retrieval on Composite Keys	|	0.2857
+When Is ''Nearest Neighbor'' Meaningful?	|	0.2778
+FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets	|	0.2745
+MindReader: Querying Databases Through Multiple Examples	|	0.2667
+A cost model for nearest neighbor search in high-dimensional data space	|	0.2632
+An Introduction to Spatial Database Systems	|	0.2632
+Organization and Maintenance of Large Ordered Indices	|	0.2609
+Efficient Similarity Search In Sequence Databases	|	0.2456
+Fast Subsequence Matching in Time-Series Databases	|	0.2456
+An effective way to represent quadtrees	|	0.2424
+What Is the Nearest Neighbor in High Dimensional Spaces?	|	0.2353
+Efficient Time Series Matching by Wavelets	|	0.2353
+Fast Time Sequence Indexing for Arbitrary Lp Norms	|	0.2222
+Distance browsing in spatial databases	|	0.2222
+Access methods for text	|	0.2222
+Discovering Similar Multidimensional Trajectories	|	0.2162
+Ranking in Spatial Databases	|	0.2105
+Linear Clustering of Objects with Multiple Atributes	|	0.2000
+Similarity-Based Queries for Time Series Data	|	0.1935
+Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases	|	0.1905
+Dimensionality Reduction for Fast Similarity Search in Large Time Series Databases	|	0.1818
+Similarity Search in High Dimensions via Hashing	|	0.1765
+Efficient Retrieval of Similar Time Sequences Under Time Warping	|	0.1765
+Direct Spatial Search on Pictorial Databases Using Packed R-Trees	|	0.1714
+Partition Based Spatial-Merge Join	|	0.1667
+Query evaluation techniques for large databases	|	0.1667
+Join indices	|	0.1538
+Data Mining: An Overview from a Database Perspective	|	0.1455
+Trie memory	|	0.1429
+Query Processing in Spatial Network Databases	|	0.1333
+Data structures and algorithms for nearest neighbor search in general metric spaces	|	0.1333
+Organization and maintenance of large ordered indexes	|	0.1333
+Satisfying General Proximity/Similarity Queries with Metric Trees	|	0.1290
+Near Neighbor Search in Large Metric Spaces	|	0.1250
+LOF: Identifying Density-Based Local Outliers	|	0.1212
+On indexing mobile objects	|	0.1212
+StatStream: Statistical Monitoring of Thousands of Data Streams in Real Time	|	0.1212
+The hB-tree: a multiattribute indexing method with good guaranteed performance	|	0.1212
+Exact Indexing of Dynamic Time Warping	|	0.1176
+A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.1176
+OPTICS: Ordering Points To Identify the Clustering Structure	|	0.1176
+The Case for Shared Nothing	|	0.1176
+Spatial SQL: A Query and Presentation Language	|	0.1143
+Efficient locking for concurrent operations on B-trees	|	0.1111
+Structural Joins: A Primitive for Efficient XML Query Pattern Matching	|	0.1111
+Locally Adaptive Dimensionality Reduction for Indexing Large Time Series Databases	|	0.1081
+Holistic twig joins: optimal XML pattern matching	|	0.1081
+A New SQL-like Operator for Mining Association Rules	|	0.1053
+Concurrency Control in Distributed Database Systems	|	0.1026
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.1010
+Mining association rules between sets of items in large databases	|	0.1000
+Database Mining: A Performance Perspective	|	0.1000
+The Gamma Database Machine Project	|	0.0930
+The Design of Postgres	|	0.0909
+Continuous queries over data streams	|	0.0870
+Lore: a database management system for semistructured data	|	0.0800
+Types and persistence in database programming languages	|	0.0784
+Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0769
+Sorting Networks and Their Applications	|	0.0769
+Analysis of the Clustering Properties of the Hilbert Space-Filling Curve	|	0.0769
+Applications of spatial data structures	|	0.0769
+Fast Algorithms for Mining Association Rules in Large Databases	|	0.0755
+Reasoning about Binary Topological Relations	|	0.0741
+Principles of database systems	|	0.0741
+Applications of spatial data structures: computer graphics	|	0.0741
+The Theory of Relational Databases	|	0.0714
+Consistency in Partitioned Networks	|	0.0714
+Logic-based approach to semantic query optimization	|	0.0714
+Implementation of integrity constraints and views by query modification	|	0.0714
+On the Computation of Multidimensional Aggregates	|	0.0714
+XIRQL: a query language for information retrieval in XML documents	|	0.0690
+The relational model with relation-valued attributes	|	0.0690
+Query Optimization in Database Systems	|	0.0690
+On Finding the Maxima of a Set of Vectors	|	0.0690
+Approximating block accesses in database organizations	|	0.0690
+Complex Queries in DHT-based Peer-to-Peer Networks	|	0.0667
+The Skyline Operator	|	0.0667
+Randomized Algorithms for Optimizing Large Join Queries	|	0.0667
+Transaction Processing: Concepts and Techniques	|	0.0667
+Principles of Distributed Database Systems	|	0.0667
+Principles of distributed database systems	|	0.0667
+Pnnc:ples of database systems	|	0.0667
+GAMMA - A High Performance Dataflow Database Machine	|	0.0645
+Distance-Based Outliers: Algorithms and Applications	|	0.0645
+An optimal and progressive algorithm for skyline queries	|	0.0645
+Security-Control Methods for Statistical Databases: A Comparative Study	|	0.0645
+Join processing in database systems with large main memories	|	0.0645
+Finding Generalized Projected Clusters In High Dimensional Spaces	|	0.0625
+Aggregate-Query Processing in Data Warehousing Environments	|	0.0625
+Disk Striping	|	0.0625
+Don't Scrap It, Wrap It! A Wrapper Architecture for Legacy Data Sources	|	0.0625
+Starburst Mid-Flight: As the Dust Clears	|	0.0625
+A probabilistic relational algebra for the integration of information retrieval and database systems	|	0.0625
+Shoring Up Persistent Applications	|	0.0606
+Efficient Algorithms for Mining Outliers from Large Data Sets	|	0.0606
+Access path selection in a relational database management system	|	0.0606
+C-Store: A Column-oriented DBMS	|	0.0606
+Fast Algorithms for Mining Association Rules	|	0.0588
+Retrieving and Integrating Data from Multiple Information Sources	|	0.0588
+On Optimistic Methods for Concurrency Control	|	0.0588
+The EXODUS Optimizer Generator	|	0.0588
+Concurrency control in advanced database applications	|	0.0588
+Using Semi-Joins to Solve Relational Queries	|	0.0588
+Principles of database buffer management	|	0.0588
+The Implementation of Postgres	|	0.0571
+Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals	|	0.0571
+Efficient Data Mining for Path Traversal Patterns	|	0.0571
+Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases	|	0.0571
+Operating system support for database management	|	0.0571
+The Recovery Manager of the System R Database Manager	|	0.0571
+Principles of transaction-oriented database recovery	|	0.0571
+On optimizing an SQL-like nested query	|	0.0571
+Extended algebra and calculus for nested relational databases	|	0.0571
+Querying the Internet with PIER	|	0.0556
+Data Placement In Bubba	|	0.0556
+Parallel database systems: the future of high performance database systems	|	0.0556
+An Evaluation of Buffer Management Strategies for Relational Database Systems	|	0.0541
+Principles of Database Systems, 2nd Edition	|	0.0526
+A logical design methodology for relational databases using the extended entity-relationship model	|	0.0526
+The functional data model and the data language DAPLEX	|	0.0526
+Approximate Query Processing Using Wavelets	|	0.0513
+CURE: An Efficient Clustering Algorithm for Large Databases	|	0.0513
+Join processing in relational databases	|	0.0513
+Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.0500
+Parallel Database Systems: The Future of High Performance Database Processing1	|	0.0500
+Interoperability of multiple autonomous databases	|	0.0500
+Query Optimization for XML	|	0.0465
+The entity-relationship model---toward a unified view of data	|	0.0465
+The notions of consistency and predicate locks in a database system	|	0.0455
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0444
+Semantic data models	|	0.0444
+Relational Completeness of Data Base Sublanguages	|	0.0444
+An Adaptive Query Execution System for Data Integration	|	0.0435
+Foundations of Databases	|	0.0430
+Optimal implementation of conjunctive queries in relational data bases	|	0.0426
+System R: A Relational Approach to Data Base Management	|	0.0426
+The functional data model and the data languages DAPLEX	|	0.0426
+Temporal and Real-Time Databases: A Survey	|	0.0417
+Principles of Database and Knowledge-Base Systems, Volume I	|	0.0400
+An Effective Hash Based Algorithm for Mining Association Rules	|	0.0392
+A comparative analysis of methodologies for database schema integration	|	0.0392
+The Lorel Query Language for Semistructured Data	|	0.0385
+System R: relational approach to database management	|	0.0385
+Logic and Databases: A Deductive Approach	|	0.0377
+Models and issues in data stream systems	|	0.0370
+Concurrency Control and Recovery in Database Systems	|	0.0357
+Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0351

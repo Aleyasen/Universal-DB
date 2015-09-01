@@ -1,38 +1,36 @@
-FCA-MERGE: Bottom-Up Merging of Ontologies	|	0.2745
-The Ontolingua Server: a tool for collaborative ontology construction	|	0.2639
-Combining and relating ontologies: an analysis of problems and solutions	|	0.2619
-Ontology development 101: A guide to creating your first ontology	|	0.2619
-Ontology mapping: the state of the art	|	0.2346
-The PROMPT suite: interactive tools for ontology merging and mapping	|	0.2059
-Ontology Mapping: The State of the Art	|	0.2059
-A Survey of Schema-Based Matching Approaches	|	0.1353
-Semantic integration: a survey of ontology-based approaches	|	0.0702
-PROMPT: Algorithm and Tool for Automated Ontology Merging and Alignment	|	0.0472
-Using semantic values to facilitate interoperability among heterogeneous information systems	|	0.0435
-A Translation Approach to Portable Ontology Specifications	|	0.0278
-Methodology for the Design and Evaluation of Ontologies	|	0.0256
-W3c resource description framework (rdf) model and syntax specification	|	0.0256
-The Ontolin-gua Server: A Tool for Collaborative Ontology Construction	|	0.0256
-Measuring Similarity between Ontologies	|	0.0238
-OIL in a Nutshell	|	0.0238
-Using Information Content to Evaluate Semantic Similarity in a Taxonomy	|	0.0217
-Resource description framework (rdf)	|	0.0196
-Learning to map between ontologies on the semantic web	|	0.0192
-Semantic integration of semistructured and structured data sources	|	0.0156
-A Theory of Attribute Equivalence in Databases with Application to Schema Integration	|	0.0156
-Semantic Matching of Web Services Capabilities	|	0.0156
-Knowledge Engineering: Principles and Methods	|	0.0139
-Ontologies: principles, methods and applications	|	0.0139
-COMA - A System for Flexible Combination of Schema Matching Approaches	|	0.0110
-Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases	|	0.0110
-Generic Schema Matching with Cupid	|	0.0098
-OBSERVER: An Approach for Query Processing in Global Information Systems Based on Interoperation Across Pre-Existing Ontologies	|	0.0098
-Logical Foundations of Object-Oriented and Frame-Based Languages	|	0.0098
-Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.0097
-A survey of approaches to automatic schema matching	|	0.0097
-Semantic and Schematic Similarities Between Database Objects: A Context-Based Approach	|	0.0088
-Schema Mapping as Query Discovery	|	0.0079
-Learning to match ontologies on the Semantic Web	|	0.0071
-Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0053
-Data integration: a theoretical perspective	|	0.0028
-A comparative analysis of methodologies for database schema integration	|	0.0026
+Semantic integration: a survey of ontology-based approaches	|	0.5714
+PROMPT: Algorithm and Tool for Automated Ontology Merging and Alignment	|	0.5714
+The Ontolingua Server: a tool for collaborative ontology construction	|	0.3750
+Using semantic values to facilitate interoperability among heterogeneous information systems	|	0.3333
+Learning to map between ontologies on the semantic web	|	0.2609
+A Translation Approach to Portable Ontology Specifications	|	0.2500
+Ontology mapping: the state of the art	|	0.2353
+A survey of approaches to automatic schema matching	|	0.2286
+The PROMPT suite: interactive tools for ontology merging and mapping	|	0.2105
+Ontology Mapping: The State of the Art	|	0.2105
+Methodology for the Design and Evaluation of Ontologies	|	0.2000
+W3c resource description framework (rdf) model and syntax specification	|	0.2000
+The Ontolin-gua Server: A Tool for Collaborative Ontology Construction	|	0.2000
+Measuring Similarity between Ontologies	|	0.1818
+OIL in a Nutshell	|	0.1818
+Using Information Content to Evaluate Semantic Similarity in a Taxonomy	|	0.1667
+Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.1538
+FCA-MERGE: Bottom-Up Merging of Ontologies	|	0.1538
+Resource description framework (rdf)	|	0.1538
+A Survey of Schema-Based Matching Approaches	|	0.1538
+Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.1500
+Semantic integration of semistructured and structured data sources	|	0.1333
+A Theory of Attribute Equivalence in Databases with Application to Schema Integration	|	0.1333
+Semantic Matching of Web Services Capabilities	|	0.1333
+Knowledge Engineering: Principles and Methods	|	0.1250
+Ontologies: principles, methods and applications	|	0.1250
+COMA - A System for Flexible Combination of Schema Matching Approaches	|	0.1111
+Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases	|	0.1111
+Generic Schema Matching with Cupid	|	0.1053
+OBSERVER: An Approach for Query Processing in Global Information Systems Based on Interoperation Across Pre-Existing Ontologies	|	0.1053
+Logical Foundations of Object-Oriented and Frame-Based Languages	|	0.1053
+Semantic and Schematic Similarities Between Database Objects: A Context-Based Approach	|	0.1000
+Schema Mapping as Query Discovery	|	0.0952
+Learning to match ontologies on the Semantic Web	|	0.0909
+Data integration: a theoretical perspective	|	0.0606
+A comparative analysis of methodologies for database schema integration	|	0.0588

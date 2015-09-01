@@ -1,170 +1,168 @@
-Efficient Data Mining for Path Traversal Patterns	|	0.1571
-Data-Driven Discovery of Quantitative Rules in Relational Databases	|	0.1570
-Algorithms for Mining Distance-Based Outliers in Large Datasets	|	0.1453
-Principles of database and knowledge-base systems	|	0.1402
-Pmnczples of database and knowledge- base systems	|	0.1395
-Finding interesting rules from large sets of discovered association rules	|	0.1386
-Database Mining: A Performance Perspective	|	0.1367
-Extended algebra and calculus for nested relational databases	|	0.1361
-An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.1098
-An Effective Hash Based Algorithm for Mining Association Rules	|	0.0945
-Principles of Database and Knowledge-Base Systems, Volume I	|	0.0933
-Fast Algorithms for Mining Association Rules in Large Databases	|	0.0904
-Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0895
-Logic and Databases: A Deductive Approach	|	0.0849
-Fast Algorithms for Mining Association Rules	|	0.0601
-Principles of Database and Knowledge-Base Systems, Volume II	|	0.0313
-Maintenance of Discovered Association Rules in Large Databases: An Incremental Updating Technique	|	0.0297
-Computing Iceberg Queries Efficiently	|	0.0221
-Beyond Market Baskets: Generalizing Association Rules to Correlations	|	0.0221
-Parallel Mining of Association Rules	|	0.0209
-Constraint-Based Rule Mining in Large, Dense Databases	|	0.0209
-What Makes Patterns Interesting in Knowledge Discovery Systems	|	0.0205
-Discovery of Multiple-Level Association Rules from Large Databases	|	0.0202
-Scalable Parallel Data Mining for Association Rules	|	0.0198
-SPIRIT: Sequential Pattern Mining with Regular Expression Constraints	|	0.0191
-Consistent query answers in inconsistent databases	|	0.0191
-Disjunctive datalog	|	0.0187
-Sampling Large Databases for Association Rules	|	0.0184
-A New SQL-like Operator for Mining Association Rules	|	0.0176
-Answering Queries Using Templates with Binding Patterns	|	0.0174
-Efficient Mining of Association Rules Using Closed Itemset Lattices	|	0.0174
-Scalable Algorithms for Association Mining	|	0.0166
-MAFIA: A Maximal Frequent Itemset Algorithm for Transactional Databases	|	0.0166
-Discovering Frequent Closed Itemsets for Association Rules	|	0.0157
-Discovery of Spatial Association Rules in Geographic Information Databases	|	0.0157
-Mining Sequential Patterns	|	0.0156
-Exploratory Mining and Pruning Optimizations of Constrained Association Rules	|	0.0153
-Complexity of answering queries using materialized views	|	0.0147
-Incremental Maintenance of Views with Duplicates	|	0.0141
-Automated Selection of Materialized Views and Indexes in SQL Databases	|	0.0141
-Efficiently Mining Long Patterns from Databases	|	0.0140
-Negation as Failure	|	0.0137
-Data Mining: An Overview from a Database Perspective	|	0.0133
-Towards a Logical Reconstruction of Relational Database Theory	|	0.0132
-Pnnc:ples of database systems	|	0.0132
-Principles of Database Systems, 2nd Edition	|	0.0132
-Distance-Based Outliers: Algorithms and Applications	|	0.0127
-On Closed World Data Bases	|	0.0127
-Remarks on the algebra of non first normal form relations	|	0.0127
-Join processing in relational databases	|	0.0124
-Protecting Respondents' Identities in Microdata Release	|	0.0122
-Efficient Mining of Partial Periodic Patterns in Time Series Database	|	0.0122
-Mining association rules between sets of items in large databases	|	0.0117
-LOF: Identifying Density-Based Local Outliers	|	0.0116
-Efficient Algorithms for Mining Outliers from Large Data Sets	|	0.0116
-Data Preparation for Mining World Wide Web Browsing Patterns	|	0.0116
-Maintaining Data Privacy in Association Rule Mining	|	0.0116
-Computable Queries for Relational Data Bases	|	0.0116
-Fast Time Sequence Indexing for Arbitrary Lp Norms	|	0.0116
-Approximate Frequency Counts over Data Streams	|	0.0110
-Maintaining Views Incrementally	|	0.0099
-Bottom-Up Computation of Sparse and Iceberg CUBEs	|	0.0099
-l-Diversity: Privacy Beyond k-Anonymity	|	0.0099
-Dependency Structures of Data Base Relationships	|	0.0093
-Universality of data retrieval languages	|	0.0093
-Answering recursive queries using views	|	0.0088
-Optimizing Queries with Materialized Views	|	0.0087
-Mining Generalized Association Rules	|	0.0087
-Relational Completeness of Data Base Sublanguages	|	0.0087
-Query-by-Example: A Data Base Language	|	0.0083
-Storing Semistructured Data with STORED	|	0.0078
-Efficient Similarity Search In Sequence Databases	|	0.0075
-Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.0074
-The design & analysis of spatial data structures	|	0.0074
-Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.0074
-Fundamentals of spatial information systems	|	0.0073
-A Logical Language for Data and Knowledge Bases	|	0.0072
-The design and implementation of INGRES	|	0.0072
-Logic-based approach to semantic query optimization	|	0.0070
-An introduction to data base systems	|	0.0070
-New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.0069
-A framework for clustering evolving data streams	|	0.0068
-WaveCluster: A Multi-Resolution Clustering Approach for Very Large Spatial Databases	|	0.0068
-SLIQ: A Fast Scalable Classifier for Data Mining	|	0.0068
-Unfounded sets and well-founded semantics for general logic programs	|	0.0068
-On the Declarative Semantics of Deductive Databases and Logic Programs	|	0.0068
-The relational model with relation-valued attributes	|	0.0068
-On closed world databases	|	0.0068
-ROCK: A Robust Clustering Algorithm for Categorical Attributes	|	0.0066
-On the power of magic	|	0.0066
-DBXplorer: A System for Keyword-Based Search over Relational Databases	|	0.0066
-Magic Sets and Other Strange Ways to Implement Logic Programs	|	0.0066
-Fast Algorithms for Projected Clustering	|	0.0066
-Nonblocking commit protocols	|	0.0066
-The Theory of Database Concurrency Control	|	0.0066
-Distributed Databases: Principles and Systems	|	0.0066
-Towards a Theory of Declarative Knowledge	|	0.0066
-On the Desirability of Acyclic Database Schemes	|	0.0066
-Limiting privacy breaches in privacy preserving data mining	|	0.0066
-Privacy-Preserving Data Mining	|	0.0066
-STING: A Statistical Information Grid Approach to Spatial Data Mining	|	0.0064
-SPRINT: A Scalable Parallel Classifier for Data Mining	|	0.0064
-The serializability of concurrent database updates	|	0.0064
-Join processing in database systems with large main memories	|	0.0064
-Iris: An Object-Oriented Database Management System	|	0.0064
-Optimal implementation of conjunctive queries in relational databases	|	0.0064
-FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets	|	0.0062
-Finding Generalized Projected Clusters In High Dimensional Spaces	|	0.0061
-The Management of Probabilistic Data	|	0.0061
-A Majority consensus approach to concurrency control for multiple copy databases	|	0.0061
-Object Exchange Across Heterogeneous Information Sources	|	0.0061
-The complexity of relational query languages (Extended Abstract)	|	0.0058
-Query Caching and Optimization in Distributed Mediator Systems	|	0.0058
-Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0058
-Database abstractions: aggregation and generalization	|	0.0058
-Hippocratic Databases	|	0.0055
-Telos: representing knowledge about information systems	|	0.0055
-OPTICS: Ordering Points To Identify the Clustering Structure	|	0.0055
-Using Semi-Joins to Solve Relational Queries	|	0.0055
-Mining Sequential Patterns by Pattern-Growth: The PrefixSpan Approach	|	0.0055
-Linear Hashing: A New Tool for File and Table Addressing	|	0.0052
-Quad Trees: A Data Structure for Retrieval on Composite Keys	|	0.0052
-Data Cleaning: Problems and Current Approaches	|	0.0052
-Data Structures for Range Searching	|	0.0052
-The Recovery Manager of the System R Database Manager	|	0.0052
-Principles of transaction-oriented database recovery	|	0.0052
-Computational problems related to the design of normal form relational schemas	|	0.0052
-On optimizing an SQL-like nested query	|	0.0052
-Optimal implementation of conjunctive queries in relational data bases	|	0.0051
-Development of an object-oriented DBMS	|	0.0050
-Efficient locking for concurrent operations on B-trees	|	0.0050
-Incognito: efficient full-domain K-anonymity	|	0.0050
-The Design and Analysis of Spatial Data Structures	|	0.0049
-Data Model and Query Evaluation in Global Information Systems	|	0.0047
-Synthesizing third normal form relations from functional dependencies	|	0.0044
-CURE: An Efficient Clustering Algorithm for Large Databases	|	0.0041
-An Introduction to Database Systems	|	0.0041
-Concurrency Control in Distributed Database Systems	|	0.0041
-Join indices	|	0.0041
-Types and persistence in database programming languages	|	0.0041
-Extending the database relational model to capture more meaning	|	0.0041
-Parallel Database Systems: The Future of High Performance Database Processing1	|	0.0039
-A class of data structures for associative searching	|	0.0039
-The Quadtree and Related Hierarchical Data Structures	|	0.0039
-Notes on Data Base Operating Systems	|	0.0037
-Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases	|	0.0035
-Object identity	|	0.0035
-Efficient Processing of Spatial Joins Using R-Trees	|	0.0035
-The entity-relationship model---toward a unified view of data	|	0.0033
-Database description with SDM: a semantic database model	|	0.0033
-Further Normalization of the Data Base Relational Model	|	0.0033
-The Theory of Relational Databases	|	0.0032
-Mediators in the Architecture of Future Information Systems	|	0.0031
-The Design of Postgres	|	0.0031
-The notions of consistency and predicate locks in a database system	|	0.0031
-Organization and Maintenance of Large Ordered Indices	|	0.0027
-The Ubiquitous B-Tree	|	0.0027
-The functional data model and the data languages DAPLEX	|	0.0026
-The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0024
-A Quantitative Analysis and Performance Study for Similarity-Search Methods in High-Dimensional Spaces	|	0.0024
-Access path selection in a relational database management system	|	0.0020
-The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0019
-System R: relational approach to database management	|	0.0019
-Concurrency Control and Recovery in Database Systems	|	0.0016
-Fast Subsequence Matching in Time-Series Databases	|	0.0015
-Multidimensional access methods	|	0.0015
-Query Optimization in Database Systems	|	0.0014
-Answering queries using views: A survey	|	0.0014
-Foundations of Databases	|	0.0012
-Query evaluation techniques for large databases	|	0.0007
+Maintenance of Discovered Association Rules in Large Databases: An Incremental Updating Technique	|	0.4444
+Discovery of Multiple-Level Association Rules from Large Databases	|	0.3889
+Beyond Market Baskets: Generalizing Association Rules to Correlations	|	0.3750
+Mining association rules between sets of items in large databases	|	0.3529
+Data Mining: An Overview from a Database Perspective	|	0.3478
+Computing Iceberg Queries Efficiently	|	0.3200
+Sampling Large Databases for Association Rules	|	0.3125
+Parallel Mining of Association Rules	|	0.3077
+Efficient Data Mining for Path Traversal Patterns	|	0.3077
+Constraint-Based Rule Mining in Large, Dense Databases	|	0.3077
+What Makes Patterns Interesting in Knowledge Discovery Systems	|	0.3000
+Scalable Parallel Data Mining for Association Rules	|	0.2963
+Exploratory Mining and Pruning Optimizations of Constrained Association Rules	|	0.2857
+Disjunctive datalog	|	0.2857
+A New SQL-like Operator for Mining Association Rules	|	0.2759
+SPIRIT: Sequential Pattern Mining with Regular Expression Constraints	|	0.2727
+Consistent query answers in inconsistent databases	|	0.2727
+Mining Sequential Patterns	|	0.2581
+Database Mining: A Performance Perspective	|	0.2581
+Answering Queries Using Templates with Binding Patterns	|	0.2500
+Efficient Mining of Association Rules Using Closed Itemset Lattices	|	0.2500
+Data-Driven Discovery of Quantitative Rules in Relational Databases	|	0.2500
+Complexity of answering queries using materialized views	|	0.2500
+Scalable Algorithms for Association Mining	|	0.2400
+MAFIA: A Maximal Frequent Itemset Algorithm for Transactional Databases	|	0.2400
+Discovering Frequent Closed Itemsets for Association Rules	|	0.2308
+Discovery of Spatial Association Rules in Geographic Information Databases	|	0.2308
+Fast Algorithms for Mining Association Rules in Large Databases	|	0.2273
+Fast Time Sequence Indexing for Arbitrary Lp Norms	|	0.2222
+Efficiently Mining Long Patterns from Databases	|	0.2143
+Incremental Maintenance of Views with Duplicates	|	0.2105
+Automated Selection of Materialized Views and Indexes in SQL Databases	|	0.2105
+Efficient Similarity Search In Sequence Databases	|	0.2083
+Principles of Database Systems, 2nd Edition	|	0.2069
+Fast Algorithms for Mining Association Rules	|	0.2034
+Negation as Failure	|	0.2000
+Join processing in relational databases	|	0.2000
+An Effective Hash Based Algorithm for Mining Association Rules	|	0.1905
+Towards a Logical Reconstruction of Relational Database Theory	|	0.1905
+Pnnc:ples of database systems	|	0.1905
+Approximate Frequency Counts over Data Streams	|	0.1875
+Distance-Based Outliers: Algorithms and Applications	|	0.1818
+On Closed World Data Bases	|	0.1818
+Remarks on the algebra of non first normal form relations	|	0.1818
+Protecting Respondents' Identities in Microdata Release	|	0.1739
+Efficient Mining of Partial Periodic Patterns in Time Series Database	|	0.1739
+Optimizing Queries with Materialized Views	|	0.1667
+LOF: Identifying Density-Based Local Outliers	|	0.1667
+Efficient Algorithms for Mining Outliers from Large Data Sets	|	0.1667
+Mining Generalized Association Rules	|	0.1667
+Data Preparation for Mining World Wide Web Browsing Patterns	|	0.1667
+Maintaining Data Privacy in Association Rule Mining	|	0.1667
+Computable Queries for Relational Data Bases	|	0.1667
+Relational Completeness of Data Base Sublanguages	|	0.1667
+Maintaining Views Incrementally	|	0.1481
+Bottom-Up Computation of Sparse and Iceberg CUBEs	|	0.1481
+l-Diversity: Privacy Beyond k-Anonymity	|	0.1481
+FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets	|	0.1429
+Dependency Structures of Data Base Relationships	|	0.1429
+Universality of data retrieval languages	|	0.1429
+Principles of database and knowledge-base systems	|	0.1429
+Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.1395
+Answering recursive queries using views	|	0.1379
+Query-by-Example: A Data Base Language	|	0.1333
+Storing Semistructured Data with STORED	|	0.1290
+Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.1250
+The design & analysis of spatial data structures	|	0.1250
+Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.1250
+New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.1212
+Fundamentals of spatial information systems	|	0.1176
+Query Caching and Optimization in Distributed Mediator Systems	|	0.1111
+An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.1111
+A Logical Language for Data and Knowledge Bases	|	0.1111
+Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.1111
+Database abstractions: aggregation and generalization	|	0.1111
+The design and implementation of INGRES	|	0.1111
+Optimal implementation of conjunctive queries in relational data bases	|	0.1053
+Logic-based approach to semantic query optimization	|	0.1053
+An introduction to data base systems	|	0.1053
+The Design and Analysis of Spatial Data Structures	|	0.1026
+A framework for clustering evolving data streams	|	0.1000
+WaveCluster: A Multi-Resolution Clustering Approach for Very Large Spatial Databases	|	0.1000
+SLIQ: A Fast Scalable Classifier for Data Mining	|	0.1000
+Unfounded sets and well-founded semantics for general logic programs	|	0.1000
+On the Declarative Semantics of Deductive Databases and Logic Programs	|	0.1000
+The relational model with relation-valued attributes	|	0.1000
+On closed world databases	|	0.1000
+Principles of Database and Knowledge-Base Systems, Volume I	|	0.0976
+ROCK: A Robust Clustering Algorithm for Categorical Attributes	|	0.0952
+On the power of magic	|	0.0952
+DBXplorer: A System for Keyword-Based Search over Relational Databases	|	0.0952
+Magic Sets and Other Strange Ways to Implement Logic Programs	|	0.0952
+Fast Algorithms for Projected Clustering	|	0.0952
+Nonblocking commit protocols	|	0.0952
+The Theory of Database Concurrency Control	|	0.0952
+Distributed Databases: Principles and Systems	|	0.0952
+Towards a Theory of Declarative Knowledge	|	0.0952
+Types and persistence in database programming languages	|	0.0952
+On the Desirability of Acyclic Database Schemes	|	0.0952
+Extending the database relational model to capture more meaning	|	0.0952
+Limiting privacy breaches in privacy preserving data mining	|	0.0952
+Privacy-Preserving Data Mining	|	0.0952
+STING: A Statistical Information Grid Approach to Spatial Data Mining	|	0.0909
+SPRINT: A Scalable Parallel Classifier for Data Mining	|	0.0909
+Logic and Databases: A Deductive Approach	|	0.0909
+The serializability of concurrent database updates	|	0.0909
+Join processing in database systems with large main memories	|	0.0909
+Iris: An Object-Oriented Database Management System	|	0.0909
+Optimal implementation of conjunctive queries in relational databases	|	0.0909
+Finding Generalized Projected Clusters In High Dimensional Spaces	|	0.0870
+The Management of Probabilistic Data	|	0.0870
+A Majority consensus approach to concurrency control for multiple copy databases	|	0.0870
+Object Exchange Across Heterogeneous Information Sources	|	0.0870
+The Theory of Relational Databases	|	0.0851
+Algorithms for Mining Distance-Based Outliers in Large Datasets	|	0.0833
+The complexity of relational query languages (Extended Abstract)	|	0.0833
+Hippocratic Databases	|	0.0800
+Telos: representing knowledge about information systems	|	0.0800
+OPTICS: Ordering Points To Identify the Clustering Structure	|	0.0800
+Using Semi-Joins to Solve Relational Queries	|	0.0800
+Mining Sequential Patterns by Pattern-Growth: The PrefixSpan Approach	|	0.0800
+Linear Hashing: A New Tool for File and Table Addressing	|	0.0769
+Quad Trees: A Data Structure for Retrieval on Composite Keys	|	0.0769
+Data Cleaning: Problems and Current Approaches	|	0.0769
+Data Structures for Range Searching	|	0.0769
+The Recovery Manager of the System R Database Manager	|	0.0769
+Principles of transaction-oriented database recovery	|	0.0769
+Computational problems related to the design of normal form relational schemas	|	0.0769
+On optimizing an SQL-like nested query	|	0.0769
+Finding interesting rules from large sets of discovered association rules	|	0.0741
+Development of an object-oriented DBMS	|	0.0741
+Efficient locking for concurrent operations on B-trees	|	0.0741
+Incognito: efficient full-domain K-anonymity	|	0.0741
+Data Model and Query Evaluation in Global Information Systems	|	0.0714
+Foundations of Databases	|	0.0714
+Access path selection in a relational database management system	|	0.0702
+Synthesizing third normal form relations from functional dependencies	|	0.0690
+CURE: An Efficient Clustering Algorithm for Large Databases	|	0.0667
+An Introduction to Database Systems	|	0.0667
+Concurrency Control in Distributed Database Systems	|	0.0667
+Join indices	|	0.0667
+Parallel Database Systems: The Future of High Performance Database Processing1	|	0.0645
+A class of data structures for associative searching	|	0.0645
+The Quadtree and Related Hierarchical Data Structures	|	0.0645
+Notes on Data Base Operating Systems	|	0.0625
+Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases	|	0.0606
+Object identity	|	0.0606
+Efficient Processing of Spatial Joins Using R-Trees	|	0.0606
+The entity-relationship model---toward a unified view of data	|	0.0588
+Database description with SDM: a semantic database model	|	0.0588
+Further Normalization of the Data Base Relational Model	|	0.0588
+Mediators in the Architecture of Future Information Systems	|	0.0571
+The Design of Postgres	|	0.0571
+The notions of consistency and predicate locks in a database system	|	0.0571
+Organization and Maintenance of Large Ordered Indices	|	0.0541
+The Ubiquitous B-Tree	|	0.0541
+The functional data model and the data languages DAPLEX	|	0.0526
+The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0513
+A Quantitative Analysis and Performance Study for Similarity-Search Methods in High-Dimensional Spaces	|	0.0513
+The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0465
+System R: relational approach to database management	|	0.0465
+Query evaluation techniques for large databases	|	0.0460
+Concurrency Control and Recovery in Database Systems	|	0.0426
+Fast Subsequence Matching in Time-Series Databases	|	0.0417
+Multidimensional access methods	|	0.0417
+Query Optimization in Database Systems	|	0.0408
+Answering queries using views: A survey	|	0.0400
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0222

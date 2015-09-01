@@ -1,19 +1,19 @@
-The New Casper: Query Processing for Location Services without Compromising Privacy	|	0.4333
-Data Privacy through Optimal k-Anonymization	|	0.3721
-Protecting Respondents' Identities in Microdata Release	|	0.3256
-On the complexity of optimal K-anonymity	|	0.3137
-Incognito: efficient full-domain K-anonymity	|	0.2469
-l-Diversity: Privacy Beyond k-Anonymity	|	0.0494
-Limiting privacy breaches in privacy preserving data mining	|	0.0333
-On the design and quantification of privacy preserving data mining algorithms	|	0.0278
-Security-Control Methods for Statistical Databases: A Comparative Study	|	0.0278
-Information sharing across private databases	|	0.0233
-Pmnczples of database and knowledge- base systems	|	0.0196
-Hippocratic Databases	|	0.0167
-Constraint-Based Rule Mining in Large, Dense Databases	|	0.0143
-Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Total	|	0.0108
-Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.0074
-An overview of data warehousing and OLAP technology	|	0.0054
-Mining Generalized Association Rules	|	0.0044
-Fast Algorithms for Mining Association Rules	|	0.0010
-Principles of Database and Knowledge-Base Systems, Volume II	|	0.0004
+Data Privacy through Optimal k-Anonymization	|	0.6667
+The New Casper: Query Processing for Location Services without Compromising Privacy	|	0.6000
+l-Diversity: Privacy Beyond k-Anonymity	|	0.5000
+Incognito: efficient full-domain K-anonymity	|	0.5000
+On the complexity of optimal K-anonymity	|	0.4615
+Protecting Respondents' Identities in Microdata Release	|	0.3333
+Limiting privacy breaches in privacy preserving data mining	|	0.2000
+On the design and quantification of privacy preserving data mining algorithms	|	0.1818
+Security-Control Methods for Statistical Databases: A Comparative Study	|	0.1818
+Information sharing across private databases	|	0.1667
+Pmnczples of database and knowledge- base systems	|	0.1538
+Hippocratic Databases	|	0.1429
+Constraint-Based Rule Mining in Large, Dense Databases	|	0.1333
+Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Total	|	0.1176
+Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.1000
+An overview of data warehousing and OLAP technology	|	0.0870
+Mining Generalized Association Rules	|	0.0800
+Fast Algorithms for Mining Association Rules	|	0.0417
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0253

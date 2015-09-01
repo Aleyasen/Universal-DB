@@ -1,28 +1,25 @@
-Modeling Multidimensional Databases	|	0.3810
-An Array-Based Algorithm for Simultaneous Multidimensional Aggregates	|	0.2619
-Online Aggregation	|	0.1065
-Complex Queries in DHT-based Peer-to-Peer Networks	|	0.0476
-Discovering Web Access Patterns and Trends by Applying OLAP and Data Mining Technology on Web Logs	|	0.0370
-Model-Driven Data Acquisition in Sensor Networks	|	0.0370
-Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Total	|	0.0357
-Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals	|	0.0328
-The cougar approach to in-network query processing in sensor networks	|	0.0294
-Aggregate-Query Processing in Data Warehousing Environments	|	0.0294
-Index Selection for OLAP	|	0.0294
-Load Shedding in a Data Stream Manager	|	0.0294
-C-Store: A Column-oriented DBMS	|	0.0238
-Computing Iceberg Queries Efficiently	|	0.0196
-Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0180
-A Relational Model for Large Shared Data Banks	|	0.0164
-Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.0159
-Bottom-Up Computation of Sparse and Iceberg CUBEs	|	0.0139
-The Design of the Borealis Stream Processing Engine	|	0.0139
-Aurora: a new model and architecture for data stream management	|	0.0103
-Approximate Query Processing Using Wavelets	|	0.0090
-New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.0063
-Exploratory Mining and Pruning Optimizations of Constrained Association Rules	|	0.0051
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0046
-Continuous queries over data streams	|	0.0042
-Monitoring Streams - A New Class of Data Management Applications	|	0.0033
-Models and issues in data stream systems	|	0.0023
-Access path selection in a relational database management system	|	0.0012
+Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Total	|	0.4000
+Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals	|	0.3077
+Complex Queries in DHT-based Peer-to-Peer Networks	|	0.2500
+Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.2353
+Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.2222
+Discovering Web Access Patterns and Trends by Applying OLAP and Data Mining Technology on Web Logs	|	0.2222
+Model-Driven Data Acquisition in Sensor Networks	|	0.2222
+The cougar approach to in-network query processing in sensor networks	|	0.2000
+Aggregate-Query Processing in Data Warehousing Environments	|	0.2000
+Index Selection for OLAP	|	0.2000
+Load Shedding in a Data Stream Manager	|	0.2000
+C-Store: A Column-oriented DBMS	|	0.1818
+Computing Iceberg Queries Efficiently	|	0.1667
+A Relational Model for Large Shared Data Banks	|	0.1538
+Bottom-Up Computation of Sparse and Iceberg CUBEs	|	0.1429
+The Design of the Borealis Stream Processing Engine	|	0.1429
+Aurora: a new model and architecture for data stream management	|	0.1250
+Approximate Query Processing Using Wavelets	|	0.1176
+New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.1000
+Exploratory Mining and Pruning Optimizations of Constrained Association Rules	|	0.0909
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0870
+Continuous queries over data streams	|	0.0833
+Monitoring Streams - A New Class of Data Management Applications	|	0.0741
+Models and issues in data stream systems	|	0.0625
+Access path selection in a relational database management system	|	0.0455

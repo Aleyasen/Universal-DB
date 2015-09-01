@@ -1,131 +1,131 @@
-Data Placement In Bubba	|	0.2162
-Parallel database systems: the future of high performance database systems	|	0.2162
-Benchmarking Database Systems A Systematic Approach	|	0.1892
-Parallel Database Systems: The Future of High Performance Database Processing1	|	0.1758
-Join processing in relational databases	|	0.1667
-The Gamma Database Machine Project	|	0.1574
-Query Optimization in Database Systems	|	0.0743
-Access path selection in a relational database management system	|	0.0618
-The Case for Shared Nothing	|	0.0556
-C-Store: A Column-oriented DBMS	|	0.0494
-GAMMA - A High Performance Dataflow Database Machine	|	0.0455
-Mariposa: A Wide-Area Distributed Database System	|	0.0411
-Disk Striping	|	0.0411
-Bigtable: A Distributed Storage System for Structured Data	|	0.0370
-Randomized Algorithms for Optimizing Large Join Queries	|	0.0333
-Query evaluation techniques for large databases	|	0.0331
-Join processing in database systems with large main memories	|	0.0303
-Starburst Mid-Flight: As the Dust Clears	|	0.0274
-Querying the Internet with PIER	|	0.0270
-Scalable Distributed Stream Processing	|	0.0247
-The EXODUS Optimizer Generator	|	0.0222
-Using Semi-Joins to Solve Relational Queries	|	0.0222
-The Volcano Optimizer Generator: Extensibility and Efficient Search	|	0.0217
-The Object-Oriented Database System Manifesto	|	0.0217
-Principles of database systems	|	0.0208
-The Implementation of Postgres	|	0.0200
-Organization and Maintenance of Large Ordered Indexes	|	0.0200
-Operating system support for database management	|	0.0200
-On optimizing an SQL-like nested query	|	0.0200
-Join indices	|	0.0200
-The oo7 Benchmark	|	0.0196
-Staggered Striping in Multimedia Information Systems	|	0.0196
-Accurate Estimation of the Number of Tuples Satisfying a Condition	|	0.0196
-Consistency in Partitioned Networks	|	0.0196
-Logic-based approach to semantic query optimization	|	0.0196
-An introduction to data base systems	|	0.0196
-Implementation of integrity constraints and views by query modification	|	0.0196
-On the Computation of Multidimensional Aggregates	|	0.0196
-XIRQL: a query language for information retrieval in XML documents	|	0.0182
-The relational model with relation-valued attributes	|	0.0182
-Approximating block accesses in database organizations	|	0.0182
-Notes on database operating systems	|	0.0180
-Complex Queries in DHT-based Peer-to-Peer Networks	|	0.0167
-The Skyline Operator	|	0.0167
-Transaction Processing: Concepts and Techniques	|	0.0167
-Principles of Distributed Database Systems	|	0.0167
-Probabilistic Counting Algorithms for Data Base Applications	|	0.0167
-Principles of distributed database systems	|	0.0167
-Pnnc:ples of database systems	|	0.0167
-Organization and maintenance of large ordered indexes	|	0.0167
-An Evaluation of Buffer Management Strategies for Relational Database Systems	|	0.0163
-SPRINT: A Scalable Parallel Classifier for Data Mining	|	0.0152
-Security-Control Methods for Statistical Databases: A Comparative Study	|	0.0152
-Aggregate-Query Processing in Data Warehousing Environments	|	0.0137
-Don't Scrap It, Wrap It! A Wrapper Architecture for Legacy Data Sources	|	0.0137
-A probabilistic relational algebra for the integration of information retrieval and database systems	|	0.0137
-Concurrency Control in Distributed Database Systems	|	0.0133
-Selectivity Estimation Without the Attribute Value Independence Assumption	|	0.0123
-Pmnczples of database and knowledge- base systems	|	0.0123
-Improved Histograms for Selectivity Estimation of Range Predicates	|	0.0111
-Retrieving and Integrating Data from Multiple Information Sources	|	0.0111
-On Optimistic Methods for Concurrency Control	|	0.0111
-Concurrency control in advanced database applications	|	0.0111
-Principles of database buffer management	|	0.0111
-ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging	|	0.0111
-Notes on Data Base Operating Systems	|	0.0110
-Organization and Maintenance of Large Ordered Indices	|	0.0109
-System R: A Relational Approach to Data Base Management	|	0.0101
-Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals	|	0.0100
-Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases	|	0.0100
-Linear Hashing: A New Tool for File and Table Addressing	|	0.0100
-Query By Example	|	0.0100
-Quad Trees: A Data Structure for Retrieval on Composite Keys	|	0.0100
-Data Structures for Range Searching	|	0.0100
-The Recovery Manager of the System R Database Manager	|	0.0100
-Principles of transaction-oriented database recovery	|	0.0100
-Extended algebra and calculus for nested relational databases	|	0.0100
-Query Optimization for XML	|	0.0093
-An overview of data warehousing and OLAP technology	|	0.0093
-Wavelet-Based Histograms for Selectivity Estimation	|	0.0090
-Access methods for text	|	0.0090
-Structural Joins: A Primitive for Efficient XML Query Pattern Matching	|	0.0090
-The Grid File: An Adaptable, Symmetric Multi-Key File Structure	|	0.0085
-Query Reformulation for Dynamic Information Integration	|	0.0081
-Holistic twig joins: optimal XML pattern matching	|	0.0081
-The Postgres Next Generation Database Management System	|	0.0081
-Principles of database and knowledge-base systems	|	0.0081
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0078
-Relational Completeness of Data Base Sublanguages	|	0.0078
-The Theory of Relational Databases	|	0.0074
-Optimizing Queries Across Diverse Data Sources	|	0.0074
-Principles of Database Systems, 2nd Edition	|	0.0074
-A logical design methodology for relational databases using the extended entity-relationship model	|	0.0074
-The functional data model and the data language DAPLEX	|	0.0074
-Eddies: Continuously Adaptive Query Processing	|	0.0072
-System R: relational approach to database management	|	0.0071
-Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0067
-An Introduction to Database Systems	|	0.0067
-Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.0061
-Interoperability of multiple autonomous databases	|	0.0061
-The Quadtree and Related Hierarchical Data Structures	|	0.0061
-TinyDB: an acquisitional query processing system for sensor networks	|	0.0055
-The Grid File: An Adaptable, Symmetric Multikey File Structure	|	0.0054
-Types and persistence in database programming languages	|	0.0051
-The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0047
-The entity-relationship model---toward a unified view of data	|	0.0046
-Logic and Databases: A Deductive Approach	|	0.0044
-The Design of Postgres	|	0.0043
-The notions of consistency and predicate locks in a database system	|	0.0043
-Online Aggregation	|	0.0039
-Continuously adaptive continuous queries over streams	|	0.0039
-Query Caching and Optimization in Distributed Mediator Systems	|	0.0039
-Optimizing Queries with Materialized Views	|	0.0039
-An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.0039
-Distance browsing in spatial databases	|	0.0039
-Semantic data models	|	0.0039
-An Adaptive Query Execution System for Data Integration	|	0.0036
-The Ubiquitous B-Tree	|	0.0036
-Continuous queries over data streams	|	0.0036
-Optimal implementation of conjunctive queries in relational data bases	|	0.0034
-The functional data model and the data languages DAPLEX	|	0.0034
-Lore: a database management system for semistructured data	|	0.0027
-Principles of Database and Knowledge-Base Systems, Volume I	|	0.0027
-A comparative analysis of methodologies for database schema integration	|	0.0025
-Extending the database relational model to capture more meaning	|	0.0025
-The Lorel Query Language for Semistructured Data	|	0.0024
-Concurrency Control and Recovery in Database Systems	|	0.0018
-Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0017
-Foundations of Databases	|	0.0013
-The R*-tree: an efficient and robust access method for points and rectangles	|	0.0012
-Principles of Database and Knowledge-Base Systems, Volume II	|	0.0007
+The Case for Shared Nothing	|	0.5556
+The Gamma Database Machine Project	|	0.5185
+C-Store: A Column-oriented DBMS	|	0.4706
+Parallel Database Systems: The Future of High Performance Database Processing1	|	0.4167
+GAMMA - A High Performance Dataflow Database Machine	|	0.4000
+Data Placement In Bubba	|	0.4000
+Parallel database systems: the future of high performance database systems	|	0.4000
+Mariposa: A Wide-Area Distributed Database System	|	0.3750
+Disk Striping	|	0.3750
+Bigtable: A Distributed Storage System for Structured Data	|	0.3529
+Querying the Internet with PIER	|	0.3000
+Randomized Algorithms for Optimizing Large Join Queries	|	0.2857
+Join processing in database systems with large main memories	|	0.2667
+Organization and Maintenance of Large Ordered Indexes	|	0.2609
+Join indices	|	0.2609
+Starburst Mid-Flight: As the Dust Clears	|	0.2500
+Access path selection in a relational database management system	|	0.2400
+Scalable Distributed Stream Processing	|	0.2353
+The EXODUS Optimizer Generator	|	0.2222
+Using Semi-Joins to Solve Relational Queries	|	0.2222
+The Implementation of Postgres	|	0.2105
+Operating system support for database management	|	0.2105
+On optimizing an SQL-like nested query	|	0.2105
+The Volcano Optimizer Generator: Extensibility and Efficient Search	|	0.2000
+The Theory of Relational Databases	|	0.2000
+The Object-Oriented Database System Manifesto	|	0.2000
+Organization and Maintenance of Large Ordered Indices	|	0.2000
+Notes on database operating systems	|	0.2000
+System R: A Relational Approach to Data Base Management	|	0.1935
+An Evaluation of Buffer Management Strategies for Relational Database Systems	|	0.1905
+Principles of database systems	|	0.1818
+Concurrency Control in Distributed Database Systems	|	0.1739
+Join processing in relational databases	|	0.1739
+The oo7 Benchmark	|	0.1667
+Staggered Striping in Multimedia Information Systems	|	0.1667
+Accurate Estimation of the Number of Tuples Satisfying a Condition	|	0.1667
+Consistency in Partitioned Networks	|	0.1667
+Logic-based approach to semantic query optimization	|	0.1667
+An introduction to data base systems	|	0.1667
+Implementation of integrity constraints and views by query modification	|	0.1667
+On the Computation of Multidimensional Aggregates	|	0.1667
+System R: relational approach to database management	|	0.1667
+Notes on Data Base Operating Systems	|	0.1600
+XIRQL: a query language for information retrieval in XML documents	|	0.1538
+The relational model with relation-valued attributes	|	0.1538
+Approximating block accesses in database organizations	|	0.1538
+Query evaluation techniques for large databases	|	0.1500
+Query Optimization for XML	|	0.1481
+An overview of data warehousing and OLAP technology	|	0.1481
+Complex Queries in DHT-based Peer-to-Peer Networks	|	0.1429
+The Grid File: An Adaptable, Symmetric Multi-Key File Structure	|	0.1429
+The Skyline Operator	|	0.1429
+Transaction Processing: Concepts and Techniques	|	0.1429
+Principles of Distributed Database Systems	|	0.1429
+Query Optimization in Database Systems	|	0.1429
+Probabilistic Counting Algorithms for Data Base Applications	|	0.1429
+Principles of distributed database systems	|	0.1429
+Pnnc:ples of database systems	|	0.1429
+Organization and maintenance of large ordered indexes	|	0.1429
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.1379
+Relational Completeness of Data Base Sublanguages	|	0.1379
+Eddies: Continuously Adaptive Query Processing	|	0.1333
+SPRINT: A Scalable Parallel Classifier for Data Mining	|	0.1333
+Security-Control Methods for Statistical Databases: A Comparative Study	|	0.1333
+Aggregate-Query Processing in Data Warehousing Environments	|	0.1250
+Don't Scrap It, Wrap It! A Wrapper Architecture for Legacy Data Sources	|	0.1250
+A probabilistic relational algebra for the integration of information retrieval and database systems	|	0.1250
+Selectivity Estimation Without the Attribute Value Independence Assumption	|	0.1176
+The Grid File: An Adaptable, Symmetric Multikey File Structure	|	0.1176
+Pmnczples of database and knowledge- base systems	|	0.1176
+Types and persistence in database programming languages	|	0.1143
+Improved Histograms for Selectivity Estimation of Range Predicates	|	0.1111
+Retrieving and Integrating Data from Multiple Information Sources	|	0.1111
+On Optimistic Methods for Concurrency Control	|	0.1111
+The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.1111
+Concurrency control in advanced database applications	|	0.1111
+Principles of database buffer management	|	0.1111
+ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging	|	0.1111
+Logic and Databases: A Deductive Approach	|	0.1081
+Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals	|	0.1053
+Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases	|	0.1053
+Linear Hashing: A New Tool for File and Table Addressing	|	0.1053
+Query By Example	|	0.1053
+Quad Trees: A Data Structure for Retrieval on Composite Keys	|	0.1053
+Data Structures for Range Searching	|	0.1053
+The Recovery Manager of the System R Database Manager	|	0.1053
+Principles of transaction-oriented database recovery	|	0.1053
+Extended algebra and calculus for nested relational databases	|	0.1053
+Benchmarking Database Systems A Systematic Approach	|	0.1000
+Wavelet-Based Histograms for Selectivity Estimation	|	0.1000
+Access methods for text	|	0.1000
+Structural Joins: A Primitive for Efficient XML Query Pattern Matching	|	0.1000
+Query Reformulation for Dynamic Information Integration	|	0.0952
+Holistic twig joins: optimal XML pattern matching	|	0.0952
+The Postgres Next Generation Database Management System	|	0.0952
+Principles of database and knowledge-base systems	|	0.0952
+Optimizing Queries Across Diverse Data Sources	|	0.0909
+Principles of Database Systems, 2nd Edition	|	0.0909
+A logical design methodology for relational databases using the extended entity-relationship model	|	0.0909
+The functional data model and the data language DAPLEX	|	0.0909
+Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0870
+An Introduction to Database Systems	|	0.0870
+Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.0833
+Interoperability of multiple autonomous databases	|	0.0833
+The Quadtree and Related Hierarchical Data Structures	|	0.0833
+TinyDB: an acquisitional query processing system for sensor networks	|	0.0800
+Foundations of Databases	|	0.0779
+The entity-relationship model---toward a unified view of data	|	0.0741
+The Design of Postgres	|	0.0714
+The notions of consistency and predicate locks in a database system	|	0.0714
+Online Aggregation	|	0.0690
+Continuously adaptive continuous queries over streams	|	0.0690
+Query Caching and Optimization in Distributed Mediator Systems	|	0.0690
+Optimizing Queries with Materialized Views	|	0.0690
+An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.0690
+Distance browsing in spatial databases	|	0.0690
+Semantic data models	|	0.0690
+An Adaptive Query Execution System for Data Integration	|	0.0667
+The Ubiquitous B-Tree	|	0.0667
+Continuous queries over data streams	|	0.0667
+Optimal implementation of conjunctive queries in relational data bases	|	0.0645
+The functional data model and the data languages DAPLEX	|	0.0645
+Lore: a database management system for semistructured data	|	0.0588
+Principles of Database and Knowledge-Base Systems, Volume I	|	0.0588
+A comparative analysis of methodologies for database schema integration	|	0.0571
+Extending the database relational model to capture more meaning	|	0.0571
+The Lorel Query Language for Semistructured Data	|	0.0556
+Concurrency Control and Recovery in Database Systems	|	0.0500
+Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0488
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0482
+The R*-tree: an efficient and robust access method for points and rectangles	|	0.0417

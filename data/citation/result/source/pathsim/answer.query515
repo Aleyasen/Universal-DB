@@ -1,18 +1,21 @@
-Building the data warehouse	|	0.5000
-Toward the Next Generation of Recommender Systems: A Survey of the State-of-the-Art and Possible Extensions	|	0.5000
-On the Computation of Multidimensional Aggregates	|	0.3333
-The data warehousing toolkit	|	0.2857
-Consistent query answers in inconsistent databases	|	0.2222
-Aggregate-Query Processing in Data Warehousing Environments	|	0.2000
-View Maintenance in a Warehousing Environment	|	0.1818
-Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals	|	0.1538
-Data Cleaning: Problems and Current Approaches	|	0.1538
-On optimizing an SQL-like nested query	|	0.1538
-Bottom-Up Computation of Sparse and Iceberg CUBEs	|	0.1429
-Parallel database systems: the future of high performance database systems	|	0.1429
-Incognito: efficient full-domain K-anonymity	|	0.1429
-Research problems in data warehousing	|	0.1333
-Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.1111
-Parallel Database Systems: The Future of High Performance Database Processing1	|	0.1111
-Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.1053
-Optimizing Queries with Materialized Views	|	0.0870
+The data warehouse lifecycle toolkit	|	0.5714
+The data webhouse toolkit	|	0.5556
+Building the data warehouse	|	0.1429
+Toward the Next Generation of Recommender Systems: A Survey of the State-of-the-Art and Possible Extensions	|	0.1429
+An overview of data warehousing and OLAP technology	|	0.1186
+On the Computation of Multidimensional Aggregates	|	0.0833
+The data warehousing toolkit	|	0.0625
+Consistent query answers in inconsistent databases	|	0.0370
+Aggregate-Query Processing in Data Warehousing Environments	|	0.0294
+View Maintenance in a Warehousing Environment	|	0.0238
+Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals	|	0.0164
+Data Cleaning: Problems and Current Approaches	|	0.0164
+On optimizing an SQL-like nested query	|	0.0164
+Bottom-Up Computation of Sparse and Iceberg CUBEs	|	0.0139
+Parallel database systems: the future of high performance database systems	|	0.0139
+Incognito: efficient full-domain K-anonymity	|	0.0139
+Research problems in data warehousing	|	0.0119
+Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.0079
+Parallel Database Systems: The Future of High Performance Database Processing1	|	0.0079
+Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.0070
+Optimizing Queries with Materialized Views	|	0.0046

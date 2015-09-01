@@ -1,59 +1,59 @@
-Distributed top-k monitoring	|	0.1890
-Continuously adaptive continuous queries over streams	|	0.1382
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.1382
-Issues in data stream management	|	0.1341
-NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.1280
-Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.1273
-Continuous queries over data streams	|	0.1236
-Monitoring Streams - A New Class of Data Management Applications	|	0.1131
-TelegraphCQ: Continuous Dataflow Processing for an Uncertain World	|	0.0476
-Towards Sensor Database Systems	|	0.0469
-Query Processing, Resource Management, and Approximation in a Data Stream Management System	|	0.0469
-Scalable Distributed Stream Processing	|	0.0417
-The CQL continuous query language: semantic foundations and query execution	|	0.0394
-Finding Frequent Items in Data Streams	|	0.0351
-Path sharing and predicate evaluation for high-performance XML filtering	|	0.0330
-Aurora: a new model and architecture for data stream management	|	0.0315
-Load Shedding in a Data Stream Manager	|	0.0312
-Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.0294
-TinyDB: an acquisitional query processing system for sensor networks	|	0.0291
-StatStream: Statistical Monitoring of Thousands of Data Streams in Real Time	|	0.0278
-The design of an acquisitional query processor for sensor networks	|	0.0265
-Multiple-query optimization	|	0.0265
-Query Processing in Sensor Networks	|	0.0238
-Gigascope: a stream database for network applications	|	0.0238
-Simple Fast Algorithms for the Editing Distance Between Trees and Related Problems	|	0.0238
-Filtering algorithms and implementation for very fast publish/subscribe systems	|	0.0217
-Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.0213
-Evaluating Top-k Queries over Web-Accessible Databases	|	0.0196
-Composite Events for Active Databases: Semantics, Contexts and Detection	|	0.0196
-The Architecture Of An Active Data Base Management System	|	0.0196
-Optimal Aggregation Algorithms for Middleware	|	0.0196
-What's hot and what's not: tracking most frequent items dynamically	|	0.0196
-Principles of distributed database systems	|	0.0196
-Maintaining Stream Statistics over Sliding Windows	|	0.0196
-Eddies: Continuously Adaptive Query Processing	|	0.0187
-Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0160
-Change Detection in Hierarchically Structured Information	|	0.0156
-The cougar approach to in-network query processing in sensor networks	|	0.0156
-XWRAP: An XML-Enabled Wrapper Construction System for Web Information Sources	|	0.0156
-An Adaptive Query Execution System for Data Integration	|	0.0150
-Models and issues in data stream systems	|	0.0149
-View Maintenance in a Warehousing Environment	|	0.0139
-Active database systems	|	0.0123
-Data caching issues in an information retrieval system	|	0.0123
-Random sampling with a reservoir	|	0.0123
-Online Aggregation	|	0.0122
-Approximate Frequency Counts over Data Streams	|	0.0116
-Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.0116
-Maintaining Views Incrementally	|	0.0098
-The Design of the Borealis Stream Processing Engine	|	0.0098
-XML-QL: A Query Language for XML	|	0.0079
-Approximate Query Processing Using Wavelets	|	0.0071
-Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0071
-New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.0053
-Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0041
-Temporal and Real-Time Databases: A Survey	|	0.0032
-Access path selection in a relational database management system	|	0.0022
-Fast Subsequence Matching in Time-Series Databases	|	0.0018
-Query evaluation techniques for large databases	|	0.0008
+The CQL continuous query language: semantic foundations and query execution	|	0.4762
+NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.4667
+The design of an acquisitional query processor for sensor networks	|	0.4444
+Continuously adaptive continuous queries over streams	|	0.4286
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.4286
+TinyDB: an acquisitional query processing system for sensor networks	|	0.4167
+Towards Sensor Database Systems	|	0.4000
+Multiple-query optimization	|	0.4000
+Query Processing, Resource Management, and Approximation in a Data Stream Management System	|	0.4000
+Aurora: a new model and architecture for data stream management	|	0.3810
+Models and issues in data stream systems	|	0.3784
+Scalable Distributed Stream Processing	|	0.3750
+Monitoring Streams - A New Class of Data Management Applications	|	0.3750
+TelegraphCQ: Continuous Dataflow Processing for an Uncertain World	|	0.3636
+Issues in data stream management	|	0.3571
+Eddies: Continuously Adaptive Query Processing	|	0.3448
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.3448
+Path sharing and predicate evaluation for high-performance XML filtering	|	0.3333
+Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.3226
+Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.3158
+Finding Frequent Items in Data Streams	|	0.2857
+Distributed top-k monitoring	|	0.2857
+An Adaptive Query Execution System for Data Integration	|	0.2759
+Continuous queries over data streams	|	0.2759
+Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.2727
+Load Shedding in a Data Stream Manager	|	0.2667
+StatStream: Statistical Monitoring of Thousands of Data Streams in Real Time	|	0.2500
+Online Aggregation	|	0.2143
+The Architecture Of An Active Data Base Management System	|	0.2105
+Query Processing in Sensor Networks	|	0.1818
+Gigascope: a stream database for network applications	|	0.1818
+Simple Fast Algorithms for the Editing Distance Between Trees and Related Problems	|	0.1818
+Approximate Frequency Counts over Data Streams	|	0.1667
+Filtering algorithms and implementation for very fast publish/subscribe systems	|	0.1667
+Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.1667
+Evaluating Top-k Queries over Web-Accessible Databases	|	0.1538
+Composite Events for Active Databases: Semantics, Contexts and Detection	|	0.1538
+Optimal Aggregation Algorithms for Middleware	|	0.1538
+What's hot and what's not: tracking most frequent items dynamically	|	0.1538
+Principles of distributed database systems	|	0.1538
+Maintaining Stream Statistics over Sliding Windows	|	0.1538
+Change Detection in Hierarchically Structured Information	|	0.1333
+The cougar approach to in-network query processing in sensor networks	|	0.1333
+XWRAP: An XML-Enabled Wrapper Construction System for Web Information Sources	|	0.1333
+View Maintenance in a Warehousing Environment	|	0.1250
+Active database systems	|	0.1176
+Data caching issues in an information retrieval system	|	0.1176
+Random sampling with a reservoir	|	0.1176
+Maintaining Views Incrementally	|	0.1053
+The Design of the Borealis Stream Processing Engine	|	0.1053
+XML-QL: A Query Language for XML	|	0.0952
+Approximate Query Processing Using Wavelets	|	0.0909
+Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0909
+Access path selection in a relational database management system	|	0.0816
+New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.0800
+Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0714
+Temporal and Real-Time Databases: A Survey	|	0.0645
+Query evaluation techniques for large databases	|	0.0506
+Fast Subsequence Matching in Time-Series Databases	|	0.0500

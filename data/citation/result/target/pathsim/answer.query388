@@ -1,35 +1,34 @@
-Updating and Querying Databases that Track Mobile Units	|	0.3889
-Model-Driven Data Acquisition in Sensor Networks	|	0.3333
-Trio: A System for Integrated Management of Data, Accuracy, and Lineage	|	0.3333
-Efficient Query Evaluation on Probabilistic Databases	|	0.2286
-New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.1369
-Query Processing in Sensor Networks	|	0.0476
-The Management of Probabilistic Data	|	0.0465
-DBXplorer: A System for Keyword-Based Search over Relational Databases	|	0.0333
-Optimal Aggregation Algorithms for Middleware	|	0.0333
-Probabilistic Counting Algorithms for Data Base Applications	|	0.0333
-Update semantics of relational views	|	0.0333
-What's hot and what's not: tracking most frequent items dynamically	|	0.0333
-ULDBs: Databases with Uncertainty and Lineage	|	0.0333
-Finding Frequent Items in Data Streams	|	0.0278
-Approximate Aggregation Techniques for Sensor Databases	|	0.0233
-A probabilistic relational algebra for the integration of information retrieval and database systems	|	0.0233
-DISCOVER: Keyword Search in Relational Databases	|	0.0196
-Efficient Algorithms for Mining Outliers from Large Data Sets	|	0.0196
-XRANK: ranked keyword search over XML documents	|	0.0196
-Hippocratic Databases	|	0.0167
-Improved Histograms for Selectivity Estimation of Range Predicates	|	0.0167
-Random sampling with a reservoir	|	0.0167
-Wavelet-Based Histograms for Selectivity Estimation	|	0.0123
-Why and Where: A Characterization of Data Provenance	|	0.0108
-Distributed top-k monitoring	|	0.0094
-Online Aggregation	|	0.0089
-Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.0083
-Approximate Query Processing Using Wavelets	|	0.0083
-Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0083
-Approximate Frequency Counts over Data Streams	|	0.0066
-Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.0060
-The design of an acquisitional query processor for sensor networks	|	0.0049
-Fast Algorithms for Mining Association Rules in Large Databases	|	0.0024
-Fast Algorithms for Mining Association Rules	|	0.0010
-Foundations of Databases	|	0.0004
+The Management of Probabilistic Data	|	0.3333
+Query Processing in Sensor Networks	|	0.2500
+DBXplorer: A System for Keyword-Based Search over Relational Databases	|	0.2000
+Optimal Aggregation Algorithms for Middleware	|	0.2000
+Probabilistic Counting Algorithms for Data Base Applications	|	0.2000
+Update semantics of relational views	|	0.2000
+What's hot and what's not: tracking most frequent items dynamically	|	0.2000
+ULDBs: Databases with Uncertainty and Lineage	|	0.2000
+Model-Driven Data Acquisition in Sensor Networks	|	0.1818
+Finding Frequent Items in Data Streams	|	0.1818
+Trio: A System for Integrated Management of Data, Accuracy, and Lineage	|	0.1818
+Approximate Aggregation Techniques for Sensor Databases	|	0.1667
+A probabilistic relational algebra for the integration of information retrieval and database systems	|	0.1667
+Online Aggregation	|	0.1600
+DISCOVER: Keyword Search in Relational Databases	|	0.1538
+Efficient Algorithms for Mining Outliers from Large Data Sets	|	0.1538
+XRANK: ranked keyword search over XML documents	|	0.1538
+Hippocratic Databases	|	0.1429
+Improved Histograms for Selectivity Estimation of Range Predicates	|	0.1429
+Random sampling with a reservoir	|	0.1429
+Efficient Query Evaluation on Probabilistic Databases	|	0.1333
+Wavelet-Based Histograms for Selectivity Estimation	|	0.1250
+Why and Where: A Characterization of Data Provenance	|	0.1176
+Distributed top-k monitoring	|	0.1111
+Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.1053
+Approximate Query Processing Using Wavelets	|	0.1053
+Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.1053
+Approximate Frequency Counts over Data Streams	|	0.0952
+Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.0909
+New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.0909
+The design of an acquisitional query processor for sensor networks	|	0.0833
+Fast Algorithms for Mining Association Rules in Large Databases	|	0.0606
+Fast Algorithms for Mining Association Rules	|	0.0417
+Foundations of Databases	|	0.0274

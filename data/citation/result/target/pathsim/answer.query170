@@ -1,42 +1,39 @@
-DBXplorer: A System for Keyword-Based Search over Relational Databases	|	0.2941
-Keyword Searching and Browsing in Databases using BANKS	|	0.2821
-Optimal Aggregation Algorithms for Middleware	|	0.2745
-DISCOVER: Keyword Search in Relational Databases	|	0.2639
-XSEarch: A Semantic Search Engine for XML	|	0.2432
-Efficient Query Evaluation on Probabilistic Databases	|	0.2308
-Storing and querying ordered XML using a relational database system	|	0.2099
-From Structured Documents to Novel Query Facilities	|	0.1474
-XRel: a path-based approach to storage and retrieval of XML documents using relational databases	|	0.0351
-Combining Fuzzy Information from Multiple Systems	|	0.0256
-SGML handbook	|	0.0256
-Human behavior and the principle of least effort	|	0.0217
-Evaluating Top-k Queries over Web-Accessible Databases	|	0.0196
-Evaluating probabilistic queries over imprecise data	|	0.0196
-Pnnc:ples of database systems	|	0.0196
-ULDBs: Databases with Uncertainty and Lineage	|	0.0196
-Trio: A System for Integrated Management of Data, Accuracy, and Lineage	|	0.0175
-Querying the World Wide Web	|	0.0156
-The Management of Probabilistic Data	|	0.0156
-A probabilistic relational algebra for the integration of information retrieval and database systems	|	0.0156
-Wrapper generation for semi-structured Internet sources	|	0.0139
-Pmnczples of database and knowledge- base systems	|	0.0139
-Storing Semistructured Data with STORED	|	0.0128
-Adding Structure to Unstructured Data	|	0.0123
-Index Structures for Path Expressions	|	0.0123
-A Taxonomy of Time in Databases	|	0.0123
-Storing and Querying XML Data using an RDBMS	|	0.0098
-RQL: a declarative query language for RDF	|	0.0079
-A Fast Index for Semistructured Data	|	0.0079
-Efficiently Publishing Relational Data as XML Documents	|	0.0079
-Distributed top-k monitoring	|	0.0079
-Principles of Database Systems, 2nd Edition	|	0.0079
-Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.0075
-Querying Object-Oriented Databases	|	0.0064
-On Supporting Containment Queries in Relational Database Management Systems	|	0.0058
-Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.0053
-Multiple-query optimization	|	0.0053
-Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.0041
-Lore: a database management system for semistructured data	|	0.0028
-Database techniques for the World-Wide Web: a survey	|	0.0024
-The Lorel Query Language for Semistructured Data	|	0.0024
-Foundations of Databases	|	0.0004
+DISCOVER: Keyword Search in Relational Databases	|	0.3750
+Efficient Query Evaluation on Probabilistic Databases	|	0.3333
+DBXplorer: A System for Keyword-Based Search over Relational Databases	|	0.3077
+XRel: a path-based approach to storage and retrieval of XML documents using relational databases	|	0.2857
+Keyword Searching and Browsing in Databases using BANKS	|	0.2000
+Combining Fuzzy Information from Multiple Systems	|	0.2000
+SGML handbook	|	0.2000
+Storing Semistructured Data with STORED	|	0.1739
+Human behavior and the principle of least effort	|	0.1667
+Evaluating Top-k Queries over Web-Accessible Databases	|	0.1538
+Evaluating probabilistic queries over imprecise data	|	0.1538
+Optimal Aggregation Algorithms for Middleware	|	0.1538
+Pnnc:ples of database systems	|	0.1538
+ULDBs: Databases with Uncertainty and Lineage	|	0.1538
+Trio: A System for Integrated Management of Data, Accuracy, and Lineage	|	0.1429
+Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.1379
+Querying the World Wide Web	|	0.1333
+The Management of Probabilistic Data	|	0.1333
+A probabilistic relational algebra for the integration of information retrieval and database systems	|	0.1333
+Wrapper generation for semi-structured Internet sources	|	0.1250
+Pmnczples of database and knowledge- base systems	|	0.1250
+Adding Structure to Unstructured Data	|	0.1176
+Index Structures for Path Expressions	|	0.1176
+A Taxonomy of Time in Databases	|	0.1176
+Storing and Querying XML Data using an RDBMS	|	0.1053
+RQL: a declarative query language for RDF	|	0.0952
+A Fast Index for Semistructured Data	|	0.0952
+Efficiently Publishing Relational Data as XML Documents	|	0.0952
+Distributed top-k monitoring	|	0.0952
+Principles of Database Systems, 2nd Edition	|	0.0952
+Querying Object-Oriented Databases	|	0.0870
+On Supporting Containment Queries in Relational Database Management Systems	|	0.0833
+Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.0800
+Multiple-query optimization	|	0.0800
+Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.0714
+Lore: a database management system for semistructured data	|	0.0606
+Database techniques for the World-Wide Web: a survey	|	0.0571
+The Lorel Query Language for Semistructured Data	|	0.0571
+Foundations of Databases	|	0.0263

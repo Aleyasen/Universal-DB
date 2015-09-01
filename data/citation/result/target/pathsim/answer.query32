@@ -1,111 +1,111 @@
-Generic Schema Matching with Cupid	|	0.1561
-COMA - A System for Flexible Combination of Schema Matching Approaches	|	0.1504
-Similarity Flooding: A Versatile Graph Matching Algorithm and Its Application to Schema Matching	|	0.1457
-Learning to match ontologies on the Semantic Web	|	0.1449
-Schema Mapping as Query Discovery	|	0.1412
-Simlarity Search for Web Services	|	0.1398
-The PROMPT suite: interactive tools for ontology merging and mapping	|	0.1350
-Learning to map between ontologies on the semantic web	|	0.1340
-Optimizing Queries Across Diverse Data Sources	|	0.1260
-Wrapper induction: Efficiency and expressiveness	|	0.1245
-Trust Management for the Semantic Web	|	0.1243
-Piazza: data management infrastructure for semantic web applications	|	0.1237
-Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.1207
-A Survey of Schema-Based Matching Approaches	|	0.1170
-An Adaptive Query Execution System for Data Integration	|	0.1045
-The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0984
-A survey of approaches to automatic schema matching	|	0.0984
-Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0893
-Semantic integration of semistructured and structured data sources	|	0.0201
-Translating Web Data	|	0.0201
-Towards Heterogeneous Multimedia Information Systems: The Garlic Approach	|	0.0161
-Semantic integration: a survey of ontology-based approaches	|	0.0156
-Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.0154
-Data Management for Peer-to-Peer Computing : A Vision	|	0.0153
-PROMPT: Algorithm and Tool for Automated Ontology Merging and Alignment	|	0.0153
-Don't Scrap It, Wrap It! A Wrapper Architecture for Legacy Data Sources	|	0.0151
-Schema Mediation in Peer Data Management Systems	|	0.0145
-Ontology mapping: the state of the art	|	0.0139
-Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases	|	0.0133
-Extracting structured data from Web pages	|	0.0127
-Ontology Mapping: The State of the Art	|	0.0127
-Ontologies - a silver bullet for knowledge management and electronic commerce	|	0.0115
-Measuring Similarity between Ontologies	|	0.0113
-Applying Model Management to Classical Meta Data Problems	|	0.0110
-A hierarchical approach to wrapper induction	|	0.0108
-Enhanced hypertext categorization using hyperlinks	|	0.0108
-Query Caching and Optimization in Distributed Mediator Systems	|	0.0105
-Wrapper Induction for Information Extraction	|	0.0104
-Answering XML Queries over Heterogeneous Data Sources	|	0.0101
-An Information-Theoretic Definition of Similarity	|	0.0101
-A Theory of Attribute Equivalence in Databases with Application to Schema Integration	|	0.0101
-Semantic Matching of Web Services Capabilities	|	0.0101
-Catching the boat with Strudel: experiences with a Web Site management system	|	0.0098
-Extracting Semistructured Information from the Web	|	0.0097
-An Environment for Merging and Testing Large Ontologies	|	0.0097
-W3QS: A Query System for the World-Wide Web	|	0.0088
-Data Cleaning: Problems and Current Approaches	|	0.0088
-OBSERVER: An Approach for Query Processing in Global Information Systems Based on Interoperation Across Pre-Existing Ontologies	|	0.0084
-A comparative analysis of methodologies for database schema integration	|	0.0077
-Eddies: Continuously Adaptive Query Processing	|	0.0075
-Database techniques for the World-Wide Web: a survey	|	0.0073
-Interoperability of multiple autonomous databases	|	0.0069
-Your Mediators Need Data Conversion!	|	0.0065
-Complexity of answering queries using materialized views	|	0.0065
-Data integration: a theoretical perspective	|	0.0060
-SGML handbook	|	0.0057
-Ontology Learning for the Semantic Web	|	0.0057
-The Ontolin-gua Server: A Tool for Collaborative Ontology Construction	|	0.0057
-Simple Fast Algorithms for the Editing Distance Between Trees and Related Problems	|	0.0056
-Mediators in the Architecture of Future Information Systems	|	0.0055
-Sesame: A Generic Architecture for Storing and Querying RDF and RDF Schema	|	0.0055
-Using Information Content to Evaluate Semantic Similarity in a Taxonomy	|	0.0055
-InfoSleuth: agent-based semantic integration of information in open and dynamic environments	|	0.0055
-Evaluating Top-k Queries over Web-Accessible Databases	|	0.0054
-FCA-MERGE: Bottom-Up Merging of Ontologies	|	0.0054
-Principles of distributed database systems	|	0.0054
-Resource description framework (rdf)	|	0.0054
-Ontology Evolution: Not the Same as Schema Evolution	|	0.0054
-DAML-S: Web Service Description for the Semantic Web	|	0.0054
-EDUTELLA: a P2P networking infrastructure based on RDF	|	0.0052
-Consistent query answers in inconsistent databases	|	0.0052
-Development and application of a metric on semantic nets	|	0.0052
-Data exchange: semantics and query answering	|	0.0052
-Mariposa: A Wide-Area Distributed Database System	|	0.0050
-Information sharing across private databases	|	0.0050
-EDUTELLA: A P2P Networking Infrastructure Based on RDF	|	0.0050
-Object Exchange Across Heterogeneous Information Sources	|	0.0050
-A brief survey of web data extraction tools	|	0.0048
-Typechecking for XML transformers	|	0.0048
-Generating Finite-State Transducers for Semi-Structured Data Extraction from the Web	|	0.0048
-Answering Queries Using Templates with Binding Patterns	|	0.0048
-The Ontolingua Server: a tool for collaborative ontology construction	|	0.0048
-Super-peer-based routing and clustering strategies for RDF-based peer-to-peer networks	|	0.0046
-Retrieving and Integrating Data from Multiple Information Sources	|	0.0046
-Extended algebra and calculus for nested relational databases	|	0.0044
-Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0043
-Research problems in data warehousing	|	0.0040
-Query Reformulation for Dynamic Information Integration	|	0.0040
-Data Model and Query Evaluation in Global Information Systems	|	0.0040
-Semantic and Schematic Similarities Between Database Objects: A Context-Based Approach	|	0.0040
-Answering queries using views: A survey	|	0.0039
-Answering recursive queries using views	|	0.0038
-A Query Language for XML	|	0.0038
-Aurora: a new model and architecture for data stream management	|	0.0038
-From Structured Documents to Novel Query Facilities	|	0.0034
-Querying Object-Oriented Databases	|	0.0034
-Semantic e-Workflow Composition	|	0.0034
-Semistructured data	|	0.0033
-TinyDB: an acquisitional query processing system for sensor networks	|	0.0033
-The design of an acquisitional query processor for sensor networks	|	0.0028
-Continuously adaptive continuous queries over streams	|	0.0026
-Optimizing Queries with Materialized Views	|	0.0026
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0026
-DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0025
-Continuous queries over data streams	|	0.0025
-A Query Language and Optimization Techniques for Unstructured Data	|	0.0024
-Optimal implementation of conjunctive queries in relational data bases	|	0.0024
-Monitoring Streams - A New Class of Data Management Applications	|	0.0021
-Models and issues in data stream systems	|	0.0017
-Access path selection in a relational database management system	|	0.0010
-Query evaluation techniques for large databases	|	0.0004
+Generic Schema Matching with Cupid	|	0.5517
+Learning to match ontologies on the Semantic Web	|	0.5000
+COMA - A System for Flexible Combination of Schema Matching Approaches	|	0.4286
+Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.4211
+A survey of approaches to automatic schema matching	|	0.4000
+Schema Mapping as Query Discovery	|	0.3871
+Learning to map between ontologies on the semantic web	|	0.3636
+Semantic integration of semistructured and structured data sources	|	0.3200
+Similarity Flooding: A Versatile Graph Matching Algorithm and Its Application to Schema Matching	|	0.3200
+Translating Web Data	|	0.3200
+Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.2857
+Towards Heterogeneous Multimedia Information Systems: The Garlic Approach	|	0.2667
+Simlarity Search for Web Services	|	0.2609
+Data Management for Peer-to-Peer Computing : A Vision	|	0.2581
+PROMPT: Algorithm and Tool for Automated Ontology Merging and Alignment	|	0.2581
+Schema Mediation in Peer Data Management Systems	|	0.2500
+Semantic integration: a survey of ontology-based approaches	|	0.2500
+Don't Scrap It, Wrap It! A Wrapper Architecture for Legacy Data Sources	|	0.2400
+A Survey of Schema-Based Matching Approaches	|	0.2222
+Ontology mapping: the state of the art	|	0.2222
+Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases	|	0.2143
+Query Caching and Optimization in Distributed Mediator Systems	|	0.2105
+Extracting structured data from Web pages	|	0.2069
+The PROMPT suite: interactive tools for ontology merging and mapping	|	0.2069
+Ontology Mapping: The State of the Art	|	0.2069
+Ontologies - a silver bullet for knowledge management and electronic commerce	|	0.2000
+Measuring Similarity between Ontologies	|	0.1905
+A comparative analysis of methodologies for database schema integration	|	0.1818
+Applying Model Management to Classical Meta Data Problems	|	0.1818
+Piazza: data management infrastructure for semantic web applications	|	0.1818
+Database techniques for the World-Wide Web: a survey	|	0.1778
+Querying Heterogeneous Information Sources Using Source Descriptions	|	0.1778
+Catching the boat with Strudel: experiences with a Web Site management system	|	0.1765
+A hierarchical approach to wrapper induction	|	0.1739
+Enhanced hypertext categorization using hyperlinks	|	0.1739
+Wrapper Induction for Information Extraction	|	0.1667
+Answering XML Queries over Heterogeneous Data Sources	|	0.1600
+An Information-Theoretic Definition of Similarity	|	0.1600
+A Theory of Attribute Equivalence in Databases with Application to Schema Integration	|	0.1600
+Semantic Matching of Web Services Capabilities	|	0.1600
+Eddies: Continuously Adaptive Query Processing	|	0.1538
+An Adaptive Query Execution System for Data Integration	|	0.1538
+Extracting Semistructured Information from the Web	|	0.1538
+An Environment for Merging and Testing Large Ontologies	|	0.1538
+The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.1463
+W3QS: A Query System for the World-Wide Web	|	0.1429
+Data Cleaning: Problems and Current Approaches	|	0.1429
+Data integration: a theoretical perspective	|	0.1395
+OBSERVER: An Approach for Query Processing in Global Information Systems Based on Interoperation Across Pre-Existing Ontologies	|	0.1379
+Optimizing Queries Across Diverse Data Sources	|	0.1290
+Interoperability of multiple autonomous databases	|	0.1212
+Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.1200
+Your Mediators Need Data Conversion!	|	0.1176
+Complexity of answering queries using materialized views	|	0.1176
+Answering queries using views: A survey	|	0.1154
+Mediators in the Architecture of Future Information Systems	|	0.1081
+SGML handbook	|	0.1000
+Ontology Learning for the Semantic Web	|	0.1000
+The Ontolin-gua Server: A Tool for Collaborative Ontology Construction	|	0.1000
+Trust Management for the Semantic Web	|	0.0952
+Simple Fast Algorithms for the Editing Distance Between Trees and Related Problems	|	0.0952
+Sesame: A Generic Architecture for Storing and Querying RDF and RDF Schema	|	0.0909
+Using Information Content to Evaluate Semantic Similarity in a Taxonomy	|	0.0909
+InfoSleuth: agent-based semantic integration of information in open and dynamic environments	|	0.0909
+Evaluating Top-k Queries over Web-Accessible Databases	|	0.0870
+FCA-MERGE: Bottom-Up Merging of Ontologies	|	0.0870
+Principles of distributed database systems	|	0.0870
+Resource description framework (rdf)	|	0.0870
+Ontology Evolution: Not the Same as Schema Evolution	|	0.0870
+DAML-S: Web Service Description for the Semantic Web	|	0.0870
+EDUTELLA: a P2P networking infrastructure based on RDF	|	0.0833
+Consistent query answers in inconsistent databases	|	0.0833
+Development and application of a metric on semantic nets	|	0.0833
+Data exchange: semantics and query answering	|	0.0833
+Mariposa: A Wide-Area Distributed Database System	|	0.0800
+Information sharing across private databases	|	0.0800
+EDUTELLA: A P2P Networking Infrastructure Based on RDF	|	0.0800
+Object Exchange Across Heterogeneous Information Sources	|	0.0800
+A brief survey of web data extraction tools	|	0.0769
+Typechecking for XML transformers	|	0.0769
+Generating Finite-State Transducers for Semi-Structured Data Extraction from the Web	|	0.0769
+Answering Queries Using Templates with Binding Patterns	|	0.0769
+The Ontolingua Server: a tool for collaborative ontology construction	|	0.0769
+Super-peer-based routing and clustering strategies for RDF-based peer-to-peer networks	|	0.0741
+Retrieving and Integrating Data from Multiple Information Sources	|	0.0741
+Extended algebra and calculus for nested relational databases	|	0.0714
+Research problems in data warehousing	|	0.0667
+Wrapper induction: Efficiency and expressiveness	|	0.0667
+Query Reformulation for Dynamic Information Integration	|	0.0667
+Data Model and Query Evaluation in Global Information Systems	|	0.0667
+Semantic and Schematic Similarities Between Database Objects: A Context-Based Approach	|	0.0667
+Answering recursive queries using views	|	0.0645
+A Query Language for XML	|	0.0645
+Aurora: a new model and architecture for data stream management	|	0.0645
+From Structured Documents to Novel Query Facilities	|	0.0606
+Querying Object-Oriented Databases	|	0.0606
+Semantic e-Workflow Composition	|	0.0606
+Semistructured data	|	0.0588
+TinyDB: an acquisitional query processing system for sensor networks	|	0.0588
+The design of an acquisitional query processor for sensor networks	|	0.0541
+Continuously adaptive continuous queries over streams	|	0.0526
+Optimizing Queries with Materialized Views	|	0.0526
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0526
+DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0513
+Continuous queries over data streams	|	0.0513
+A Query Language and Optimization Techniques for Unstructured Data	|	0.0500
+Optimal implementation of conjunctive queries in relational data bases	|	0.0500
+Monitoring Streams - A New Class of Data Management Applications	|	0.0476
+Models and issues in data stream systems	|	0.0426
+Access path selection in a relational database management system	|	0.0339
+Query evaluation techniques for large databases	|	0.0225

@@ -1,11 +1,13 @@
-A hierarchical approach to wrapper induction	|	0.2857
-Wrapper Induction for Information Extraction	|	0.2500
-XWRAP: An XML-Enabled Wrapper Construction System for Web Information Sources	|	0.2222
-A brief survey of web data extraction tools	|	0.2000
-Extracting Semistructured Information from the Web	|	0.2000
-Generating Finite-State Transducers for Semi-Structured Data Extraction from the Web	|	0.2000
-Optimizing Queries Across Diverse Data Sources	|	0.1333
-Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.1053
-The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0800
-Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0690
-Foundations of Databases	|	0.0286
+Snowball: extracting relations from large plain-text collections	|	0.6667
+Extracting structured data from Web pages	|	0.1884
+A hierarchical approach to wrapper induction	|	0.0556
+Wrapper Induction for Information Extraction	|	0.0417
+XWRAP: An XML-Enabled Wrapper Construction System for Web Information Sources	|	0.0323
+A brief survey of web data extraction tools	|	0.0256
+Extracting Semistructured Information from the Web	|	0.0256
+Generating Finite-State Transducers for Semi-Structured Data Extraction from the Web	|	0.0256
+Optimizing Queries Across Diverse Data Sources	|	0.0106
+Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.0064
+The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0036
+Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0026
+Foundations of Databases	|	0.0004

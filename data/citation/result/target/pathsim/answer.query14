@@ -1,68 +1,65 @@
-Workflow Mining: A Survey of Issues and Approaches	|	0.2653
-A brief survey of web data extraction tools	|	0.2344
-Indexing and Querying XML Data for Regular Path Expressions	|	0.2021
-Efficiently Publishing Relational Data as XML Documents	|	0.1765
-RQL: a declarative query language for RDF	|	0.1681
-Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.1120
-Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.1020
-Extensible Markup Language (XML)	|	0.0882
-Extensible Markup Language	|	0.0645
-XML Path Language (XPath) Version 1.0	|	0.0526
-Extensible Markup Language (XML) 1.0	|	0.0465
-The Object Database Standard: ODMG 2.0	|	0.0345
-Workflow Management: Models, Methods, and Systems	|	0.0345
-XML-QL: A Query Language for XML	|	0.0336
-Business Process Management: A Survey	|	0.0323
-Mining Process Models from Workflow Logs	|	0.0294
-Xml schema part 2: datatypes	|	0.0294
-Storing and querying ordered XML using a relational database system	|	0.0274
-Efficient Algorithms for Processing XPath Queries	|	0.0263
-Filtering algorithms and implementation for very fast publish/subscribe systems	|	0.0263
-Detecting Changes in XML Documents	|	0.0263
-Human behavior and the principle of least effort	|	0.0263
-Efficient Filtering of XML Documents with XPath Expressions	|	0.0233
-Data on the Web: From Relations to Semistructured Data and XML	|	0.0233
-Storing and Querying XML Data using an RDBMS	|	0.0213
-Structural Joins: A Primitive for Efficient XML Query Pattern Matching	|	0.0213
-Remarks on the algebra of non first normal form relations	|	0.0204
-Join processing in database systems with large main memories	|	0.0204
-Workflow Management: Modeling Concepts, Architecture, and Implementation	|	0.0204
-XRel: a path-based approach to storage and retrieval of XML documents using relational databases	|	0.0204
-Quilt: An XML Query Language for Heterogeneous Data Sources	|	0.0189
-Holistic twig joins: optimal XML pattern matching	|	0.0189
-On Supporting Containment Queries in Relational Database Management Systems	|	0.0183
-XWRAP: An XML-Enabled Wrapper Construction System for Web Information Sources	|	0.0179
-A Query Language for XML	|	0.0168
-Visual Web Information Extraction with Lixto	|	0.0156
-Generating Finite-State Transducers for Semi-Structured Data Extraction from the Web	|	0.0156
-Accelerating XPath location steps	|	0.0156
-Human Behaviour and the Principle of Least Effort: an Introduction to Human Ecology	|	0.0156
-Telos: representing knowledge about information systems	|	0.0137
-From Structured Documents to Novel Query Facilities	|	0.0135
-Storing Semistructured Data with STORED	|	0.0135
-Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.0122
-TIMBER: A native XML database	|	0.0120
-Path sharing and predicate evaluation for high-performance XML filtering	|	0.0120
-Extracting structured data from Web pages	|	0.0106
-The Architecture Of An Active Data Base Management System	|	0.0106
-The Lorel Query Language for Semistructured Data	|	0.0099
-Wrapper induction: Efficiency and expressiveness	|	0.0094
-A Fast Index for Semistructured Data	|	0.0084
-Generalized Search Trees for Database Systems	|	0.0084
-Aurora: a new model and architecture for data stream management	|	0.0084
-A Query Language and Optimization Techniques for Unstructured Data	|	0.0071
-Querying Object-Oriented Databases	|	0.0068
-Your Mediators Need Data Conversion!	|	0.0061
-Multiple-query optimization	|	0.0055
-Query Optimization for XML	|	0.0050
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0042
-DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0039
-Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0039
-Continuous queries over data streams	|	0.0039
-NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0036
-Monitoring Streams - A New Class of Data Management Applications	|	0.0030
-Lore: a database management system for semistructured data	|	0.0028
-Database techniques for the World-Wide Web: a survey	|	0.0025
-Models and issues in data stream systems	|	0.0022
-Answering queries using views: A survey	|	0.0016
-Foundations of Databases	|	0.0004
+Extensible Markup Language (XML)	|	0.6000
+Extensible Markup Language	|	0.4444
+XML-QL: A Query Language for XML	|	0.4000
+XML Path Language (XPath) Version 1.0	|	0.3636
+Extensible Markup Language (XML) 1.0	|	0.3333
+On Supporting Containment Queries in Relational Database Management Systems	|	0.2609
+Storing and querying ordered XML using a relational database system	|	0.2500
+The Object Database Standard: ODMG 2.0	|	0.2500
+Workflow Management: Models, Methods, and Systems	|	0.2500
+The Lorel Query Language for Semistructured Data	|	0.2353
+Business Process Management: A Survey	|	0.2222
+Storing and Querying XML Data using an RDBMS	|	0.2222
+Structural Joins: A Primitive for Efficient XML Query Pattern Matching	|	0.2222
+Quilt: An XML Query Language for Heterogeneous Data Sources	|	0.2105
+Holistic twig joins: optimal XML pattern matching	|	0.2105
+Mining Process Models from Workflow Logs	|	0.2000
+A Query Language for XML	|	0.2000
+Xml schema part 2: datatypes	|	0.2000
+From Structured Documents to Novel Query Facilities	|	0.1818
+Efficient Algorithms for Processing XPath Queries	|	0.1818
+Filtering algorithms and implementation for very fast publish/subscribe systems	|	0.1818
+Storing Semistructured Data with STORED	|	0.1818
+Detecting Changes in XML Documents	|	0.1818
+Human behavior and the principle of least effort	|	0.1818
+Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.1739
+Efficient Filtering of XML Documents with XPath Expressions	|	0.1667
+Data on the Web: From Relations to Semistructured Data and XML	|	0.1667
+Remarks on the algebra of non first normal form relations	|	0.1538
+Join processing in database systems with large main memories	|	0.1538
+Workflow Management: Modeling Concepts, Architecture, and Implementation	|	0.1538
+XRel: a path-based approach to storage and retrieval of XML documents using relational databases	|	0.1538
+XWRAP: An XML-Enabled Wrapper Construction System for Web Information Sources	|	0.1429
+A Query Language and Optimization Techniques for Unstructured Data	|	0.1379
+Visual Web Information Extraction with Lixto	|	0.1333
+Generating Finite-State Transducers for Semi-Structured Data Extraction from the Web	|	0.1333
+Accelerating XPath location steps	|	0.1333
+Human Behaviour and the Principle of Least Effort: an Introduction to Human Ecology	|	0.1333
+Telos: representing knowledge about information systems	|	0.1250
+TIMBER: A native XML database	|	0.1176
+Path sharing and predicate evaluation for high-performance XML filtering	|	0.1176
+Indexing and Querying XML Data for Regular Path Expressions	|	0.1111
+Extracting structured data from Web pages	|	0.1111
+The Architecture Of An Active Data Base Management System	|	0.1111
+Wrapper induction: Efficiency and expressiveness	|	0.1053
+A Fast Index for Semistructured Data	|	0.1000
+Efficiently Publishing Relational Data as XML Documents	|	0.1000
+Generalized Search Trees for Database Systems	|	0.1000
+Aurora: a new model and architecture for data stream management	|	0.1000
+Querying Object-Oriented Databases	|	0.0909
+Your Mediators Need Data Conversion!	|	0.0870
+Multiple-query optimization	|	0.0833
+Query Optimization for XML	|	0.0800
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0741
+Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.0714
+DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0714
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0714
+Continuous queries over data streams	|	0.0714
+NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0690
+Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0667
+Monitoring Streams - A New Class of Data Management Applications	|	0.0645
+Lore: a database management system for semistructured data	|	0.0625
+Database techniques for the World-Wide Web: a survey	|	0.0588
+Models and issues in data stream systems	|	0.0556
+Answering queries using views: A survey	|	0.0488
+Foundations of Databases	|	0.0267

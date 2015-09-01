@@ -1,73 +1,73 @@
-Applying Model Management to Classical Meta Data Problems	|	0.3158
-Semantic and Schematic Similarities Between Database Objects: A Context-Based Approach	|	0.1981
-The functional data model and the data language DAPLEX	|	0.1849
-A Survey of Schema-Based Matching Approaches	|	0.1457
-A comparative analysis of methodologies for database schema integration	|	0.0976
-A survey of approaches to automatic schema matching	|	0.0936
-Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0791
-Ontology Evolution: Not the Same as Schema Evolution	|	0.0698
-Measuring Similarity between Ontologies	|	0.0588
-Distributed Databases: Principles and Systems	|	0.0465
-Ontology mapping: the state of the art	|	0.0411
-Classifying Schematic and Data Heterogeneity in Multidatabase Systems	|	0.0408
-Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases	|	0.0361
-Semantic integration of semistructured and structured data sources	|	0.0357
-A Graph-Oriented Model for Articulation of Ontology Interdependencies	|	0.0323
-Ontology Mapping: The State of the Art	|	0.0319
-The entity-relationship model: toward a unified view of data	|	0.0312
-Simple Fast Algorithms for the Editing Distance Between Trees and Related Problems	|	0.0294
-View Definition and Generalization for Database Integration in a Multidatabase System	|	0.0283
-A federated architecture for information management	|	0.0274
-Using Information Content to Evaluate Semantic Similarity in a Taxonomy	|	0.0263
-Using semantic values to facilitate interoperability among heterogeneous information systems	|	0.0263
-COMA - A System for Flexible Combination of Schema Matching Approaches	|	0.0241
-Data Cleaning: Problems and Current Approaches	|	0.0241
-Description Logics in Data Management	|	0.0233
-Simlarity Search for Web Services	|	0.0233
-Principles of Distributed Database Systems	|	0.0233
-Data Models	|	0.0233
-Generic Schema Matching with Cupid	|	0.0213
-GALILEO: a strongly-typed, interactive conceptual language	|	0.0213
-Semantics and Implementation of Schema Evolution in Object-Oriented Databases	|	0.0204
-Semantic integration: a survey of ontology-based approaches	|	0.0204
-Database Description with SDM: A Semantic Database Model	|	0.0189
-An Approach to Persistent Programming	|	0.0179
-Semantic Matching of Web Services Capabilities	|	0.0179
-Schema Mapping as Query Discovery	|	0.0168
-An Environment for Merging and Testing Large Ontologies	|	0.0156
-A Translation Approach to Portable Ontology Specifications	|	0.0156
-Learning to match ontologies on the Semantic Web	|	0.0150
-Retrieving and Integrating Data from Multiple Information Sources	|	0.0137
-The EXODUS Optimizer Generator	|	0.0137
-Semantic e-Workflow Composition	|	0.0135
-IFO: a formal semantic database model	|	0.0135
-Piazza: data management infrastructure for semantic web applications	|	0.0135
-Semantic data models	|	0.0126
-OBSERVER: An Approach for Query Processing in Global Information Systems Based on Interoperation Across Pre-Existing Ontologies	|	0.0106
-The PROMPT suite: interactive tools for ontology merging and mapping	|	0.0106
-Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.0101
-The entity-relationship model---toward a unified view of data	|	0.0101
-Database description with SDM: a semantic database model	|	0.0101
-Query Reformulation for Dynamic Information Integration	|	0.0094
-Data Model and Query Evaluation in Global Information Systems	|	0.0094
-Data Management for Peer-to-Peer Computing : A Vision	|	0.0084
-Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.0084
-Principles of Database Systems, 2nd Edition	|	0.0084
-A logical design methodology for relational databases using the extended entity-relationship model	|	0.0084
-Synthesizing third normal form relations from functional dependencies	|	0.0084
-Schema Mediation in Peer Data Management Systems	|	0.0075
-An Introduction to Database Systems	|	0.0075
-The functional data model and the data languages DAPLEX	|	0.0071
-Interoperability of multiple autonomous databases	|	0.0068
-A language facility for designing database-intensive applications	|	0.0068
-Data integration: a theoretical perspective	|	0.0057
-Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.0055
-Query Caching and Optimization in Distributed Mediator Systems	|	0.0042
-Database abstractions: aggregation and generalization	|	0.0042
-DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0039
-The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0033
-Lore: a database management system for semistructured data	|	0.0028
-Types and persistence in database programming languages	|	0.0026
-The Theory of Relational Databases	|	0.0019
-Query evaluation techniques for large databases	|	0.0012
-Foundations of Databases	|	0.0008
+Ontology Evolution: Not the Same as Schema Evolution	|	0.5000
+Measuring Similarity between Ontologies	|	0.4000
+Ontology mapping: the state of the art	|	0.3750
+Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases	|	0.3529
+Distributed Databases: Principles and Systems	|	0.3333
+Ontology Mapping: The State of the Art	|	0.3333
+A Survey of Schema-Based Matching Approaches	|	0.3200
+View Definition and Generalization for Database Integration in a Multidatabase System	|	0.3158
+Classifying Schematic and Data Heterogeneity in Multidatabase Systems	|	0.3077
+Semantic integration of semistructured and structured data sources	|	0.2857
+The entity-relationship model: toward a unified view of data	|	0.2667
+Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.2564
+A federated architecture for information management	|	0.2500
+A comparative analysis of methodologies for database schema integration	|	0.2424
+COMA - A System for Flexible Combination of Schema Matching Approaches	|	0.2353
+A survey of approaches to automatic schema matching	|	0.2353
+Data Cleaning: Problems and Current Approaches	|	0.2353
+Generic Schema Matching with Cupid	|	0.2222
+GALILEO: a strongly-typed, interactive conceptual language	|	0.2222
+A Graph-Oriented Model for Articulation of Ontology Interdependencies	|	0.2222
+Semantic data models	|	0.2222
+Semantic and Schematic Similarities Between Database Objects: A Context-Based Approach	|	0.2105
+Database Description with SDM: A Semantic Database Model	|	0.2105
+Schema Mapping as Query Discovery	|	0.2000
+The functional data model and the data language DAPLEX	|	0.2000
+Simple Fast Algorithms for the Editing Distance Between Trees and Related Problems	|	0.2000
+Learning to match ontologies on the Semantic Web	|	0.1905
+Using Information Content to Evaluate Semantic Similarity in a Taxonomy	|	0.1818
+Semantic e-Workflow Composition	|	0.1818
+IFO: a formal semantic database model	|	0.1818
+Using semantic values to facilitate interoperability among heterogeneous information systems	|	0.1818
+Applying Model Management to Classical Meta Data Problems	|	0.1818
+Piazza: data management infrastructure for semantic web applications	|	0.1818
+Description Logics in Data Management	|	0.1667
+Simlarity Search for Web Services	|	0.1667
+Principles of Distributed Database Systems	|	0.1667
+Data Models	|	0.1667
+Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.1600
+The entity-relationship model---toward a unified view of data	|	0.1600
+Database description with SDM: a semantic database model	|	0.1600
+Semantics and Implementation of Schema Evolution in Object-Oriented Databases	|	0.1538
+Semantic integration: a survey of ontology-based approaches	|	0.1538
+Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.1481
+An Approach to Persistent Programming	|	0.1429
+Semantic Matching of Web Services Capabilities	|	0.1429
+The functional data model and the data languages DAPLEX	|	0.1379
+An Environment for Merging and Testing Large Ontologies	|	0.1333
+A Translation Approach to Portable Ontology Specifications	|	0.1333
+Retrieving and Integrating Data from Multiple Information Sources	|	0.1250
+Data integration: a theoretical perspective	|	0.1250
+The EXODUS Optimizer Generator	|	0.1250
+OBSERVER: An Approach for Query Processing in Global Information Systems Based on Interoperation Across Pre-Existing Ontologies	|	0.1111
+The PROMPT suite: interactive tools for ontology merging and mapping	|	0.1111
+Query Reformulation for Dynamic Information Integration	|	0.1053
+Data Model and Query Evaluation in Global Information Systems	|	0.1053
+Data Management for Peer-to-Peer Computing : A Vision	|	0.1000
+Principles of Database Systems, 2nd Edition	|	0.1000
+A logical design methodology for relational databases using the extended entity-relationship model	|	0.1000
+Synthesizing third normal form relations from functional dependencies	|	0.1000
+Schema Mediation in Peer Data Management Systems	|	0.0952
+An Introduction to Database Systems	|	0.0952
+Interoperability of multiple autonomous databases	|	0.0909
+A language facility for designing database-intensive applications	|	0.0909
+Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.0833
+Query evaluation techniques for large databases	|	0.0769
+Query Caching and Optimization in Distributed Mediator Systems	|	0.0741
+Database abstractions: aggregation and generalization	|	0.0741
+DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0714
+The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0667
+Lore: a database management system for semistructured data	|	0.0625
+Types and persistence in database programming languages	|	0.0606
+Foundations of Databases	|	0.0533
+The Theory of Relational Databases	|	0.0526

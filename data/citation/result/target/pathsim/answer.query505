@@ -1,40 +1,40 @@
-Maintaining Stream Statistics over Sliding Windows	|	0.3667
-Selectivity Estimation Without the Attribute Value Independence Assumption	|	0.2941
-Human Behaviour and the Principle of Least Effort: an Introduction to Human Ecology	|	0.2941
-Improved Histograms for Selectivity Estimation of Range Predicates	|	0.2667
-Models and issues in data stream systems	|	0.0778
-Gigascope: a stream database for network applications	|	0.0476
-Accurate Estimation of the Number of Tuples Satisfying a Condition	|	0.0476
-TelegraphCQ: Continuous Dataflow Processing for an Uncertain World	|	0.0476
-A framework for clustering evolving data streams	|	0.0400
-Wavelet-Based Histograms for Selectivity Estimation	|	0.0370
-Efficient Filtering of XML Documents with XPath Expressions	|	0.0333
-An Improved Data Stream Summary: The Count-Min Sketch and Its Applications	|	0.0333
-Random sampling with a reservoir	|	0.0333
-Approximate Query Processing Using Wavelets	|	0.0250
-Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0250
-Query Processing, Resource Management, and Approximation in a Data Stream Management System	|	0.0233
-Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.0167
-Computing Iceberg Queries Efficiently	|	0.0167
-A Taxonomy of Time in Databases	|	0.0167
-Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.0123
-Querying the Internet with PIER	|	0.0123
-Distributed top-k monitoring	|	0.0094
-The CQL continuous query language: semantic foundations and query execution	|	0.0094
-Issues in data stream management	|	0.0089
-Hilbert R-tree: An Improved R-tree using Fractals	|	0.0074
-Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0069
-Approximate Frequency Counts over Data Streams	|	0.0066
-On Supporting Containment Queries in Relational Database Management Systems	|	0.0066
-New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.0060
-Multiple-query optimization	|	0.0060
-Online Aggregation	|	0.0044
-Continuously adaptive continuous queries over streams	|	0.0044
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0044
-Eddies: Continuously Adaptive Query Processing	|	0.0041
-An Adaptive Query Execution System for Data Integration	|	0.0041
-Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0041
-Continuous queries over data streams	|	0.0041
-NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0037
-Access path selection in a relational database management system	|	0.0023
-Fast Subsequence Matching in Time-Series Databases	|	0.0018
+Wavelet-Based Histograms for Selectivity Estimation	|	0.3750
+Approximate Query Processing Using Wavelets	|	0.3158
+Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.3158
+Selectivity Estimation Without the Attribute Value Independence Assumption	|	0.3077
+Human Behaviour and the Principle of Least Effort: an Introduction to Human Ecology	|	0.3077
+Improved Histograms for Selectivity Estimation of Range Predicates	|	0.2857
+Random sampling with a reservoir	|	0.2857
+Gigascope: a stream database for network applications	|	0.2500
+Accurate Estimation of the Number of Tuples Satisfying a Condition	|	0.2500
+TelegraphCQ: Continuous Dataflow Processing for an Uncertain World	|	0.2500
+A framework for clustering evolving data streams	|	0.2222
+Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.2105
+Efficient Filtering of XML Documents with XPath Expressions	|	0.2000
+An Improved Data Stream Summary: The Count-Min Sketch and Its Applications	|	0.2000
+Maintaining Stream Statistics over Sliding Windows	|	0.2000
+Query Processing, Resource Management, and Approximation in a Data Stream Management System	|	0.1667
+Issues in data stream management	|	0.1600
+Computing Iceberg Queries Efficiently	|	0.1429
+Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.1429
+A Taxonomy of Time in Databases	|	0.1429
+Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.1250
+Querying the Internet with PIER	|	0.1250
+Distributed top-k monitoring	|	0.1111
+The CQL continuous query language: semantic foundations and query execution	|	0.1111
+Hilbert R-tree: An Improved R-tree using Fractals	|	0.1000
+Approximate Frequency Counts over Data Streams	|	0.0952
+On Supporting Containment Queries in Relational Database Management Systems	|	0.0952
+New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.0909
+Multiple-query optimization	|	0.0909
+Access path selection in a relational database management system	|	0.0870
+Online Aggregation	|	0.0800
+Continuously adaptive continuous queries over streams	|	0.0800
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0800
+Eddies: Continuously Adaptive Query Processing	|	0.0769
+An Adaptive Query Execution System for Data Integration	|	0.0769
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0769
+Continuous queries over data streams	|	0.0769
+NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0741
+Models and issues in data stream systems	|	0.0588
+Fast Subsequence Matching in Time-Series Databases	|	0.0541

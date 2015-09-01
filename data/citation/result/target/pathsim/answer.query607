@@ -1,33 +1,30 @@
-Data on Air: Organization and Access	|	0.3000
-Sleepers and Workaholics: Caching Strategies in Mobile Environments	|	0.2879
-Energy Efficient Indexing on Air	|	0.2879
-Balancing Push and Pull for Data Broadcast	|	0.2833
-Broadcast disks: data management for asymmetric communication environments	|	0.2444
-Broadcast Disks: Data Management for Asymmetric Communications Environments	|	0.2400
-The Dangers of Replication and a Solution	|	0.2333
-Data caching issues in an information retrieval system	|	0.2000
-Discovering Similar Multidimensional Trajectories	|	0.1707
-Mobile wireless computing: challenges in data management	|	0.0758
-The LRU-K page replacement algorithm for database disk buffering	|	0.0455
-The LRU-K Page Replacement Algorithm For Database Disk Buffering	|	0.0411
-2Q: A Low Overhead High Performance Buffer Management Replacement Algorithm	|	0.0370
-The Bayou Architecture: support for data sharing among mobile users	|	0.0208
-Consistency in Partitioned Networks	|	0.0196
-Transaction Processing: Concepts and Techniques	|	0.0167
-An adaptive data replication algorithm	|	0.0137
-On indexing mobile objects	|	0.0123
-A Critique of ANSI SQL Isolation Levels	|	0.0123
-Exact Indexing of Dynamic Time Warping	|	0.0111
-Similarity Search in High Dimensions via Hashing	|	0.0111
-When Is ''Nearest Neighbor'' Meaningful?	|	0.0090
-The Design of the Borealis Stream Processing Engine	|	0.0090
-Locally Adaptive Dimensionality Reduction for Indexing Large Time Series Databases	|	0.0081
-An Introduction to Database Systems	|	0.0067
-Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases	|	0.0051
-Fast Time Sequence Indexing for Arbitrary Lp Norms	|	0.0039
-Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0036
-A Quantitative Analysis and Performance Study for Similarity-Search Methods in High-Dimensional Spaces	|	0.0031
-FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets	|	0.0025
-Concurrency Control and Recovery in Database Systems	|	0.0018
-Efficient Similarity Search In Sequence Databases	|	0.0017
-Fast Subsequence Matching in Time-Series Databases	|	0.0017
+Mobile wireless computing: challenges in data management	|	0.6667
+Data on Air: Organization and Access	|	0.5714
+Sleepers and Workaholics: Caching Strategies in Mobile Environments	|	0.5333
+Energy Efficient Indexing on Air	|	0.5333
+Broadcast Disks: Data Management for Asymmetric Communications Environments	|	0.5263
+Broadcast disks: data management for asymmetric communication environments	|	0.4444
+Balancing Push and Pull for Data Broadcast	|	0.4286
+The LRU-K page replacement algorithm for database disk buffering	|	0.4000
+The LRU-K Page Replacement Algorithm For Database Disk Buffering	|	0.3750
+2Q: A Low Overhead High Performance Buffer Management Replacement Algorithm	|	0.3529
+The Bayou Architecture: support for data sharing among mobile users	|	0.1818
+Consistency in Partitioned Networks	|	0.1667
+Transaction Processing: Concepts and Techniques	|	0.1429
+An adaptive data replication algorithm	|	0.1250
+On indexing mobile objects	|	0.1176
+A Critique of ANSI SQL Isolation Levels	|	0.1176
+Exact Indexing of Dynamic Time Warping	|	0.1111
+Similarity Search in High Dimensions via Hashing	|	0.1111
+When Is ''Nearest Neighbor'' Meaningful?	|	0.1000
+The Design of the Borealis Stream Processing Engine	|	0.1000
+Locally Adaptive Dimensionality Reduction for Indexing Large Time Series Databases	|	0.0952
+An Introduction to Database Systems	|	0.0870
+Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases	|	0.0769
+Fast Time Sequence Indexing for Arbitrary Lp Norms	|	0.0690
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0667
+A Quantitative Analysis and Performance Study for Similarity-Search Methods in High-Dimensional Spaces	|	0.0625
+FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets	|	0.0571
+Concurrency Control and Recovery in Database Systems	|	0.0500
+Efficient Similarity Search In Sequence Databases	|	0.0488
+Fast Subsequence Matching in Time-Series Databases	|	0.0488

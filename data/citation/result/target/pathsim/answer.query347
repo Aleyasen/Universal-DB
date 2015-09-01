@@ -1,68 +1,66 @@
-Approximate Aggregation Techniques for Sensor Databases	|	0.2791
-Computing Iceberg Queries Efficiently	|	0.2333
-Wavelet-Based Histograms for Selectivity Estimation	|	0.2222
-New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.1369
-The Volcano Optimizer Generator: Extensibility and Efficient Search	|	0.0625
-Model-Driven Data Acquisition in Sensor Networks	|	0.0556
-Access path selection in a relational database management system	|	0.0537
-Improved Histograms for Selectivity Estimation of Range Predicates	|	0.0500
-Query Processing in Sensor Networks	|	0.0476
-Accurate Estimation of the Number of Tuples Satisfying a Condition	|	0.0476
-An introduction to data base systems	|	0.0476
-Human behavior and the principle of least effort	|	0.0400
-Selectivity Estimation Without the Attribute Value Independence Assumption	|	0.0392
-Evaluating probabilistic queries over imprecise data	|	0.0333
-Randomized Algorithms for Optimizing Large Join Queries	|	0.0333
-Random sampling with a reservoir	|	0.0333
-What's hot and what's not: tracking most frequent items dynamically	|	0.0333
-GAMMA - A High Performance Dataflow Database Machine	|	0.0278
-Finding Frequent Items in Data Streams	|	0.0278
-Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0250
-Mariposa: A Wide-Area Distributed Database System	|	0.0233
-The cougar approach to in-network query processing in sensor networks	|	0.0233
-Efficient Algorithms for Mining Outliers from Large Data Sets	|	0.0196
-Human Behaviour and the Principle of Least Effort: an Introduction to Human Ecology	|	0.0196
-C-Store: A Column-oriented DBMS	|	0.0196
-Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.0167
-Approximate Query Processing Using Wavelets	|	0.0167
-Similarity Search in High Dimensions via Hashing	|	0.0167
-A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.0167
-The EXODUS Optimizer Generator	|	0.0167
-Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals	|	0.0143
-Query By Example	|	0.0143
-On optimizing an SQL-like nested query	|	0.0143
-Online Aggregation	|	0.0133
-Parallel database systems: the future of high performance database systems	|	0.0123
-Query Reformulation for Dynamic Information Integration	|	0.0108
-Optimizing Queries Across Diverse Data Sources	|	0.0094
-Distributed top-k monitoring	|	0.0094
-Organization and Maintenance of Large Ordered Indexes	|	0.0083
-An Introduction to Database Systems	|	0.0083
-Join processing in relational databases	|	0.0083
-Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.0074
-Parallel Database Systems: The Future of High Performance Database Processing1	|	0.0074
-Approximate Frequency Counts over Data Streams	|	0.0066
-Beyond Market Baskets: Generalizing Association Rules to Correlations	|	0.0066
-Query Optimization for XML	|	0.0054
-The Gamma Database Machine Project	|	0.0054
-The Design of Postgres	|	0.0049
-The design of an acquisitional query processor for sensor networks	|	0.0049
-Fast Algorithms for Mining Association Rules in Large Databases	|	0.0048
-Continuously adaptive continuous queries over streams	|	0.0044
-Query Caching and Optimization in Distributed Mediator Systems	|	0.0044
-Optimizing Queries with Materialized Views	|	0.0044
-Distance browsing in spatial databases	|	0.0044
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0044
-Organization and Maintenance of Large Ordered Indices	|	0.0041
-System R: A Relational Approach to Data Base Management	|	0.0037
-Principles of Database and Knowledge-Base Systems, Volume I	|	0.0029
-An Effective Hash Based Algorithm for Mining Association Rules	|	0.0027
-System R: relational approach to database management	|	0.0025
-Logic and Databases: A Deductive Approach	|	0.0024
-Models and issues in data stream systems	|	0.0022
-Fast Algorithms for Mining Association Rules	|	0.0021
-The Theory of Relational Databases	|	0.0020
-Query Optimization in Database Systems	|	0.0017
-Foundations of Databases	|	0.0004
-Query evaluation techniques for large databases	|	0.0004
-Principles of Database and Knowledge-Base Systems, Volume II	|	0.0004
+Improved Histograms for Selectivity Estimation of Range Predicates	|	0.4286
+Model-Driven Data Acquisition in Sensor Networks	|	0.3636
+The Volcano Optimizer Generator: Extensibility and Efficient Search	|	0.3333
+Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.3158
+Selectivity Estimation Without the Attribute Value Independence Assumption	|	0.3077
+Random sampling with a reservoir	|	0.2857
+Wavelet-Based Histograms for Selectivity Estimation	|	0.2500
+Query Processing in Sensor Networks	|	0.2500
+Accurate Estimation of the Number of Tuples Satisfying a Condition	|	0.2500
+An introduction to data base systems	|	0.2500
+Online Aggregation	|	0.2400
+Human behavior and the principle of least effort	|	0.2222
+Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.2105
+Approximate Query Processing Using Wavelets	|	0.2105
+Evaluating probabilistic queries over imprecise data	|	0.2000
+Randomized Algorithms for Optimizing Large Join Queries	|	0.2000
+What's hot and what's not: tracking most frequent items dynamically	|	0.2000
+GAMMA - A High Performance Dataflow Database Machine	|	0.1818
+Finding Frequent Items in Data Streams	|	0.1818
+Mariposa: A Wide-Area Distributed Database System	|	0.1667
+The cougar approach to in-network query processing in sensor networks	|	0.1667
+Efficient Algorithms for Mining Outliers from Large Data Sets	|	0.1538
+Human Behaviour and the Principle of Least Effort: an Introduction to Human Ecology	|	0.1538
+C-Store: A Column-oriented DBMS	|	0.1538
+Similarity Search in High Dimensions via Hashing	|	0.1429
+A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.1429
+The EXODUS Optimizer Generator	|	0.1429
+Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals	|	0.1333
+Query By Example	|	0.1333
+On optimizing an SQL-like nested query	|	0.1333
+Parallel database systems: the future of high performance database systems	|	0.1250
+Fast Algorithms for Mining Association Rules in Large Databases	|	0.1212
+Query Reformulation for Dynamic Information Integration	|	0.1176
+Optimizing Queries Across Diverse Data Sources	|	0.1111
+Distributed top-k monitoring	|	0.1111
+Organization and Maintenance of Large Ordered Indexes	|	0.1053
+An Introduction to Database Systems	|	0.1053
+Join processing in relational databases	|	0.1053
+Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.1000
+Parallel Database Systems: The Future of High Performance Database Processing1	|	0.1000
+Approximate Frequency Counts over Data Streams	|	0.0952
+Beyond Market Baskets: Generalizing Association Rules to Correlations	|	0.0952
+New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.0909
+Query Optimization for XML	|	0.0870
+The Gamma Database Machine Project	|	0.0870
+Fast Algorithms for Mining Association Rules	|	0.0833
+The Design of Postgres	|	0.0833
+The design of an acquisitional query processor for sensor networks	|	0.0833
+Continuously adaptive continuous queries over streams	|	0.0800
+Query Caching and Optimization in Distributed Mediator Systems	|	0.0800
+Optimizing Queries with Materialized Views	|	0.0800
+Distance browsing in spatial databases	|	0.0800
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0800
+Organization and Maintenance of Large Ordered Indices	|	0.0769
+System R: A Relational Approach to Data Base Management	|	0.0741
+Principles of Database and Knowledge-Base Systems, Volume I	|	0.0667
+An Effective Hash Based Algorithm for Mining Association Rules	|	0.0645
+System R: relational approach to database management	|	0.0625
+Logic and Databases: A Deductive Approach	|	0.0606
+Models and issues in data stream systems	|	0.0588
+The Theory of Relational Databases	|	0.0556
+Query Optimization in Database Systems	|	0.0526
+Access path selection in a relational database management system	|	0.0435
+Foundations of Databases	|	0.0274
+Query evaluation techniques for large databases	|	0.0263
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0253

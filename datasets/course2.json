@@ -4,7 +4,7 @@
     "path": "/data/uw-courses2/all",
     "sample_path": "/data/uw-courses2/sample",
     "result": "/data/uw-courses2/result",
-    "default_query": "STAT COMPUT",
+    "default_query": "INTRO PHOTO",
     "expansion_factor": 1,
     "other_nodes_count": 2,
     "v_files": [

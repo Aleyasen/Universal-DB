@@ -1,18 +1,15 @@
-Combining Fuzzy Information from Multiple Systems	|	0.5556
-Evaluating Top-k Queries over Web-Accessible Databases	|	0.3810
-Towards Heterogeneous Multimedia Information Systems: The Garlic Approach	|	0.1786
-The ObjectStore database system	|	0.1111
-Optimal Aggregation Algorithms for Middleware	|	0.0952
-Don't Scrap It, Wrap It! A Wrapper Architecture for Legacy Data Sources	|	0.0294
-Extracting Semistructured Information from the Web	|	0.0238
-Wrapper induction: Efficiency and expressiveness	|	0.0119
-Data Management for Peer-to-Peer Computing : A Vision	|	0.0103
-Optimizing Queries Across Diverse Data Sources	|	0.0103
-Schema Mapping as Query Discovery	|	0.0103
-Distributed top-k monitoring	|	0.0103
-Query-by-Example: A Data Base Language	|	0.0090
-Your Mediators Need Data Conversion!	|	0.0070
-Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.0046
-Eddies: Continuously Adaptive Query Processing	|	0.0042
-Data integration: a theoretical perspective	|	0.0030
-Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0026
+Optimal Aggregation Algorithms for Middleware	|	0.5000
+The ObjectStore database system	|	0.4000
+Don't Scrap It, Wrap It! A Wrapper Architecture for Legacy Data Sources	|	0.2000
+Extracting Semistructured Information from the Web	|	0.1818
+Wrapper induction: Efficiency and expressiveness	|	0.1333
+Data Management for Peer-to-Peer Computing : A Vision	|	0.1250
+Optimizing Queries Across Diverse Data Sources	|	0.1250
+Schema Mapping as Query Discovery	|	0.1250
+Distributed top-k monitoring	|	0.1250
+Query-by-Example: A Data Base Language	|	0.1176
+Your Mediators Need Data Conversion!	|	0.1053
+Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.0870
+Eddies: Continuously Adaptive Query Processing	|	0.0833
+Data integration: a theoretical perspective	|	0.0714
+Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0667

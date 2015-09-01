@@ -1,49 +1,48 @@
-Adding Structure to Unstructured Data	|	0.2603
-XWRAP: An XML-Enabled Wrapper Construction System for Web Information Sources	|	0.2500
-Wrapper generation for semi-structured Internet sources	|	0.2500
-Index Structures for Path Expressions	|	0.2466
-From Structured Documents to Novel Query Facilities	|	0.1757
-Semistructured data	|	0.1524
-Lore: a database management system for semistructured data	|	0.0963
-W3QS: A Query System for the World-Wide Web	|	0.0482
-SGML handbook	|	0.0323
-The Object Database Standard: ODMG-93	|	0.0323
-Containment and equivalence for an XPath fragment	|	0.0323
-From Semistructured Data to XML: Migrating the Lore Data Model and Query Language	|	0.0312
-The TSIMMIS Approach to Mediation: Data Models and Languages	|	0.0294
-A Query Language and Optimization Techniques for Unstructured Data	|	0.0214
-XRel: a path-based approach to storage and retrieval of XML documents using relational databases	|	0.0204
-Querying Object-Oriented Databases	|	0.0203
-A brief survey of web data extraction tools	|	0.0156
-Extracting Semistructured Information from the Web	|	0.0156
-Generating Finite-State Transducers for Semi-Structured Data Extraction from the Web	|	0.0156
-Accelerating XPath location steps	|	0.0156
-XRANK: ranked keyword search over XML documents	|	0.0156
-Understanding the New SQL: A Complete Guide	|	0.0156
-DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.0154
-The Lorel Query Language for Semistructured Data	|	0.0148
-Catching the boat with Strudel: experiences with a Web Site management system	|	0.0122
-TIMBER: A native XML database	|	0.0120
-Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases	|	0.0120
-Linear Hashing: A New Tool for File and Table Addressing	|	0.0120
-Extracting structured data from Web pages	|	0.0106
-Structural Joins: A Primitive for Efficient XML Query Pattern Matching	|	0.0106
-Query Optimization for XML	|	0.0101
-Database techniques for the World-Wide Web: a survey	|	0.0099
-Wrapper induction: Efficiency and expressiveness	|	0.0094
-Query Reformulation for Dynamic Information Integration	|	0.0094
-Holistic twig joins: optimal XML pattern matching	|	0.0094
-The Postgres Next Generation Database Management System	|	0.0094
-RQL: a declarative query language for RDF	|	0.0084
-A Fast Index for Semistructured Data	|	0.0084
-Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.0077
-Query-by-Example: A Data Base Language	|	0.0075
-Storing Semistructured Data with STORED	|	0.0068
-Interoperability of multiple autonomous databases	|	0.0068
-On Supporting Containment Queries in Relational Database Management Systems	|	0.0061
-Data integration: a theoretical perspective	|	0.0057
-Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.0042
-Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0039
-Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0018
-Answering queries using views: A survey	|	0.0016
-Query evaluation techniques for large databases	|	0.0004
+W3QS: A Query System for the World-Wide Web	|	0.4706
+A Query Language and Optimization Techniques for Unstructured Data	|	0.4138
+Adding Structure to Unstructured Data	|	0.3750
+From Structured Documents to Novel Query Facilities	|	0.3636
+The Lorel Query Language for Semistructured Data	|	0.3529
+DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases	|	0.2857
+Querying Object-Oriented Databases	|	0.2727
+From Semistructured Data to XML: Migrating the Lore Data Model and Query Language	|	0.2667
+Index Structures for Path Expressions	|	0.2500
+Database techniques for the World-Wide Web: a survey	|	0.2353
+SGML handbook	|	0.2222
+The Object Database Standard: ODMG-93	|	0.2222
+Containment and equivalence for an XPath fragment	|	0.2222
+The TSIMMIS Approach to Mediation: Data Models and Languages	|	0.2000
+Catching the boat with Strudel: experiences with a Web Site management system	|	0.1739
+Semistructured data	|	0.1739
+Query Optimization for XML	|	0.1600
+XRel: a path-based approach to storage and retrieval of XML documents using relational databases	|	0.1538
+Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.1429
+A brief survey of web data extraction tools	|	0.1333
+Extracting Semistructured Information from the Web	|	0.1333
+Wrapper generation for semi-structured Internet sources	|	0.1333
+Generating Finite-State Transducers for Semi-Structured Data Extraction from the Web	|	0.1333
+Accelerating XPath location steps	|	0.1333
+XRANK: ranked keyword search over XML documents	|	0.1333
+Understanding the New SQL: A Complete Guide	|	0.1333
+Lore: a database management system for semistructured data	|	0.1250
+Data integration: a theoretical perspective	|	0.1250
+TIMBER: A native XML database	|	0.1176
+Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases	|	0.1176
+Linear Hashing: A New Tool for File and Table Addressing	|	0.1176
+Extracting structured data from Web pages	|	0.1111
+Structural Joins: A Primitive for Efficient XML Query Pattern Matching	|	0.1111
+Wrapper induction: Efficiency and expressiveness	|	0.1053
+Query Reformulation for Dynamic Information Integration	|	0.1053
+Holistic twig joins: optimal XML pattern matching	|	0.1053
+The Postgres Next Generation Database Management System	|	0.1053
+RQL: a declarative query language for RDF	|	0.1000
+A Fast Index for Semistructured Data	|	0.1000
+Query-by-Example: A Data Base Language	|	0.0952
+Storing Semistructured Data with STORED	|	0.0909
+Interoperability of multiple autonomous databases	|	0.0909
+On Supporting Containment Queries in Relational Database Management Systems	|	0.0870
+Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.0741
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0714
+Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0513
+Answering queries using views: A survey	|	0.0488
+Query evaluation techniques for large databases	|	0.0256

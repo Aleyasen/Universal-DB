@@ -1,14 +1,13 @@
-Schema Mediation in Peer Data Management Systems	|	0.1415
-Answering XML Queries over Heterogeneous Data Sources	|	0.0345
-Querying the Internet with PIER	|	0.0149
-Data Management for Peer-to-Peer Computing : A Vision	|	0.0109
-Optimizing Queries Across Diverse Data Sources	|	0.0109
-Answering recursive queries using views	|	0.0109
-Interoperability of multiple autonomous databases	|	0.0083
-Piazza: data management infrastructure for semantic web applications	|	0.0083
-Complexity of answering queries using materialized views	|	0.0073
-Query Caching and Optimization in Distributed Mediator Systems	|	0.0047
-A survey of approaches to automatic schema matching	|	0.0026
-Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0026
-Answering queries using views: A survey	|	0.0017
-Foundations of Databases	|	0.0004
+Answering XML Queries over Heterogeneous Data Sources	|	0.2500
+Querying the Internet with PIER	|	0.1667
+Data Management for Peer-to-Peer Computing : A Vision	|	0.1429
+Optimizing Queries Across Diverse Data Sources	|	0.1429
+Answering recursive queries using views	|	0.1429
+Interoperability of multiple autonomous databases	|	0.1250
+Piazza: data management infrastructure for semantic web applications	|	0.1250
+Complexity of answering queries using materialized views	|	0.1176
+Query Caching and Optimization in Distributed Mediator Systems	|	0.0952
+A survey of approaches to automatic schema matching	|	0.0714
+Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0714
+Answering queries using views: A survey	|	0.0571
+Foundations of Databases	|	0.0290

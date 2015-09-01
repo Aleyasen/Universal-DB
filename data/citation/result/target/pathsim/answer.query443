@@ -1,52 +1,50 @@
-Temporal and Real-Time Databases: A Survey	|	0.0896
-SLIQ: A Fast Scalable Classifier for Data Mining	|	0.0769
-Data Mining: An Overview from a Database Perspective	|	0.0684
-Real-Time Databases	|	0.0556
-A foundation for representing and querying moving objects	|	0.0556
-Data Models	|	0.0556
-Discovering Web Access Patterns and Trends by Applying OLAP and Data Mining Technology on Web Logs	|	0.0417
-STING: A Statistical Information Grid Approach to Spatial Data Mining	|	0.0417
-SPRINT: A Scalable Parallel Classifier for Data Mining	|	0.0417
-Scheduling Real-time Transactions: a Performance Evaluation	|	0.0417
-Scheduling real-time transactions: a performance evaluation	|	0.0417
-Aggregate-Query Processing in Data Warehousing Environments	|	0.0323
-View Maintenance in a Warehousing Environment	|	0.0256
-The temporal query language TQuel	|	0.0256
-Understanding the New SQL: A Complete Guide	|	0.0256
-Efficient Mining of Association Rules Using Closed Itemset Lattices	|	0.0256
-Data-Driven Discovery of Quantitative Rules in Relational Databases	|	0.0256
-Telos: representing knowledge about information systems	|	0.0208
-On Optimistic Methods for Concurrency Control	|	0.0208
-The Implementation of Postgres	|	0.0172
-Discovering Frequent Closed Itemsets for Association Rules	|	0.0172
-3D Shape Histograms for Similarity Search and Classification in Spatial Databases	|	0.0172
-Discovery of Spatial Association Rules in Geographic Information Databases	|	0.0172
-Query By Example	|	0.0172
-Principles of transaction-oriented database recovery	|	0.0172
-Maintenance of Discovered Association Rules in Large Databases: An Incremental Updating Technique	|	0.0145
-Finding interesting rules from large sets of discovered association rules	|	0.0145
-Research problems in data warehousing	|	0.0123
-Database Description with SDM: A Semantic Database Model	|	0.0123
-Aurora: a new model and architecture for data stream management	|	0.0106
-The CQL continuous query language: semantic foundations and query execution	|	0.0106
-A Data Model and Query Language for EXODUS	|	0.0093
-Mining Sequential Patterns	|	0.0081
-Database Mining: A Performance Perspective	|	0.0081
-Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases	|	0.0064
-Database description with SDM: a semantic database model	|	0.0057
-The notions of consistency and predicate locks in a database system	|	0.0052
-Discovery of Multiple-Level Association Rules from Large Databases	|	0.0047
-An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.0047
-Mining Generalized Association Rules	|	0.0047
-Relational Completeness of Data Base Sublanguages	|	0.0047
-Fast Subsequence Matching in Time-Series Databases	|	0.0038
-Monitoring Streams - A New Class of Data Management Applications	|	0.0033
-FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets	|	0.0028
-An Effective Hash Based Algorithm for Mining Association Rules	|	0.0028
-Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0026
-Fast Algorithms for Mining Association Rules in Large Databases	|	0.0024
-Concurrency Control and Recovery in Database Systems	|	0.0020
-Efficient Similarity Search In Sequence Databases	|	0.0019
-Mining association rules between sets of items in large databases	|	0.0016
-The R*-tree: an efficient and robust access method for points and rectangles	|	0.0013
-Fast Algorithms for Mining Association Rules	|	0.0011
+SLIQ: A Fast Scalable Classifier for Data Mining	|	0.3333
+Real-Time Databases	|	0.2857
+A foundation for representing and querying moving objects	|	0.2857
+Data Models	|	0.2857
+Discovering Web Access Patterns and Trends by Applying OLAP and Data Mining Technology on Web Logs	|	0.2500
+STING: A Statistical Information Grid Approach to Spatial Data Mining	|	0.2500
+SPRINT: A Scalable Parallel Classifier for Data Mining	|	0.2500
+Scheduling Real-time Transactions: a Performance Evaluation	|	0.2500
+Scheduling real-time transactions: a performance evaluation	|	0.2500
+Aggregate-Query Processing in Data Warehousing Environments	|	0.2222
+View Maintenance in a Warehousing Environment	|	0.2000
+The temporal query language TQuel	|	0.2000
+Understanding the New SQL: A Complete Guide	|	0.2000
+Efficient Mining of Association Rules Using Closed Itemset Lattices	|	0.2000
+Data-Driven Discovery of Quantitative Rules in Relational Databases	|	0.2000
+Telos: representing knowledge about information systems	|	0.1818
+On Optimistic Methods for Concurrency Control	|	0.1818
+The Implementation of Postgres	|	0.1667
+Discovering Frequent Closed Itemsets for Association Rules	|	0.1667
+3D Shape Histograms for Similarity Search and Classification in Spatial Databases	|	0.1667
+Discovery of Spatial Association Rules in Geographic Information Databases	|	0.1667
+Query By Example	|	0.1667
+Principles of transaction-oriented database recovery	|	0.1667
+Maintenance of Discovered Association Rules in Large Databases: An Incremental Updating Technique	|	0.1538
+Finding interesting rules from large sets of discovered association rules	|	0.1538
+Research problems in data warehousing	|	0.1429
+Database Description with SDM: A Semantic Database Model	|	0.1429
+Aurora: a new model and architecture for data stream management	|	0.1333
+The CQL continuous query language: semantic foundations and query execution	|	0.1333
+A Data Model and Query Language for EXODUS	|	0.1250
+Mining Sequential Patterns	|	0.1176
+Fast Subsequence Matching in Time-Series Databases	|	0.1176
+Database Mining: A Performance Perspective	|	0.1176
+Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases	|	0.1053
+Database description with SDM: a semantic database model	|	0.1000
+The notions of consistency and predicate locks in a database system	|	0.0952
+Discovery of Multiple-Level Association Rules from Large Databases	|	0.0909
+An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.0909
+Mining Generalized Association Rules	|	0.0909
+Relational Completeness of Data Base Sublanguages	|	0.0909
+Monitoring Streams - A New Class of Data Management Applications	|	0.0769
+FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets	|	0.0714
+An Effective Hash Based Algorithm for Mining Association Rules	|	0.0714
+Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0690
+Fast Algorithms for Mining Association Rules in Large Databases	|	0.0667
+Concurrency Control and Recovery in Database Systems	|	0.0606
+Efficient Similarity Search In Sequence Databases	|	0.0588
+Mining association rules between sets of items in large databases	|	0.0541
+The R*-tree: an efficient and robust access method for points and rectangles	|	0.0488
+Fast Algorithms for Mining Association Rules	|	0.0444

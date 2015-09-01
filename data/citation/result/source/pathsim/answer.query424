@@ -1,20 +1,20 @@
-The theory of joins in relational databases	|	0.5000
-Dependency Structures of Data Base Relationships	|	0.4000
-An introduction to data base systems	|	0.3333
-Testing implications of data dependencies	|	0.3333
-Computational problems related to the design of normal form relational schemas	|	0.3077
-Further Normalization of the Data Base Relational Model	|	0.2857
-A logical design methodology for relational databases using the extended entity-relationship model	|	0.2500
-Synthesizing third normal form relations from functional dependencies	|	0.2500
-An Introduction to Database Systems	|	0.2353
-Remarks on the algebra of non first normal form relations	|	0.2222
-Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.2105
-The Theory of Relational Databases	|	0.1765
-Efficiently Publishing Relational Data as XML Documents	|	0.1250
-Semantic data models	|	0.0870
-Foundations of Databases	|	0.0845
-Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.0833
-Principles of Database and Knowledge-Base Systems, Volume II	|	0.0779
-A comparative analysis of methodologies for database schema integration	|	0.0690
-Extending the database relational model to capture more meaning	|	0.0690
-Logic and Databases: A Deductive Approach	|	0.0645
+Computational problems related to the design of normal form relational schemas	|	0.2459
+Synthesizing third normal form relations from functional dependencies	|	0.1856
+Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.1479
+The theory of joins in relational databases	|	0.0952
+An introduction to data base systems	|	0.0833
+Testing implications of data dependencies	|	0.0833
+Remarks on the algebra of non first normal form relations	|	0.0370
+Dependency Structures of Data Base Relationships	|	0.0357
+A logical design methodology for relational databases using the extended entity-relationship model	|	0.0206
+An Introduction to Database Systems	|	0.0180
+Further Normalization of the Data Base Relational Model	|	0.0169
+Efficiently Publishing Relational Data as XML Documents	|	0.0103
+The Theory of Relational Databases	|	0.0060
+Semantic data models	|	0.0046
+Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.0042
+A comparative analysis of methodologies for database schema integration	|	0.0028
+Extending the database relational model to capture more meaning	|	0.0028
+Logic and Databases: A Deductive Approach	|	0.0024
+Foundations of Databases	|	0.0013
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0011

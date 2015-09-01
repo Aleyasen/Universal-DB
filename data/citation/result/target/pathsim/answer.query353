@@ -1,57 +1,56 @@
-Scheduling Real-time Transactions: a Performance Evaluation	|	0.3611
-The HiPAC project: combining active databases and timing constraints	|	0.3333
-The notions of consistency and predicate locks in a database system	|	0.1317
-Scheduling real-time transactions: a performance evaluation	|	0.1111
-Temporal and Real-Time Databases: A Survey	|	0.1065
-Concurrency Control and Recovery in Database Systems	|	0.0744
-Impossibility of Distributed Consensus with One Faulty Process	|	0.0625
-Introduction to Object-Oriented Databases	|	0.0556
-Middleware: a model for distributed system services	|	0.0556
-The serializability of concurrent database updates	|	0.0556
-Consistency in Partitioned Networks	|	0.0476
-A Majority consensus approach to concurrency control for multiple copy databases	|	0.0465
-Principles of transaction-oriented database recovery	|	0.0429
-Using Semantic Knowledge for Transaction Processing in Distributed Database	|	0.0429
-A principle for resilient sharing of distributed resources	|	0.0400
-A Critique of ANSI SQL Isolation Levels	|	0.0392
-Ode as an Active Database: Constraints and Triggers	|	0.0370
-Composite Event Specification in Active Databases: Model & Implementation	|	0.0333
-On Optimistic Methods for Concurrency Control	|	0.0333
-The Dangers of Replication and a Solution	|	0.0333
-Nonblocking commit protocols	|	0.0333
-The Theory of Database Concurrency Control	|	0.0333
-Distributed Databases: Principles and Systems	|	0.0333
-Concurrency control in advanced database applications	|	0.0333
-A foundation for representing and querying moving objects	|	0.0333
-Data Models	|	0.0333
-The Recovery Manager of the System R Database Manager	|	0.0286
-An adaptive data replication algorithm	|	0.0233
-The temporal query language TQuel	|	0.0196
-Understanding the New SQL: A Complete Guide	|	0.0196
-Concurrency control performance modeling: alternatives and implications	|	0.0196
-Telos: representing knowledge about information systems	|	0.0167
-Concurrency Control in Distributed Database Systems	|	0.0167
-Principles of database buffer management	|	0.0167
-ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging	|	0.0167
-The Implementation of Postgres	|	0.0143
-Query By Example	|	0.0143
-Operating system support for database management	|	0.0143
-A Relational Model for Large Shared Data Banks	|	0.0143
-Efficient locking for concurrent operations on B-trees	|	0.0123
-Database Description with SDM: A Semantic Database Model	|	0.0108
-Principles of Database Systems, 2nd Edition	|	0.0094
-Aurora: a new model and architecture for data stream management	|	0.0094
-The CQL continuous query language: semantic foundations and query execution	|	0.0094
-A Data Model and Query Language for EXODUS	|	0.0083
-Notes on Data Base Operating Systems	|	0.0066
-Database description with SDM: a semantic database model	|	0.0054
-The Design of Postgres	|	0.0049
-Relational Completeness of Data Base Sublanguages	|	0.0044
-Organization and Maintenance of Large Ordered Indices	|	0.0041
-The Ubiquitous B-Tree	|	0.0041
-Monitoring Streams - A New Class of Data Management Applications	|	0.0032
-Fast Subsequence Matching in Time-Series Databases	|	0.0018
-Query Optimization in Database Systems	|	0.0017
-Principles of Database and Knowledge-Base Systems, Volume II	|	0.0007
-Foundations of Databases	|	0.0004
-Query evaluation techniques for large databases	|	0.0004
+Scheduling real-time transactions: a performance evaluation	|	0.7273
+Principles of transaction-oriented database recovery	|	0.4000
+Using Semantic Knowledge for Transaction Processing in Distributed Database	|	0.4000
+Ode as an Active Database: Constraints and Triggers	|	0.3750
+Scheduling Real-time Transactions: a Performance Evaluation	|	0.3636
+The serializability of concurrent database updates	|	0.3636
+Impossibility of Distributed Consensus with One Faulty Process	|	0.3333
+A Majority consensus approach to concurrency control for multiple copy databases	|	0.3333
+A Critique of ANSI SQL Isolation Levels	|	0.3077
+On Optimistic Methods for Concurrency Control	|	0.2857
+Introduction to Object-Oriented Databases	|	0.2857
+Middleware: a model for distributed system services	|	0.2857
+Concurrency control in advanced database applications	|	0.2857
+The Recovery Manager of the System R Database Manager	|	0.2667
+The notions of consistency and predicate locks in a database system	|	0.2500
+Consistency in Partitioned Networks	|	0.2500
+A principle for resilient sharing of distributed resources	|	0.2222
+Temporal and Real-Time Databases: A Survey	|	0.2143
+Concurrency Control in Distributed Database Systems	|	0.2105
+Composite Event Specification in Active Databases: Model & Implementation	|	0.2000
+The Dangers of Replication and a Solution	|	0.2000
+Nonblocking commit protocols	|	0.2000
+The Theory of Database Concurrency Control	|	0.2000
+Distributed Databases: Principles and Systems	|	0.2000
+A foundation for representing and querying moving objects	|	0.2000
+Data Models	|	0.2000
+An adaptive data replication algorithm	|	0.1667
+The temporal query language TQuel	|	0.1538
+Understanding the New SQL: A Complete Guide	|	0.1538
+Concurrency control performance modeling: alternatives and implications	|	0.1538
+Telos: representing knowledge about information systems	|	0.1429
+Principles of database buffer management	|	0.1429
+ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging	|	0.1429
+The Implementation of Postgres	|	0.1333
+Query By Example	|	0.1333
+Operating system support for database management	|	0.1333
+A Relational Model for Large Shared Data Banks	|	0.1333
+Efficient locking for concurrent operations on B-trees	|	0.1250
+Database Description with SDM: A Semantic Database Model	|	0.1176
+Concurrency Control and Recovery in Database Systems	|	0.1111
+Principles of Database Systems, 2nd Edition	|	0.1111
+Aurora: a new model and architecture for data stream management	|	0.1111
+The CQL continuous query language: semantic foundations and query execution	|	0.1111
+A Data Model and Query Language for EXODUS	|	0.1053
+Notes on Data Base Operating Systems	|	0.0952
+Database description with SDM: a semantic database model	|	0.0870
+The Design of Postgres	|	0.0833
+Relational Completeness of Data Base Sublanguages	|	0.0800
+Organization and Maintenance of Large Ordered Indices	|	0.0769
+The Ubiquitous B-Tree	|	0.0769
+Monitoring Streams - A New Class of Data Management Applications	|	0.0690
+Fast Subsequence Matching in Time-Series Databases	|	0.0541
+Query Optimization in Database Systems	|	0.0526
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0506
+Foundations of Databases	|	0.0274
+Query evaluation techniques for large databases	|	0.0263

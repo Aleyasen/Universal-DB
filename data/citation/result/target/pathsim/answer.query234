@@ -1,127 +1,126 @@
-Towards Sensor Database Systems	|	0.1313
-Aurora: a new model and architecture for data stream management	|	0.1211
-TinyDB: an acquisitional query processing system for sensor networks	|	0.1199
-The cougar approach to in-network query processing in sensor networks	|	0.1197
-Query Processing, Resource Management, and Approximation in a Data Stream Management System	|	0.1197
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.1179
-Querying the Internet with PIER	|	0.1178
-The Design of the Borealis Stream Processing Engine	|	0.1178
-Continuously adaptive continuous queries over streams	|	0.1156
-An Adaptive Query Execution System for Data Integration	|	0.1147
-The design of an acquisitional query processor for sensor networks	|	0.1140
-Optimizing Queries Across Diverse Data Sources	|	0.1118
-Parallel Database Systems: The Future of High Performance Database Processing1	|	0.1083
-Issues in data stream management	|	0.1066
-Evaluating Top-k Queries over Web-Accessible Databases	|	0.1057
-The Gamma Database Machine Project	|	0.1020
-Continuous queries over data streams	|	0.1017
-Monitoring Streams - A New Class of Data Management Applications	|	0.1017
-Query Caching and Optimization in Distributed Mediator Systems	|	0.0975
-The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0888
-Models and issues in data stream systems	|	0.0856
-Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.0236
-NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0207
-Adaptive filters for continuous queries over distributed data streams	|	0.0187
-Online Aggregation	|	0.0159
-Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0152
-Scalable Distributed Stream Processing	|	0.0150
-Approximate Query Processing Using Wavelets	|	0.0149
-Multiple-query optimization	|	0.0130
-TelegraphCQ: Continuous Dataflow Processing for an Uncertain World	|	0.0127
-Distributed top-k monitoring	|	0.0124
-The CQL continuous query language: semantic foundations and query execution	|	0.0124
-Load Shedding in a Data Stream Manager	|	0.0116
-Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.0109
-Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0099
-Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.0089
-Schema Mediation in Peer Data Management Systems	|	0.0089
-Gigascope: a stream database for network applications	|	0.0084
-The state of the art in distributed query processing	|	0.0083
-Catching the boat with Strudel: experiences with a Web Site management system	|	0.0082
-Composite Events for Active Databases: Semantics, Contexts and Detection	|	0.0081
-Principles of distributed database systems	|	0.0081
-Maintaining Stream Statistics over Sliding Windows	|	0.0081
-Mariposa: A Wide-Area Distributed Database System	|	0.0077
-Routing Indices For Peer-to-Peer Systems	|	0.0077
-Answering XML Queries over Heterogeneous Data Sources	|	0.0077
-Approximate Aggregation Techniques for Sensor Databases	|	0.0077
-StatStream: Statistical Monitoring of Thousands of Data Streams in Real Time	|	0.0075
-Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.0075
-A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.0072
-The Case for Shared Nothing	|	0.0072
-Active database systems	|	0.0072
-Random sampling with a reservoir	|	0.0072
-Extracting structured data from Web pages	|	0.0067
-Data Placement In Bubba	|	0.0067
-Parallel database systems: the future of high performance database systems	|	0.0067
-Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0066
-Wrapper induction: Efficiency and expressiveness	|	0.0065
-The Postgres Next Generation Database Management System	|	0.0065
-Data Management for Peer-to-Peer Computing : A Vision	|	0.0062
-Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0060
-Access path selection in a relational database management system	|	0.0055
-Database techniques for the World-Wide Web: a survey	|	0.0049
-Mediators in the Architecture of Future Information Systems	|	0.0048
-Staggered Striping in Multimedia Information Systems	|	0.0042
-Query Processing in Sensor Networks	|	0.0042
-Optimal aggregation algorithms for middleware	|	0.0042
-A framework for clustering evolving data streams	|	0.0041
-Complex Queries in DHT-based Peer-to-Peer Networks	|	0.0041
-Optimal Histograms with Quality Guarantees	|	0.0041
-A hierarchical approach to wrapper induction	|	0.0041
-An Improved Data Stream Summary: The Count-Min Sketch and Its Applications	|	0.0041
-The Dangers of Replication and a Solution	|	0.0041
-Principles of Distributed Database Systems	|	0.0041
-Optimal Aggregation Algorithms for Middleware	|	0.0041
-Objects and Views	|	0.0040
-SPRINT: A Scalable Parallel Classifier for Data Mining	|	0.0040
-Model-Driven Data Acquisition in Sensor Networks	|	0.0040
-Finding Frequent Items in Data Streams	|	0.0040
-Wrapper Induction for Information Extraction	|	0.0040
-Temporal and Real-Time Databases: A Survey	|	0.0039
-Information sharing across private databases	|	0.0039
-An adaptive data replication algorithm	|	0.0039
-Disk Striping	|	0.0039
-Don't Scrap It, Wrap It! A Wrapper Architecture for Legacy Data Sources	|	0.0039
-Typechecking for XML transformers	|	0.0037
-Extracting Semistructured Information from the Web	|	0.0037
-Answering Queries Using Templates with Binding Patterns	|	0.0037
-C-Store: A Column-oriented DBMS	|	0.0037
-Bigtable: A Distributed Storage System for Structured Data	|	0.0037
-Super-peer-based routing and clustering strategies for RDF-based peer-to-peer networks	|	0.0036
-A Taxonomy of Time in Databases	|	0.0036
-ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging	|	0.0036
-Extended algebra and calculus for nested relational databases	|	0.0035
-Path sharing and predicate evaluation for high-performance XML filtering	|	0.0035
-Benchmarking Database Systems A Systematic Approach	|	0.0034
-OBSERVER: An Approach for Query Processing in Global Information Systems Based on Interoperation Across Pre-Existing Ontologies	|	0.0034
-Maintaining Views Incrementally	|	0.0034
-Wavelet-Based Histograms for Selectivity Estimation	|	0.0034
-Notes on database operating systems	|	0.0034
-Research problems in data warehousing	|	0.0032
-Query Reformulation for Dynamic Information Integration	|	0.0032
-Towards Heterogeneous Multimedia Information Systems: The Garlic Approach	|	0.0032
-View Definition and Generalization for Database Integration in a Multidatabase System	|	0.0032
-Join processing in relational databases	|	0.0030
-Querying Object-Oriented Databases	|	0.0028
-Interoperability of multiple autonomous databases	|	0.0028
-Approximate Frequency Counts over Data Streams	|	0.0027
-Your Mediators Need Data Conversion!	|	0.0027
-Notes on Data Base Operating Systems	|	0.0027
-Fast Subsequence Matching in Time-Series Databases	|	0.0026
-Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.0026
-An overview of data warehousing and OLAP technology	|	0.0025
-Answering queries using views: A survey	|	0.0024
-Optimizing Queries with Materialized Views	|	0.0023
-Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.0023
-An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.0023
-Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0023
-Query evaluation techniques for large databases	|	0.0022
-System R: A Relational Approach to Data Base Management	|	0.0021
-Data integration: a theoretical perspective	|	0.0018
-Principles of Database and Knowledge-Base Systems, Volume I	|	0.0018
-A comparative analysis of methodologies for database schema integration	|	0.0017
-System R: relational approach to database management	|	0.0016
-Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0013
-Query Optimization in Database Systems	|	0.0013
-Principles of Database and Knowledge-Base Systems, Volume II	|	0.0003
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.5366
+An Adaptive Query Execution System for Data Integration	|	0.5238
+Continuously adaptive continuous queries over streams	|	0.4878
+NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.4651
+Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.4375
+Towards Sensor Database Systems	|	0.4286
+Monitoring Streams - A New Class of Data Management Applications	|	0.4000
+The design of an acquisitional query processor for sensor networks	|	0.4000
+TinyDB: an acquisitional query processing system for sensor networks	|	0.3784
+Adaptive filters for continuous queries over distributed data streams	|	0.3448
+Online Aggregation	|	0.3415
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.3333
+Aurora: a new model and architecture for data stream management	|	0.2941
+Issues in data stream management	|	0.2927
+Approximate Query Processing Using Wavelets	|	0.2857
+Models and issues in data stream systems	|	0.2800
+Scalable Distributed Stream Processing	|	0.2759
+Multiple-query optimization	|	0.2632
+TelegraphCQ: Continuous Dataflow Processing for an Uncertain World	|	0.2500
+Continuous queries over data streams	|	0.2381
+Distributed top-k monitoring	|	0.2353
+The CQL continuous query language: semantic foundations and query execution	|	0.2353
+Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.2273
+Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.2162
+The cougar approach to in-network query processing in sensor networks	|	0.2143
+Load Shedding in a Data Stream Manager	|	0.2143
+Query Processing, Resource Management, and Approximation in a Data Stream Management System	|	0.2143
+Access path selection in a relational database management system	|	0.1935
+Querying the Internet with PIER	|	0.1875
+The Design of the Borealis Stream Processing Engine	|	0.1875
+Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.1714
+Schema Mediation in Peer Data Management Systems	|	0.1714
+Querying Heterogeneous Information Sources Using Source Descriptions	|	0.1667
+Gigascope: a stream database for network applications	|	0.1667
+Catching the boat with Strudel: experiences with a Web Site management system	|	0.1622
+The state of the art in distributed query processing	|	0.1600
+Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.1538
+Composite Events for Active Databases: Semantics, Contexts and Detection	|	0.1538
+Principles of distributed database systems	|	0.1538
+Maintaining Stream Statistics over Sliding Windows	|	0.1538
+Mariposa: A Wide-Area Distributed Database System	|	0.1429
+Routing Indices For Peer-to-Peer Systems	|	0.1429
+Answering XML Queries over Heterogeneous Data Sources	|	0.1429
+Approximate Aggregation Techniques for Sensor Databases	|	0.1429
+StatStream: Statistical Monitoring of Thousands of Data Streams in Real Time	|	0.1379
+A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.1333
+The Case for Shared Nothing	|	0.1333
+Active database systems	|	0.1333
+Random sampling with a reservoir	|	0.1333
+Query evaluation techniques for large databases	|	0.1304
+Database techniques for the World-Wide Web: a survey	|	0.1250
+Extracting structured data from Web pages	|	0.1250
+Data Placement In Bubba	|	0.1250
+Parallel database systems: the future of high performance database systems	|	0.1250
+Wrapper induction: Efficiency and expressiveness	|	0.1212
+The Postgres Next Generation Database Management System	|	0.1212
+Data Management for Peer-to-Peer Computing : A Vision	|	0.1176
+Optimizing Queries Across Diverse Data Sources	|	0.1176
+Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.1143
+Parallel Database Systems: The Future of High Performance Database Processing1	|	0.1111
+The Gamma Database Machine Project	|	0.1026
+Mediators in the Architecture of Future Information Systems	|	0.1000
+Query Caching and Optimization in Distributed Mediator Systems	|	0.0976
+Temporal and Real-Time Databases: A Survey	|	0.0909
+Staggered Striping in Multimedia Information Systems	|	0.0833
+Query Processing in Sensor Networks	|	0.0833
+Optimal aggregation algorithms for middleware	|	0.0833
+A framework for clustering evolving data streams	|	0.0800
+Complex Queries in DHT-based Peer-to-Peer Networks	|	0.0769
+Optimal Histograms with Quality Guarantees	|	0.0769
+A hierarchical approach to wrapper induction	|	0.0769
+An Improved Data Stream Summary: The Count-Min Sketch and Its Applications	|	0.0769
+The Dangers of Replication and a Solution	|	0.0769
+Principles of Distributed Database Systems	|	0.0769
+Optimal Aggregation Algorithms for Middleware	|	0.0769
+Fast Subsequence Matching in Time-Series Databases	|	0.0755
+Objects and Views	|	0.0741
+SPRINT: A Scalable Parallel Classifier for Data Mining	|	0.0741
+Model-Driven Data Acquisition in Sensor Networks	|	0.0741
+Finding Frequent Items in Data Streams	|	0.0741
+Wrapper Induction for Information Extraction	|	0.0741
+Answering queries using views: A survey	|	0.0727
+Information sharing across private databases	|	0.0714
+An adaptive data replication algorithm	|	0.0714
+Disk Striping	|	0.0714
+Don't Scrap It, Wrap It! A Wrapper Architecture for Legacy Data Sources	|	0.0714
+Typechecking for XML transformers	|	0.0690
+Extracting Semistructured Information from the Web	|	0.0690
+Answering Queries Using Templates with Binding Patterns	|	0.0690
+C-Store: A Column-oriented DBMS	|	0.0690
+Bigtable: A Distributed Storage System for Structured Data	|	0.0690
+Super-peer-based routing and clustering strategies for RDF-based peer-to-peer networks	|	0.0667
+A Taxonomy of Time in Databases	|	0.0667
+ARIES: a transaction recovery method supporting fine-granularity locking and partial rollbacks using write-ahead logging	|	0.0667
+Extended algebra and calculus for nested relational databases	|	0.0645
+Path sharing and predicate evaluation for high-performance XML filtering	|	0.0645
+Benchmarking Database Systems A Systematic Approach	|	0.0625
+OBSERVER: An Approach for Query Processing in Global Information Systems Based on Interoperation Across Pre-Existing Ontologies	|	0.0625
+Maintaining Views Incrementally	|	0.0625
+Wavelet-Based Histograms for Selectivity Estimation	|	0.0625
+Notes on database operating systems	|	0.0625
+Research problems in data warehousing	|	0.0606
+Query Reformulation for Dynamic Information Integration	|	0.0606
+Towards Heterogeneous Multimedia Information Systems: The Garlic Approach	|	0.0606
+View Definition and Generalization for Database Integration in a Multidatabase System	|	0.0606
+Join processing in relational databases	|	0.0571
+Querying Object-Oriented Databases	|	0.0556
+Interoperability of multiple autonomous databases	|	0.0556
+Approximate Frequency Counts over Data Streams	|	0.0541
+Your Mediators Need Data Conversion!	|	0.0541
+Notes on Data Base Operating Systems	|	0.0541
+Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.0526
+An overview of data warehousing and OLAP technology	|	0.0513
+Optimizing Queries with Materialized Views	|	0.0488
+Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.0488
+An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.0488
+Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0488
+System R: A Relational Approach to Data Base Management	|	0.0465
+The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0455
+Data integration: a theoretical perspective	|	0.0435
+Principles of Database and Knowledge-Base Systems, Volume I	|	0.0435
+A comparative analysis of methodologies for database schema integration	|	0.0426
+System R: relational approach to database management	|	0.0417
+Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0377
+Query Optimization in Database Systems	|	0.0370
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0211

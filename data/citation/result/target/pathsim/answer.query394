@@ -1,57 +1,56 @@
-On closed world databases	|	0.4000
-A Relational Model for Large Shared Data Banks	|	0.2143
-Relational Completeness of Data Base Sublanguages	|	0.1156
-Optimal implementation of conjunctive queries in relational data bases	|	0.1045
-Extending the database relational model to capture more meaning	|	0.0874
-SEQUEL: A structured English query language	|	0.0556
-Containment and equivalence for an XPath fragment	|	0.0556
-The complexity of relational query languages (Extended Abstract)	|	0.0392
-On the decidability of query containment under constraints	|	0.0333
-Modeling Multidimensional Databases	|	0.0333
-Database Security	|	0.0333
-Using Semi-Joins to Solve Relational Queries	|	0.0333
-The theory of joins in relational databases	|	0.0333
-Universality of data retrieval languages	|	0.0323
-Query By Example	|	0.0286
-On Closed World Data Bases	|	0.0278
-F-Logic: A Higher-Order language for Reasoning about Objects, Inheritance, and Scheme	|	0.0278
-Data exchange: semantics and query answering	|	0.0278
-Answering Queries Using Templates with Binding Patterns	|	0.0196
-The temporal query language TQuel	|	0.0196
-Computable Queries for Relational Data Bases	|	0.0196
-A Taxonomy of Time in Databases	|	0.0167
-Join processing in relational databases	|	0.0167
-Further Normalization of the Data Base Relational Model	|	0.0161
-On optimizing an SQL-like nested query	|	0.0143
-Extended algebra and calculus for nested relational databases	|	0.0143
-Development of an object-oriented DBMS	|	0.0123
-Database Description with SDM: A Semantic Database Model	|	0.0108
-View Definition and Generalization for Database Integration in a Multidatabase System	|	0.0108
-Logic and Databases: A Deductive Approach	|	0.0095
-Answering recursive queries using views	|	0.0094
-Making Smalltalk a Database System	|	0.0094
-A logical design methodology for relational databases using the extended entity-relationship model	|	0.0094
-A Data Model and Query Language for EXODUS	|	0.0083
-Join indices	|	0.0083
-Query-by-Example: A Data Base Language	|	0.0083
-System R: A Relational Approach to Data Base Management	|	0.0075
-IFO: a formal semantic database model	|	0.0074
-A language facility for designing database-intensive applications	|	0.0074
-Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.0066
-Complexity of answering queries using materialized views	|	0.0066
-Object identity	|	0.0060
-Data integration: a theoretical perspective	|	0.0059
-The Theory of Relational Databases	|	0.0059
-Types and persistence in database programming languages	|	0.0055
-Database description with SDM: a semantic database model	|	0.0054
-System R: relational approach to database management	|	0.0051
-The notions of consistency and predicate locks in a database system	|	0.0049
-Optimizing Queries with Materialized Views	|	0.0044
-Semantic data models	|	0.0044
-Database abstractions: aggregation and generalization	|	0.0044
-Query Optimization in Database Systems	|	0.0035
-Temporal and Real-Time Databases: A Survey	|	0.0034
-Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0025
-Answering queries using views: A survey	|	0.0016
-Principles of Database and Knowledge-Base Systems, Volume II	|	0.0011
-Foundations of Databases	|	0.0008
+Universality of data retrieval languages	|	0.3529
+The complexity of relational query languages (Extended Abstract)	|	0.3077
+SEQUEL: A structured English query language	|	0.2857
+Using Semi-Joins to Solve Relational Queries	|	0.2857
+Containment and equivalence for an XPath fragment	|	0.2857
+Query By Example	|	0.2667
+Further Normalization of the Data Base Relational Model	|	0.2609
+Logic and Databases: A Deductive Approach	|	0.2424
+On closed world databases	|	0.2222
+Join processing in relational databases	|	0.2105
+On the decidability of query containment under constraints	|	0.2000
+Modeling Multidimensional Databases	|	0.2000
+Database Security	|	0.2000
+The theory of joins in relational databases	|	0.2000
+On Closed World Data Bases	|	0.1818
+F-Logic: A Higher-Order language for Reasoning about Objects, Inheritance, and Scheme	|	0.1818
+Data exchange: semantics and query answering	|	0.1818
+The Theory of Relational Databases	|	0.1667
+Answering Queries Using Templates with Binding Patterns	|	0.1538
+The temporal query language TQuel	|	0.1538
+Computable Queries for Relational Data Bases	|	0.1538
+System R: A Relational Approach to Data Base Management	|	0.1481
+A Taxonomy of Time in Databases	|	0.1429
+Data integration: a theoretical perspective	|	0.1333
+On optimizing an SQL-like nested query	|	0.1333
+Extended algebra and calculus for nested relational databases	|	0.1333
+Types and persistence in database programming languages	|	0.1290
+Development of an object-oriented DBMS	|	0.1250
+System R: relational approach to database management	|	0.1250
+Database Description with SDM: A Semantic Database Model	|	0.1176
+View Definition and Generalization for Database Integration in a Multidatabase System	|	0.1176
+Answering recursive queries using views	|	0.1111
+Making Smalltalk a Database System	|	0.1111
+A logical design methodology for relational databases using the extended entity-relationship model	|	0.1111
+A Data Model and Query Language for EXODUS	|	0.1053
+Query Optimization in Database Systems	|	0.1053
+Join indices	|	0.1053
+Query-by-Example: A Data Base Language	|	0.1053
+IFO: a formal semantic database model	|	0.1000
+A language facility for designing database-intensive applications	|	0.1000
+Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.0952
+Complexity of answering queries using materialized views	|	0.0952
+Object identity	|	0.0909
+Database description with SDM: a semantic database model	|	0.0870
+The notions of consistency and predicate locks in a database system	|	0.0833
+Optimizing Queries with Materialized Views	|	0.0800
+Semantic data models	|	0.0800
+Database abstractions: aggregation and generalization	|	0.0800
+Relational Completeness of Data Base Sublanguages	|	0.0800
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0759
+Optimal implementation of conjunctive queries in relational data bases	|	0.0741
+Temporal and Real-Time Databases: A Survey	|	0.0714
+Extending the database relational model to capture more meaning	|	0.0645
+Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0625
+Foundations of Databases	|	0.0548
+Answering queries using views: A survey	|	0.0513

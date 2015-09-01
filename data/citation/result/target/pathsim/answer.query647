@@ -1,29 +1,28 @@
-Model-Driven Data Acquisition in Sensor Networks	|	0.3704
-Approximate Aggregation Techniques for Sensor Databases	|	0.3235
-Issues in data stream management	|	0.1065
-Evaluating probabilistic queries over imprecise data	|	0.0476
-Probabilistic Counting Algorithms for Data Base Applications	|	0.0476
-Maintaining Stream Statistics over Sliding Windows	|	0.0476
-Finding Frequent Items in Data Streams	|	0.0370
-The cougar approach to in-network query processing in sensor networks	|	0.0294
-Towards Sensor Database Systems	|	0.0294
-Load Shedding in a Data Stream Manager	|	0.0294
-Scalable Distributed Stream Processing	|	0.0238
-StatStream: Statistical Monitoring of Thousands of Data Streams in Real Time	|	0.0238
-Adaptive filters for continuous queries over distributed data streams	|	0.0238
-Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals	|	0.0164
-The design of an acquisitional query processor for sensor networks	|	0.0153
-Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.0139
-The CQL continuous query language: semantic foundations and query execution	|	0.0103
-Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.0090
-Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.0079
-Approximate Frequency Counts over Data Streams	|	0.0070
-New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.0063
-Online Aggregation	|	0.0046
-Continuously adaptive continuous queries over streams	|	0.0046
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0046
-Eddies: Continuously Adaptive Query Processing	|	0.0042
-Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0042
-NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0039
-Monitoring Streams - A New Class of Data Management Applications	|	0.0033
-Models and issues in data stream systems	|	0.0023
+The design of an acquisitional query processor for sensor networks	|	0.2727
+Evaluating probabilistic queries over imprecise data	|	0.2500
+Probabilistic Counting Algorithms for Data Base Applications	|	0.2500
+Maintaining Stream Statistics over Sliding Windows	|	0.2500
+Model-Driven Data Acquisition in Sensor Networks	|	0.2222
+Finding Frequent Items in Data Streams	|	0.2222
+The cougar approach to in-network query processing in sensor networks	|	0.2000
+Towards Sensor Database Systems	|	0.2000
+Approximate Aggregation Techniques for Sensor Databases	|	0.2000
+Load Shedding in a Data Stream Manager	|	0.2000
+Scalable Distributed Stream Processing	|	0.1818
+StatStream: Statistical Monitoring of Thousands of Data Streams in Real Time	|	0.1818
+Adaptive filters for continuous queries over distributed data streams	|	0.1818
+Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals	|	0.1538
+Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.1429
+The CQL continuous query language: semantic foundations and query execution	|	0.1250
+Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.1176
+Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.1111
+Approximate Frequency Counts over Data Streams	|	0.1053
+New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.1000
+Online Aggregation	|	0.0870
+Continuously adaptive continuous queries over streams	|	0.0870
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0870
+Eddies: Continuously Adaptive Query Processing	|	0.0833
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0833
+NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0800
+Monitoring Streams - A New Class of Data Management Applications	|	0.0741
+Models and issues in data stream systems	|	0.0625

@@ -1,41 +1,41 @@
-SPRINT: A Scalable Parallel Classifier for Data Mining	|	0.4194
-Enhanced hypertext categorization using hyperlinks	|	0.4000
-Database Mining: A Performance Perspective	|	0.1615
-Introduction to Object-Oriented Databases	|	0.0769
-Data Mining: An Overview from a Database Perspective	|	0.0758
-Focused Crawling: A New Approach to Topic-Specific Web Resource Discovery	|	0.0500
-Discovering Web Access Patterns and Trends by Applying OLAP and Data Mining Technology on Web Logs	|	0.0323
-STING: A Statistical Information Grid Approach to Spatial Data Mining	|	0.0323
-Aggregate-Query Processing in Data Warehousing Environments	|	0.0263
-View Maintenance in a Warehousing Environment	|	0.0217
-Efficient Mining of Association Rules Using Closed Itemset Lattices	|	0.0217
-Data-Driven Discovery of Quantitative Rules in Relational Databases	|	0.0217
-Discovering Frequent Closed Itemsets for Association Rules	|	0.0154
-3D Shape Histograms for Similarity Search and Classification in Spatial Databases	|	0.0154
-Discovery of Spatial Association Rules in Geographic Information Databases	|	0.0154
-Constraint-Based Rule Mining in Large, Dense Databases	|	0.0154
-Maintenance of Discovered Association Rules in Large Databases: An Incremental Updating Technique	|	0.0132
-Finding interesting rules from large sets of discovered association rules	|	0.0132
-Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases	|	0.0123
-Research problems in data warehousing	|	0.0114
-Principles of database and knowledge-base systems	|	0.0114
-Discovery of Multiple-Level Association Rules from Large Databases	|	0.0091
-Learning to match ontologies on the Semantic Web	|	0.0087
-Mining Sequential Patterns	|	0.0077
-Learning to map between ontologies on the semantic web	|	0.0077
-Knowledge Discovery in Databases: An Attribute-Oriented Approach	|	0.0068
-Beyond Market Baskets: Generalizing Association Rules to Correlations	|	0.0068
-The Gamma Database Machine Project	|	0.0055
-Fast Algorithms for Mining Association Rules in Large Databases	|	0.0048
-Fast Time Sequence Indexing for Arbitrary Lp Norms	|	0.0045
-An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.0045
-Mining Generalized Association Rules	|	0.0045
-Efficient Similarity Search In Sequence Databases	|	0.0037
-Fast Subsequence Matching in Time-Series Databases	|	0.0037
-Mining association rules between sets of items in large databases	|	0.0031
-Principles of Database and Knowledge-Base Systems, Volume I	|	0.0030
-FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets	|	0.0028
-An Effective Hash Based Algorithm for Mining Association Rules	|	0.0028
-Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0026
-Fast Algorithms for Mining Association Rules	|	0.0021
-The R*-tree: an efficient and robust access method for points and rectangles	|	0.0013
+SPRINT: A Scalable Parallel Classifier for Data Mining	|	0.6000
+Introduction to Object-Oriented Databases	|	0.3333
+Focused Crawling: A New Approach to Topic-Specific Web Resource Discovery	|	0.2500
+Enhanced hypertext categorization using hyperlinks	|	0.2222
+Database Mining: A Performance Perspective	|	0.2105
+Discovering Web Access Patterns and Trends by Applying OLAP and Data Mining Technology on Web Logs	|	0.2000
+STING: A Statistical Information Grid Approach to Spatial Data Mining	|	0.2000
+Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases	|	0.1905
+Aggregate-Query Processing in Data Warehousing Environments	|	0.1818
+View Maintenance in a Warehousing Environment	|	0.1667
+Discovery of Multiple-Level Association Rules from Large Databases	|	0.1667
+Efficient Mining of Association Rules Using Closed Itemset Lattices	|	0.1667
+Data-Driven Discovery of Quantitative Rules in Relational Databases	|	0.1667
+Discovering Frequent Closed Itemsets for Association Rules	|	0.1429
+3D Shape Histograms for Similarity Search and Classification in Spatial Databases	|	0.1429
+Discovery of Spatial Association Rules in Geographic Information Databases	|	0.1429
+Constraint-Based Rule Mining in Large, Dense Databases	|	0.1429
+Maintenance of Discovered Association Rules in Large Databases: An Incremental Updating Technique	|	0.1333
+Finding interesting rules from large sets of discovered association rules	|	0.1333
+Research problems in data warehousing	|	0.1250
+Principles of database and knowledge-base systems	|	0.1250
+Fast Algorithms for Mining Association Rules in Large Databases	|	0.1250
+Data Mining: An Overview from a Database Perspective	|	0.1176
+Efficient Similarity Search In Sequence Databases	|	0.1111
+Fast Subsequence Matching in Time-Series Databases	|	0.1111
+Learning to match ontologies on the Semantic Web	|	0.1111
+Mining Sequential Patterns	|	0.1053
+Learning to map between ontologies on the semantic web	|	0.1053
+Mining association rules between sets of items in large databases	|	0.1026
+Knowledge Discovery in Databases: An Attribute-Oriented Approach	|	0.1000
+Beyond Market Baskets: Generalizing Association Rules to Correlations	|	0.1000
+The Gamma Database Machine Project	|	0.0909
+Fast Algorithms for Mining Association Rules	|	0.0851
+Fast Time Sequence Indexing for Arbitrary Lp Norms	|	0.0833
+An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.0833
+Mining Generalized Association Rules	|	0.0833
+Principles of Database and Knowledge-Base Systems, Volume I	|	0.0690
+FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets	|	0.0667
+An Effective Hash Based Algorithm for Mining Association Rules	|	0.0667
+Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0645
+The R*-tree: an efficient and robust access method for points and rectangles	|	0.0465

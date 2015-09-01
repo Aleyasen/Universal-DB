@@ -1,67 +1,58 @@
-Logic Programming and Databases	|	0.2364
-Nested Transactions: An Approach to Reliable Distributed Computing	|	0.2364
-Composite Events for Active Databases: Semantics, Contexts and Detection	|	0.2333
-The Essential Distributed Objects Survival Guide	|	0.2292
-Ode as an Active Database: Constraints and Triggers	|	0.1802
-The Postgres Next Generation Database Management System	|	0.1707
-Aurora: a new model and architecture for data stream management	|	0.1618
-IFO: a formal semantic database model	|	0.1455
-Monitoring Streams - A New Class of Data Management Applications	|	0.0957
-Composite Event Specification in Active Databases: Model & Implementation	|	0.0333
-The Architecture Of An Active Data Base Management System	|	0.0270
-Temporal Databases	|	0.0208
-Gigascope: a stream database for network applications	|	0.0196
-Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.0180
-The Design of the Borealis Stream Processing Engine	|	0.0180
-The HiPAC project: combining active databases and timing constraints	|	0.0167
-Data Models	|	0.0167
-TinyDB: an acquisitional query processing system for sensor networks	|	0.0166
-Scheduling Real-time Transactions: a Performance Evaluation	|	0.0152
-Mariposa: A Wide-Area Distributed Database System	|	0.0137
-Load Shedding in a Data Stream Manager	|	0.0137
-Query Processing, Resource Management, and Approximation in a Data Stream Management System	|	0.0137
-The design of an acquisitional query processor for sensor networks	|	0.0128
-Knowledge Engineering: Principles and Methods	|	0.0123
-Scalable Distributed Stream Processing	|	0.0123
-The entity-relationship model: toward a unified view of data	|	0.0123
-Adaptive filters for continuous queries over distributed data streams	|	0.0123
-Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0118
-Concurrency control in advanced database applications	|	0.0111
-A federated architecture for information management	|	0.0111
-Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.0110
-The Implementation of Postgres	|	0.0100
-Benchmarking Database Systems A Systematic Approach	|	0.0090
-Disjunctive datalog	|	0.0081
-Database Description with SDM: A Semantic Database Model	|	0.0081
-View Definition and Generalization for Database Integration in a Multidatabase System	|	0.0081
-Online Aggregation	|	0.0078
-Continuously adaptive continuous queries over streams	|	0.0078
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0078
-Distributed top-k monitoring	|	0.0074
-The functional data model and the data language DAPLEX	|	0.0074
-The CQL continuous query language: semantic foundations and query execution	|	0.0074
-Eddies: Continuously Adaptive Query Processing	|	0.0072
-An Adaptive Query Execution System for Data Integration	|	0.0072
-Continuous queries over data streams	|	0.0072
-NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0067
-A Data Model and Query Language for EXODUS	|	0.0067
-Query-by-Example: A Data Base Language	|	0.0067
-Temporal and Real-Time Databases: A Survey	|	0.0062
-Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0062
-A language facility for designing database-intensive applications	|	0.0061
-Object identity	|	0.0051
-Multiple-query optimization	|	0.0051
-The entity-relationship model---toward a unified view of data	|	0.0046
-Database description with SDM: a semantic database model	|	0.0046
-The Design of Postgres	|	0.0043
-The notions of consistency and predicate locks in a database system	|	0.0043
-Database abstractions: aggregation and generalization	|	0.0039
-Issues in data stream management	|	0.0039
-Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0036
-System R: A Relational Approach to Data Base Management	|	0.0034
-The functional data model and the data languages DAPLEX	|	0.0034
-Lore: a database management system for semistructured data	|	0.0027
-A comparative analysis of methodologies for database schema integration	|	0.0025
-Extending the database relational model to capture more meaning	|	0.0025
-System R: relational approach to database management	|	0.0024
-Foundations of Databases	|	0.0013
+The Architecture Of An Active Data Base Management System	|	0.3000
+Composite Event Specification in Active Databases: Model & Implementation	|	0.2857
+TinyDB: an acquisitional query processing system for sensor networks	|	0.2400
+The design of an acquisitional query processor for sensor networks	|	0.2143
+Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.2069
+Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.2000
+The Design of the Borealis Stream Processing Engine	|	0.2000
+Temporal Databases	|	0.1818
+Gigascope: a stream database for network applications	|	0.1667
+Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.1600
+The HiPAC project: combining active databases and timing constraints	|	0.1429
+Data Models	|	0.1429
+Online Aggregation	|	0.1379
+Continuously adaptive continuous queries over streams	|	0.1379
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.1379
+Eddies: Continuously Adaptive Query Processing	|	0.1333
+An Adaptive Query Execution System for Data Integration	|	0.1333
+Scheduling Real-time Transactions: a Performance Evaluation	|	0.1333
+Continuous queries over data streams	|	0.1333
+NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.1290
+Mariposa: A Wide-Area Distributed Database System	|	0.1250
+Temporal and Real-Time Databases: A Survey	|	0.1250
+Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.1250
+Load Shedding in a Data Stream Manager	|	0.1250
+Query Processing, Resource Management, and Approximation in a Data Stream Management System	|	0.1250
+Knowledge Engineering: Principles and Methods	|	0.1176
+Scalable Distributed Stream Processing	|	0.1176
+The entity-relationship model: toward a unified view of data	|	0.1176
+Adaptive filters for continuous queries over distributed data streams	|	0.1176
+Concurrency control in advanced database applications	|	0.1111
+A federated architecture for information management	|	0.1111
+The Implementation of Postgres	|	0.1053
+Benchmarking Database Systems A Systematic Approach	|	0.1000
+Disjunctive datalog	|	0.0952
+Database Description with SDM: A Semantic Database Model	|	0.0952
+View Definition and Generalization for Database Integration in a Multidatabase System	|	0.0952
+Distributed top-k monitoring	|	0.0909
+The functional data model and the data language DAPLEX	|	0.0909
+The CQL continuous query language: semantic foundations and query execution	|	0.0909
+A Data Model and Query Language for EXODUS	|	0.0870
+Query-by-Example: A Data Base Language	|	0.0870
+A language facility for designing database-intensive applications	|	0.0833
+Foundations of Databases	|	0.0779
+Object identity	|	0.0769
+Multiple-query optimization	|	0.0769
+The entity-relationship model---toward a unified view of data	|	0.0741
+Database description with SDM: a semantic database model	|	0.0741
+The Design of Postgres	|	0.0714
+The notions of consistency and predicate locks in a database system	|	0.0714
+Database abstractions: aggregation and generalization	|	0.0690
+Issues in data stream management	|	0.0690
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0667
+System R: A Relational Approach to Data Base Management	|	0.0645
+The functional data model and the data languages DAPLEX	|	0.0645
+Lore: a database management system for semistructured data	|	0.0588
+A comparative analysis of methodologies for database schema integration	|	0.0571
+Extending the database relational model to capture more meaning	|	0.0571
+System R: relational approach to database management	|	0.0556

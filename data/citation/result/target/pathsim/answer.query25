@@ -1,87 +1,83 @@
-Dynamic service matchmaking among agents in open information environments	|	0.1697
-Composing Web services on the Semantic Web	|	0.1631
-DAML-S: Semantic Markup For Web Services	|	0.1630
-Semantic Matching of Web Services Capabilities	|	0.1622
-Formal Ontology and Information Systems	|	0.1603
-A Translation Approach to Portable Ontology Specifications	|	0.1603
-Ontologies: principles, methods and applications	|	0.1538
-Semantic and Schematic Similarities Between Database Objects: A Context-Based Approach	|	0.1515
-OBSERVER: An Approach for Query Processing in Global Information Systems Based on Interoperation Across Pre-Existing Ontologies	|	0.1505
-Quality of service for workflows and web service processes	|	0.1463
-OntoSeek: Content-Based Access to the Web	|	0.1429
-XLANG Web Services for Business Process Design	|	0.1429
-Generic Schema Matching with Cupid	|	0.1398
-PROMPT: Algorithm and Tool for Automated Ontology Merging and Alignment	|	0.1327
-Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0741
-DAML-S: Web Service Description for the Semantic Web	|	0.0222
-WordNet: a lexical database for English	|	0.0203
-Determining Semantic Similarity among Entity Classes from Different Ontologies	|	0.0192
-Combining and relating ontologies: an analysis of problems and solutions	|	0.0159
-A Framework for Understanding and Classifying Ontology Applications	|	0.0159
-OIL in a Nutshell	|	0.0159
-KQML as an agent communication language	|	0.0154
-Ontology Evolution: Not the Same as Schema Evolution	|	0.0148
-A Survey of Schema-Based Matching Approaches	|	0.0137
-A Theory of Attribute Equivalence in Databases with Application to Schema Integration	|	0.0135
-Knowledge Engineering: Principles and Methods	|	0.0128
-The Ontolingua Server: a tool for collaborative ontology construction	|	0.0128
-Retrieving and Integrating Data from Multiple Information Sources	|	0.0121
-Ontology mapping: the state of the art	|	0.0121
-The PROMPT suite: interactive tools for ontology merging and mapping	|	0.0108
-Ontology Mapping: The State of the Art	|	0.0108
-Query Reformulation for Dynamic Information Integration	|	0.0101
-Data Model and Query Evaluation in Global Information Systems	|	0.0101
-View Definition and Generalization for Database Integration in a Multidatabase System	|	0.0101
-Learning to match ontologies on the Semantic Web	|	0.0089
-Learning to map between ontologies on the semantic web	|	0.0083
-Infomaster: An Information Integration System	|	0.0081
-A Graph-Oriented Model for Articulation of Ontology Interdependencies	|	0.0081
-Methodology for the Design and Evaluation of Ontologies	|	0.0081
-Towards a Methodology for Building Ontologies	|	0.0081
-A Petri Net-based Model for Web Service Composition	|	0.0081
-Web services and business process management	|	0.0081
-A Survey of Automated Web Service Composition Methods	|	0.0081
-Bringing Semantics to Web Services: The OWL-S Approach	|	0.0081
-The Ontolin-gua Server: A Tool for Collaborative Ontology Construction	|	0.0081
-Declarative Composition and Peer-to-Peer Provisioning of Dynamic Web Services	|	0.0079
-An Ontological Model of an Information System	|	0.0079
-Ontologies Are Us: A Unified Model of Social Networks and Semantics	|	0.0079
-Ontology development 101: A guide to creating your first ontology	|	0.0079
-The TSIMMIS Approach to Mediation: Data Models and Languages	|	0.0079
-Adaptive and Dynamic Service Composition in eFlow	|	0.0077
-Using semantic values to facilitate interoperability among heterogeneous information systems	|	0.0077
-Toward principles for the design of ontologies used for knowledge sharing?	|	0.0077
-InfoSleuth: agent-based semantic integration of information in open and dynamic environments	|	0.0077
-FCA-MERGE: Bottom-Up Merging of Ontologies	|	0.0074
-Description Logics in Data Management	|	0.0074
-Simlarity Search for Web Services	|	0.0074
-Distributed Databases: Principles and Systems	|	0.0074
-Principles of Distributed Database Systems	|	0.0074
-Data Models	|	0.0074
-Classifying Schematic and Data Heterogeneity in Multidatabase Systems	|	0.0071
-Semantic integration of semistructured and structured data sources	|	0.0068
-Similarity Flooding: A Versatile Graph Matching Algorithm and Its Application to Schema Matching	|	0.0068
-The entity-relationship model: toward a unified view of data	|	0.0064
-Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.0061
-Semantic data models	|	0.0061
-A federated architecture for information management	|	0.0061
-COMA - A System for Flexible Combination of Schema Matching Approaches	|	0.0057
-Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases	|	0.0057
-Data Cleaning: Problems and Current Approaches	|	0.0057
-Schema Mapping as Query Discovery	|	0.0047
-A logical design methodology for relational databases using the extended entity-relationship model	|	0.0047
-The functional data model and the data language DAPLEX	|	0.0047
-An Introduction to Database Systems	|	0.0044
-Interoperability of multiple autonomous databases	|	0.0042
-Piazza: data management infrastructure for semantic web applications	|	0.0042
-A survey of approaches to automatic schema matching	|	0.0040
-Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.0034
-The entity-relationship model---toward a unified view of data	|	0.0034
-Mediators in the Architecture of Future Information Systems	|	0.0032
-Query Caching and Optimization in Distributed Mediator Systems	|	0.0030
-The functional data model and the data languages DAPLEX	|	0.0027
-The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0025
-Lore: a database management system for semistructured data	|	0.0022
-A comparative analysis of methodologies for database schema integration	|	0.0021
-Foundations of Databases	|	0.0004
-Query evaluation techniques for large databases	|	0.0004
+Dynamic service matchmaking among agents in open information environments	|	0.3333
+DAML-S: Web Service Description for the Semantic Web	|	0.3000
+WordNet: a lexical database for English	|	0.2727
+Determining Semantic Similarity among Entity Classes from Different Ontologies	|	0.2609
+A Survey of Schema-Based Matching Approaches	|	0.2424
+Combining and relating ontologies: an analysis of problems and solutions	|	0.2222
+A Framework for Understanding and Classifying Ontology Applications	|	0.2222
+OIL in a Nutshell	|	0.2222
+Semantic and Schematic Similarities Between Database Objects: A Context-Based Approach	|	0.2222
+KQML as an agent communication language	|	0.2105
+DAML-S: Semantic Markup For Web Services	|	0.2000
+Ontology Evolution: Not the Same as Schema Evolution	|	0.2000
+Composing Web services on the Semantic Web	|	0.1905
+A Theory of Attribute Equivalence in Databases with Application to Schema Integration	|	0.1818
+Semantic Matching of Web Services Capabilities	|	0.1818
+Formal Ontology and Information Systems	|	0.1739
+Knowledge Engineering: Principles and Methods	|	0.1739
+The Ontolingua Server: a tool for collaborative ontology construction	|	0.1739
+A Translation Approach to Portable Ontology Specifications	|	0.1739
+Retrieving and Integrating Data from Multiple Information Sources	|	0.1667
+Ontology mapping: the state of the art	|	0.1667
+OBSERVER: An Approach for Query Processing in Global Information Systems Based on Interoperation Across Pre-Existing Ontologies	|	0.1538
+The PROMPT suite: interactive tools for ontology merging and mapping	|	0.1538
+Ontology Mapping: The State of the Art	|	0.1538
+Query Reformulation for Dynamic Information Integration	|	0.1481
+Data Model and Query Evaluation in Global Information Systems	|	0.1481
+View Definition and Generalization for Database Integration in a Multidatabase System	|	0.1481
+Learning to match ontologies on the Semantic Web	|	0.1379
+Learning to map between ontologies on the semantic web	|	0.1333
+Infomaster: An Information Integration System	|	0.1176
+A Graph-Oriented Model for Articulation of Ontology Interdependencies	|	0.1176
+Methodology for the Design and Evaluation of Ontologies	|	0.1176
+Towards a Methodology for Building Ontologies	|	0.1176
+A Petri Net-based Model for Web Service Composition	|	0.1176
+Web services and business process management	|	0.1176
+Quality of service for workflows and web service processes	|	0.1176
+A Survey of Automated Web Service Composition Methods	|	0.1176
+Bringing Semantics to Web Services: The OWL-S Approach	|	0.1176
+The Ontolin-gua Server: A Tool for Collaborative Ontology Construction	|	0.1176
+Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.1143
+Semantic data models	|	0.1143
+Declarative Composition and Peer-to-Peer Provisioning of Dynamic Web Services	|	0.1111
+An Ontological Model of an Information System	|	0.1111
+Ontologies Are Us: A Unified Model of Social Networks and Semantics	|	0.1111
+Ontology development 101: A guide to creating your first ontology	|	0.1111
+The TSIMMIS Approach to Mediation: Data Models and Languages	|	0.1111
+Adaptive and Dynamic Service Composition in eFlow	|	0.1053
+Using semantic values to facilitate interoperability among heterogeneous information systems	|	0.1053
+Toward principles for the design of ontologies used for knowledge sharing?	|	0.1053
+InfoSleuth: agent-based semantic integration of information in open and dynamic environments	|	0.1053
+FCA-MERGE: Bottom-Up Merging of Ontologies	|	0.1000
+Description Logics in Data Management	|	0.1000
+Simlarity Search for Web Services	|	0.1000
+Distributed Databases: Principles and Systems	|	0.1000
+Principles of Distributed Database Systems	|	0.1000
+Data Models	|	0.1000
+A survey of approaches to automatic schema matching	|	0.0952
+Classifying Schematic and Data Heterogeneity in Multidatabase Systems	|	0.0952
+Semantic integration of semistructured and structured data sources	|	0.0909
+Similarity Flooding: A Versatile Graph Matching Algorithm and Its Application to Schema Matching	|	0.0909
+Ontologies: principles, methods and applications	|	0.0870
+The entity-relationship model: toward a unified view of data	|	0.0870
+A federated architecture for information management	|	0.0833
+COMA - A System for Flexible Combination of Schema Matching Approaches	|	0.0800
+Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases	|	0.0800
+Data Cleaning: Problems and Current Approaches	|	0.0800
+Schema Mapping as Query Discovery	|	0.0714
+A logical design methodology for relational databases using the extended entity-relationship model	|	0.0714
+The functional data model and the data language DAPLEX	|	0.0714
+An Introduction to Database Systems	|	0.0690
+Interoperability of multiple autonomous databases	|	0.0667
+Piazza: data management infrastructure for semantic web applications	|	0.0667
+Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.0606
+The entity-relationship model---toward a unified view of data	|	0.0606
+Mediators in the Architecture of Future Information Systems	|	0.0588
+Query Caching and Optimization in Distributed Mediator Systems	|	0.0571
+The functional data model and the data languages DAPLEX	|	0.0541
+The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0526
+Lore: a database management system for semistructured data	|	0.0500
+A comparative analysis of methodologies for database schema integration	|	0.0488
+Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0426
+Foundations of Databases	|	0.0241
+Query evaluation techniques for large databases	|	0.0233

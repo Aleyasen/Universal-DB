@@ -1,15 +1,13 @@
-Mobile wireless computing: challenges in data management	|	0.3333
-Data caching issues in an information retrieval system	|	0.2292
-Consistency in Partitioned Networks	|	0.1111
-Balancing Push and Pull for Data Broadcast	|	0.0556
-Sleepers and Workaholics: Caching Strategies in Mobile Environments	|	0.0417
-Energy Efficient Indexing on Air	|	0.0417
-The LRU-K page replacement algorithm for database disk buffering	|	0.0417
-An adaptive data replication algorithm	|	0.0323
-The LRU-K Page Replacement Algorithm For Database Disk Buffering	|	0.0323
-2Q: A Low Overhead High Performance Buffer Management Replacement Algorithm	|	0.0256
-Mobile Computing and Databases - A Survey	|	0.0208
-Broadcast disks: data management for asymmetric communication environments	|	0.0208
-Broadcast Disks: Data Management for Asymmetric Communications Environments	|	0.0172
-An Introduction to Database Systems	|	0.0093
-Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0043
+Consistency in Partitioned Networks	|	0.4000
+Balancing Push and Pull for Data Broadcast	|	0.2857
+Sleepers and Workaholics: Caching Strategies in Mobile Environments	|	0.2500
+Energy Efficient Indexing on Air	|	0.2500
+The LRU-K page replacement algorithm for database disk buffering	|	0.2500
+An adaptive data replication algorithm	|	0.2222
+The LRU-K Page Replacement Algorithm For Database Disk Buffering	|	0.2222
+2Q: A Low Overhead High Performance Buffer Management Replacement Algorithm	|	0.2000
+Mobile Computing and Databases - A Survey	|	0.1818
+Broadcast disks: data management for asymmetric communication environments	|	0.1818
+Broadcast Disks: Data Management for Asymmetric Communications Environments	|	0.1667
+An Introduction to Database Systems	|	0.1250
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0870

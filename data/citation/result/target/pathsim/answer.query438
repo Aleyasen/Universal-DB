@@ -1,22 +1,19 @@
-Workflow Mining: Discovering Process Models from Event Logs	|	0.5556
-Workflow Mining: A Survey of Issues and Approaches	|	0.3333
-Mining Sequential Patterns	|	0.1429
-Workflow Management: Models, Methods, and Systems	|	0.1429
-Business Process Management: A Survey	|	0.1111
-Extensible Markup Language	|	0.1111
-Workflow Management: Modeling Concepts, Architecture, and Implementation	|	0.0741
-SPIRIT: Sequential Pattern Mining with Regular Expression Constraints	|	0.0370
-extensible markup language (xml) 1	|	0.0294
-Efficient Mining of Partial Periodic Patterns in Time Series Database	|	0.0294
-Efficient Time Series Matching by Wavelets	|	0.0196
-Srikant: "fast algorithms for mining association rules	|	0.0196
-Mining Sequential Patterns by Pattern-Growth: The PrefixSpan Approach	|	0.0196
-Efficient Data Mining for Path Traversal Patterns	|	0.0164
-Efficiently Mining Long Patterns from Databases	|	0.0119
-A New SQL-like Operator for Mining Association Rules	|	0.0103
-Discovery of Multiple-Level Association Rules from Large Databases	|	0.0046
-An Effective Hash Based Algorithm for Mining Association Rules	|	0.0028
-Fast Algorithms for Mining Association Rules in Large Databases	|	0.0024
-Data Mining: An Overview from a Database Perspective	|	0.0021
-Mining association rules between sets of items in large databases	|	0.0016
-Fast Algorithms for Mining Association Rules	|	0.0011
+Workflow Management: Models, Methods, and Systems	|	0.5000
+Workflow Management: Modeling Concepts, Architecture, and Implementation	|	0.4444
+Business Process Management: A Survey	|	0.4000
+Extensible Markup Language	|	0.4000
+SPIRIT: Sequential Pattern Mining with Regular Expression Constraints	|	0.2222
+extensible markup language (xml) 1	|	0.2000
+Efficient Mining of Partial Periodic Patterns in Time Series Database	|	0.2000
+Efficient Time Series Matching by Wavelets	|	0.1667
+Srikant: "fast algorithms for mining association rules	|	0.1667
+Mining Sequential Patterns by Pattern-Growth: The PrefixSpan Approach	|	0.1667
+Efficient Data Mining for Path Traversal Patterns	|	0.1538
+Efficiently Mining Long Patterns from Databases	|	0.1333
+A New SQL-like Operator for Mining Association Rules	|	0.1250
+Discovery of Multiple-Level Association Rules from Large Databases	|	0.0870
+An Effective Hash Based Algorithm for Mining Association Rules	|	0.0690
+Fast Algorithms for Mining Association Rules in Large Databases	|	0.0645
+Data Mining: An Overview from a Database Perspective	|	0.0606
+Mining association rules between sets of items in large databases	|	0.0526
+Fast Algorithms for Mining Association Rules	|	0.0435

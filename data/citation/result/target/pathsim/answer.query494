@@ -1,77 +1,75 @@
-Load Shedding in a Data Stream Manager	|	0.2234
-Scalable Distributed Stream Processing	|	0.2059
-The Dangers of Replication and a Solution	|	0.1975
-An adaptive data replication algorithm	|	0.1915
-Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.1894
-Aurora: a new model and architecture for data stream management	|	0.1783
-Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.1436
-The design of an acquisitional query processor for sensor networks	|	0.1289
-Online Aggregation	|	0.1232
-Eddies: Continuously Adaptive Query Processing	|	0.1178
-Monitoring Streams - A New Class of Data Management Applications	|	0.1148
-The cougar approach to in-network query processing in sensor networks	|	0.0319
-The CQL continuous query language: semantic foundations and query execution	|	0.0255
-Model-Driven Data Acquisition in Sensor Networks	|	0.0230
-Issues in data stream management	|	0.0217
-Aggregate-Query Processing in Data Warehousing Environments	|	0.0213
-Towards Sensor Database Systems	|	0.0213
-Query Processing, Resource Management, and Approximation in a Data Stream Management System	|	0.0213
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0181
-Active database systems	|	0.0180
-Approximate Query Processing Using Wavelets	|	0.0175
-Continuous queries over data streams	|	0.0168
-NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0157
-Comparative Models of the File Assignment Problem	|	0.0149
-TinyDB: an acquisitional query processing system for sensor networks	|	0.0149
-Continuously adaptive continuous queries over streams	|	0.0145
-Gigascope: a stream database for network applications	|	0.0139
-Providing olap (on-line analytical processing) to user-analysts: an it mandate	|	0.0139
-An Adaptive Query Execution System for Data Integration	|	0.0135
-The state of the art in distributed query processing	|	0.0132
-Complex Queries in DHT-based Peer-to-Peer Networks	|	0.0123
-Evaluating Top-k Queries over Web-Accessible Databases	|	0.0123
-On the decidability of query containment under constraints	|	0.0123
-Composite Events for Active Databases: Semantics, Contexts and Detection	|	0.0123
-Distributed Databases: Principles and Systems	|	0.0123
-Transaction Processing: Concepts and Techniques	|	0.0123
-Principles of Distributed Database Systems	|	0.0123
-Deriving Production Rules for Constraint Maintainance	|	0.0115
-Parallel Database Systems: The Future of High Performance Database Processing1	|	0.0108
-Change Detection in Hierarchically Structured Information	|	0.0106
-Mariposa: A Wide-Area Distributed Database System	|	0.0106
-Routing Indices For Peer-to-Peer Systems	|	0.0106
-Approximate Aggregation Techniques for Sensor Databases	|	0.0106
-A Majority consensus approach to concurrency control for multiple copy databases	|	0.0106
-View Maintenance in a Warehousing Environment	|	0.0098
-A Critique of ANSI SQL Isolation Levels	|	0.0098
-Adaptive filters for continuous queries over distributed data streams	|	0.0098
-Multiple-query optimization	|	0.0091
-Mobile Computing and Databases - A Survey	|	0.0090
-Computing Iceberg Queries Efficiently	|	0.0090
-Data caching issues in an information retrieval system	|	0.0090
-Maintaining Views Incrementally	|	0.0076
-Querying the Internet with PIER	|	0.0076
-Parallel database systems: the future of high performance database systems	|	0.0076
-Research problems in data warehousing	|	0.0069
-Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Total	|	0.0069
-The Postgres Next Generation Database Management System	|	0.0069
-Optimizing Queries Across Diverse Data Sources	|	0.0064
-Distributed top-k monitoring	|	0.0064
-Models and issues in data stream systems	|	0.0060
-Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.0058
-Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0058
-Temporal and Real-Time Databases: A Survey	|	0.0058
-Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0058
-Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.0054
-New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.0046
-The Gamma Database Machine Project	|	0.0042
-An overview of data warehousing and OLAP technology	|	0.0042
-Exploratory Mining and Pruning Optimizations of Constrained Association Rules	|	0.0039
-Query Caching and Optimization in Distributed Mediator Systems	|	0.0036
-Optimizing Queries with Materialized Views	|	0.0036
-Concurrency Control and Recovery in Database Systems	|	0.0036
-Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0034
-The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0029
-Principles of Database and Knowledge-Base Systems, Volume I	|	0.0026
-Access path selection in a relational database management system	|	0.0011
-Principles of Database and Knowledge-Base Systems, Volume II	|	0.0004
+Monitoring Streams - A New Class of Data Management Applications	|	0.4000
+Issues in data stream management	|	0.3871
+The cougar approach to in-network query processing in sensor networks	|	0.3333
+Load Shedding in a Data Stream Manager	|	0.3333
+Aurora: a new model and architecture for data stream management	|	0.3333
+The CQL continuous query language: semantic foundations and query execution	|	0.3333
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.3226
+Continuous queries over data streams	|	0.3125
+NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.3030
+Query Processing, Approximation, and Resource Management in a Data Stream Management System	|	0.2727
+Continuously adaptive continuous queries over streams	|	0.2581
+An Adaptive Query Execution System for Data Integration	|	0.2500
+Approximate Query Processing Using Wavelets	|	0.2400
+Model-Driven Data Acquisition in Sensor Networks	|	0.2353
+Aggregate-Query Processing in Data Warehousing Environments	|	0.2222
+Towards Sensor Database Systems	|	0.2222
+TinyDB: an acquisitional query processing system for sensor networks	|	0.2222
+Query Processing, Resource Management, and Approximation in a Data Stream Management System	|	0.2222
+Scalable Distributed Stream Processing	|	0.2105
+The design of an acquisitional query processor for sensor networks	|	0.2000
+Active database systems	|	0.2000
+Online Aggregation	|	0.1935
+Eddies: Continuously Adaptive Query Processing	|	0.1875
+Comparative Models of the File Assignment Problem	|	0.1667
+Parallel Database Systems: The Future of High Performance Database Processing1	|	0.1538
+Models and issues in data stream systems	|	0.1500
+Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.1481
+Gigascope: a stream database for network applications	|	0.1429
+Multiple-query optimization	|	0.1429
+Providing olap (on-line analytical processing) to user-analysts: an it mandate	|	0.1429
+The state of the art in distributed query processing	|	0.1333
+Complex Queries in DHT-based Peer-to-Peer Networks	|	0.1250
+Evaluating Top-k Queries over Web-Accessible Databases	|	0.1250
+On the decidability of query containment under constraints	|	0.1250
+Composite Events for Active Databases: Semantics, Contexts and Detection	|	0.1250
+Distributed Databases: Principles and Systems	|	0.1250
+Transaction Processing: Concepts and Techniques	|	0.1250
+Principles of Distributed Database Systems	|	0.1250
+Temporal and Real-Time Databases: A Survey	|	0.1176
+Deriving Production Rules for Constraint Maintainance	|	0.1176
+Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.1176
+Change Detection in Hierarchically Structured Information	|	0.1111
+Mariposa: A Wide-Area Distributed Database System	|	0.1111
+Routing Indices For Peer-to-Peer Systems	|	0.1111
+Approximate Aggregation Techniques for Sensor Databases	|	0.1111
+A Majority consensus approach to concurrency control for multiple copy databases	|	0.1111
+View Maintenance in a Warehousing Environment	|	0.1053
+A Critique of ANSI SQL Isolation Levels	|	0.1053
+Adaptive filters for continuous queries over distributed data streams	|	0.1053
+Mobile Computing and Databases - A Survey	|	0.1000
+Computing Iceberg Queries Efficiently	|	0.1000
+Data caching issues in an information retrieval system	|	0.1000
+Concurrency Control and Recovery in Database Systems	|	0.0952
+Maintaining Views Incrementally	|	0.0909
+Querying the Internet with PIER	|	0.0909
+Parallel database systems: the future of high performance database systems	|	0.0909
+Research problems in data warehousing	|	0.0870
+Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Total	|	0.0870
+The Postgres Next Generation Database Management System	|	0.0870
+Optimizing Queries Across Diverse Data Sources	|	0.0833
+Distributed top-k monitoring	|	0.0833
+Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries	|	0.0800
+Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0800
+Data Cube: A Relational Aggregation Operator Generalizing Group-by, Cross-Tab, and Sub Totals	|	0.0769
+New Sampling-Based Summary Statistics for Improving Approximate Query Answers	|	0.0714
+The Gamma Database Machine Project	|	0.0690
+An overview of data warehousing and OLAP technology	|	0.0690
+Exploratory Mining and Pruning Optimizations of Constrained Association Rules	|	0.0667
+Query Caching and Optimization in Distributed Mediator Systems	|	0.0645
+Optimizing Queries with Materialized Views	|	0.0645
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0625
+The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0588
+Principles of Database and Knowledge-Base Systems, Volume I	|	0.0556
+Access path selection in a relational database management system	|	0.0385
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0235

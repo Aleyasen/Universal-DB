@@ -1,58 +1,52 @@
-Information sharing across private databases	|	0.2329
-Executing SQL over encrypted data in the database-service-provider model	|	0.2292
-Formal Models for Computer Security	|	0.2292
-Trio: A System for Integrated Management of Data, Accuracy, and Lineage	|	0.2273
-On the complexity of optimal K-anonymity	|	0.2222
-Flexible support for multiple access control policies	|	0.2192
-Database Management Systems	|	0.2174
-l-Diversity: Privacy Beyond k-Anonymity	|	0.1982
-Principles of Database and Knowledge-Base Systems, Volume I	|	0.0919
-The New Casper: Query Processing for Location Services without Compromising Privacy	|	0.0333
-Limiting privacy breaches in privacy preserving data mining	|	0.0333
-On the design and quantification of privacy preserving data mining algorithms	|	0.0303
-Security-Control Methods for Statistical Databases: A Comparative Study	|	0.0303
-The Management of Probabilistic Data	|	0.0274
-Data Privacy through Optimal k-Anonymization	|	0.0274
-Database systems: the complete book	|	0.0217
-The alternating fixpoint of logic programs with negation	|	0.0217
-Incremental Maintenance of Views with Duplicates	|	0.0196
-What Makes Patterns Interesting in Knowledge Discovery Systems	|	0.0182
-On the Declarative Semantics of Deductive Databases and Logic Programs	|	0.0182
-A fine-grained access control system for XML documents	|	0.0182
-Incognito: efficient full-domain K-anonymity	|	0.0180
-Evaluating probabilistic queries over imprecise data	|	0.0167
-Towards a Theory of Declarative Knowledge	|	0.0167
-Foundations of Logic Programming, 2nd Edition	|	0.0167
-Database Security	|	0.0167
-Update semantics of relational views	|	0.0167
-A model of authorization for next-generation database systems	|	0.0167
-Mondrian Multidimensional K-Anonymity	|	0.0167
-Privacy-Preserving Data Mining	|	0.0167
-Consistent query answers in inconsistent databases	|	0.0152
-Protecting Respondents' Identities in Microdata Release	|	0.0137
-Answering Queries Using Templates with Binding Patterns	|	0.0123
-Data-Driven Discovery of Quantitative Rules in Relational Databases	|	0.0123
-Computing Iceberg Queries Efficiently	|	0.0111
-Efficient Query Evaluation on Probabilistic Databases	|	0.0100
-Maintaining Views Incrementally	|	0.0090
-Disjunctive datalog	|	0.0081
-Why and Where: A Characterization of Data Provenance	|	0.0081
-View Definition and Generalization for Database Integration in a Multidatabase System	|	0.0081
-A New SQL-like Operator for Mining Association Rules	|	0.0074
-Answering recursive queries using views	|	0.0074
-Join processing in relational databases	|	0.0067
-Storing Semistructured Data with STORED	|	0.0061
-Database Mining: A Performance Perspective	|	0.0061
-Knowledge Discovery in Databases: An Attribute-Oriented Approach	|	0.0055
-Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.0055
-Complexity of answering queries using materialized views	|	0.0055
-Query Caching and Optimization in Distributed Mediator Systems	|	0.0039
-Optimizing Queries with Materialized Views	|	0.0039
-Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0039
-The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0031
-A Quantitative Analysis and Performance Study for Similarity-Search Methods in High-Dimensional Spaces	|	0.0031
-Types and persistence in database programming languages	|	0.0025
-Fast Algorithms for Mining Association Rules in Large Databases	|	0.0022
-Answering queries using views: A survey	|	0.0016
-Fast Algorithms for Mining Association Rules	|	0.0010
-Foundations of Databases	|	0.0004
+The New Casper: Query Processing for Location Services without Compromising Privacy	|	0.2857
+Limiting privacy breaches in privacy preserving data mining	|	0.2857
+On the design and quantification of privacy preserving data mining algorithms	|	0.2667
+Security-Control Methods for Statistical Databases: A Comparative Study	|	0.2667
+The Management of Probabilistic Data	|	0.2500
+Data Privacy through Optimal k-Anonymization	|	0.2500
+Database systems: the complete book	|	0.2000
+The alternating fixpoint of logic programs with negation	|	0.2000
+l-Diversity: Privacy Beyond k-Anonymity	|	0.2000
+Incognito: efficient full-domain K-anonymity	|	0.2000
+Incremental Maintenance of Views with Duplicates	|	0.1667
+What Makes Patterns Interesting in Knowledge Discovery Systems	|	0.1538
+On the Declarative Semantics of Deductive Databases and Logic Programs	|	0.1538
+A fine-grained access control system for XML documents	|	0.1538
+Evaluating probabilistic queries over imprecise data	|	0.1429
+Towards a Theory of Declarative Knowledge	|	0.1429
+Foundations of Logic Programming, 2nd Edition	|	0.1429
+Database Security	|	0.1429
+Update semantics of relational views	|	0.1429
+A model of authorization for next-generation database systems	|	0.1429
+Mondrian Multidimensional K-Anonymity	|	0.1429
+Privacy-Preserving Data Mining	|	0.1429
+Consistent query answers in inconsistent databases	|	0.1333
+Information sharing across private databases	|	0.1250
+Protecting Respondents' Identities in Microdata Release	|	0.1250
+Answering Queries Using Templates with Binding Patterns	|	0.1176
+Data-Driven Discovery of Quantitative Rules in Relational Databases	|	0.1176
+On the complexity of optimal K-anonymity	|	0.1176
+Computing Iceberg Queries Efficiently	|	0.1111
+Efficient Query Evaluation on Probabilistic Databases	|	0.1053
+Maintaining Views Incrementally	|	0.1000
+Disjunctive datalog	|	0.0952
+Why and Where: A Characterization of Data Provenance	|	0.0952
+View Definition and Generalization for Database Integration in a Multidatabase System	|	0.0952
+A New SQL-like Operator for Mining Association Rules	|	0.0909
+Answering recursive queries using views	|	0.0909
+Join processing in relational databases	|	0.0870
+Storing Semistructured Data with STORED	|	0.0833
+Database Mining: A Performance Perspective	|	0.0833
+Knowledge Discovery in Databases: An Attribute-Oriented Approach	|	0.0800
+Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.0800
+Complexity of answering queries using materialized views	|	0.0800
+Query Caching and Optimization in Distributed Mediator Systems	|	0.0690
+Optimizing Queries with Materialized Views	|	0.0690
+Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0690
+The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0625
+A Quantitative Analysis and Performance Study for Similarity-Search Methods in High-Dimensional Spaces	|	0.0625
+Types and persistence in database programming languages	|	0.0571
+Fast Algorithms for Mining Association Rules in Large Databases	|	0.0541
+Answering queries using views: A survey	|	0.0465
+Fast Algorithms for Mining Association Rules	|	0.0385
+Foundations of Databases	|	0.0260

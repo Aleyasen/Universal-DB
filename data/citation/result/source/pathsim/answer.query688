@@ -1,22 +1,24 @@
-Distance-Based Outliers: Algorithms and Applications	|	0.5000
-STING: A Statistical Information Grid Approach to Spatial Data Mining	|	0.5000
-Efficient Algorithms for Mining Outliers from Large Data Sets	|	0.4000
-Algorithms for Mining Distance-Based Outliers in Large Datasets	|	0.4000
-CURE: An Efficient Clustering Algorithm for Large Databases	|	0.2500
-On packing R-trees	|	0.2353
-Hilbert R-tree: An Improved R-tree using Fractals	|	0.2353
-Similarity Indexing with the SS-tree	|	0.2222
-Efficient Processing of Spatial Joins Using R-Trees	|	0.2105
-On indexing mobile objects	|	0.2000
-The TV-Tree: An Index Structure for High-Dimensional Data	|	0.1905
-Similarity Search in High Dimensions via Hashing	|	0.1818
-3D Shape Histograms for Similarity Search and Classification in Spatial Databases	|	0.1667
-Discovery of Spatial Association Rules in Geographic Information Databases	|	0.1667
-A Quantitative Analysis and Performance Study for Similarity-Search Methods in High-Dimensional Spaces	|	0.1600
-Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.1379
-Ranking in Spatial Databases	|	0.1333
-An Introduction to Spatial Database Systems	|	0.1333
-Efficient Similarity Search In Sequence Databases	|	0.1176
-Fast Subsequence Matching in Time-Series Databases	|	0.1176
-Multidimensional access methods	|	0.1176
-Distance browsing in spatial databases	|	0.0909
+The design & analysis of spatial data structures	|	0.1295
+The Design and Analysis of Spatial Data Structures	|	0.0896
+Distance-Based Outliers: Algorithms and Applications	|	0.0833
+STING: A Statistical Information Grid Approach to Spatial Data Mining	|	0.0833
+Efficient Algorithms for Mining Outliers from Large Data Sets	|	0.0513
+Algorithms for Mining Distance-Based Outliers in Large Datasets	|	0.0513
+On indexing mobile objects	|	0.0256
+Similarity Search in High Dimensions via Hashing	|	0.0208
+CURE: An Efficient Clustering Algorithm for Large Databases	|	0.0185
+3D Shape Histograms for Similarity Search and Classification in Spatial Databases	|	0.0172
+Discovery of Spatial Association Rules in Geographic Information Databases	|	0.0172
+On packing R-trees	|	0.0163
+Hilbert R-tree: An Improved R-tree using Fractals	|	0.0163
+Similarity Indexing with the SS-tree	|	0.0144
+Efficient Processing of Spatial Joins Using R-Trees	|	0.0128
+Ranking in Spatial Databases	|	0.0106
+An Introduction to Spatial Database Systems	|	0.0106
+The TV-Tree: An Index Structure for High-Dimensional Data	|	0.0104
+A Quantitative Analysis and Performance Study for Similarity-Search Methods in High-Dimensional Spaces	|	0.0072
+Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0052
+Distance browsing in spatial databases	|	0.0047
+Efficient Similarity Search In Sequence Databases	|	0.0038
+Fast Subsequence Matching in Time-Series Databases	|	0.0038
+Multidimensional access methods	|	0.0038

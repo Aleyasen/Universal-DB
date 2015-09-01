@@ -1,49 +1,49 @@
-Object-Oriented Programming: Themes and Variations	|	0.2857
-A model of authorization for next-generation database systems	|	0.2745
-Objects and Views	|	0.2632
-Semantics and Implementation of Schema Evolution in Object-Oriented Databases	|	0.2632
-Development of an object-oriented DBMS	|	0.2059
-Making Smalltalk a Database System	|	0.1890
-A Data Model and Query Language for EXODUS	|	0.1702
-Database abstractions: aggregation and generalization	|	0.1179
-F-Logic: A Higher-Order language for Reasoning about Objects, Inheritance, and Scheme	|	0.0351
-Iris: An Object-Oriented Database Management System	|	0.0351
-The Implementation of Postgres	|	0.0330
-OVID: Design and Implementation of a Video-Object Database System	|	0.0256
-A language facility for designing database-intensive applications	|	0.0256
-Extending object-oriented systems with roles	|	0.0256
-The relational model with relation-valued attributes	|	0.0217
-A fine-grained access control system for XML documents	|	0.0217
-Applying Model Management to Classical Meta Data Problems	|	0.0217
-GALILEO: a strongly-typed, interactive conceptual language	|	0.0196
-Database Security	|	0.0196
-Starburst Mid-Flight: As the Dust Clears	|	0.0156
-Flexible support for multiple access control policies	|	0.0156
-Determining Semantic Similarity among Entity Classes from Different Ontologies	|	0.0139
-The EXODUS Optimizer Generator	|	0.0123
-A Taxonomy of Time in Databases	|	0.0123
-Extended algebra and calculus for nested relational databases	|	0.0110
-Object identity	|	0.0106
-Extending the database relational model to capture more meaning	|	0.0103
-Logical Foundations of Object-Oriented and Frame-Based Languages	|	0.0098
-Database Description with SDM: A Semantic Database Model	|	0.0088
-View Definition and Generalization for Database Integration in a Multidatabase System	|	0.0088
-The Postgres Next Generation Database Management System	|	0.0088
-Semantic data models	|	0.0081
-A logical design methodology for relational databases using the extended entity-relationship model	|	0.0079
-Types and persistence in database programming languages	|	0.0078
-An Introduction to Database Systems	|	0.0071
-The functional data model and the data languages DAPLEX	|	0.0069
-Querying Object-Oriented Databases	|	0.0064
-IFO: a formal semantic database model	|	0.0064
-Query Optimization for XML	|	0.0048
-The entity-relationship model---toward a unified view of data	|	0.0048
-Database description with SDM: a semantic database model	|	0.0048
-Further Normalization of the Data Base Relational Model	|	0.0048
-The Design of Postgres	|	0.0044
-Query Caching and Optimization in Distributed Mediator Systems	|	0.0041
-Temporal and Real-Time Databases: A Survey	|	0.0032
-A comparative analysis of methodologies for database schema integration	|	0.0026
-The Theory of Relational Databases	|	0.0019
-Principles of Database and Knowledge-Base Systems, Volume II	|	0.0007
-Foundations of Databases	|	0.0004
+A language facility for designing database-intensive applications	|	0.3478
+The Implementation of Postgres	|	0.3333
+Making Smalltalk a Database System	|	0.2857
+F-Logic: A Higher-Order language for Reasoning about Objects, Inheritance, and Scheme	|	0.2857
+Iris: An Object-Oriented Database Management System	|	0.2857
+Extending the database relational model to capture more meaning	|	0.2353
+GALILEO: a strongly-typed, interactive conceptual language	|	0.2105
+Development of an object-oriented DBMS	|	0.2105
+OVID: Design and Implementation of a Video-Object Database System	|	0.2000
+Extending object-oriented systems with roles	|	0.2000
+A Data Model and Query Language for EXODUS	|	0.1818
+Object-Oriented Programming: Themes and Variations	|	0.1818
+Types and persistence in database programming languages	|	0.1765
+The relational model with relation-valued attributes	|	0.1667
+A fine-grained access control system for XML documents	|	0.1667
+Applying Model Management to Classical Meta Data Problems	|	0.1667
+Object identity	|	0.1600
+Database Security	|	0.1538
+A model of authorization for next-generation database systems	|	0.1538
+Objects and Views	|	0.1429
+Semantics and Implementation of Schema Evolution in Object-Oriented Databases	|	0.1429
+Semantic data models	|	0.1429
+Starburst Mid-Flight: As the Dust Clears	|	0.1333
+The functional data model and the data languages DAPLEX	|	0.1333
+Flexible support for multiple access control policies	|	0.1333
+Determining Semantic Similarity among Entity Classes from Different Ontologies	|	0.1250
+The EXODUS Optimizer Generator	|	0.1176
+A Taxonomy of Time in Databases	|	0.1176
+Extended algebra and calculus for nested relational databases	|	0.1111
+Logical Foundations of Object-Oriented and Frame-Based Languages	|	0.1053
+Database Description with SDM: A Semantic Database Model	|	0.1000
+View Definition and Generalization for Database Integration in a Multidatabase System	|	0.1000
+The Postgres Next Generation Database Management System	|	0.1000
+A logical design methodology for relational databases using the extended entity-relationship model	|	0.0952
+An Introduction to Database Systems	|	0.0909
+Querying Object-Oriented Databases	|	0.0870
+IFO: a formal semantic database model	|	0.0870
+Query Optimization for XML	|	0.0769
+The entity-relationship model---toward a unified view of data	|	0.0769
+Database description with SDM: a semantic database model	|	0.0769
+Further Normalization of the Data Base Relational Model	|	0.0769
+The Design of Postgres	|	0.0741
+Query Caching and Optimization in Distributed Mediator Systems	|	0.0714
+Database abstractions: aggregation and generalization	|	0.0714
+Temporal and Real-Time Databases: A Survey	|	0.0645
+A comparative analysis of methodologies for database schema integration	|	0.0588
+The Theory of Relational Databases	|	0.0513
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0488
+Foundations of Databases	|	0.0263

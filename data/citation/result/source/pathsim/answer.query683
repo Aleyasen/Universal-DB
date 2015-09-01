@@ -1,17 +1,18 @@
-Linear Clustering of Objects with Multiple Atributes	|	0.3333
-Fast Nearest Neighbor Search in Medical Image Databases	|	0.2222
-An effective way to represent quadtrees	|	0.2222
-Data Structures for Range Searching	|	0.1818
-Partition Based Spatial-Merge Join	|	0.1667
-An Introduction to Spatial Database Systems	|	0.1429
-Approximate Query Processing Using Wavelets	|	0.1333
-On packing R-trees	|	0.1250
-Hilbert R-tree: An Improved R-tree using Fractals	|	0.1250
-A class of data structures for associative searching	|	0.1250
-The Quadtree and Related Hierarchical Data Structures	|	0.1250
-Efficient Processing of Spatial Joins Using R-Trees	|	0.1111
-The Grid File: An Adaptable, Symmetric Multikey File Structure	|	0.0769
-FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets	|	0.0741
-The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0714
-Fast Subsequence Matching in Time-Series Databases	|	0.0606
-Multidimensional access methods	|	0.0606
+Spatial Query Processing in an Object-Oriented Database System	|	0.1105
+Linear Clustering of Objects with Multiple Atributes	|	0.0625
+Fast Nearest Neighbor Search in Medical Image Databases	|	0.0270
+An effective way to represent quadtrees	|	0.0270
+Data Structures for Range Searching	|	0.0179
+Partition Based Spatial-Merge Join	|	0.0149
+An Introduction to Spatial Database Systems	|	0.0109
+Approximate Query Processing Using Wavelets	|	0.0094
+On packing R-trees	|	0.0083
+Hilbert R-tree: An Improved R-tree using Fractals	|	0.0083
+A class of data structures for associative searching	|	0.0083
+The Quadtree and Related Hierarchical Data Structures	|	0.0083
+Efficient Processing of Spatial Joins Using R-Trees	|	0.0065
+The Grid File: An Adaptable, Symmetric Multikey File Structure	|	0.0031
+FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets	|	0.0028
+The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0026
+Fast Subsequence Matching in Time-Series Databases	|	0.0019
+Multidimensional access methods	|	0.0019

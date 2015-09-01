@@ -1,32 +1,32 @@
-From Structured Documents to Novel Query Facilities	|	0.1463
-Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.1080
-XRel: a path-based approach to storage and retrieval of XML documents using relational databases	|	0.0417
-Querying the World Wide Web	|	0.0323
-Translating Web Data	|	0.0323
-Object Exchange Across Heterogeneous Information Sources	|	0.0323
-Wrapper generation for semi-structured Internet sources	|	0.0256
-XRANK: ranked keyword search over XML documents	|	0.0256
-Adding Structure to Unstructured Data	|	0.0208
-Index Structures for Path Expressions	|	0.0208
-COMA - A System for Flexible Combination of Schema Matching Approaches	|	0.0172
-Data Cleaning: Problems and Current Approaches	|	0.0172
-Generic Schema Matching with Cupid	|	0.0145
-Towards Heterogeneous Multimedia Information Systems: The Garlic Approach	|	0.0123
-RQL: a declarative query language for RDF	|	0.0106
-Schema Mapping as Query Discovery	|	0.0106
-PROMPT: Algorithm and Tool for Automated Ontology Merging and Alignment	|	0.0106
-Learning to match ontologies on the Semantic Web	|	0.0093
-Storing Semistructured Data with STORED	|	0.0081
-Querying Object-Oriented Databases	|	0.0081
-Learning to map between ontologies on the semantic web	|	0.0081
-Your Mediators Need Data Conversion!	|	0.0072
-Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.0057
-Database techniques for the World-Wide Web: a survey	|	0.0052
-Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.0043
-A Query Language and Optimization Techniques for Unstructured Data	|	0.0039
-The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0036
-Lore: a database management system for semistructured data	|	0.0030
-A comparative analysis of methodologies for database schema integration	|	0.0028
-A survey of approaches to automatic schema matching	|	0.0026
-Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0026
-The Lorel Query Language for Semistructured Data	|	0.0026
+XRel: a path-based approach to storage and retrieval of XML documents using relational databases	|	0.2500
+Querying the World Wide Web	|	0.2222
+Translating Web Data	|	0.2222
+Object Exchange Across Heterogeneous Information Sources	|	0.2222
+Wrapper generation for semi-structured Internet sources	|	0.2000
+XRANK: ranked keyword search over XML documents	|	0.2000
+Adding Structure to Unstructured Data	|	0.1818
+Index Structures for Path Expressions	|	0.1818
+COMA - A System for Flexible Combination of Schema Matching Approaches	|	0.1667
+Data Cleaning: Problems and Current Approaches	|	0.1667
+Generic Schema Matching with Cupid	|	0.1538
+Towards Heterogeneous Multimedia Information Systems: The Garlic Approach	|	0.1429
+Database techniques for the World-Wide Web: a survey	|	0.1379
+RQL: a declarative query language for RDF	|	0.1333
+Schema Mapping as Query Discovery	|	0.1333
+PROMPT: Algorithm and Tool for Automated Ontology Merging and Alignment	|	0.1333
+Learning to match ontologies on the Semantic Web	|	0.1250
+From Structured Documents to Novel Query Facilities	|	0.1176
+Storing Semistructured Data with STORED	|	0.1176
+Querying Object-Oriented Databases	|	0.1176
+Learning to map between ontologies on the semantic web	|	0.1176
+Your Mediators Need Data Conversion!	|	0.1111
+Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach	|	0.1000
+Using Schema Matching to Simplify Heterogeneous Data Translation	|	0.0909
+Relational Databases for Querying XML Documents: Limitations and Opportunities	|	0.0870
+A Query Language and Optimization Techniques for Unstructured Data	|	0.0833
+The TSIMMIS Project: Integration of Heterogeneous Information Sources	|	0.0800
+Lore: a database management system for semistructured data	|	0.0741
+A comparative analysis of methodologies for database schema integration	|	0.0714
+A survey of approaches to automatic schema matching	|	0.0690
+Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0690
+The Lorel Query Language for Semistructured Data	|	0.0690

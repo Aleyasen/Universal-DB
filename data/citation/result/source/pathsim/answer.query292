@@ -1,69 +1,70 @@
-On Closed World Data Bases	|	0.6000
-The design and implementation of INGRES	|	0.3333
-Logic-based approach to semantic query optimization	|	0.2857
-An introduction to data base systems	|	0.2857
-Negation as Failure	|	0.2500
-Optimal implementation of conjunctive queries in relational data bases	|	0.2308
-On the decidability of query containment under constraints	|	0.2222
-Description Logics in Data Management	|	0.2222
-Towards a Logical Reconstruction of Relational Database Theory	|	0.2222
-Foundations of Logic Programming, 2nd Edition	|	0.2222
-Query-by-Example: A Data Base Language	|	0.2222
-Pnnc:ples of database systems	|	0.2222
-Incomplete Information in Relational Databases	|	0.2222
-Consistent query answers in inconsistent databases	|	0.2000
-Optimal implementation of conjunctive queries in relational databases	|	0.2000
-Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.2000
-Data exchange: semantics and query answering	|	0.2000
-Answering XML Queries over Heterogeneous Data Sources	|	0.1818
-Translating Web Data	|	0.1818
-The temporal query language TQuel	|	0.1667
-Computable Queries for Relational Data Bases	|	0.1667
-Data-Driven Discovery of Quantitative Rules in Relational Databases	|	0.1667
-Relational Completeness of Data Base Sublanguages	|	0.1667
-Telos: representing knowledge about information systems	|	0.1538
-Index Structures for Path Expressions	|	0.1538
-A Taxonomy of Time in Databases	|	0.1538
-A Relational Model for Large Shared Data Banks	|	0.1429
-Development of an object-oriented DBMS	|	0.1333
-Types and persistence in database programming languages	|	0.1333
-Extending the database relational model to capture more meaning	|	0.1333
-Dependency Structures of Data Base Relationships	|	0.1250
-Universality of data retrieval languages	|	0.1250
-Towards Heterogeneous Multimedia Information Systems: The Garlic Approach	|	0.1250
-Database Description with SDM: A Semantic Database Model	|	0.1250
-View Definition and Generalization for Database Integration in a Multidatabase System	|	0.1250
-Answering recursive queries using views	|	0.1176
-Making Smalltalk a Database System	|	0.1176
-Principles of Database Systems, 2nd Edition	|	0.1176
-The Theory of Relational Databases	|	0.1143
-A Data Model and Query Language for EXODUS	|	0.1111
-An Introduction to Database Systems	|	0.1111
-Join processing in relational databases	|	0.1111
-Join indices	|	0.1111
-IFO: a formal semantic database model	|	0.1053
-Knowledge Discovery in Databases: An Attribute-Oriented Approach	|	0.1000
-Catching the boat with Strudel: experiences with a Web Site management system	|	0.1000
-Semistructured data	|	0.1000
-Complexity of answering queries using materialized views	|	0.1000
-Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.0952
-Object identity	|	0.0952
-Database description with SDM: a semantic database model	|	0.0909
-Further Normalization of the Data Base Relational Model	|	0.0909
-A Survey of Schema-Based Matching Approaches	|	0.0909
-Query Caching and Optimization in Distributed Mediator Systems	|	0.0833
-Optimizing Queries with Materialized Views	|	0.0833
-Semantic data models	|	0.0833
-Database abstractions: aggregation and generalization	|	0.0833
-A Query Language and Optimization Techniques for Unstructured Data	|	0.0769
-System R: A Relational Approach to Data Base Management	|	0.0769
-A survey of approaches to automatic schema matching	|	0.0645
-Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0645
-The Lorel Query Language for Semistructured Data	|	0.0645
-System R: relational approach to database management	|	0.0645
-Logic and Databases: A Deductive Approach	|	0.0625
-Answering queries using views: A survey	|	0.0526
-Principles of Database and Knowledge-Base Systems, Volume II	|	0.0513
-Access path selection in a relational database management system	|	0.0444
-Foundations of Databases	|	0.0278
-Query evaluation techniques for large databases	|	0.0267
+Incomplete Information in Relational Databases	|	0.4000
+On Closed World Data Bases	|	0.0968
+Extending the database relational model to capture more meaning	|	0.0886
+Data integration: a theoretical perspective	|	0.0866
+Logic and Databases: A Deductive Approach	|	0.0793
+The design and implementation of INGRES	|	0.0769
+Logic-based approach to semantic query optimization	|	0.0625
+An introduction to data base systems	|	0.0625
+Negation as Failure	|	0.0500
+On the decidability of query containment under constraints	|	0.0400
+Description Logics in Data Management	|	0.0400
+Towards a Logical Reconstruction of Relational Database Theory	|	0.0400
+Foundations of Logic Programming, 2nd Edition	|	0.0400
+Pnnc:ples of database systems	|	0.0400
+Consistent query answers in inconsistent databases	|	0.0323
+Optimal implementation of conjunctive queries in relational databases	|	0.0323
+Data exchange: semantics and query answering	|	0.0323
+Answering XML Queries over Heterogeneous Data Sources	|	0.0263
+Translating Web Data	|	0.0263
+The temporal query language TQuel	|	0.0217
+Computable Queries for Relational Data Bases	|	0.0217
+Data-Driven Discovery of Quantitative Rules in Relational Databases	|	0.0217
+Telos: representing knowledge about information systems	|	0.0182
+Index Structures for Path Expressions	|	0.0182
+A Taxonomy of Time in Databases	|	0.0182
+Query-by-Example: A Data Base Language	|	0.0174
+A Relational Model for Large Shared Data Banks	|	0.0154
+Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.0137
+Development of an object-oriented DBMS	|	0.0132
+Optimal implementation of conjunctive queries in relational data bases	|	0.0114
+Dependency Structures of Data Base Relationships	|	0.0114
+Universality of data retrieval languages	|	0.0114
+Towards Heterogeneous Multimedia Information Systems: The Garlic Approach	|	0.0114
+Database Description with SDM: A Semantic Database Model	|	0.0114
+View Definition and Generalization for Database Integration in a Multidatabase System	|	0.0114
+Answering recursive queries using views	|	0.0099
+Making Smalltalk a Database System	|	0.0099
+Principles of Database Systems, 2nd Edition	|	0.0099
+Relational Completeness of Data Base Sublanguages	|	0.0091
+A Data Model and Query Language for EXODUS	|	0.0087
+An Introduction to Database Systems	|	0.0087
+Join processing in relational databases	|	0.0087
+Join indices	|	0.0087
+IFO: a formal semantic database model	|	0.0077
+Knowledge Discovery in Databases: An Attribute-Oriented Approach	|	0.0068
+Catching the boat with Strudel: experiences with a Web Site management system	|	0.0068
+Semistructured data	|	0.0068
+Complexity of answering queries using materialized views	|	0.0068
+Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity	|	0.0061
+Object identity	|	0.0061
+Types and persistence in database programming languages	|	0.0055
+Database description with SDM: a semantic database model	|	0.0055
+Further Normalization of the Data Base Relational Model	|	0.0055
+A Survey of Schema-Based Matching Approaches	|	0.0055
+Query Caching and Optimization in Distributed Mediator Systems	|	0.0045
+Optimizing Queries with Materialized Views	|	0.0045
+Semantic data models	|	0.0045
+Database abstractions: aggregation and generalization	|	0.0045
+The Theory of Relational Databases	|	0.0040
+A Query Language and Optimization Techniques for Unstructured Data	|	0.0038
+System R: A Relational Approach to Data Base Management	|	0.0038
+A survey of approaches to automatic schema matching	|	0.0026
+Querying Heterogeneous Information Sources Using Source Descriptions	|	0.0026
+The Lorel Query Language for Semistructured Data	|	0.0026
+System R: relational approach to database management	|	0.0026
+Answering queries using views: A survey	|	0.0017
+Access path selection in a relational database management system	|	0.0011
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0007
+Foundations of Databases	|	0.0004
+Query evaluation techniques for large databases	|	0.0004

@@ -1,148 +1,142 @@
-A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.1667
-Using Semi-Joins to Solve Relational Queries	|	0.1667
-Join processing in database systems with large main memories	|	0.1587
-Pmnczples of database and knowledge- base systems	|	0.1560
-Principles of database and knowledge-base systems	|	0.1421
-The Object-Oriented Database System Manifesto	|	0.1415
-Join indices	|	0.1381
-Parallel Database Systems: The Future of High Performance Database Processing1	|	0.1378
-Relational Completeness of Data Base Sublanguages	|	0.1143
-Extending the database relational model to capture more meaning	|	0.0921
-Principles of Database and Knowledge-Base Systems, Volume I	|	0.0907
-The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0849
-The Theory of Relational Databases	|	0.0815
-Access path selection in a relational database management system	|	0.0600
-Consistent query answers in inconsistent databases	|	0.0238
-On optimizing an SQL-like nested query	|	0.0187
-Incremental Maintenance of Views with Duplicates	|	0.0180
-What Makes Patterns Interesting in Knowledge Discovery Systems	|	0.0174
-On the Desirability of Acyclic Database Schemes	|	0.0167
-Incomplete Information in Relational Databases	|	0.0167
-Disjunctive datalog	|	0.0164
-On Closed World Data Bases	|	0.0159
-Answering Queries Using Templates with Binding Patterns	|	0.0142
-Computable Queries for Relational Data Bases	|	0.0142
-Data-Driven Discovery of Quantitative Rules in Relational Databases	|	0.0142
-C-Store: A Column-oriented DBMS	|	0.0142
-Query By Example	|	0.0125
-Knowledge Discovery in Databases: An Attribute-Oriented Approach	|	0.0124
-Complexity of answering queries using materialized views	|	0.0124
-Benchmarking Database Systems A Systematic Approach	|	0.0117
-Data Placement In Bubba	|	0.0117
-Parallel database systems: the future of high performance database systems	|	0.0117
-System R: A Relational Approach to Data Base Management	|	0.0112
-Universality of data retrieval languages	|	0.0109
-The Gamma Database Machine Project	|	0.0109
-Further Normalization of the Data Base Relational Model	|	0.0109
-An Introduction to Spatial Database Systems	|	0.0102
-Optimizing Queries with Materialized Views	|	0.0095
-Organization and Maintenance of Large Ordered Indexes	|	0.0095
-Query-by-Example: A Data Base Language	|	0.0095
-The Volcano Optimizer Generator: Extensibility and Efficient Search	|	0.0094
-SEQUEL: A structured English query language	|	0.0093
-Accurate Estimation of the Number of Tuples Satisfying a Condition	|	0.0090
-An introduction to data base systems	|	0.0090
-Organization and Maintenance of Large Ordered Indices	|	0.0089
-Database Mining: A Performance Perspective	|	0.0089
-Approximating block accesses in database organizations	|	0.0087
-On closed world databases	|	0.0087
-Optimal implementation of conjunctive queries in relational data bases	|	0.0084
-DBXplorer: A System for Keyword-Based Search over Relational Databases	|	0.0083
-Magic Sets and Other Strange Ways to Implement Logic Programs	|	0.0083
-Randomized Algorithms for Optimizing Large Join Queries	|	0.0083
-Probabilistic Counting Algorithms for Data Base Applications	|	0.0083
-A homogeneous relational model and query languages for temporal databases	|	0.0083
-Organization and maintenance of large ordered indexes	|	0.0083
-Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.0083
-System R: relational approach to database management	|	0.0083
-GAMMA - A High Performance Dataflow Database Machine	|	0.0079
-Optimal implementation of conjunctive queries in relational databases	|	0.0079
-Logic and Databases: A Deductive Approach	|	0.0078
-Mariposa: A Wide-Area Distributed Database System	|	0.0075
-Disk Striping	|	0.0075
-The Management of Probabilistic Data	|	0.0075
-Protecting Respondents' Identities in Microdata Release	|	0.0075
-Query Optimization in Database Systems	|	0.0075
-Database description with SDM: a semantic database model	|	0.0072
-Fast Nearest Neighbor Search in Medical Image Databases	|	0.0071
-Selectivity Estimation Without the Attribute Value Independence Assumption	|	0.0071
-Scalable Distributed Stream Processing	|	0.0071
-The temporal query language TQuel	|	0.0071
-The complexity of relational query languages (Extended Abstract)	|	0.0071
-The hB-tree: a multiattribute indexing method with good guaranteed performance	|	0.0071
-Bigtable: A Distributed Storage System for Structured Data	|	0.0071
-The Design of Postgres	|	0.0068
-Hippocratic Databases	|	0.0067
-Improved Histograms for Selectivity Estimation of Range Predicates	|	0.0067
-Computing Iceberg Queries Efficiently	|	0.0067
-The EXODUS Optimizer Generator	|	0.0067
-A Taxonomy of Time in Databases	|	0.0067
-The Case for Shared Nothing	|	0.0067
-Principles of database buffer management	|	0.0067
-Query Caching and Optimization in Distributed Mediator Systems	|	0.0063
-Distance browsing in spatial databases	|	0.0063
-Database abstractions: aggregation and generalization	|	0.0063
-Operating system support for database management	|	0.0063
-Data Structures for Range Searching	|	0.0063
-Computational problems related to the design of normal form relational schemas	|	0.0063
-Extended algebra and calculus for nested relational databases	|	0.0063
-The Ubiquitous B-Tree	|	0.0060
-Maintaining Views Incrementally	|	0.0058
-Partition Based Spatial-Merge Join	|	0.0058
-Wavelet-Based Histograms for Selectivity Estimation	|	0.0058
-Development of an object-oriented DBMS	|	0.0058
-Querying the Internet with PIER	|	0.0058
-Access methods for text	|	0.0058
-Query Reformulation for Dynamic Information Integration	|	0.0055
-Data Model and Query Evaluation in Global Information Systems	|	0.0055
-Dependency Structures of Data Base Relationships	|	0.0055
-Database Description with SDM: A Semantic Database Model	|	0.0055
-View Definition and Generalization for Database Integration in a Multidatabase System	|	0.0055
-A Quantitative Analysis and Performance Study for Similarity-Search Methods in High-Dimensional Spaces	|	0.0052
-A New SQL-like Operator for Mining Association Rules	|	0.0051
-A Fast Index for Semistructured Data	|	0.0051
-Efficiently Publishing Relational Data as XML Documents	|	0.0051
-Generalized Search Trees for Database Systems	|	0.0051
-Ranking in Spatial Databases	|	0.0051
-Optimizing Queries Across Diverse Data Sources	|	0.0051
-Answering recursive queries using views	|	0.0051
-Making Smalltalk a Database System	|	0.0051
-The SR-tree: An Index Structure for High-Dimensional Nearest Neighbor Queries	|	0.0051
-A logical design methodology for relational databases using the extended entity-relationship model	|	0.0051
-Synthesizing third normal form relations from functional dependencies	|	0.0051
-Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0048
-A Data Model and Query Language for EXODUS	|	0.0048
-The Pyramid-Technique: Towards Breaking the Curse of Dimensionality	|	0.0048
-An Introduction to Database Systems	|	0.0048
-On packing R-trees	|	0.0044
-Storing Semistructured Data with STORED	|	0.0044
-Hilbert R-tree: An Improved R-tree using Fractals	|	0.0044
-A class of data structures for associative searching	|	0.0044
-The Quadtree and Related Hierarchical Data Structures	|	0.0044
-IFO: a formal semantic database model	|	0.0044
-Types and persistence in database programming languages	|	0.0044
-Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.0041
-Object identity	|	0.0039
-Query Optimization for XML	|	0.0036
-Spatial Query Processing in an Object-Oriented Database System	|	0.0036
-The entity-relationship model---toward a unified view of data	|	0.0036
-An overview of data warehousing and OLAP technology	|	0.0036
-Mediators in the Architecture of Future Information Systems	|	0.0034
-The Grid File: An Adaptable, Symmetric Multi-Key File Structure	|	0.0034
-Online Aggregation	|	0.0032
-Continuously adaptive continuous queries over streams	|	0.0032
-An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.0032
-Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0032
-Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0032
-Semantic data models	|	0.0032
-Eddies: Continuously Adaptive Query Processing	|	0.0030
-Answering queries using views: A survey	|	0.0029
-Principles of Database and Knowledge-Base Systems, Volume II	|	0.0028
-Query evaluation techniques for large databases	|	0.0026
-Temporal and Real-Time Databases: A Survey	|	0.0026
-The Grid File: An Adaptable, Symmetric Multikey File Structure	|	0.0023
-A comparative analysis of methodologies for database schema integration	|	0.0022
-The X-tree : An Index Structure for High-Dimensional Data	|	0.0021
-Foundations of Databases	|	0.0020
-Multidimensional access methods	|	0.0016
-Searching in high-dimensional spaces: Index structures for improving the performance of multimedia databases	|	0.0016
+Consistent query answers in inconsistent databases	|	0.3000
+On optimizing an SQL-like nested query	|	0.2500
+Incremental Maintenance of Views with Duplicates	|	0.2353
+Disjunctive datalog	|	0.2308
+What Makes Patterns Interesting in Knowledge Discovery Systems	|	0.2222
+System R: A Relational Approach to Data Base Management	|	0.2222
+Query Optimization in Database Systems	|	0.2128
+On the Desirability of Acyclic Database Schemes	|	0.2105
+Incomplete Information in Relational Databases	|	0.2105
+Knowledge Discovery in Databases: An Attribute-Oriented Approach	|	0.2000
+On Closed World Data Bases	|	0.2000
+Complexity of answering queries using materialized views	|	0.2000
+System R: relational approach to database management	|	0.1951
+Logic and Databases: A Deductive Approach	|	0.1905
+The Gamma Database Machine Project	|	0.1875
+Further Normalization of the Data Base Relational Model	|	0.1875
+Answering Queries Using Templates with Binding Patterns	|	0.1818
+Computable Queries for Relational Data Bases	|	0.1818
+Data-Driven Discovery of Quantitative Rules in Relational Databases	|	0.1818
+C-Store: A Column-oriented DBMS	|	0.1818
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.1818
+The Theory of Relational Databases	|	0.1778
+Optimizing Queries with Materialized Views	|	0.1765
+A Performance Evaluation of Four Parallel Join Algorithms in a Shared-Nothing Multiprocessor Environment	|	0.1739
+Using Semi-Joins to Solve Relational Queries	|	0.1739
+Organization and Maintenance of Large Ordered Indices	|	0.1714
+Optimal implementation of conjunctive queries in relational data bases	|	0.1667
+Query By Example	|	0.1667
+Query evaluation techniques for large databases	|	0.1647
+Benchmarking Database Systems A Systematic Approach	|	0.1600
+Data Placement In Bubba	|	0.1600
+Parallel database systems: the future of high performance database systems	|	0.1600
+Universality of data retrieval languages	|	0.1538
+An Introduction to Spatial Database Systems	|	0.1481
+Organization and Maintenance of Large Ordered Indexes	|	0.1429
+Query-by-Example: A Data Base Language	|	0.1429
+Parallel Database Systems: The Future of High Performance Database Processing1	|	0.1379
+Database Mining: A Performance Perspective	|	0.1379
+The Volcano Optimizer Generator: Extensibility and Efficient Search	|	0.1333
+Multivalued Dependencies and a New Normal Form for Relational Databases	|	0.1333
+SEQUEL: A structured English query language	|	0.1250
+Database description with SDM: a semantic database model	|	0.1250
+Foundations of Databases	|	0.1220
+The Design of Postgres	|	0.1212
+Query Caching and Optimization in Distributed Mediator Systems	|	0.1176
+Distance browsing in spatial databases	|	0.1176
+Accurate Estimation of the Number of Tuples Satisfying a Condition	|	0.1176
+Database abstractions: aggregation and generalization	|	0.1176
+Relational Completeness of Data Base Sublanguages	|	0.1176
+An introduction to data base systems	|	0.1176
+The Ubiquitous B-Tree	|	0.1143
+Approximating block accesses in database organizations	|	0.1111
+On closed world databases	|	0.1111
+Access path selection in a relational database management system	|	0.1091
+A Quantitative Analysis and Performance Study for Similarity-Search Methods in High-Dimensional Spaces	|	0.1081
+DBXplorer: A System for Keyword-Based Search over Relational Databases	|	0.1053
+Magic Sets and Other Strange Ways to Implement Logic Programs	|	0.1053
+Randomized Algorithms for Optimizing Large Join Queries	|	0.1053
+Probabilistic Counting Algorithms for Data Base Applications	|	0.1053
+A homogeneous relational model and query languages for temporal databases	|	0.1053
+Organization and maintenance of large ordered indexes	|	0.1053
+GAMMA - A High Performance Dataflow Database Machine	|	0.1000
+Types and persistence in database programming languages	|	0.1000
+Extending the database relational model to capture more meaning	|	0.1000
+Optimal implementation of conjunctive queries in relational databases	|	0.1000
+Mariposa: A Wide-Area Distributed Database System	|	0.0952
+Disk Striping	|	0.0952
+The Management of Probabilistic Data	|	0.0952
+Protecting Respondents' Identities in Microdata Release	|	0.0952
+Fast Nearest Neighbor Search in Medical Image Databases	|	0.0909
+Selectivity Estimation Without the Attribute Value Independence Assumption	|	0.0909
+Scalable Distributed Stream Processing	|	0.0909
+The temporal query language TQuel	|	0.0909
+The complexity of relational query languages (Extended Abstract)	|	0.0909
+The hB-tree: a multiattribute indexing method with good guaranteed performance	|	0.0909
+Bigtable: A Distributed Storage System for Structured Data	|	0.0909
+Hippocratic Databases	|	0.0870
+Improved Histograms for Selectivity Estimation of Range Predicates	|	0.0870
+Computing Iceberg Queries Efficiently	|	0.0870
+The EXODUS Optimizer Generator	|	0.0870
+A Taxonomy of Time in Databases	|	0.0870
+The Case for Shared Nothing	|	0.0870
+Principles of database buffer management	|	0.0870
+Operating system support for database management	|	0.0833
+Data Structures for Range Searching	|	0.0833
+Computational problems related to the design of normal form relational schemas	|	0.0833
+Extended algebra and calculus for nested relational databases	|	0.0833
+Answering queries using views: A survey	|	0.0833
+Maintaining Views Incrementally	|	0.0800
+Partition Based Spatial-Merge Join	|	0.0800
+Wavelet-Based Histograms for Selectivity Estimation	|	0.0800
+Development of an object-oriented DBMS	|	0.0800
+Querying the Internet with PIER	|	0.0800
+Access methods for text	|	0.0800
+Query Reformulation for Dynamic Information Integration	|	0.0769
+Data Model and Query Evaluation in Global Information Systems	|	0.0769
+Dependency Structures of Data Base Relationships	|	0.0769
+Database Description with SDM: A Semantic Database Model	|	0.0769
+View Definition and Generalization for Database Integration in a Multidatabase System	|	0.0769
+A New SQL-like Operator for Mining Association Rules	|	0.0741
+A Fast Index for Semistructured Data	|	0.0741
+Efficiently Publishing Relational Data as XML Documents	|	0.0741
+Generalized Search Trees for Database Systems	|	0.0741
+Ranking in Spatial Databases	|	0.0741
+Optimizing Queries Across Diverse Data Sources	|	0.0741
+Answering recursive queries using views	|	0.0741
+Making Smalltalk a Database System	|	0.0741
+The SR-tree: An Index Structure for High-Dimensional Nearest Neighbor Queries	|	0.0741
+A logical design methodology for relational databases using the extended entity-relationship model	|	0.0741
+Synthesizing third normal form relations from functional dependencies	|	0.0741
+Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets	|	0.0714
+A Data Model and Query Language for EXODUS	|	0.0714
+The Pyramid-Technique: Towards Breaking the Curse of Dimensionality	|	0.0714
+An Introduction to Database Systems	|	0.0714
+Join indices	|	0.0714
+On packing R-trees	|	0.0690
+Storing Semistructured Data with STORED	|	0.0690
+Hilbert R-tree: An Improved R-tree using Fractals	|	0.0690
+A class of data structures for associative searching	|	0.0690
+The Quadtree and Related Hierarchical Data Structures	|	0.0690
+IFO: a formal semantic database model	|	0.0690
+Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.0667
+Object identity	|	0.0645
+Query Optimization for XML	|	0.0625
+Spatial Query Processing in an Object-Oriented Database System	|	0.0625
+The entity-relationship model---toward a unified view of data	|	0.0625
+An overview of data warehousing and OLAP technology	|	0.0625
+Mediators in the Architecture of Future Information Systems	|	0.0606
+The Grid File: An Adaptable, Symmetric Multi-Key File Structure	|	0.0606
+Online Aggregation	|	0.0588
+Continuously adaptive continuous queries over streams	|	0.0588
+An Efficient Algorithm for Mining Association Rules in Large Databases	|	0.0588
+Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data	|	0.0588
+Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0588
+Semantic data models	|	0.0588
+Eddies: Continuously Adaptive Query Processing	|	0.0571
+Temporal and Real-Time Databases: A Survey	|	0.0541
+The Grid File: An Adaptable, Symmetric Multikey File Structure	|	0.0513
+A comparative analysis of methodologies for database schema integration	|	0.0500
+The X-tree : An Index Structure for High-Dimensional Data	|	0.0488
+Multidimensional access methods	|	0.0435
+Searching in high-dimensional spaces: Index structures for improving the performance of multimedia databases	|	0.0435

@@ -1,38 +1,36 @@
-Applications of spatial data structures	|	0.2500
-Ranking in Spatial Databases	|	0.1596
-Multidimensional access methods	|	0.0640
-3D Shape Histograms for Similarity Search and Classification in Spatial Databases	|	0.0345
-On indexing mobile objects	|	0.0256
-Searching in metric spaces	|	0.0185
-Linear Hashing: A New Tool for File and Table Addressing	|	0.0172
-Direct Spatial Search on Pictorial Databases Using Packed R-Trees	|	0.0172
-Quad Trees: A Data Structure for Retrieval on Composite Keys	|	0.0172
-Data Structures for Range Searching	|	0.0172
-Spatial SQL: A Query and Presentation Language	|	0.0172
-Efficient locking for concurrent operations on B-trees	|	0.0145
-Optimal Multi-Step k-Nearest Neighbor Search	|	0.0128
-Locally Adaptive Dimensionality Reduction for Indexing Large Time Series Databases	|	0.0123
-Generalized Search Trees for Database Systems	|	0.0106
-A cost model for nearest neighbor search in high-dimensional data space	|	0.0106
-Organization and Maintenance of Large Ordered Indexes	|	0.0093
-The Pyramid-Technique: Towards Breaking the Curse of Dimensionality	|	0.0093
-The Ubiquitous B-Tree	|	0.0085
-On packing R-trees	|	0.0081
-Hilbert R-tree: An Improved R-tree using Fractals	|	0.0081
-A class of data structures for associative searching	|	0.0081
-The Quadtree and Related Hierarchical Data Structures	|	0.0081
-The design & analysis of spatial data structures	|	0.0072
-The Design and Analysis of Spatial Data Structures	|	0.0072
-Efficient Processing of Spatial Joins Using R-Trees	|	0.0064
-Spatial Query Processing in an Object-Oriented Database System	|	0.0057
-The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.0052
-The TV-Tree: An Index Structure for High-Dimensional Data	|	0.0052
-The Grid File: An Adaptable, Symmetric Multi-Key File Structure	|	0.0052
-Distance browsing in spatial databases	|	0.0047
-Organization and Maintenance of Large Ordered Indices	|	0.0043
-Searching in high-dimensional spaces: Index structures for improving the performance of multimedia databases	|	0.0038
-A Quantitative Analysis and Performance Study for Similarity-Search Methods in High-Dimensional Spaces	|	0.0036
-The Grid File: An Adaptable, Symmetric Multikey File Structure	|	0.0030
-Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0026
-The X-tree : An Index Structure for High-Dimensional Data	|	0.0026
-The R*-tree: an efficient and robust access method for points and rectangles	|	0.0013
+Applications of spatial data structures	|	0.6667
+3D Shape Histograms for Similarity Search and Classification in Spatial Databases	|	0.3333
+Searching in metric spaces	|	0.2500
+Optimal Multi-Step k-Nearest Neighbor Search	|	0.2105
+On indexing mobile objects	|	0.2000
+The Ubiquitous B-Tree	|	0.1739
+Linear Hashing: A New Tool for File and Table Addressing	|	0.1667
+Direct Spatial Search on Pictorial Databases Using Packed R-Trees	|	0.1667
+Quad Trees: A Data Structure for Retrieval on Composite Keys	|	0.1667
+Data Structures for Range Searching	|	0.1667
+Spatial SQL: A Query and Presentation Language	|	0.1667
+The Design and Analysis of Spatial Data Structures	|	0.1600
+Efficient locking for concurrent operations on B-trees	|	0.1538
+Locally Adaptive Dimensionality Reduction for Indexing Large Time Series Databases	|	0.1429
+The K-D-B-tree: a search structure for large multidimensional dynamic indexes	|	0.1379
+Generalized Search Trees for Database Systems	|	0.1333
+A cost model for nearest neighbor search in high-dimensional data space	|	0.1333
+Organization and Maintenance of Large Ordered Indexes	|	0.1250
+The Pyramid-Technique: Towards Breaking the Curse of Dimensionality	|	0.1250
+On packing R-trees	|	0.1176
+Hilbert R-tree: An Improved R-tree using Fractals	|	0.1176
+A class of data structures for associative searching	|	0.1176
+Searching in high-dimensional spaces: Index structures for improving the performance of multimedia databases	|	0.1176
+The Quadtree and Related Hierarchical Data Structures	|	0.1176
+The design & analysis of spatial data structures	|	0.1111
+Efficient Processing of Spatial Joins Using R-Trees	|	0.1053
+Spatial Query Processing in an Object-Oriented Database System	|	0.1000
+The TV-Tree: An Index Structure for High-Dimensional Data	|	0.0952
+The Grid File: An Adaptable, Symmetric Multi-Key File Structure	|	0.0952
+Distance browsing in spatial databases	|	0.0909
+Organization and Maintenance of Large Ordered Indices	|	0.0870
+A Quantitative Analysis and Performance Study for Similarity-Search Methods in High-Dimensional Spaces	|	0.0800
+The Grid File: An Adaptable, Symmetric Multikey File Structure	|	0.0741
+Efficient and Effective Clustering Methods for Spatial Data Mining	|	0.0690
+The X-tree : An Index Structure for High-Dimensional Data	|	0.0690
+The R*-tree: an efficient and robust access method for points and rectangles	|	0.0488

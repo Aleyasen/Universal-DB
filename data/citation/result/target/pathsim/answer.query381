@@ -1,29 +1,26 @@
-A Framework for Information Systems Architecture	|	0.5714
-Electronic markets and electronic hierarchies	|	0.2131
-The entity-relationship model---toward a unified view of data	|	0.1186
-Is redraws competitive boundaries	|	0.1111
-Implementation of integrity constraints and views by query modification	|	0.0833
-The information system as a competitive weapon	|	0.0625
-Design and natural science research on information technology	|	0.0625
-Intelligent information-sharing systems	|	0.0476
-How Information Gives You Competitive Advantage	|	0.0476
-Exploring the factors associated with Web site success in the context of electronic commerce	|	0.0476
-The impact of information systems on organizations and markets	|	0.0294
-Applying the Technology Acceptance Model and Flow Theory to Online Consumer Behavior	|	0.0294
-Telos: representing knowledge about information systems	|	0.0196
-The Interdisciplinary Study of Coordination	|	0.0196
-Studying Information Technology in Organizations: Research Approaches and Assumptions	|	0.0164
-Database Description with SDM: A Semantic Database Model	|	0.0119
-A logical design methodology for relational databases using the extended entity-relationship model	|	0.0103
-A Data Model and Query Language for EXODUS	|	0.0090
-IFO: a formal semantic database model	|	0.0079
-Database description with SDM: a semantic database model	|	0.0056
-Semantic data models	|	0.0046
-The functional data model and the data languages DAPLEX	|	0.0039
-Types and persistence in database programming languages	|	0.0028
-A comparative analysis of methodologies for database schema integration	|	0.0028
-The Theory of Relational Databases	|	0.0020
-Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0019
-Foundations of Databases	|	0.0004
-Query evaluation techniques for large databases	|	0.0004
-Principles of Database and Knowledge-Base Systems, Volume II	|	0.0004
+Is redraws competitive boundaries	|	0.4000
+Implementation of integrity constraints and views by query modification	|	0.3333
+The information system as a competitive weapon	|	0.2857
+Design and natural science research on information technology	|	0.2857
+Intelligent information-sharing systems	|	0.2500
+How Information Gives You Competitive Advantage	|	0.2500
+Exploring the factors associated with Web site success in the context of electronic commerce	|	0.2500
+The impact of information systems on organizations and markets	|	0.2000
+Applying the Technology Acceptance Model and Flow Theory to Online Consumer Behavior	|	0.2000
+Telos: representing knowledge about information systems	|	0.1667
+The Interdisciplinary Study of Coordination	|	0.1667
+Studying Information Technology in Organizations: Research Approaches and Assumptions	|	0.1538
+Database Description with SDM: A Semantic Database Model	|	0.1333
+A logical design methodology for relational databases using the extended entity-relationship model	|	0.1250
+A Data Model and Query Language for EXODUS	|	0.1176
+IFO: a formal semantic database model	|	0.1111
+Database description with SDM: a semantic database model	|	0.0952
+Semantic data models	|	0.0870
+The functional data model and the data languages DAPLEX	|	0.0800
+Types and persistence in database programming languages	|	0.0690
+A comparative analysis of methodologies for database schema integration	|	0.0690
+The Theory of Relational Databases	|	0.0588
+Federated database systems for managing distributed, heterogeneous, and autonomous databases	|	0.0571
+Foundations of Databases	|	0.0282
+Query evaluation techniques for large databases	|	0.0270
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0260

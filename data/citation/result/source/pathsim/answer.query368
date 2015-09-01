@@ -1,32 +1,33 @@
-What Makes Patterns Interesting in Knowledge Discovery Systems	|	0.5714
-Consistent query answers in inconsistent databases	|	0.4444
-Answering Queries Using Templates with Binding Patterns	|	0.3636
-Data-Driven Discovery of Quantitative Rules in Relational Databases	|	0.3636
-Disjunctive datalog	|	0.2667
-Towards a Theory of Declarative Knowledge	|	0.2500
-Join processing in relational databases	|	0.2353
-Database Mining: A Performance Perspective	|	0.2222
-Knowledge Discovery in Databases: An Attribute-Oriented Approach	|	0.2105
-Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.2105
-Complexity of answering queries using materialized views	|	0.2105
-The Management of Probabilistic Data	|	0.2000
-View Maintenance in a Warehousing Environment	|	0.1818
-Query Caching and Optimization in Distributed Mediator Systems	|	0.1739
-Optimizing Queries with Materialized Views	|	0.1739
-Hippocratic Databases	|	0.1667
-Computing Iceberg Queries Efficiently	|	0.1667
-Maintaining Views Incrementally	|	0.1429
-Data Model and Query Evaluation in Global Information Systems	|	0.1333
-A New SQL-like Operator for Mining Association Rules	|	0.1250
-Answering recursive queries using views	|	0.1250
-The CQL continuous query language: semantic foundations and query execution	|	0.1250
-Storing Semistructured Data with STORED	|	0.1111
-Mediators in the Architecture of Future Information Systems	|	0.0909
-Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0870
-Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0833
-A Quantitative Analysis and Performance Study for Similarity-Search Methods in High-Dimensional Spaces	|	0.0769
-Principles of Database and Knowledge-Base Systems, Volume I	|	0.0714
-Types and persistence in database programming languages	|	0.0690
-Foundations of Databases	|	0.0563
-Answering queries using views: A survey	|	0.0541
-Principles of Database and Knowledge-Base Systems, Volume II	|	0.0260
+Maintaining Views Incrementally	|	0.2083
+Principles of database and knowledge-base systems	|	0.1786
+What Makes Patterns Interesting in Knowledge Discovery Systems	|	0.1250
+Principles of Database and Knowledge-Base Systems, Volume I	|	0.0876
+Consistent query answers in inconsistent databases	|	0.0741
+Answering Queries Using Templates with Binding Patterns	|	0.0476
+Towards a Theory of Declarative Knowledge	|	0.0476
+Data-Driven Discovery of Quantitative Rules in Relational Databases	|	0.0476
+The Management of Probabilistic Data	|	0.0294
+View Maintenance in a Warehousing Environment	|	0.0238
+Disjunctive datalog	|	0.0238
+Hippocratic Databases	|	0.0196
+Computing Iceberg Queries Efficiently	|	0.0196
+Join processing in relational databases	|	0.0180
+Database Mining: A Performance Perspective	|	0.0159
+Knowledge Discovery in Databases: An Attribute-Oriented Approach	|	0.0141
+Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.0141
+Complexity of answering queries using materialized views	|	0.0141
+Data Model and Query Evaluation in Global Information Systems	|	0.0119
+A New SQL-like Operator for Mining Association Rules	|	0.0103
+Answering recursive queries using views	|	0.0103
+The CQL continuous query language: semantic foundations and query execution	|	0.0103
+Query Caching and Optimization in Distributed Mediator Systems	|	0.0093
+Optimizing Queries with Materialized Views	|	0.0093
+Storing Semistructured Data with STORED	|	0.0079
+Mediators in the Architecture of Future Information Systems	|	0.0051
+Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0046
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0042
+A Quantitative Analysis and Performance Study for Similarity-Search Methods in High-Dimensional Spaces	|	0.0035
+Types and persistence in database programming languages	|	0.0028
+Answering queries using views: A survey	|	0.0017
+Foundations of Databases	|	0.0009
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0004

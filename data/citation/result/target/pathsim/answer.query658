@@ -1,20 +1,19 @@
-Mining Generalized Association Rules	|	0.0995
-Discovering Web Access Patterns and Trends by Applying OLAP and Data Mining Technology on Web Logs	|	0.0455
-Maintaining Data Privacy in Association Rule Mining	|	0.0270
-MAFIA: A Maximal Frequent Itemset Algorithm for Transactional Databases	|	0.0217
-Srikant: "fast algorithms for mining association rules	|	0.0217
-Parallel Mining of Association Rules	|	0.0179
-Data Cleaning: Problems and Current Approaches	|	0.0179
-Scalable Parallel Data Mining for Association Rules	|	0.0149
-Maintenance of Discovered Association Rules in Large Databases: An Incremental Updating Technique	|	0.0149
-Incognito: efficient full-domain K-anonymity	|	0.0149
-A New SQL-like Operator for Mining Association Rules	|	0.0109
-Beyond Market Baskets: Generalizing Association Rules to Correlations	|	0.0073
-Sampling Large Databases for Association Rules	|	0.0073
-Exploratory Mining and Pruning Optimizations of Constrained Association Rules	|	0.0052
-Fast Time Sequence Indexing for Arbitrary Lp Norms	|	0.0047
-An Effective Hash Based Algorithm for Mining Association Rules	|	0.0028
-Fast Algorithms for Mining Association Rules in Large Databases	|	0.0025
-Data Mining: An Overview from a Database Perspective	|	0.0021
-Mining association rules between sets of items in large databases	|	0.0016
-Fast Algorithms for Mining Association Rules	|	0.0011
+Discovering Web Access Patterns and Trends by Applying OLAP and Data Mining Technology on Web Logs	|	0.2857
+Maintaining Data Privacy in Association Rule Mining	|	0.2222
+MAFIA: A Maximal Frequent Itemset Algorithm for Transactional Databases	|	0.2000
+Srikant: "fast algorithms for mining association rules	|	0.2000
+Parallel Mining of Association Rules	|	0.1818
+Data Cleaning: Problems and Current Approaches	|	0.1818
+Scalable Parallel Data Mining for Association Rules	|	0.1667
+Maintenance of Discovered Association Rules in Large Databases: An Incremental Updating Technique	|	0.1667
+Incognito: efficient full-domain K-anonymity	|	0.1667
+A New SQL-like Operator for Mining Association Rules	|	0.1429
+Beyond Market Baskets: Generalizing Association Rules to Correlations	|	0.1176
+Sampling Large Databases for Association Rules	|	0.1176
+Exploratory Mining and Pruning Optimizations of Constrained Association Rules	|	0.1000
+Fast Time Sequence Indexing for Arbitrary Lp Norms	|	0.0952
+An Effective Hash Based Algorithm for Mining Association Rules	|	0.0741
+Fast Algorithms for Mining Association Rules in Large Databases	|	0.0690
+Data Mining: An Overview from a Database Perspective	|	0.0645
+Mining association rules between sets of items in large databases	|	0.0556
+Fast Algorithms for Mining Association Rules	|	0.0455

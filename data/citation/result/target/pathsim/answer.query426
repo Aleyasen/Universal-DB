@@ -1,22 +1,21 @@
-Deriving Production Rules for Constraint Maintainance	|	0.3704
-Set-Oriented Production Rules in Relational Database Systems	|	0.2222
-On optimizing an SQL-like nested query	|	0.2131
-The Architecture Of An Active Data Base Management System	|	0.2083
-Nested Transactions: An Approach to Reliable Distributed Computing	|	0.0625
-Ode as an Active Database: Constraints and Triggers	|	0.0139
-The Postgres Next Generation Database Management System	|	0.0119
-Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.0093
-Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.0070
-An overview of data warehousing and OLAP technology	|	0.0056
-Further Normalization of the Data Base Relational Model	|	0.0056
-Relational Completeness of Data Base Sublanguages	|	0.0046
-Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0042
-NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0039
-System R: A Relational Approach to Data Base Management	|	0.0039
-Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0035
-System R: relational approach to database management	|	0.0026
-The Theory of Relational Databases	|	0.0020
-Query Optimization in Database Systems	|	0.0018
-Access path selection in a relational database management system	|	0.0012
-Foundations of Databases	|	0.0009
-Principles of Database and Knowledge-Base Systems, Volume II	|	0.0004
+Set-Oriented Production Rules in Relational Database Systems	|	0.8000
+Nested Transactions: An Approach to Reliable Distributed Computing	|	0.2857
+Deriving Production Rules for Constraint Maintainance	|	0.2222
+Active Database Systems: Triggers and Rules For Advanced Database Processing	|	0.1739
+Ode as an Active Database: Constraints and Triggers	|	0.1429
+The Architecture Of An Active Data Base Management System	|	0.1429
+The Postgres Next Generation Database Management System	|	0.1333
+Maintenance of Materialized Views: Problems, Techniques, and Applications	|	0.1053
+An overview of data warehousing and OLAP technology	|	0.0952
+Further Normalization of the Data Base Relational Model	|	0.0952
+Relational Completeness of Data Base Sublanguages	|	0.0870
+Continual Queries for Internet Scale Event-Driven Information Delivery	|	0.0833
+NiagaraCQ: A Scalable Continuous Query System for Internet Databases	|	0.0800
+System R: A Relational Approach to Data Base Management	|	0.0800
+Efficient Filtering of XML Documents for Selective Dissemination of Information	|	0.0769
+System R: relational approach to database management	|	0.0667
+The Theory of Relational Databases	|	0.0588
+Foundations of Databases	|	0.0563
+Query Optimization in Database Systems	|	0.0556
+Access path selection in a relational database management system	|	0.0455
+Principles of Database and Knowledge-Base Systems, Volume II	|	0.0260
